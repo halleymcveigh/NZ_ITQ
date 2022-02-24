@@ -1,0 +1,306 @@
+---
+title: "New Zealand ACE"
+author: "Halley McVeigh"
+date: "12/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(here)
+library(janitor)
+library(tidyverse)
+library(stringr)
+library(tidyr)
+```
+
+
+### Read in ACE data for transfer lease prices, weight average prices by quantity traded of species
+### Weight lease prices for annual averages for fisheries Oct-Sep and Apr-Mar
+```{r}
+## ACE data for fisheries beginning in Oct.
+
+oct_ace_transfer <- read_csv(here("data", "ACE_Transfer_NZ_oct.csv")) %>% 
+  clean_names
+
+# weighted average ACE prices by quantity traded
+oct_ace_weighted_average <- oct_ace_transfer 
+colnames(oct_ace_weighted_average)[2] <- "species_code"
+
+oct_ace_weighted_average$species_code = str_sub(oct_ace_weighted_average$species_code, 1, 3)
+
+oct_ace_weighted_average <- oct_ace_transfer %>% 
+  group_by(species_common_name, period) %>% 
+  filter(!is.na(average)) %>% 
+  summarize(ace_transfer_price = weighted.mean(average, quantity_traded))
+            
+oct_ace_weighted_average$starting_year = str_sub(oct_ace_weighted_average$period,-4)
+                                        
+
+#oct_ace_weighted_average$ace_transfer_price <- as.integer(oct_ace_weighted_average$ace_transfer_price)
+
+oct_ace_weighted_average$wt_ace_2 <- oct_ace_weighted_average$ace_transfer_price * .25
+
+oct_ace_weighted_average$wt_ace_1 <- oct_ace_weighted_average$ace_transfer_price * .75
+  
+
+
+## ACE data for fisheries beginning in Apr.
+
+apr_ace_transfer <- read_csv(here("data", "ACE_Transfer_NZ_apr.csv")) %>% 
+  clean_names
+
+apr_ace_weighted_average <- apr_ace_transfer 
+colnames(apr_ace_weighted_average)[2] <- "species_code"
+
+apr_ace_weighted_average$species_code = str_sub(apr_ace_weighted_average$species_code, 1, 3)
+
+apr_ace_weighted_average <- apr_ace_transfer %>% 
+  group_by(species_common_name, period) %>% 
+  filter(!is.na(average)) %>% 
+  summarize(ace_transfer_price = weighted.mean(average, quantity_traded))
+            
+apr_ace_weighted_average$starting_year = str_sub(apr_ace_weighted_average$period,-4)
+
+apr_ace_weighted_average$wt_ace_2 <- apr_ace_weighted_average$ace_transfer_price * .75
+
+apr_ace_weighted_average$wt_ace_1 <- apr_ace_weighted_average$ace_transfer_price * .25
+
+ace_weighted_average <- rbind(apr_ace_weighted_average, oct_ace_weighted_average)
+
+write.csv(ace_weighted_average,"C:\\Users\\halle\\OneDrive\\Desktop\\emLab\\ITQ\\NZ\\NZ\\data\\ace_weighted_average.csv")
+
+
+
+ace_weighted_average_fishing_years <- read_csv(here("data", "ace_weighted_average_fishing_years.csv"))
+
+nz_weighted_ace <- ace_weighted_average_fishing_years %>% 
+  group_by(species_common_name, fishing_year) %>%
+  summarize(wt_ace = sum(wt_ace_1, wt_ace_2, na.rm = TRUE))
+
+write.csv(nz_weighted_ace,"C:\\Users\\halle\\OneDrive\\Desktop\\emLab\\ITQ\\NZ\\NZ\\data\\nz_weighted_ace.csv")
+```
+
+### Read in stock status data for tacc and catch
+
+```{r}
+## TACC and Catch for Oct. fisheries
+
+stock_status_16 <- read_csv(here("data", "nz_stock_status_2016.csv")) %>% 
+  clean_names %>% 
+  mutate(starting_year = 2015)
+
+stock_status_17 <- read_csv(here("data", "nz_stock_status_2017.csv")) %>% 
+  clean_names %>% 
+  mutate(starting_year = 2016)
+
+stock_status_18 <- read_csv(here("data", "nz_stock_status_2018.csv")) %>% 
+  clean_names %>% 
+  mutate(starting_year = 2017)
+
+stock_status_19 <- read_csv(here("data", "nz_stock_status_2019.csv")) %>% 
+  clean_names %>% 
+  mutate(starting_year = 2018)
+
+stock_status_20 <- read_csv(here("data", "nz_stock_status_2020.csv")) %>% 
+  clean_names %>% 
+  mutate(starting_year = 2019)
+
+stock_status_21 <- read_csv(here("data", "nz_stock_status_2021.csv")) %>% 
+  clean_names %>% 
+  mutate(starting_year = 2020)
+
+oct_stock_status <- rbind(stock_status_16, stock_status_17, stock_status_18, stock_status_19, stock_status_20, stock_status_21) %>% 
+  filter(species_fishing_year_start_month == 10)
+
+oct_stock_summary <- oct_stock_status %>% 
+  group_by(fishing_period, species_code) %>% 
+  filter(!is.na(tacc_kg)) %>%
+  summarize(tacc_kg = mean(tacc_kg),
+            catch_kg = mean(reported_comm_catch_kg),
+            starting_year = mean(starting_year)) %>% 
+  mutate(species =
+           case_when(species_code == "PAU" ~ "Paua",
+                     species_code == "ANG" ~ "Freshwater eels",
+                     species_code == "WWA" ~ "White warehou",
+                     species_code == "ANC" ~ "Anchovy",
+                     species_code == "BAR" ~ "Barracouta",
+                     species_code == "BCO" ~ "Blue cod",
+                     species_code == "BIG" ~ "Bigeye tuna",
+                     species_code == "BNS" ~ "Bluenose",
+                     species_code == "BUT" ~ "Butterfish",
+                     species_code == "BWS" ~ "Blue shark",
+                     species_code == "BYA" ~ "Frilled venus shell",
+                     species_code == "BYX" ~ "Alfonsino",
+                     species_code == "CDL" ~ "Cardinalfish",
+                     species_code == "CHC" ~ "Red crab",
+                     species_code == "COC" ~ "Cockle",
+                     species_code == "CRA" ~ "Spiny red rock lobster",
+                     species_code == "DAN" ~ "Ringed dosinia",
+                     species_code == "DSU" ~ "Silky dosinia",
+                     species_code == "ELE" ~ "Elephant fish",
+                     species_code == "EMA" ~ "Blue mackerel",
+                     species_code == "FLA" ~ "Flatfish",
+                     species_code == "FRO" ~ "Frostfish",
+                     species_code == "GAR" ~ "Garfish",
+                     species_code == "GLM" ~ "Green-lipped mussel",
+                     species_code == "GMU" ~ "Grey mullet",
+                     species_code == "GSC" ~ "Giant spider crab",
+                     species_code == "GSH" ~ "Ghost shark",
+                     species_code == "GSP" ~ "Pale ghost shark",
+                     species_code == "GUR" ~ "Gurnard",
+                     species_code == "HAK" ~ "Hake",
+                     species_code == "HOK" ~ "Hoki",
+                     species_code == "HOR" ~ "Horse mussel",
+                     species_code == "HPB" ~ "Hapuku & bass",
+                     species_code == "JDO" ~ "John dory",
+                     species_code == "JMA" ~ "Jack mackerel",
+                     species_code == "KAH" ~ "Kahawai",
+                     species_code == "KBB" ~ "Bladder kelp",
+                     species_code == "KIC" ~ "King crab",
+                     species_code == "KIN" ~ "Kingfish",
+                     species_code == "KWH" ~ "Knobbed whelk",
+                     species_code == "LDO" ~ "Lookdown dory",
+                     species_code == "LEA" ~ "Leatherjacket",
+                     species_code == "LFE" ~ "Long-finned eel",
+                     species_code == "LIN" ~ "Ling",
+                     species_code == "MAK" ~ "Mako shark",
+                     species_code == "MDI" ~ "Trough shell",
+                     species_code == "MMI" ~ "Large trough shell",
+                     species_code == "MOK" ~ "Blue moki",
+                     species_code == "MOO" ~ "Moonfish",
+                     species_code == "OEO" ~ "Oreo",
+                     species_code == "ORH" ~ "Orange roughy",
+                     species_code == "OYS" ~ "Dredge oyster",
+                     species_code == "OYU" ~ "Dredge oyster",
+                     species_code == "PAD" ~ "Paddle crab",
+                     species_code == "PAR" ~ "Parore",
+                     species_code == "PDO" ~ "Deepwater tuatua",
+                     species_code == "PHC" ~ "Packhorse rock lobster",
+                     species_code == "PIL" ~ "Pilchards",
+                     species_code == "POR" ~ "Porae",
+                     species_code == "POS" ~ "Porbeagle shark",
+                     species_code == "PPI" ~ "Pipi",
+                     species_code == "PRK" ~ "Prawn killer",
+                     species_code == "PTO" ~ "Patagonian toothfish",
+                     species_code == "PZL" ~ "Deepwater clam",
+                     species_code == "QSC" ~ "Queen scallop",
+                     species_code == "RBM" ~ "Ray's bream",
+                     species_code == "RBT" ~ "Redbait",
+                     species_code == "RBY" ~ "Ruby fish",
+                     species_code == "RCO" ~ "Red cod",
+                     species_code == "RIB" ~ "Ribaldo",
+                     species_code == "RSK" ~ "Rough skate",
+                     species_code == "RSN" ~ "Red snapper",
+                     species_code == "SAE" ~ "Triangle shell",
+                     species_code == "SBW" ~ "Southern blue whiting",
+                     species_code == "SCA" ~ "Scallop",
+                     species_code == "SCC" ~ "Sea cucumber",
+                     species_code == "SCH" ~ "School shark",
+                     species_code == "SCI" ~ "Scampi",
+                     species_code == "SFE" ~ "Short-finned eel",
+                     species_code == "SKI" ~ "Gemfish",
+                     species_code == "SNA" ~ "Snapper",
+                     species_code == "SPD" ~ "Spiny dogfish",
+                     species_code == "SPE" ~ "Sea perch",
+                     species_code == "SPO" ~ "Rig",
+                     species_code == "SPR" ~ "Sprats",
+                     species_code == "SQU" ~ "Arrow squid",
+                     species_code == "SSK" ~ "Smooth skate",
+                     species_code == "STA" ~ "Stargazer",
+                     species_code == "STN" ~ "Southern bluefin tuna",
+                     species_code == "SUR" ~ "Kina",
+                     species_code == "SWA" ~ "Silver warehou",
+                     species_code == "SWO" ~ "Swordfish",
+                     species_code == "TAR" ~ "Tarakihi",
+                     species_code == "TOR" ~ "Pacific bluefin tuna",
+                     species_code == "TRE" ~ "Trevally",
+                     species_code == "TRU" ~ "Trumpeter",
+                     species_code == "TUA" ~ "Tuatua",
+                     species_code == "WAR" ~ "Blue warehou",
+                     species_code == "WWA" ~ "White warehou",
+                     species_code == "YEM" ~ "Yellow eyed mullet",
+                     species_code == "YFN" ~ "Yellowfin tuna"))
+oct_stock_summary$starting_year <- as.character(oct_stock_summary$starting_year)
+
+
+oct_stock_ace_summary <- full_join(oct_stock_summary, oct_ace_weighted_average,
+by = c("species_code", "starting_year")) %>% 
+  distinct()
+
+write.csv(oct_stock_ace_summary,"C:\\Users\\halle\\OneDrive\\Desktop\\emLab\\ITQ\\NZ\\NZ\\data\\oct_stock_ace_summary.csv")
+
+write.csv(apr_ace_weighted_average,"C:\\Users\\halle\\OneDrive\\Desktop\\emLab\\ITQ\\NZ\\NZ\\data\\apr_ace_weighted_average.csv")
+
+
+```
+
+
+### re-read in tacc and catch data, filter out NAs
+
+```{r}
+nz_tacc_catch <- read_csv(here("data", "fish-monetary-stock-account-1996-2019 (1).csv")) %>% 
+  spread(variable, data_value) %>% 
+  group_by(species, year) %>% 
+  select(Catch, TACC) %>% 
+  filter(!(is.na(Catch) & is.na(TACC)))
+
+
+write.csv(nz_tacc_catch,"C:\\Users\\halle\\OneDrive\\Desktop\\emLab\\ITQ\\NZ\\NZ\\data\\nz_tacc_catch.csv")
+```
+
+
+### Import port prices and weight them by year (they currently are based on Oct-Sep fishing years)
+
+```{r}
+port_prices <- read.csv(here("data", "NZ_port_prices.csv")) %>% 
+  clean_names()
+  colnames(port_prices) <- c("fish_stock", "species", 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021)
+  
+port_prices_tidy <- port_prices %>% 
+  mutate_if(is.double,as.character) %>% 
+  pivot_longer(cols = 3:16,
+               names_to = "fishing_year",
+               values_to = "price")
+port_prices_tidy$fish_stock = str_sub(port_prices_tidy$fish_stock, 1, 3)
+
+port_prices_yearly_average <- port_prices_tidy %>% 
+  filter(!(is.na(price))) %>%
+  transform(price = as.numeric(price)) %>% 
+  group_by(species, fishing_year) %>% 
+  summarize(avg_price = mean(price))
+
+port_prices_weighted <- port_prices_yearly_average
+
+port_prices_weighted$wt_avg_price_2 <- port_prices_weighted$avg_price * .25
+
+port_prices_weighted$wt_avg_price_1 <- port_prices_weighted$avg_price * .75
+
+write.csv(port_prices_weighted,"C:\\Users\\halle\\OneDrive\\Desktop\\emLab\\ITQ\\NZ\\NZ\\data\\port_prices_weighted_average.csv")
+
+```
+
+```{r}
+port_prices_weighted_fishing_years <- read.csv(here("data", "port_prices_weighted_average_fishing_years.csv")) %>% 
+  group_by(species, fishing_year) %>%
+  summarize(wt_port_price = sum(wt_avg_price_1, wt_avg_price_2, na.rm = TRUE))
+
+write.csv(port_prices_weighted_fishing_years,"C:\\Users\\halle\\OneDrive\\Desktop\\emLab\\ITQ\\NZ\\NZ\\data\\nz_port_prices.csv")
+```
+
+```{r}
+nz_port_merge <- read.csv(here("data", "nz_port_prices.csv"))
+nz_tacc_catch_merge <- read.csv(here("data", "nz_tacc_catch.csv"))
+nz_weighted_ace_merge <- read.csv(here("data", "nz_weighted_ace.csv"))
+
+nz_merged_ace_catch <- full_join(nz_weighted_ace_merge, nz_tacc_catch_merge,
+by = c("species", "fishing_year")) #%>% 
+  distinct()
+  
+nz_merged_data <- full_join(nz_merged_ace_catch, nz_port_merge,
+                            by = c("species", "fishing_year"))
+nz_merged_data = nz_merged_data[,!(names(nz_merged_data) %in% c("X.x","X.y", "X"))]
+
+write.csv(nz_merged_data,"C:\\Users\\halle\\OneDrive\\Desktop\\emLab\\ITQ\\NZ\\NZ\\data\\nz_merged_data.csv")
+```
+

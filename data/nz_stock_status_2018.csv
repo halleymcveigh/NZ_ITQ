@@ -1,0 +1,1239 @@
+﻿Source,Fishing period,Species fishing year start month,Species code,Fishstock Code,Fishstock fishing year start month,Name,TAC allowance,Reported comm. catch (kg),Reported comm. catch (units),TACC (kg),Cust. allow. (kg),Rec. allow. (kg),Target,In QMS
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HOK,HOK1,10,"Hoki 1,2,3,4,5,6,7,8, and 9 (Combined)",151540000,135418710,,150000000,20000,20000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JMA,JMA7,10,"Jack mackerel 7, 8 & 9 (Combined)",,34189987,,32536763,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SBW,SBW6I,4,Southern Blue Whiting Campbell Island Rise,40000000,14207558,,39200000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SQU,SQU1T,10,"Arrow squid All NZ waters except 6T & 10T, All methods",44740881,12111051,,44740881,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAR,BAR1,10,Barracouta Auckland (East),,11110095,,11000456,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SQU,SQU6T,10,"Arrow squid Southern Islands, All methods",,10961594,,32369400,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYU,OYU5,10,Dredge Oyster Foveaux Strait,20300000,9905321,,14950000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAR,BAR7,10,Barracouta Challenger,,8356093,,11172853,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EMA,EMA1,10,Blue Mackerel Auckland(East),7690000,7988054,,7630000,20000,40000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAR,BAR5,10,Barracouta Southland,8370000,7126135,,8200000,2000,3000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JMA,JMA3,10,"Jack mackerel 3, 4, 5 & 6 (Combined)",9000000,5559043,,8780000,20000,20000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JMA,JMA1,10,"Jack mackerel Auckland (East), Central (East)",,5552515,,10000451,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ORH,ORH3B,10,Orange Roughy South East (Chatham Rise...),5470000,4942104,,5197000,5000,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LIN,LIN6,10,Ling Sub Antartic,8590000,4845904,,8505000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SWA,SWA4,10,Silver Warehou Chatham Rise,,4716906,,4089901,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SNA,SNA1,10,Snapper Auckland (East),8050000,4567216,,4500000,50000,3050000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LIN,LIN5,10,Ling Southland,4036000,4034313,,3955000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LIN,LIN7,10,Ling Challenger,3144000,3487068,,3080000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SWA,SWA3,10,Silver Warehou South East (Coast),,3395513,,3280300,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EMA,EMA7,10,"Blue Mackerel Challenger, Central(West), Auckland(West)",3352000,3253741,,3350000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OEO,OEO3A,10,Oreo South-East (Cook Strait/Kaikoura/Strathallan),3518000,3176703,,3350000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAK,HAK7,10,Hake Challenger,5120000,3086343,,5064000,5000,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OEO,OEO4,10,Oreo South-East (Chatham Rise),3150000,2867131,,3000000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LIN,LIN4,10,Ling Chatham Rise,4200000,2635980,,4200000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAR,BAR4,10,Barracouta Chatham Rise,,2478783,,3019152,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RCO,RCO3,10,Red Cod South East (Coast),4930000,2251961,,4600000,5000,95000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LIN,LIN3,10,Ling South East (Coast),2060000,2170832,,2060000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OEO,OEO6,10,Oreo Sub-Antarctic,,2138052,,6000000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FRO,FRO7,10,Frostfish Challenger,2625000,2062898,,2623000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPD,SPD3,10,Spiny Dogfish South-East(Coast),5075000,2007354,,4794000,115000,115000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TAR,TAR2,10,Tarakihi Central (East),2082000,1896275,,1796000,100000,150000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRE,TRE7,10,Trevally Challenger,,1767647,,2153353,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPD,SPD4,10,Spiny Dogfish South-East(Chatham Rise),1662000,1755569,,1626000,10000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRE,TRE1,10,Trevally Auckland (East),,1717806,,1506887,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BYX,BYX2,10,Alfonsino Central (East),,1691754,,1574800,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBT,RBT3,10,"Redbait 3, 4, 5 & 6 (combined)",2305000,1686560,,2190000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ORH,ORH7A,10,Orange Roughy Challenger (North),1680000,1601069,,1600000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPD,SPD5,10,Spiny Dogfish 5 and 6 (Combined),3753000,1533578,,3700000,8000,8000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WAR,WAR3,10,Blue Warehou South East (Coast),,1468411,,2530800,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GUR,GUR3,10,Gurnard South East (Coast),1290000,1418705,,1220000,3000,6000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAK,HAK1,10,Hake Auckland (East),,1349853,,3701143,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RSK,RSK3,10,"Rough Skate 3, 4, 5 and 6 (Combined)",1672000,1346079,,1653000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SNA,SNA8,10,Snapper Central (Egmont),1785000,1287529,,1300000,43000,312000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TAR,TAR1,10,Tarakihi Auckland (East),2029195,1258653,,1447483,73000,487000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STA,STA5,10,Stargazer Southland,1264000,1150961,,1264000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TAR,TAR3,10,Tarakihi South East (Coast),1503000,1144231,,1403000,15000,15000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LIN,LIN2,10,Ling Central (East),,1105518,,982000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SBW,SBW6B,4,Southern Blue Whiting Bounty Platform,3209000,1100604,,3145000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ELE,ELE3,10,Elephant Fish 3 & 4 Combined,1060000,1098388,,1000000,5000,5000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TAR,TAR7,10,Tarakihi Challenger,,1053582,,1088490,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STA,STA7,10,Stargazer Challenger,1181000,1029904,,1122000,1000,4000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BCO,BCO5,10,Blue Cod Southland,1452000,1027140,,1239000,2000,191000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STN,STN1,10,Southern Bluefin Tuna 1-10 & high seas (combined),1000000,1008136,,971000,1000,8000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KAH,KAH1,10,Kahawai Auckland (East),2220000,982751,,1075000,200000,900000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CRA,CRA8,4,Spiny red rock lobster Southern,1161700,978060,,1070700,30000,33000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC3,10,Cockle Otago,1500000,966575,,1470000,10000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RCO,RCO7,10,Red Cod Challenger,,945449,,3126075,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPD,SPD7,10,Spiny Dogfish Challenger,1983000,919523,,1902000,31000,31000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FLA,FLA3,10,"Flatfish 3, 4, 5 & 6 Combined",1617000,886396,,1430000,5000,150000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GUR,GUR7,10,Gurnard Challenger,1065000,882364,,975000,15000,25000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ORH,ORH1,10,Orange Roughy Auckland (East),1470000,881364,,1400000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GMU,GMU1,10,Grey Mullet Auckland (East) & (West) combined,1125000,820167,,925501,100000,100000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GUR,GUR1,10,Gurnard Auckland (East),,786100,,2287525,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WAR,WAR7,10,Blue Warehou Challenger,,771693,,1119723,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BYX,BYX3,10,"Alfonsino 3, 4, 5 & 6 Combined",,754064,,1010400,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BCO,BCO4,10,Blue Cod Chatham Rise,,751799,,759339,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KAH,KAH2,10,Kahawai Central (East),1530000,751517,,705000,185000,610000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCH,SCH5,10,School Shark Southland,794000,710056,,743000,7000,7000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STA,STA3,10,Stargazer South East (Coast),904600,669207,,901600,1000,2000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FLA,FLA7,10,Flatfish Challenger,,650552,,2065600,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WWA,WWA5B,10,White Warehou Southland and Sub-Antarctic,2621000,649099,,2617000,2000,2000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPO,SPO3,10,Rig South East (Coast),710000,647662,,600000,20000,60000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCH,SCH1,10,School Shark Auckland (East),893000,632627,,689000,102000,68000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPE,SPE3,10,Sea Perch South-East(Coast),1022000,624574,,1000000,11000,11000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OEO,OEO1,10,"Oreo 1,2A,2B,5A,7A,7B,8,9  (Combined)",2500000,601318,,2500000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCH,SCH7,10,School Shark Challenger,789000,596370,,641000,58000,58000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSH3,10,Ghost Shark South-East(Coast),1185000,583975,,1185000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SKI,SKI7,10,Gemfish Challenger,300000,583192,,300000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GUR,GUR2,10,Gurnard Central (East),,560450,,725462,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SWA,SWA1,10,Silver Warehou Auckland (East),3003000,543016,,3000000,1000,2000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSP,GSP1,10,Pale Ghost Shark,1208000,524926,,1150000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSK,SSK3,10,"Smooth Skate 3, 4, 5 and 6 (Combined)",587000,510618,,579000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPE,SPE4,10,Sea Perch South-East(Chatham Rise),956000,490371,,910000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ORH,ORH2A,10,Orange Roughy Central (Gisbourne),512000,484836,,488000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SWO,SWO1,10,Swordfish 1 - 10 (Combined),919000,475014,,885000,10000,20000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSP,GSP5,10,Pale Ghost Shark,477000,469445,,454000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SKI,SKI3,10,Gemfish South East (Coast),300000,466004,,300394,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MOK,MOK1,10,Blue Moki Auckland (East),,434853,,402605,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR5,10,Kina Southland,480000,421630,,455000,10000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LIN,LIN1,10,Ling Auckland (East),463000,414666,,400000,20000,40000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FRO,FRO8,10,Frostfish Central(West),649000,380156,,649000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCH,SCH8,10,School Shark Central (Egmont),597000,373387,,529000,21000,21000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SNA,SNA2,10,Snapper Central (East),450000,372833,,315000,14000,90000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FLA,FLA1,10,Flatfish 1 & 9 Combined,1762000,368908,,1187300,270000,270000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CRA,CRA6,4,Spiny red rock lobster Chatham Islands,370000,364331,,360000,4000,6000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CRA,CRA5,4,Spiny red rock lobster Canterbury/Marlborough,514000,362279,,350000,40000,87000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCH,SCH3,10,School Shark South East (Coast),502000,356756,,387000,48000,48000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KAH,KAH8,10,Kahawai 8 and 9 (Combined),1040000,345318,,520000,115000,385000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HPB,HPB3,10,Hapuku & Bass South East (Coast),537600,344203,,335100,1000,195000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCI3,10,Scampi South East Coast & Western Chatham Is,357000,336557,,340000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSH7,10,Ghost Shark Challenger,1121000,329093,,1121000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JDO,JDO1,10,John Dory Auckland (East),,321646,,704000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LDO,LDO3,10,"Lookdown Dory 3,4,5, and 6 (Combined)",614000,320073,,614000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPO,SPO1,10,Rig Auckland (East),752064,317266,,692064,20000,25000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CRA,CRA4,4,Spiny red rock lobster Wellington/Hawkes Bay,513800,315765,,318800,35000,85000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCI6A,10,Scampi Auckland Islands,321000,295329,,306000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RIB,RIB7,10,Ribaldo Challenger,330000,290494,,330000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBM,RBM1,10,Ray's Bream 1 - 10 (Combined),1045000,289677,,980000,5000,10000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SKI,SKI2,10,Gemfish Central (East),248000,285502,,240000,3000,5000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WWA,WWA3,10,White Warehou South-East(Coast),585000,281841,,583000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SKI,SKI1,10,Gemfish Auckland (East),218000,277397,,210000,3000,5000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HPB,HPB1,10,Hapuku & Bass 1 & 9 Combined,,276071,,480800,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRE,TRE2,10,Trevally Central (East),349263,272750,,241263,1000,100000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAK,HAK4,10,Hake Chatham Rise,1818000,267402,,1800000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BNS,BNS2,10,Bluenose Central (East),279000,266608,,247000,2000,25000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SNA,SNA7,10,Snapper Challenger,545000,263025,,250000,20000,250000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC7A,10,Cockle Nelson Bays cockle fishery,1510000,253655,,1390000,25000,85000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPO,SPO7,10,Rig Challenger,306000,246560,,246000,15000,33000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LDO,LDO1,10,"Lookdown Dory 1,2,7,8, and 9 (Combined)",168000,244278,,168000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CRA,CRA3,4,Spiny red rock lobster Gisborne,366860,239165,,237860,20000,20000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CDL,CDL2,10,Cardinalfish Central(East),460000,236167,,440000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PIL,PIL7,10,Pilchards  Challenger,165000,232745,,150000,5000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PIL,PIL1,10,Pilchards  Auckland(East),2030000,229197,,2000000,10000,20000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TAR,TAR8,10,Tarakihi Central (Egmont),,215346,,225400,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GUR,GUR8,10,Gurnard Central (Egmont),,208534,,543200,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BNS,BNS1,10,Bluenose Auckland (East),251000,208406,,230000,2000,15000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SBW,SBW6A,4,Southern Blue Whiting Auckland Islands,1640000,203502,,1640000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU4,10,Paua South-East (Chatham Rise),,203026,,326543,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JDO,JDO7,10,John Dory Challenger,206000,202668,,190000,2000,4000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SAE,SAE3,4,Triangle shell South-East (Coast),483000,200426,,459000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSK,SSK7,10,Smooth Skate Challenger,217000,198142,,213000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSH4,10,Ghost Shark South-East(Chatham Rise),370000,197698,,370000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RIB,RIB3,10,Ribaldo South-East(Coast),394000,197640,,394000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR4,10,Kina South-East (Chatham Rise),255000,189422,,225000,20000,7000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RIB,RIB4,10,Ribaldo South-East(Chatham Rise),357000,182482,,357000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RIB,RIB6,10,Ribaldo Sub-Antartic,231000,181702,,231000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCH,SCH4,10,School Shark Chatham Rise,,179648,,238500,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MOK,MOK3,10,Blue Moki South East (Coast),197000,178001,,160000,1000,20000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BCO,BCO3,10,Blue Cod South East (Coast),,173687,,162732,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPD,SPD1,10,Spiny Dogfish 1 and 2 (Combined),413000,168971,,331000,39000,39000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCH,SCH2,10,School Shark Central (East),,165059,,198600,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PIL,PIL8,10,"Pilchard Central(West), Auckland(West)",80000,161916,,65000,5000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HPB,HPB2,10,Hapuku & Bass Central (East),,159122,,266200,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPO,SPO8,10,Rig Central (Egmont),401000,158999,,310000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HPB,HPB5,10,Hapuku & Bass 5 & 6 Combined,,158282,,451300,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PDO,PDO7,4,Deepwater tuatua Challenger,200000,156750,,184000,5000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RIB,RIB2,10,Ribaldo Central(East),176000,154997,,176000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RSK,RSK7,10,Rough Skate Challenger,205000,152981,,201000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCI2,10,Scampi Central (East),161000,152374,,153000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLM,GLM9,10,Green-lipped mussel Auckland (West),278000,151890,,180000,59000,39000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RCO,RCO2,10,Red Cod Central (East),554000,150818,,500000,5000,24000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPD,SPD8,10,Spiny Dogfish 8 and 9 (Combined),392000,149893,,307000,41000,41000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFE13,2,Short-finned eel Lake Ellesmere,171940,144497,,134120,34380,3440,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HPB,HPB4,10,Hapuku & Bass Chatham Rise,,141850,,322600,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WWA,WWA7,10,White Warehou Challenger,129000,139384,,127000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BNS,BNS3,10,Bluenose South East (Coast),114000,138903,,93000,2000,18000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CRA,CRA1,4,Spiny red rock lobster Northland,273062,137525,,131062,20000,50000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BIG,BIG1,10,Bigeye Tuna 1 - 10 (Combined),740000,136684,,714000,4000,8000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR1B,10,Kina Hauraki Gulf and Bay of Plenty,324000,136200,,140000,90000,90000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JDO,JDO2,10,John Dory Central (East),,135109,,269500,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LEA,LEA3,10,"Leatherjacket 3, 5 and 6 (Combined)",140000,134565,,130000,1000,2000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WAR,WAR8,10,Blue Warehou Central (Egmont),,134445,,232800,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CRA,CRA2,4,Spiny red rock lobster Bay of Plenty,173000,133280,,80000,16500,34000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CDL,CDL3,10,Cardinalfish South-East(Coast),196000,131124,,196000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ELE,ELE5,10,Elephant Fish 5 & 6 Combined,188500,126488,,170000,5000,5000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FLA,FLA2,10,Flatfish 2 & 8 Combined,,125711,,725900,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TAR,TAR5,10,Tarakihi Southland,,123045,,152600,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR7A,10,Kina Challenger (Nelson/Marlborough),238000,121266,,135000,80000,20000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BWS,BWS1,10,Blue Shark 1 - 10 (Combined),2080000,120492,,1860000,10000,20000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFE21,10,Short-finned eel Waikato/Poverty Bay,181000,120341,,134000,24000,19000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCI1,10,Scampi Auckland (East),126000,119939,,120000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RSK,RSK1,10,Rough Skate 1 and 2 (Combined),114000,119316,,111000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPE,SPE7,10,Sea Perch Challenger,98000,118037,,82000,8000,8000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ORH,ORH3A,10,Orange Roughy South East (Cook Strait/Kaikoura),186000,116926,,177000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,GSC,GSC6A,4,Giant Spider Crab Southern Islands,165000,115854,,148000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU2,10,Paua Central,,113874,,121188,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ELE,ELE7,10,Elephant Fish Challenger,,113243,,101800,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EMA,EMA2,10,Blue Mackerel Central(East),187000,112177,,180000,2000,5000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCI4A,10,Scampi Chatham Islands East,126000,111402,,120000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CRA,CRA7,4,Spiny red rock lobster Otago,117000,110574,,97000,10000,5000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HPB,HPB7,10,Hapuku & Bass Challenger,,110120,,235500,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STA,STA4,10,Stargazer Chatham Rise,,107728,,2157800,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU5A,10,Paua Fiordland,,107450,,148983,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBY,RBY2,10,Ruby Fish Central(East),435000,103527,,433000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SAE,SAE7,4,Triangle shell Challenger,235000,102123,,217000,5000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PDO,PDO3,4,Deepwater tuatua South-East (Coast),150000,93647,,108000,21000,21000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LEA,LEA1,10,Leatherjacket 1 and 9 (Combined),203000,91644,,188000,1000,5000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU5B,10,Paua Stewart Island,105000,89325,,90000,6000,6000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPO,SPO2,10,Rig Central (East),130000,88727,,108000,5000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WAR,WAR2,10,Blue Warehou Central (East),,88441,,577835,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KIN,KIN1,10,Kingfish Auckland(East),673000,85285,,91000,76000,459000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU7,10,Paua Challenger (Nelson/Marlborough),133620,81877,,93620,15000,15000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBT,RBT7,10,"Redbait 7,8 & 9 (combined)",2991000,75312,,2841000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BYX,BYX1,10,Alfonsino 1 & 9 Combined,304000,73357,,300000,2000,2000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSH6,10,Ghost Shark Sub-Antartic,95000,71090,,95000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBY,RBY1,10,Ruby Fish Auckland(East),318000,70637,,300000,1000,2000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BCO,BCO7,10,Blue Cod Challenger,343000,70571,,70005,27000,177000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LEA,LEA2,10,"Leatherjacket 2, 7 and 8 (Combined)",1196000,67400,,1136000,1000,2000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MOO,MOO1,10,Moonfish 1 - 10 (Combined),527000,67202,,527000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFE22,10,Short-finned eel Hawke Bay/Wellington,121000,67066,,94000,14000,11000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FRO,FRO9,10,Frostfish Auckland(West),140000,64909,,138000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,GSC,GSC5,4,Giant Spider Crab Southland,20000,63822,,19000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KIN,KIN8,10,Kingfish 8 and 9 (Combined),92000,63358,,45000,9000,31000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSH5,10,Ghost Shark Southland,109000,63271,,109000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SBW,SBW6R,4,Southern Blue Whiting Pukaki Rise,5500000,62671,,5500000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU5D,10,Paua Southland and Otago,134000,62484,,89000,3000,22000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FRO,FRO1,10,Frostfish Auckland(East),151000,62431,,149000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HPB,HPB8,10,Hapuku & Bass Central (Egmont),,60615,,80100,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFE20,10,Short-finned eel Northland/Auckland,148000,59644,,86000,30000,28000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KAH,KAH3,10,"Kahawai 3,5,6, and 7 (Combined)",935000,58536,,410000,115000,390000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSK,SSK1,10,Smooth Skate 1 and 2 (Combined),40000,58101,,37000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WWA,WWA4,10,White Warehou South-East(Chatham Rise),332000,57198,,330000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POS,POS1,10,Porbeagle Shark 1 - 10 (Combined),129000,56943,,110000,2000,6000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KIN,KIN2,10,Kingfish Central(East),170000,55450,,63000,18000,65000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPE,SPE2,10,Sea Perch Central(East),93000,54135,,79000,5000,9000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSH2,10,Ghost Shark Central(East),100000,53107,,89000,0,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPE,SPE1,10,Sea Perch Auckland(East),58000,52443,,53000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSK,SSK8,10,Smooth Skate 8 and 9 (Combined),23000,51976,,20000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SBW,SBW1,4,Southern Blue Whiting New Zealand (excluding Sub-Antarctic),100000,51919,,98000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TAR,TAR4,10,Tarakihi Chatham Rise,,51130,,316200,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FRO,FRO2,10,Frostfish Central(East),112000,50943,,110000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAR,PAR1,10,Parore Auckland(East),74000,50052,,61000,3000,6000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CRA,CRA9,4,Spiny red rock lobster Westland/Taranaki,115800,49961,,60800,20000,30000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BUT,BUT2,10,Butterfish  Central(East),225000,47287,,63000,80000,80000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KIN,KIN7,10,Kingfish Challenger,41000,46784,,15000,2000,20000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ORH,ORH2B,10,Orange Roughy Central (Wairarapa),63000,45701,,60000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EMA,EMA3,10,"Blue Mackerel South-East(Coast), South-East(Chatham Rise), Southland, Sub-Antartic",392000,45687,,390000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU3,10,Paua South-East (Kaikoura Coast),79300,45591,,45800,15000,8500,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FRO,FRO5,10,Frostfish Southland,135000,43637,,135000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POR,POR1,10,Porae Auckland(East),75000,41199,,62000,3000,6000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB3G,10,Bladder Kelp (Attached) South-East (Coast),1238000,40810,,1236800,100,100,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PHC,PHC1,4,Packhorse Rock LobstAll New Zealand Fisheries Waters,,39445,,40300,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MMI,MMI3,4,Large trough shell South-East (Coast),65000,38736,,62000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RSK,RSK8,10,Rough Skate 8 and 9 (Combined),24000,38703,,21000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR1A,10,Kina East Northland,172000,38668,,40000,65000,65000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BNS,BNS7,10,Bluenose Challenger,40000,38266,,34000,2000,3000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RIB,RIB1,10,Ribaldo Auckland(East),121000,36435,,121000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFE15,10,Long-finned eel Otago/Southland,66540,36234,,52000,13270,1270,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BUT,BUT5,10,Butterfish  Southland,66000,36212,,45000,10000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RIB,RIB5,10,Ribaldo Southland,52000,35758,,52000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSP,GSP7,10,Pale Ghost Shark,176000,34633,,176000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MAK,MAK1,10,Mako Shark 1 - 10 (Combined),276000,32965,,200000,10000,30000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCACS,4,Scallop Coromandel scallop fishery,81000,31032,,50000,10000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRU,TRU4,10,Trumpeter South-East(Chatham Rise),59000,28039,,59000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,QSC,QSC3,10,"Queen Scallop South-East(Coast), Southland",400000,25735,,380000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MMI,MMI7,4,Large trough shell Challenger,144000,25369,,131000,5000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSH9,10,Ghost Shark Auckland(West),22000,25299,,22000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STA,STA1,10,Stargazer Auckland (East),21000,25143,,21000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RSN,RSN2,10,"Red Snapper 2,3,4,5,6,7,8, and 9 (Combined)",25000,23843,,21000,1000,2000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DAN,DAN7,4,Ringed Dosinia Challenger,133000,23669,,120000,5000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YFN,YFN1,10,Yellowfin Tuna 1 - 10 (Combined),358000,23074,,263000,30000,60000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RSN,RSN1,10,Red Snapper Auckland(East),140000,22581,,124000,2000,13000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR2A,10,Kina East Coast,204000,21763,,80000,60000,60000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSH1,10,Ghost Shark Auckland(East),22000,21181,,22000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RCO,RCO1,10,Red Cod Auckland (East),,20831,,42292,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TOR,TOR1,10,Pacific Bluefin Tuna 1-10 (Combined),145000,20706,,116000,500,25000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GAR,GAR1,10,Garfish  Auckland(East),55000,20178,,25000,10000,20000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BUT,BUT7,10,Butterfish  Challenger,69000,18719,,38000,15000,15000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSH8,10,Ghost Shark Central(West),39000,17945,,34000,0,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STA,STA2,10,Stargazer Central (East),38000,17631,,38000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAD,PAD3,10,Paddle Crab  South-East(Coast),110000,16954,,100000,2000,8000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBY,RBY4,10,Ruby Fish South-East(Chatham Rise),19000,16839,,18000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FRO,FRO4,10,Frostfish South-East(Chatham Rise),28000,16255,,28000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAR,PAR9,10,Parore Auckland(West),25000,15311,,21000,1000,2000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFE15,10,Short-finned eel Otago/Southland,37420,15066,,29000,7420,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RIB,RIB9,10,Ribaldo Auckland(West),21000,14341,,21000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRU,TRU3,10,Trumpeter South-East(Coast),53000,14075,,33000,7000,13000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YEM,YEM1,10,Yellow Eyed Mullet  Auckland(East),50000,13417,,20000,15000,15000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CDL,CDL4,10,Cardinalfish South-East(Chatham Rise),66000,13226,,66000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POR,POR2,10,"Porae 2, 8, and 9 (Combined)",22000,13139,,18000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFE20,10,Long-finned eel Northland/Auckland,39000,13053,,19000,10000,8000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PDO,PDO8,4,Deepwater tuatua Central (West),296000,12853,,262000,10000,9000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WAR,WAR1,10,Blue Warehou Auckland (East),,12598,,41200,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPE,SPE5,10,Sea Perch Southland,38000,12465,,36000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFE21,10,Long-finned eel Waikato/Poverty Bay,60000,12195,,32000,16000,10000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FRO,FRO3,10,Frostfish South-East(Coast),176000,11902,,176000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BYX,BYX7,10,Alfonsino Challenger,,11776,,80500,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BCO,BCO2,10,Blue Cod Central (East),,11681,,10305,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CDL,CDL7,10,Cardinalfish Challenger,39000,10840,,39000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPE,SPE9,10,Sea Perch Auckland(West),8000,10580,,6000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFE16,10,Long-finned eel Westcoast,32410,10128,,25000,6410,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFE23,10,Short-finned eel Taranaki/Rangitikei,36000,10004,,23000,6000,5000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR9,10,Kina Auckland (West),33000,9603,,10000,11000,11000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFE22,10,Long-finned eel Hawke Bay/Wellington,34000,9534,,21000,6000,5000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC7B,4,Sea cucumber Challenger (Nelson),17000,8822,,14000,1000,2000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA1,4,Scallop Northland scallop fishery,75000,8054,,40000,7500,7500,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR2B,10,Kina Wairarapa and Wellington,102000,7878,,30000,35000,35000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ELE,ELE2,10,Elephant Fish 2 & 8 Combined,,7717,,21600,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BCO,BCO1,10,Blue Cod Auckland (East),,7677,,46244,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YEM,YEM9,10,Yellow Eyed Mullet  Auckland(West),38000,7493,,30000,4000,4000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,GSC,GSC3,4,Giant Spider Crab 3 and 4 (Combined),15000,6830,,14000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MOK,MOK5,10,Blue Moki Southland,,6803,,43756,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PZL,PZL7,10,Deepwater clam Challenger,30000,6715,,23100,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFE11,10,Short-finned eel Nelson/Marlborough,24870,6235,,19000,4870,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WWA,WWA2,10,White Warehou Central(East),75000,6127,,73000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BCO,BCO8,10,Blue Cod Central (Egmont),226000,6122,,34000,2000,188000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFE16,10,Short-finned eel Westcoast,38690,5933,,30000,7690,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC7A,4,Sea cucumber Challenger (Marlborough Sounds),8000,5834,,5000,1000,2000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CDL,CDL5,10,Cardinalfish Southland,22000,5730,,22000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC3,4,Sea cucumber South-East (Coast),54000,5408,,48000,1000,2000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBY,RBY7,10,Ruby Fish Challenger,33000,5298,,33000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAD,PAD2,10,Paddle Crab  Central(East),125000,4872,,110000,5000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFE23,10,Long-finned eel Taranaki/Rangitikei,34000,4519,,9000,14000,9000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTO,PTO1,10,Patagonian Toothfish (FMAs 1-10 combined),50000,4485,,49500,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KIN,KIN3,10,"Kingfish 3, 5 and 6 (Combined)",3000,4378,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCI7,10,Scampi Challenger/Central (Plateau),79000,4231,,75000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BNS,BNS8,10,Bluenose Central (Egmont),20000,4201,,16000,1000,2000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPE,SPE8,10,Sea Perch Central(West),21000,3770,,15000,2000,4000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YEM,YEM3,10,Yellow Eyed Mullet  South-East(Coast),14000,3670,,8000,2000,4000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRU,TRU2,10,Trumpeter Central(East),22000,3560,,20000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STA,STA8,10,Stargazer Central (Egmont),22000,3529,,22000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRU,TRU5,10,Trumpeter Southland,54000,3234,,22000,11000,21000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAD,PAD1,10,Paddle Crab  Auckland(East),250000,3180,,220000,10000,20000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,GSC,GSC6B,4,Giant Spider Crab Sub-Antarctic,250000,3125,,237000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRU,TRU7,10,Trumpeter Challenger,11000,3018,,6000,2000,3000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFE12,10,Short-finned eel North Canterbury/South Marlborough,26100,2673,,20000,5100,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC1B,4,Sea cucumber Hauraki Gulf and Bay of Plenty,8000,2444,,2000,2000,4000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BUT,BUT1,10,"Butterfish Auckland(East), Central(West), Auckland(West)",24000,2399,,3000,10000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CDL,CDL1,10,Cardinalfish Auckland(East),1320000,2296,,1200000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPE,SPE6,10,Sea Perch Sub-Antartic,9000,1984,,9000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBT,RBT1,10,Redbait 1 & 2 (combined),20000,1897,,19000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MMI,MMI8,4,Large trough shell Central (West),631000,1801,,589000,10000,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC5A,4,Sea cucumber Fiordland,4000,1792,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ORH,ORH7B,10,Orange Roughy Challenger (South),1000,1415,,1000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC2B,4,Sea cucumber Wairarapa and Wellington,11000,1371,,5000,2000,4000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SAE,SAE8,4,Triangle shell Central (West),1821000,1202,,1720000,10000,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JDO,JDO3,10,John Dory South East (Coast),,1168,,31900,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAD,PAD8,10,Paddle Crab  Central(West),65000,1082,,60000,1000,4000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU6,10,Paua Challenger (Westland),,1036,,1000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,KIC,KIC6,4,King Crab Sub-Antarctic,10000,999,,10000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFE14,10,Short-finned eel South Canterbury/Waitaki,13570,980,,10000,2570,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CDL,CDL6,10,Cardinalfish Sub-Antartic,1000,959,,1000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC8,4,Sea cucumber Central(West),4000,958,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBY,RBY9,10,Ruby Fish Auckland(West),19000,928,,19000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBY,RBY5,10,Ruby Fish Southland,0,697,,0,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BUT,BUT3,10,Butterfish  South-East(Coast),134000,696,,3000,65000,65000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CDL,CDL9,10,Cardinalfish Auckland(West),4000,665,,4000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DAN,DAN3,4,Ringed Dosinia South-East (Coast),55000,577,,52000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRK7,10,Prawn Killer Challenger,1000,546,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFE14,10,Long-finned eel South Canterbury/Waitaki,3000,464,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR8,10,Kina Central (Egmont),26000,455,,1000,12000,12000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRK1,10,Prawn Killer Auckland(East),25700,448,,24500,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAD,PAD4,10,Paddle Crab  South-East(Chatham Rise),30000,443,,25000,1000,4000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,KIC,KIC3,4,King Crab South-East (Coast),10000,432,,10000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRU,TRU8,10,Trumpeter Central(West),1000,387,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRE,TRE3,10,Trevally South East (Coast),,335,,21600,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFE12,10,Long-finned eel North Canterbury/South Marlborough,3000,311,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PIL,PIL4,10,Pilchards  South-East(Chatham Rise),15000,310,,10000,2000,3000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBY,RBY3,10,Ruby Fish South-East(Coast),32000,309,,30000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAD,PAD7,10,Paddle Crab  Challenger,105000,308,,100000,1000,4000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC1A,4,Sea cucumber East Northland,7000,261,,2000,2000,3000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RIB,RIB8,10,Ribaldo Central(West),1000,244,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WWA,WWA1,10,White Warehou Auckland(East),4000,201,,4000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YEM,YEM5,10,Yellow Eyed Mullet  Southland,2000,195,,0,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POR,POR3,10,"Porae 3,4,5,6, and 7 (Combined)",5000,160,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC5B,4,Sea cucumber Southland and Stewart Island,4000,143,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWH3,10,Knobbed whelk South-East (Coast),5000,142,,3000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ANC,ANC1,10,Anchovy  Auckland(East),215000,141,,200000,5000,10000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC2A,4,Sea cucumber East Coast and Gisborne,4000,139,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FRO,FRO6,10,Frostfish Sub-Antartic,11000,137,,11000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SNA,SNA3,10,Snapper South East (Coast),,137,,32300,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MOK,MOK4,10,Blue Moki Chatham Rise,,126,,24545,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DAN,DAN8,4,Ringed Dosinia Central (West),236000,114,,214000,10000,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRU,TRU1,10,Trumpeter Auckland(East),5000,90,,3000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GMU,GMU7,10,Grey Mullet Challenger / Central (Plateau),,82,,20000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC4,4,Sea cucumber South-East (Chatham Rise),4000,77,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ELE,ELE1,10,Elephant Fish 1 & 9 Combined,,69,,10100,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,KIC,KIC4,4,King Crab South-East (Chatham Rise),10000,63,,10000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC9,4,Sea cucumber Auckland(West),4000,63,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ANC,ANC7,10,Anchovy  Challenger,115000,62,,100000,5000,10000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YEM,YEM7,10,Yellow Eyed Mullet  Challenger,20000,50,,5000,5000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCI5,10,Scampi Southland,42000,44,,40000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BYX,BYX8,10,Alfonsino Central (Egmont),,43,,20000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,HOR,HOR7,4,Horse Mussel Challenger,50000,40,,16000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,KIC,KIC5,4,King Crab Southland,10000,33,,10000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YEM,YEM8,10,Yellow Eyed Mullet  Central(West),18000,33,,3000,5000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLM,GLM1,10,Green-lipped mussel Auckland (East),415000,30,,10000,243000,162000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SQU,SQU10T,10,"Arrow squid Kermadec, All methods",,26,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KIN,KIN4,10,Kingfish South-East(Chatham Rise),3000,25,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MDI,MDI7,4,Trough Shell Challenger,26000,25,,26000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBY,RBY8,10,Ruby Fish Central(West),6000,22,,6000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SQU,SQU1J,10,"Arrow squid All NZ waters except 6T & 10T, Jigging",5030000,22,,5000000,10000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PIL,PIL2,10,Pilchards  Central(East),215000,21,,200000,5000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWH4,10,Knobbed whelk South-East (Chatham Rise),8000,20,,6000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YEM,YEM2,10,Yellow Eyed Mullet  Central(East),14000,20,,2000,4000,8000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,HOR,HOR3,4,Horse Mussel South-East (Coast),8000,17,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRU,TRU9,10,Trumpeter Auckland(West),0,17,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CHC,CHC1,4,Red crab Auckland (East),10000,16,,10000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,KIC,KIC2,4,King Crab Central (East),10000,16,,10000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWH8,10,Knobbed whelk Central (West),3000,14,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CHC,CHC3,4,Red crab South-East (Coast),4000,12,,4000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCI6B,10,Scampi Part Sub-Antarctic,53000,11,,50000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR3,10,Kina South-East (Coast),42000,8,,21000,10000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,KIC,KIC1,4,King Crab Auckland(East),10000,7,,10000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRK2,10,Prawn Killer Central(East),3700,7,,3500,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCI9,10,Scampi Auckland (West),37000,7,,35000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPO,SPO10,10,Rig Kermadec,,6,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,GSC,GSC1,4,"Giant Spider Crab 1, 2, 7, 8 and 9 (Combined)",1000,5,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,KIC,KIC9,4,King Crab Auckland (West),10000,5,,10000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CHC,CHC2,4,Red crab Central (East),10000,4,,10000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GAR,GAR7,10,Garfish  Challenger,23000,3,,8000,5000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,KIC,KIC7,4,King Crab Challenger,10000,3,,10000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPR,SPR1,10,"Sprats Auckland(East), Central(East), Central(West), Auckland(West)",100000,3,,70000,10000,20000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GMU,GMU2,10,Grey Mullet Central (East) & (Egmont) combined,,2,,20100,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GMU,GMU3,10,"Grey Mullet 3, 4, 5 & 6 combined",,2,,30000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAD,PAD5,10,Paddle Crab  Southland,55000,2,,50000,1000,4000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRU,TRU6,10,Trumpeter Sub-Antartic,0,2,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWH1,10,Knobbed whelk Auckland (East),3000,1,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRK3,10,Prawn Killer South East Coast and Western Chatham Islands,1000,1,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRK4A,10,Prawn killer Chatham Islands East,1000,1,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YEM,YEM10,10,Yellow Eyed Mullet  Kermadec,0,1,,0,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ANC,ANC10,10,Anchovy  Kermadec,0,,,0,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ANC,ANC2,10,Anchovy  Central(East),115000,,,100000,5000,10000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ANC,ANC3,10,"Anchovy South-East(Coast), Southland, Sub-Antartic",53000,,,50000,1000,2000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ANC,ANC4,10,Anchovy  South-East(Chatham Rise),15000,,,10000,2000,3000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ANC,ANC8,10,"Anchovy Central(West), Auckland(West)",115000,,,100000,5000,10000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAR,BAR10,10,Barracouta Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BCO,BCO10,10,Blue Cod Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BNS,BNS10,10,Bluenose Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BUT,BUT10,10,Butterfish  Kermadec,0,,,0,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BUT,BUT4,10,Butterfish  South-East(Chatham Rise),18000,,,10000,4000,4000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BUT,BUT6,10,Butterfish  Sub-Antarctic,0,,,0,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,BYA,BYA1,4,Frilled Venus Shell Auckland (East),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,BYA,BYA2,4,Frilled Venus Shell Central (East),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,BYA,BYA3,4,Frilled Venus Shell South-East (Coast),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,BYA,BYA4,4,Frilled Venus Shell South-East (Chatham Rise),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,BYA,BYA5,4,Frilled Venus Shell Southland,1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,BYA,BYA7,4,Frilled Venus Shell Challenger,9000,,,9000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,BYA,BYA8,4,Frilled Venus Shell Central (West),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,BYA,BYA9,4,Frilled Venus Shell Auckland(West),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BYX,BYX10,10,Alfonsino Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CDL,CDL10,10,Cardinalfish Kermadec,0,,,0,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CDL,CDL8,10,Cardinalfish Central(West),0,,,0,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CHC,CHC10,4,Red crab Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CHC,CHC4,4,Red crab South-East (Chatham Rise),4000,,,4000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CHC,CHC5,4,Red crab Southland,4000,,,4000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CHC,CHC6,4,Red crab Sub-Antarctic,4000,,,4000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CHC,CHC7,4,Red crab Challenger,4000,,,4000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CHC,CHC8,4,Red crab Central (West),4000,,,4000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CHC,CHC9,4,Red crab Auckland (West),4000,,,4000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC1A,10,Cockle Whangarei Harbour cockle fishery,400000,,,346000,25000,25000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC1B,10,Cockle East Northland,46000,,,0,22000,22000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC1C,10,Cockle Hauraki Gulf and Bay of Plenty,72000,,,5000,32000,32000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC2,10,Cockle Central (East),5000,,,0,2000,2000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC3B,10,Cockle Part South East (Coast),58000,,,1000,27000,27000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC4,10,Cockle South-East (Chatham Rise),3000,,,0,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC5,10,Cockle Southland and Sub-Antarctic (Combined),7000,,,2000,2000,2000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC7B,10,Cockle Marlborough cockle fishery,10000,,,0,5000,5000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC7C,10,Cockle Part Challenger,7000,,,0,3000,3000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC8,10,Cockle Central (Egmont),3000,,,0,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC9,10,Cockle Auckland (West),13000,,,0,6000,6000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CRA,CRA10,4,Spiny red rock lobster Kermadec,,,,86,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DAN,DAN1,4,Ringed Dosinia Auckland (East),7000,,,7000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DAN,DAN2,4,Ringed Dosinia Central (East),64000,,,61000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DAN,DAN4,4,Ringed Dosinia South-East(Chatham Rise),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DAN,DAN5,4,Ringed Dosinia Southland,1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DAN,DAN9,4,Ringed Dosinia Auckland (West),33000,,,33000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DSU,DSU1,4,Silky dosinia Auckland (East),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DSU,DSU2,4,Silky dosinia Central (East),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DSU,DSU3,4,Silky dosinia South-East (Coast),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DSU,DSU4,4,Silky dosinia South-East (Chatham Rise),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DSU,DSU5,4,Silky dosinia Southland,1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DSU,DSU7,4,Silky dosinia Challenger,1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DSU,DSU8,4,Silky dosinia Central (West),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DSU,DSU9,4,Silky dosinia Auckland (West),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ELE,ELE10,10,Elephant Fish Kermadec,,,,10000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EMA,EMA10,10,Blue Mackerel Kermadec,0,,,0,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FLA,FLA10,10,Flatfish Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FRO,FRO10,10,Frostfish Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GAR,GAR10,10,Garfish  Kermadec,0,,,0,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GAR,GAR2,10,Garfish  Central(East),17000,,,5000,4000,8000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GAR,GAR3,10,"Garfish South-East(Coast), Southland, Sub-Antarctic",8000,,,5000,1000,2000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GAR,GAR4,10,Garfish  South-East(Chatham Rise),4000,,,2000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GAR,GAR8,10,"Garfish Central(West), Auckland(West)",17000,,,5000,4000,8000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLM,GLM10,10,Green-lipped mussel Kermadec,0,,,0,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLM,GLM2,10,Green-lipped mussel Central (East),35000,,,10000,15000,10000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLM,GLM3,10,"Green-lipped mussel 3, 4, 5, and 6 (Combined)",155000,,,10000,87000,58000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLM,GLM7A,10,Green-lipped mussel Nelson/Marlborough,1548000,,,1500000,29000,19000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLM,GLM7B,10,Green-lipped mussel West Coast,23000,,,10000,8000,5000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLM,GLM8,10,Green-lipped mussel Central (Egmont),43000,,,0,26000,17000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GMU,GMU10,10,Grey Mullet Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,GSC,GSC10,4,Giant Spider Crab Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSH10,10,Ghost Shark Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GUR,GUR10,10,Gurnard Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAK,HAK10,10,Hake Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HOK,HOK10,10,Hoki Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,HOR,HOR1,4,Horse Mussel Auckland (East),14000,,,4000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,HOR,HOR10,4,Horse Mussel Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,HOR,HOR2,4,Horse Mussel Central (East),8000,,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,HOR,HOR4,4,Horse Mussel South-East(Chatham Rise),5000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,HOR,HOR5,4,Horse Mussel Southland,5000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,HOR,HOR6,4,Horse Mussel Sub-Antarctic,5000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,HOR,HOR8,4,Horse Mussel Central (West),5000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,HOR,HOR9,4,Horse Mussel Auckland (West),5000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HPB,HPB10,10,Hapuku & Bass Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JDO,JDO10,10,John Dory Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JMA,JMA10,10,Jack mackerel Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KAH,KAH10,10,Kahawai Kermadec,14000,0,,9000,1000,4000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KAH,KAH4,10,Kahawai South-East (Chatham Rise),14000,,,9000,1000,4000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB4G,10,Bladder Kelp (Attached) South-East (Chatham Rise),274000,,,272800,100,100,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,KIC,KIC10,4,King Crab Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,KIC,KIC8,4,King Crab Central (West),10000,,,10000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KIN,KIN10,10,Kingfish Kermadec,2000,,,1000,0,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWH2,10,Knobbed whelk Central (East),3000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWH5,10,Knobbed whelk Southland,3000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWH6,10,Knobbed whelk Sub-Antarctic,4000,,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWH7A,10,Knobbed whelk Nelson/Marlborough,53000,,,50000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWH7B,10,Knobbed whelk West Coast,3000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWH9,10,Knobbed whelk Auckland (West),3000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LDO,LDO10,10,Lookdown Dory Kermadec,1000,,,1000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LEA,LEA10,10,Leatherjacket Kermadec,0,0,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LEA,LEA4,10,Leatherjacket South-East(Chatham Rise),10000,,,7000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFE11,10,Long-finned eel Nelson/Marlborough,3000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFE13,2,Long-finned eel Lake Ellesmere,3000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFE17,10,Long-finned eel South-East(Chatham Rise),3000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LIN,LIN10,10,Ling Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MDI,MDI1,4,Trough Shell Auckland (East),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MDI,MDI2,4,Trough Shell Central (East),66000,,,63000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MDI,MDI3,4,Trough Shell South-East (Coast),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MDI,MDI4,4,Trough Shell South-East (Chatham Rise),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MDI,MDI5,4,Trough Shell Southland,14000,,,14000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MDI,MDI8,4,Trough Shell Central (West),27000,,,27000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MDI,MDI9,4,Trough Shell Auckland (West),27000,,,27000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MMI,MMI1,4,Large trough shell Auckland (East),2000,,,2000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MMI,MMI2,4,Large trough shell Central (East),3000,,,3000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MMI,MMI4,4,Large trough shell South-East (Chatham Rise),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MMI,MMI5,4,Large trough shell Southland,1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MMI,MMI9,4,Large trough shell Auckland (West),25000,,,25000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MOK,MOK10,10,Blue Moki Kermadec,,0,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OEO,OEO10,10,Oreo Kermadec,,,,10000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ORH,ORH10,10,Orange Roughy Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS1,10,Dredge Oyster Auckland (East),4000,,,1000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS2A,10,Dredge Oyster Part Central (East),4000,,,1000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS3,10,Dredge Oyster South-East (Coast),7000,,,2000,2000,2000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS4,10,Dredge Oyster South-East (Chatham Rise),50000,,,43500,2000,2000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS5A,10,Dredge Oyster Non-Foveaux Strait Southland,8000,,,3000,2000,2000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS7,10,Dredge Oyster Nelson/Marlborough fishery,,,,505000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS7A,10,Dredge Oyster West Coast,4000,,,1000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS7B,10,Dredge Oyster North and West of Farewell Spit,4000,,,1000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS7C,10,"Dredge Oyster Clarence Pt to West Head,Tory Channel",72000,,,63000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS8A,10,Dredge Oyster Part Central (Egmont),4000,,,1000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS9,10,Dredge Oyster Auckland (West),4000,,,1000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAD,PAD10,10,Paddle Crab  Kermadec,0,,,0,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAD,PAD6,10,Paddle Crab  Sub-Antartic,0,0,,0,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAD,PAD9,10,Paddle Crab  Auckland(West),130000,,,100000,10000,20000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAR,PAR10,10,Parore Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAR,PAR2,10,"Parore 2,3,4,5,6,7, and 8 (Combined)",4000,,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU1,10,Paua Auckland,,0,,1930,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU10,10,Paua Kermadec,,,,1000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU6A,10,Paua Sub-Antarctic,,,,,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PDO,PDO1,4,Deepwater tuatua Auckland (East),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PDO,PDO2,4,Deepwater tuatua Central (East),509000,,,466000,9000,9000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PDO,PDO4,4,Deepwater tuatua South-East (Chatham Rise),3000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PDO,PDO5,4,Deepwater tuatua Southland,3000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PDO,PDO9,4,Deepwater tuatua Auckland (West),53000,,,1000,26000,26000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PIL,PIL10,10,Pilchards  Kermadec,0,,,0,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PIL,PIL3,10,"Pilchard South-East(Coast), Southland, Sub-Antarctic",67000,,,60000,2000,5000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POR,POR10,10,Porae Kermadec,4000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPI1A,10,Pipi Whangarei Harbour fishery,250000,,,200000,25000,25000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPI1B,10,Pipi East Northland,160000,,,0,76000,76000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPI1C,10,Pipi Hauraki Gulf and Bay of Plenty,243000,,,3000,115000,115000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPI2,10,Pipi Central (East),7000,,,0,3000,3000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPI3,10,Pipi South-East (Coast),19000,,,0,9000,9000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPI4,10,Pipi South-East (Chatham Rise),3000,,,0,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPI5,10,Pipi Southland and Sub-Antarctic (Combined),3000,,,0,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPI7,10,Pipi Challenger/Central (Plateau),4000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPI8,10,Pipi Challenger (South),3000,,,0,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPI9,10,Pipi Auckland (West),21000,,,0,10000,10000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRK10,10,Prawn Killer Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRK5,10,Prawn Killer Southland,1000,,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRK6A,10,Prawn killer Auckland Islands,1000,,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRK6B,10,Prawn killer Part Sub-Antarctic,1000,,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRK8,10,Prawn Killer Central(West),1000,,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRK9,10,Prawn Killer Auckland(West),1000,,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PZL,PZL1,10,Deepwater clam Auckland (East),1500,,,1200,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PZL,PZL2,10,Deepwater clam Central (East),1500,,,1200,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PZL,PZL3,10,Deepwater clam South-East (Coast),1500,,,1200,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PZL,PZL4,10,Deepwater clam South-East (Chatham Rise),1500,,,1200,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PZL,PZL5,10,Deepwater clam Southland & Sub-Antarctic,1500,,,1200,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PZL,PZL8,10,Deepwater clam Central (West),1500,,,1200,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PZL,PZL9,10,Deepwater clam Auckland (West),1500,,,1200,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBT,RBT10,10,Redbait Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBY,RBY10,10,Ruby Fish Kermadec,0,,,0,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBY,RBY6,10,Ruby Fish Sub-Antartic,0,,,0,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RCO,RCO10,10,Red Cod Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RIB,RIB10,10,Ribaldo Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RSK,RSK10,10,Rough Skate Kermadec,0,0,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RSN,RSN10,10,Red Snapper Kermadec,4000,,,1000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SAE,SAE1,4,Triangle shell Auckland (East),9000,,,9000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SAE,SAE2,4,Triangle shell Central (East),132000,,,125000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SAE,SAE4,4,Triangle shell South-East (Chatham Rise),1000,,,1000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SAE,SAE5,4,Triangle shell Southland,3000,,,3000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SAE,SAE9,4,Triangle shell Auckland (West),8000,,,8000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA1A,4,Scallop Eastern Bay of Plenty,8000,,,1000,3000,3000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA2A,4,Scallop Part Central (East),4000,,,1000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA3,4,Scallop South-East and part Chatham Rise,4000,,,1000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA4,4,Scallop Chatham Islands scallop fishery,26000,,,23000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA5,4,Scallop Southland and Sub-Antarctic (Combined),8000,,,1000,3000,3000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA7,4,Scallop Southern scallop fishery,520000,,,400000,40000,40000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA7A,4,Scallop West Coast,4000,,,1000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA7B,4,Scallop North and West of Farewell Spit,2000,,,1000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA7C,4,"Scallop Clarence Pt to West Head, Tory Channel",4000,,,1000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA8A,4,Scallop Part Central (Egmont),4000,,,1000,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCA9A,4,Scallop Part Auckland (West),26000,,,1000,12000,12000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC10,4,Sea cucumber Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC6,4,Sea cucumber Sub-Antarctic,0,0,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCC7D,4,Sea cucumber Challenger (Westland),4000,,,2000,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCH,SCH10,10,School Shark Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCI10,10,Scampi Kermadec,0,,,0,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCI8,10,Scampi Central (Egmont),5000,,,5000,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFE17,10,Short-finned eel South-East(Chatham Rise),15000,,,10000,3000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SKI,SKI10,10,Gemfish Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SNA,SNA10,10,Snapper Kermadec,,0,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPD,SPD10,10,Spiny Dogfish Kermadec,2000,,,0,1000,1000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPE,SPE10,10,Sea Perch Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPR,SPR10,10,Sprats  Kermadec,0,,,0,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPR,SPR3,10,"Sprats South-East(Coast), Southland, Sub-Antartic",300000,,,285000,5000,10000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPR,SPR4,10,Sprats  South-East(Chatham Rise),15000,,,10000,2000,3000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPR,SPR7,10,Sprats  Challenger,100000,,,85000,5000,10000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSK,SSK10,10,Smooth Skate Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STA,STA10,10,Stargazer Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR10,10,Kina Kermadec,0,,,0,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR7B,10,Kina Challenger (Westland),26000,,,10000,10000,5000,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SWA,SWA10,10,Silver Warehou Kermadec,,,,10000,,,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TAR,TAR10,10,Tarakihi Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRE,TRE10,10,Trevally Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRU,TRU10,10,Trumpeter Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUA,TUA1A,10,Tuatua East Northland,84000,,,0,40000,40000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUA,TUA1B,10,Tuatua Hauraki Gulf and Bay of Plenty,126000,,,0,60000,60000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUA,TUA2,10,Tuatua Central (East),7000,,,0,3000,3000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUA,TUA3,10,Tuatua South-East (Coast),7000,,,0,3000,3000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUA,TUA4,10,Tuatua South-East (Chatham Rise),3000,,,0,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUA,TUA5,10,Tuatua Southland and Sub-Antarctic (Combined),3000,,,0,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUA,TUA7,10,Tuatua Challenger/Central (Plateau),3000,,,0,1000,1000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUA,TUA8,10,Tuatua Challenger (South),5000,,,0,2000,2000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUA,TUA9,10,Tuatua Auckland (West),102000,,,43000,26000,26000,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WAR,WAR10,10,Blue Warehou Kermadec,,,,10000,,,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WWA,WWA10,10,White Warehou Kermadec,0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WWA,WWA8,10,White Warehou Central(West),1000,,,1000,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WWA,WWA9,10,White Warehou Auckland(West),0,,,0,0,0,No,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YEM,YEM4,10,Yellow Eyed Mullet  South-East(Chatham Rise),0,,,0,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YEM,YEM6,10,Yellow Eyed Mullet  Sub-Antartic,0,,,0,0,0,Yes,Yes
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SKJ,SKJ1,10,Skipjack All NZ Fisheries,,3818625,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ALB,ALB1,10,Albacore All NZ Fisheries,,2641785,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ULV,ULV1,10,Ulva Auckland (East),,120000,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OCT,OCT3,10,Octopus South-East(Coast),,59577,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OCT,OCT5,10,Octopus Southland,,15034,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,NSD,NSD7,10,Northern Spiny Dogfish Challenger,,13706,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAT,CAT8,10,Catfish (Freshwater) Central(West),,13313,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTE,PTE2,10,Agar weed Central (East),,12415,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OCT,OCT1,10,Octopus Auckland(East),,9832,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OCT,OCT2,10,Octopus Central(East),,7713,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,NSD,NSD1,10,Northern Spiny Dogfish Auckland(East),,6512,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OCT,OCT7,10,Octopus Challenger,,6085,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOI,KOI9,10,Koi Carp Auckland(West),,5746,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SAM,SAM3,10,Quinnat Salmon South-East(Coast),,4149,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSP,MSP9,10,Green Mussel Spat Auckland (West),,4080,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB3F,10,Bladder Kelp (Free-floating) South-East (Coast),,3560,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAT,CAT1,10,Catfish (Freshwater) Auckland(East),,3480,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CRB,CRB6,10,Crab Sub-Antartic,,3005,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BMA,BMA1,10,Blue Maomao Auckland(East),,2508,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BMA,BMA9,10,Blue Maomao Auckland(West),,1235,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAU,CAU9,10,Goldfish Auckland(West),,1216,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OCT,OCT6,10,Octopus Sub-Antarctic,,950,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OCT,OCT8,10,Octopus Central(West),,734,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,NSD,NSD9,10,Northern Spiny Dogfish Auckland(West),,678,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OCT,OCT4,10,Octopus South-East(Chatham Rise),,603,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EEL,EEL3,10,"Eels, Marine South-East(Coast)",,459,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OCT,OCT9,10,Octopus Auckland(West),,313,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOI,KOI1,10,Koi Carp Auckland(East),,305,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAU,CAU1,10,Goldfish Auckland(East),,282,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,NSD,NSD3,10,Northern Spiny Dogfish South-East(Coast),,235,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CRB,CRB5,10,Crab Southland,,204,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CRB,CRB3,10,Crab South-East(Coast),,172,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KTA,KTA1,10,King Tarakihi Auckland (East),,136,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBL,KBL2,10,Bull kelp Central (East),,120,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EEL,EEL4,10,"Eels, Marine South-East(Chatham Rise)",,89,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CRB,CRB2,10,Crab Central(East),,85,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BMA,BMA8,10,Blue Maomao Central(West),,20,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BMA,BMA2,10,Blue Maomao Central(East),,18,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,NSD,NSD4,10,Northern Spiny Dogfish South-East(Chatham Rise),,15,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOI,KOI2,10,Koi Carp Central(East),,8,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAU,CAU2,10,Goldfish Central(East),,7,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,NSD,NSD5,10,Northern Spiny Dogfish Southland,,6,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EEL,EEL2,10,"Eels, Marine Central(East)",,3,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,NSD,NSD2,10,Northern Spiny Dogfish Central(East),,2,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CRB,CRB1,10,Crab Auckland(East),,1,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EEL,EEL1,10,"Eels, Marine Auckland(East)",,1,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,NSD,NSD6,10,Northern Spiny Dogfish Sub-Antartic,,1,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,UNF,UNF1,10,Unidentified,,1,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ALB,ALBET,10,Albacore Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ANC,ANCET,10,Anchovy  Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ATO,ATOET,10,Antarctic Toothfish Ex Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAR,BARET,10,Barracouta Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAS,BAS1,10,Bass 1 & 9 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAS,BAS10,10,Bass Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAS,BAS2,10,Bass Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAS,BAS3,10,Bass South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAS,BAS4,10,Bass South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAS,BAS5,10,Bass 5 & 6 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAS,BAS7,10,Bass Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAS,BAS8,10,Bass Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BAS,BASET,10,Bass Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BCO,BCOET,10,Blue Cod Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BEM,BEM1,10,Blue Marlin Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BEM,BEM10,10,Blue Marlin Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BEM,BEM2,10,Blue Marlin Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BEM,BEM3,10,Blue Marlin South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BEM,BEM4,10,Blue Marlin South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BEM,BEM5,10,Blue Marlin Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BEM,BEM6,10,Blue Marlin Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BEM,BEM7,10,Blue Marlin Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BEM,BEM8,10,Blue Marlin Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BEM,BEM9,10,Blue Marlin Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BEM,BEMET,10,Blue Marlin Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BFL,BFL1,10,Black Flounder 1 & 9 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BFL,BFL10,10,Black Flounder Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BFL,BFL2,10,Black Flounder 2 & 8 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BFL,BFL3,10,"Black Flounder 3, 4, 5, & 6 Combined",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BFL,BFL7,10,Black Flounder Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BFL,BFLET,10,Black Flounder Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BIG,BIGET,10,Bigeye Tuna Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BMA,BMA10,10,Blue Maomao Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BMA,BMA3,10,Blue Maomao South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BMA,BMA4,10,Blue Maomao South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BMA,BMA5,10,Blue Maomao Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BMA,BMA6,10,Blue Maomao Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BMA,BMA7,10,Blue Maomao Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BMA,BMAET,10,Blue Maomao Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BNS,BNSET,10,Bluenose Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BOE,BOE1,10,"Black oreo 1,2A,2B,5A,7A,7B,8,9  (Combined)",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BOE,BOE10,10,Black oreo Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BOE,BOE3A,10,Black oreo Sth-East (Cook Strait/Kaikoura/Strathallan),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BOE,BOE4,10,Black oreo South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BOE,BOE6,10,Black oreo Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BOE,BOEET,10,Black oreo Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BOE,BOESTR,10,Black oreo South Tasman Rise,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BRI,BRI1,10,Brill 1 & 9 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BRI,BRI10,10,Brill Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BRI,BRI2,10,Brill 2 & 8 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BRI,BRI3,10,"Brill 3, 4, 5 & 6 Combined",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BRI,BRI7,10,Brill Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BRI,BRIET,10,Brill Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BUT,BUTET,10,Butterfish  Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BWS,BWSET,10,Blue Shark Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,BYA,BYA10,10,Frilled venus shell Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,BYA,BYA6,10,Frilled venus shell Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,BYA,BYAET,4,Frilled Venus Shell Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,BYX,BYXET,10,Alfonsino Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAT,CAT10,10,Catfish (Freshwater) Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAT,CAT2,10,Catfish (Freshwater) Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAT,CAT3,10,Catfish (Freshwater) South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAT,CAT4,10,Catfish (Freshwater) South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAT,CAT5,10,Catfish (Freshwater) Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAT,CAT6,10,Catfish (Freshwater) Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAT,CAT7,10,Catfish (Freshwater) Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAT,CAT9,10,Catfish (Freshwater) Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAT,CATET,10,Catfish (Freshwater) Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAU,CAU10,10,Goldfish Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAU,CAU3,10,Goldfish South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAU,CAU4,10,Goldfish South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAU,CAU5,10,Goldfish Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAU,CAU6,10,Goldfish Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAU,CAU7,10,Goldfish Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAU,CAU8,10,Goldfish Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CAU,CAUET,10,Goldfish Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CDL,CDLET,10,Cardinalfish Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CGR,CGR1,10,Convict groper Auckland (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CGR,CGR10,10,Convict groper Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CGR,CGR2,10,Convict groper Central (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CGR,CGR3,10,Convict groper South-East (Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CGR,CGR4,10,Convict groper South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CGR,CGR5,10,Convict groper Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CGR,CGR6,10,Convict groper Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CGR,CGR7,10,Convict groper Challenger/Central (Plateau),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CGR,CGR8,10,Convict groper Central (Egmont),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CGR,CGR9,10,Convict groper Auckland (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CGR,CGRET,10,Convict groper Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CHC,CHCET,4,Red crab Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COC10,10,Cockle Kermadec,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,COC,COCET,10,Cockle Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,CRA,CRAET,4,Spiny red rock lobster Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CRB,CRB10,10,Crab Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CRB,CRB4,10,Crab South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CRB,CRB7,10,Crab Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CRB,CRB8,10,Crab Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CRB,CRB9,10,Crab Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,CRB,CRBET,10,Crab Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DAN,DAN10,10,Ringed dosinia Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DAN,DAN6,10,Ringed dosinia Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DAN,DANET,4,Ringed Dosinia Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DSU,DSU10,10,Silky dosinia Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DSU,DSU6,10,Silky dosinia Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,DSU,DSUET,4,Silky dosinia Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ECK,ECK1,10,Ecklonia Auckland (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ECK,ECK10,10,Ecklonia Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ECK,ECK2,10,Ecklonia Central (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ECK,ECK3,10,Ecklonia South-East (Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ECK,ECK4,10,Ecklonia South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ECK,ECK5,10,Ecklonia Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ECK,ECK6,10,Ecklonia Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ECK,ECK7,10,Ecklonia Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ECK,ECK8,10,Ecklonia Central (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ECK,ECK9,10,Ecklonia Auckland (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ECK,ECKET,10,Ecklonia Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EEL,EEL10,10,"Eels, Marine Kermadec",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EEL,EEL5,10,"Eels, Marine Southland",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EEL,EEL6,10,"Eels, Marine Sub-Antartic",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EEL,EEL7,10,"Eels, Marine Challenger",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EEL,EEL8,10,"Eels, Marine Central(West)",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EEL,EEL9,10,"Eels, Marine Auckland(West)",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EEL,EELET,10,"Eels, Marine Extra Territorial (200 mile limi",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ELE,ELEET,10,Elephant Fish Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,EMA,EMAET,10,Blue Mackerel Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ESO,ESO1,10,NZ Sole 1 & 9 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ESO,ESO10,10,NZ Sole Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ESO,ESO2,10,NZ Sole 2 & 8 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ESO,ESO3,10,"NZ Sole 3, 4, 5 & 6 Combined",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ESO,ESO7,10,NZ Sole Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ESO,ESOET,10,NZ Sole Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FLA,FLAET,10,Flatfish Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,FRO,FROET,10,Frostfish Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GAR,GARET,10,Garfish  Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GFL,GFL1,10,Greenback Flounder 1 & 9 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GFL,GFL10,10,Greenback Flounder Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GFL,GFL2,10,Greenback Flounder 2 & 8 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GFL,GFL3,10,"Greenback Flounder 3, 4, 5 & 6 Combined",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GFL,GFL7,10,Greenback Flounder Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GFL,GFLET,10,Greenback Flounder Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GGA,GGA1,10,Gigartina Sp. Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GGA,GGA10,10,Gigartina Sp. Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GGA,GGA2,10,Gigartina Sp. Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GGA,GGA3,10,Gigartina Sp. South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GGA,GGA4,10,Gigartina Sp. South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GGA,GGA5,10,Gigartina Sp. Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GGA,GGA6,10,Gigartina Sp. Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GGA,GGA7,10,Gigartina Sp. Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GGA,GGA8,10,Gigartina Sp. Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GGA,GGA9,10,Gigartina Sp. Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GGA,GGAET,10,Gigartina Sp. Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLX,GLX1,10,Galaxiid (Adult) Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLX,GLX10,10,Galaxiid (Adult) Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLX,GLX2,10,Galaxiid (Adult) Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLX,GLX3,10,Galaxiid (Adult) South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLX,GLX4,10,Galaxiid (Adult) South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLX,GLX5,10,Galaxiid (Adult) Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLX,GLX6,10,Galaxiid (Adult) Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLX,GLX7,10,Galaxiid (Adult) Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLX,GLX8,10,Galaxiid (Adult) Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLX,GLX9,10,Galaxiid (Adult) Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GLX,GLXET,10,Galaxiid (Adult) Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GMU,GMUET,10,Grey Mullet Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRA,GRA1,10,Gracilaria Weed Auckland (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRA,GRA10,10,Gracilaria Weed Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRA,GRA2,10,Gracilaria Weed Central (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRA,GRA3,10,Gracilaria Weed South-East (Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRA,GRA4,10,Gracilaria Weed South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRA,GRA5,10,Gracilaria Weed Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRA,GRA6,10,Gracilaria Weed Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRA,GRA7,10,Gracilaria Weed Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRA,GRA8,10,Gracilaria Weed Central (West),,0,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRA,GRA9,10,Gracilaria Weed Auckland (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRA,GRAET,10,Gracilaria Weed Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRP,GRP1,10,Grass Carp Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRP,GRP10,10,Grass Carp Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRP,GRP2,10,Grass Carp Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRP,GRP3,10,Grass Carp South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRP,GRP4,10,Grass Carp South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRP,GRP5,10,Grass Carp Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRP,GRP6,10,Grass Carp Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRP,GRP7,10,Grass Carp Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRP,GRP8,10,Grass Carp Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRP,GRP9,10,Grass Carp Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GRP,GRPET,10,Grass Carp Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,GSC,GSCET,4,Giant Spider Crab Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSHET,10,Ghost Shark Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSH,GSHSTR,10,Ghost Shark South Tasman Rise,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GSP,GSPET,10,Pale Ghost Shark Extra Territorial (200 mile,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,GUR,GURET,10,Gurnard Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAK,HAKET,10,Hake Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAP,HAP1,10,Hapuku 1 & 9 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAP,HAP10,10,Hapuku Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAP,HAP2,10,Hapuku Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAP,HAP3,10,Hapuku South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAP,HAP4,10,Hapuku South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAP,HAP5,10,Hapuku 5 & 6 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAP,HAP7,10,Hapuku Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAP,HAP8,10,Hapuku Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HAP,HAPET,10,Hapuku Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HOK,HOKET,10,Hoki Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,HOR,HORET,4,Horse Mussel Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HPB,HPBET,10,Hapuku & Bass Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HSI,HSI1,10,Jackknife Prawn Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HSI,HSI10,10,Jackknife Prawn Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HSI,HSI2,10,Jackknife Prawn Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HSI,HSI3,10,Jackknife Prawn South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HSI,HSI4,10,Jackknife Prawn South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HSI,HSI5,10,Jackknife Prawn Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HSI,HSI6,10,Jackknife Prawn Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HSI,HSI7,10,Jackknife Prawn Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HSI,HSI8,10,Jackknife Prawn Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HSI,HSI9,10,Jackknife Prawn Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,HSI,HSIET,10,Jackknife Prawn Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JDO,JDOET,10,John Dory Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JMA,JMAEA,10,"Jack mackerel Muriwhenua, Exempt Area",,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,JMA,JMAET,10,Jack mackerel Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KAH,KAHET,10,Kahawai Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB1,10,Bladder Kelp Auckland (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB10,10,Bladder Kelp Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB2,10,Bladder Kelp Central (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB3B,10,Bladder Kelp (Beach-cast) South-East (Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB4F,10,Bladder Kelp (Free-floating) South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB5,10,Bladder Kelp Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB6,10,Bladder Kelp Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB7,10,Bladder Kelp Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB8,10,Bladder Kelp Central (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBB9,10,Bladder Kelp Auckland (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBB,KBBET,10,Bladder Kelp Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBL,KBL1,10,Bull kelp Auckland (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBL,KBL10,10,Bull kelp Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBL,KBL3,10,Bull kelp South-East (Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBL,KBL4,10,Bull kelp South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBL,KBL5,10,Bull kelp Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBL,KBL6,10,Bull kelp Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBL,KBL7,10,Bull kelp Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBL,KBL8,10,Bull kelp Central (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBL,KBL9,10,Bull kelp Auckland (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KBL,KBLET,10,Bull kelp Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,KIC,KICET,4,King crab Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KIN,KINET,10,Kingfish Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOI,KOI10,10,Koi Carp Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOI,KOI3,10,Koi Carp South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOI,KOI4,10,Koi Carp South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOI,KOI5,10,Koi Carp Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOI,KOI6,10,Koi Carp Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOI,KOI7,10,Koi Carp Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOI,KOI8,10,Koi Carp Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOI,KOIET,10,Koi Carp Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOU,KOU1,10,Koura Auckland (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOU,KOU10,10,Koura Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOU,KOU2,10,Koura Central (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOU,KOU3,10,Koura South-East (Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOU,KOU4,10,Koura South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOU,KOU5,10,Koura Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOU,KOU6,10,Koura Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOU,KOU7,10,Koura Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOU,KOU8,10,Koura Central (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOU,KOU9,10,Koura Auckland (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KOU,KOUET,10,Koura Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWH10,10,Knobbed whelk Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,KWH,KWHET,10,Knobbed whelk Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LDO,LDOET,10,Lookdown Dory Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LEA,LEAET,10,Leatherjacket Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LES,LES1,10,Lessonia Auckland (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LES,LES10,10,Lessonia Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LES,LES2,10,Lessonia Central (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LES,LES3,10,Lessonia South-East (Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LES,LES4,10,Lessonia South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LES,LES5,10,Lessonia Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LES,LES6,10,Lessonia Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LES,LES7,10,Lessonia Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LES,LES8,10,Lessonia Central (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LES,LES9,10,Lessonia Auckland (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LES,LESET,10,Lessonia Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LFE,LFEET,10,Long-finned eel Extra Territorial (200 m limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LIN,LINET,10,Ling Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LIN,LINSTR,10,Ling South Tasman Rise,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LSO,LSO1,10,Lemon Sole 1 & 9 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LSO,LSO10,10,Lemon Sole Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LSO,LSO2,10,Lemon Sole 2 & 8 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LSO,LSO3,10,"Lemon Sole 3, 4, 5 & 6 Combined",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LSO,LSO7,10,Lemon Sole Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,LSO,LSOET,10,Lemon Sole Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MAK,MAKET,10,Mako Shark Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MDI,MDI10,10,Trough shell Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MDI,MDI6,10,Trough shell Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MDI,MDIET,4,Trough Shell Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MMI,MMI10,10,Large trough shell Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MMI,MMI6,10,Large trough shell Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,MMI,MMIET,4,Large trough shell Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MOK,MOKET,10,Blue Moki Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MOO,MOOET,10,Moonfish Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSG,MSG1,10,Green-Lipped Mussel Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSG,MSG10,10,Green-Lipped Mussel Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSG,MSG2,10,Green-Lipped Mussel Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSG,MSG3,10,"Green-Lipped Mussel 3, 4, 5, and 6 (Combined)",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSG,MSG7A,10,Green-Lipped Mussel Nelson/Marlborough,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSG,MSG7B,10,Green-Lipped Mussel West Coast,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSG,MSG8,10,Green-Lipped Mussel Central (Egmont),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSG,MSG9,10,Green-Lipped Mussel Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSG,MSGET,10,Green-Lipped Mussel Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSP,MSP1,10,Green Mussel Spat Auckland (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSP,MSP10,10,Green Mussel Spat Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSP,MSP2,10,Green Mussel Spat Central (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSP,MSP3,10,"Green Mussel Spat 3, 4, 5, and 6 (Combined)",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSP,MSP7A,10,Green Mussel Spat Nelson/Marlborough,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSP,MSP7B,10,Green Mussel Spat West Coast,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSP,MSP8,10,Green Mussel Spat Central (Egmont),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,MSP,MSPET,10,Green Mussel Spat Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,NSD,NSD10,10,Northern Spiny Dogfish Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,NSD,NSD8,10,Northern Spiny Dogfish Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,NSD,NSDET,10,Northern Spiny Dogfish Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OCT,OCT10,10,Octopus Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OCT,OCTET,10,Octopus Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OEO,OEOET,10,Oreo Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OEO,OEOSTR,10,Oreo South Tasman Rise,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ORH,ORHET,10,Orange Roughy Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ORH,ORHSTR,10,Orange Roughy South Tasman Rise,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYS10,10,Dredge Oyster Kermadec,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,OYS,OYSET,10,Dredge Oyster Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAA,PAA1,10,Haliotis Australis Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAA,PAA10,10,Haliotis Australis Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAA,PAA2,10,Haliotis Australis Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAA,PAA3,10,Haliotis Australis South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAA,PAA4,10,Haliotis Australis South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAA,PAA5,10,Haliotis Australis Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAA,PAA6,10,Haliotis Australis Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAA,PAA7,10,Haliotis Australis Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAA,PAA8,10,Haliotis Australis Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAA,PAA9,10,Haliotis Australis Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAA,PAAET,10,Haliotis Australis Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAD,PADET,10,Paddle Crab  Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAI,PAI1,10,Haliotis Iris Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAI,PAI10,10,Haliotis Iris Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAI,PAI2,10,Haliotis Iris Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAI,PAI3,10,Haliotis Iris South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAI,PAI4,10,Haliotis Iris South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAI,PAI5,10,Haliotis Iris Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAI,PAI6,10,Haliotis Iris Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAI,PAI7,10,Haliotis Iris Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAI,PAI8,10,Haliotis Iris Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAI,PAI9,10,Haliotis Iris Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAI,PAIET,10,Haliotis Iris Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAR,PARET,10,Parore Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAU6R,10,Paua PAU6 Research Program,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PAU,PAUET,10,Paua Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PDO,PDO10,10,Deepwater tuatua Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PDO,PDO6,10,Deepwater tuatua Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PDO,PDOET,4,Deepwater tuatua Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,PHC,PHCET,4,Packhorse Rock Lob Ex Territory (200 m limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PIL,PILET,10,Pilchards  Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POR,PORET,10,Porae Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POS,POSET,10,Porbeagle Shark Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POY,POY1,10,Oysters Pacific Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POY,POY10,10,Oysters Pacific Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POY,POY2,10,Oysters Pacific Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POY,POY3,10,Oysters Pacific South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POY,POY4,10,Oysters Pacific South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POY,POY5,10,Oysters Pacific Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POY,POY6,10,Oysters Pacific Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POY,POY7,10,Oysters Pacific Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POY,POY8,10,Oysters Pacific Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POY,POY9,10,Oysters Pacific Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,POY,POYET,10,Oysters Pacific Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPI10,10,Pipi Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PPI,PPIET,10,Pipi Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRK,PRKET,10,Prawn Killer Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRP,PRP1,10,Porphyra Auckland (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRP,PRP10,10,Porphyra Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRP,PRP2,10,Porphyra Central (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRP,PRP3,10,Porphyra South-East (Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRP,PRP4,10,Porphyra South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRP,PRP5,10,Porphyra Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRP,PRP6,10,Porphyra Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRP,PRP7,10,Porphyra Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRP,PRP8,10,Porphyra Central (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRP,PRP9,10,Porphyra Auckland (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PRP,PRPET,10,Porphyra Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTE,PTE1,10,Agar weed Auckland (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTE,PTE10,10,Agar weed Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTE,PTE3,10,Agar weed South-East (Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTE,PTE4,10,Agar weed South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTE,PTE5,10,Agar weed Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTE,PTE6,10,Agar weed Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTE,PTE7,10,Agar weed Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTE,PTE8,10,Agar weed Central (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTE,PTE9,10,Agar weed Auckland (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTE,PTEET,10,Agar weed Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PTO,PTOET,10,Patagonian Toothfish Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PZL,PZL10,10,Deepwater clam Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,PZL,PZLET,10,Deepwater clam Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,QSC,QSC1,10,Queen Scallops  Auckland(East),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,QSC,QSC10,10,Queen Scallops  Kermadec,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,QSC,QSC2,10,Queen Scallops  Central(East),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,QSC,QSC4,10,Queen Scallops  South-East(Chatham Rise),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,QSC,QSC6,10,Queen Scallops  Sub-Antartic,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,QSC,QSC7,10,Queen Scallops  Challenger,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,QSC,QSC8,10,Queen Scallops  Central(West),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,QSC,QSC9,10,Queen Scallops  Auckland(West),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,QSC,QSCET,10,Queen Scallops  Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBM,RBMET,10,Rays Bream Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBT,RBTET,10,Redbait Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RBY,RBYET,10,Ruby Fish Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RCO,RCOET,10,Red Cod Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RIB,RIBET,10,Ribaldo Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RSK,RSKET,10,Rough Skate Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,RSN,RSNET,10,Red Snapper Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SAE,SAE10,10,Triangle shell Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SAE,SAE6,10,Triangle shell Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SAE,SAEET,4,Triangle shell Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SAM,SAM1,10,Quinnat Salmon Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SAM,SAM10,10,Quinnat Salmon Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SAM,SAM2,10,Quinnat Salmon Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SAM,SAM4,10,Quinnat Salmon South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SAM,SAM5,10,Quinnat Salmon Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SAM,SAM6,10,Quinnat Salmon Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SAM,SAM7,10,Quinnat Salmon Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SAM,SAM8,10,Quinnat Salmon Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SAM,SAM9,10,Quinnat Salmon Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SAM,SAMET,10,Quinnat Salmon Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SBW,SBWET,4,Southern Blue Whiting Ex Territory (200 m limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SBW,SBWSTR,4,Southern Blue Whiting South Tasman Rise,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCA,SCAET,4,Scallop Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,4,SCC,SCCET,4,Sea cucumber Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCH,SCHET,10,School Shark Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SCI,SCIET,10,Scampi Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFE,SFEET,10,Short-finned eel Extra Territorial (200 m limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFL,SFL1,10,Sand Flounder 1 & 9 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFL,SFL10,10,Sand Flounder Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFL,SFL2,10,Sand Flounder 2 & 8 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFL,SFL3,10,"Sand Flounder 3, 4, 5 & 6 Combined",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFL,SFL7,10,Sand Flounder Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SFL,SFLET,10,Sand Flounder Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SKI,SKIET,10,Gemfish Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SKJ,SKJET,10,Skipjack Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SME,SME1,10,Smelt Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SME,SME10,10,Smelt Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SME,SME2,10,Smelt Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SME,SME3,10,Smelt South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SME,SME4,10,Smelt South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SME,SME5,10,Smelt Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SME,SME6,10,Smelt Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SME,SME7,10,Smelt Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SME,SME8,10,Smelt Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SME,SME9,10,Smelt Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SME,SMEET,10,Smelt Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SNA,SNAET,10,Snapper Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOR,SOR1,10,"Spiky oreo 1,2A,2B,5A,7A,7B,8,9  (Combined)",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOR,SOR10,10,Spiky oreo Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOR,SOR3A,10,Spiky oreo Sth-East (Cook Strait/Kaikoura/Strathallan),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOR,SOR4,10,Spiky oreo South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOR,SOR6,10,Spiky oreo Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOR,SORET,10,Spiky oreo Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOR,SORSTR,10,Spiky oreo South Tasman Rise,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOS,SOS1,10,Sockeye salmon Auckland (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOS,SOS10,10,Sockeye salmon Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOS,SOS2,10,Sockeye salmon Central (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOS,SOS3,10,Sockeye salmon South-East (Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOS,SOS4,10,Sockeye salmon South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOS,SOS5,10,Sockeye salmon Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOS,SOS6,10,Sockeye salmon Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOS,SOS7,10,Sockeye salmon Challenger/Central (Plateau),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOS,SOS8,10,Sockeye salmon Central (Egmont),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOS,SOS9,10,Sockeye salmon Auckland (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SOS,SOSET,10,Sockeye salmon Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPD,SPDET,10,Spiny Dogfish Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPD,SPDSTR,10,Spiny Dogfish South Tasman Rise,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPE,SPEET,10,Sea Perch Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPO,SPOET,10,Rig Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SPR,SPRET,10,Sprats  Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SQU,SQUEA,10,"Arrow squid Muriwhenua, Exempt Area",,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SQU,SQUET,10,Arrow squid Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SQU,SQUSTR,10,Arrow Squid South Tasman Rise,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSK,SSKET,10,Smooth Skate Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSK,SSKSTR,10,Smooth Skate South Tasman Rise,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSO,SSO1,10,"Smooth oreo 1,2A,2B,5A,7A,7B,8,9  (Combined)",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSO,SSO10,10,Smooth oreo Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSO,SSO3A,10,Smooth oreo Sth-East (Cook Strait/Kaikoura/Strathallan),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSO,SSO4,10,Smooth oreo South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSO,SSO6,10,Smooth oreo Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSO,SSOET,10,Smooth oreo Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SSO,SSOSTR,10,Smooth oreo South Tasman Rise,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STA,STAET,10,Stargazer Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STM,STM1,10,Striped Marlin Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STM,STM10,10,Striped Marlin Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STM,STM2,10,Striped Marlin Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STM,STM3,10,Striped Marlin South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STM,STM4,10,Striped Marlin South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STM,STM5,10,Striped Marlin Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STM,STM6,10,Striped Marlin Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STM,STM7,10,Striped Marlin Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STM,STM8,10,Striped Marlin Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STM,STM9,10,Striped Marlin Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,STM,STMET,10,Striped Marlin Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SUR6,10,Kina Sub-Antarctic,,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SUR,SURET,10,Kina Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SWA,SWAET,10,Silver Warehou Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,SWO,SWOET,10,Swordfish Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TAR,TARET,10,Tarakihi Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TOR,TORET,10,Pacific Bluefin Tuna Extra Territorial (200m limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRE,TREET,10,Trevally Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TRU,TRUET,10,Trumpeter Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUA,TUA10,10,Tuatua Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUA,TUAET,10,Tuatua Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUR,TUR1,10,Turbot 1 & 9 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUR,TUR10,10,Turbot Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUR,TUR2,10,Turbot 2 & 8 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUR,TUR3,10,"Turbot 3, 4, 5 & 6 Combined",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUR,TUR7,10,Turbot Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,TUR,TURET,10,Turbot Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ULV,ULV10,10,Ulva Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ULV,ULV2,10,Ulva Central (East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ULV,ULV3,10,Ulva South-East (Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ULV,ULV4,10,Ulva South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ULV,ULV5,10,Ulva Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ULV,ULV6,10,Ulva Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ULV,ULV7,10,Ulva Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ULV,ULV8,10,Ulva Central (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ULV,ULV9,10,Ulva Auckland (West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,ULV,ULVET,10,Ulva Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WAR,WARET,10,Blue Warehou Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WHI,WHI1,10,Whitebait Auckland(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WHI,WHI10,10,Whitebait Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WHI,WHI2,10,Whitebait Central(East),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WHI,WHI3,10,Whitebait South-East(Coast),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WHI,WHI4,10,Whitebait South-East(Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WHI,WHI5,10,Whitebait Southland,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WHI,WHI6,10,Whitebait Sub-Antartic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WHI,WHI7,10,Whitebait Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WHI,WHI8,10,Whitebait Central(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WHI,WHI9,10,Whitebait Auckland(West),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WHI,WHIET,10,Whitebait Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WOE,WOE1,10,"Warty oreo 1,2A,2B,5A,7A,7B,8,9 (Combined)",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WOE,WOE10,10,Warty oreo Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WOE,WOE3A,10,Warty oreo Sth-East (Cook Strait/Kaikoura/Strathallan),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WOE,WOE4,10,Warty oreo South-East (Chatham Rise),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WOE,WOE6,10,Warty oreo Sub-Antarctic,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WOE,WOEET,10,Warty oreo Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WOE,WOESTR,10,Warty oreo South Tasman Rise,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,WWA,WWAET,10,White Warehou Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YBF,YBF1,10,Yellowbelly flounder 1 & 9 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YBF,YBF10,10,Yellowbelly flounder Kermadec,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YBF,YBF2,10,Yellowbelly flounder 2 & 8 Combined,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YBF,YBF3,10,"Yellowbelly flounder 3, 4, 5 & 6 Combined",,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YBF,YBF7,10,Yellowbelly flounder Challenger,,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YBF,YBFET,10,Yellowbelly flounder Extra Territorial (200 mile limit),,,,,,,No,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YEM,YEMET,10,Yellow Eyed Mullet  Extra Territorial (200 mile limit),,,,,,,Yes,No
+"Ministry for Primary Industries, New Zealand",for 12 months to 30-09-2018,10,YFN,YFNET,10,Yellowfin Tuna Extra Territorial (200 mile limit),,,,,,,No,No

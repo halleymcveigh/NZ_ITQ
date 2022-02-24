@@ -1,0 +1,1439 @@
+"","fishing_period","species_code","tacc_kg","catch_kg","starting_year","species","species_common_name","period","ace_transfer_price"
+"1","for 12 months to 30-09-2016","ANC",80000,NA,"2015","Anchovy","Anchovy","Starting Oct 2015",0.0317705743304153
+"2","for 12 months to 30-09-2016","ANG",70025,32938.8333333333,"2015","Freshwater eels",NA,NA,NA
+"3","for 12 months to 30-09-2016","BAR",6534492.2,NA,"2015","Barracouta","Barracouta","Starting Oct 2015",0.121172019010361
+"4","for 12 months to 30-09-2016","BCO",291453.125,NA,"2015","Blue cod","Blue Cod","Starting Oct 2015",1.36064807679697
+"5","for 12 months to 30-09-2016","BIG",714000,172759,"2015","Bigeye tuna",NA,NA,NA
+"6","for 12 months to 30-09-2016","BNS",185000,NA,"2015","Bluenose","Bluenose","Starting Oct 2015",2.33181642683768
+"7","for 12 months to 30-09-2016","BUT",20250,NA,"2015","Butterfish","Butterfish","Starting Oct 2015",0.97397378543112
+"8","for 12 months to 30-09-2016","BWS",1860000,162531,"2015","Blue shark","Blue shark","Starting Oct 2015",0.068
+"9","for 12 months to 30-09-2016","BYX",499283.333333333,NA,"2015","Alfonsino","Alfonsino","Starting Oct 2015",1.0799652469897
+"10","for 12 months to 30-09-2016","CDL",196800,NA,"2015","Cardinalfish","Cardinalfish","Starting Oct 2015",0.10981660372162
+"11","for 12 months to 30-09-2016","COC",247230.769230769,NA,"2015","Cockle",NA,NA,NA
+"12","for 12 months to 30-09-2016","ELE",218916.666666667,NA,"2015","Elephant fish","Elephant Fish","Starting Oct 2015",0.538107820983099
+"13","for 12 months to 30-09-2016","EMA",2310000,NA,"2015","Blue mackerel","Blue Mackerel","Starting Oct 2015",0.126605091683809
+"14","for 12 months to 30-09-2016","FLA",1083760,NA,"2015","Flatfish","Flatfish","Starting Oct 2015",0.552084005156641
+"15","for 12 months to 30-09-2016","FRO",401900,NA,"2015","Frostfish","Frostfish","Starting Oct 2015",0.0602772633655352
+"16","for 12 months to 30-09-2016","GAR",7142.85714285714,NA,"2015","Garfish","Garfish","Starting Oct 2015",0.5111
+"17","for 12 months to 30-09-2016","GLM",215000,NA,"2015","Green-lipped mussel","Green-lipped mussel","Starting Oct 2015",6.7466
+"18","for 12 months to 30-09-2016","GMU",201120.2,NA,"2015","Grey mullet","Grey Mullet","Starting Oct 2015",0.9225
+"19","for 12 months to 30-09-2016","GSH",304700,NA,"2015","Ghost shark","Ghost Shark","Starting Oct 2015",0.101871094513226
+"20","for 12 months to 30-09-2016","GSP",593333.333333333,230209.666666667,"2015","Pale ghost shark","Pale Ghost Shark","Starting Oct 2015",0.0429299960285876
+"21","for 12 months to 30-09-2016","GUR",938531.166666667,NA,"2015","Gurnard","Gurnard","Starting Oct 2015",0.727501638144779
+"22","for 12 months to 30-09-2016","HAK",3302785.75,NA,"2015","Hake","Hake","Starting Oct 2015",0.393964638450075
+"23","for 12 months to 30-09-2016","HOK",75005000,NA,"2015","Hoki","Hoki","Starting Oct 2015",0.3684
+"24","for 12 months to 30-09-2016","HPB",272700,NA,"2015","Hapuku & bass","Hapuku & Bass","Starting Oct 2015",1.16439081743998
+"25","for 12 months to 30-09-2016","JDO",233080,NA,"2015","John dory","John Dory","Starting Oct 2015",1.20367798270757
+"26","for 12 months to 30-09-2016","JMA",15136808.5,NA,"2015","Jack mackerel","Jack mackerel","Starting Oct 2015",0.125748429715383
+"27","for 12 months to 30-09-2016","KAH",454666.666666667,370433.166666667,"2015","Kahawai","Kahawai","Starting Oct 2015",0.286553741259733
+"28","for 12 months to 30-09-2016","KBB",754800,NA,"2015","Bladder kelp",NA,NA,NA
+"29","for 12 months to 30-09-2016","KIN",31000,NA,"2015","Kingfish","King Crab","Starting Oct 2015",3.63860733872518
+"30","for 12 months to 30-09-2016","KWH",6700,NA,"2015","Knobbed whelk",NA,NA,NA
+"31","for 12 months to 30-09-2016","LDO",261000,NA,"2015","Lookdown dory","Lookdown Dory","Starting Oct 2015",0.123876427054053
+"32","for 12 months to 30-09-2016","LEA",292200,NA,"2015","Leatherjacket","Leatherjacket","Starting Oct 2015",0.239924598688042
+"33","for 12 months to 30-09-2016","LFE",16400,NA,"2015","Long-finned eel","Long-finned eel","Starting Oct 2015",2.50439459539359
+"34","for 12 months to 30-09-2016","LIN",2899000,NA,"2015","Ling","Ling","Starting Oct 2015",1.44831424972536
+"35","for 12 months to 30-09-2016","MAK",2e+05,70804,"2015","Mako shark","Mako Shark","Starting Oct 2015",0.0688
+"36","for 12 months to 30-09-2016","MOK",128181.2,NA,"2015","Blue moki","Blue Moki","Starting Oct 2015",0.59857172423778
+"37","for 12 months to 30-09-2016","MOO",527000,61078,"2015","Moonfish","Moonfish","Starting Oct 2015",0.1088
+"38","for 12 months to 30-09-2016","OEO",2972000,NA,"2015","Oreo","Oreo","Starting Oct 2015",0.359851292915856
+"39","for 12 months to 30-09-2016","ORH",1092000,NA,"2015","Orange roughy","Orange Roughy","Starting Oct 2015",2.17537483176183
+"40","for 12 months to 30-09-2016","OYS",56590.9090909091,NA,"2015","Dredge oyster",NA,NA,NA
+"41","for 12 months to 30-09-2016","OYU",14950000,10000801,"2015","Dredge oyster","Dredge Oyster","Starting Oct 2015",0.2135
+"42","for 12 months to 30-09-2016","PAD",76500,NA,"2015","Paddle crab","Paddle Crab","Starting Oct 2015",0.715269283992578
+"43","for 12 months to 30-09-2016","PAR",21000,NA,"2015","Parore","Parore","Starting Oct 2015",0.221202666802771
+"44","for 12 months to 30-09-2016","PAU",105849.9,NA,"2015","Paua","Paua","Starting Oct 2015",17.6275960516992
+"45","for 12 months to 30-09-2016","PIL",355000,NA,"2015","Pilchards","Pilchards","Starting Oct 2015",0.1843
+"46","for 12 months to 30-09-2016","POR",20750,NA,"2015","Porae","Porae","Starting Oct 2015",0.584916890457132
+"47","for 12 months to 30-09-2016","POS",110000,43270,"2015","Porbeagle shark","Porbeagle Shark","Starting Oct 2015",0.0618
+"48","for 12 months to 30-09-2016","PPI",20400,NA,"2015","Pipi",NA,NA,NA
+"49","for 12 months to 30-09-2016","PRK",3272.72727272727,NA,"2015","Prawn killer","Prawn Killer","Starting Oct 2015",0.1355
+"50","for 12 months to 30-09-2016","PTO",49500,6380,"2015","Patagonian toothfish",NA,NA,NA
+"51","for 12 months to 30-09-2016","PZL",3937.5,NA,"2015","Deepwater clam",NA,NA,NA
+"52","for 12 months to 30-09-2016","QSC",380000,13550,"2015","Queen scallop",NA,NA,NA
+"53","for 12 months to 30-09-2016","RBM",980000,125153,"2015","Ray's bream","Ray's Bream","Starting Oct 2015",0.056
+"54","for 12 months to 30-09-2016","RBT",1262500,NA,"2015","Redbait","Redbait","Starting Oct 2015",0.1406
+"55","for 12 months to 30-09-2016","RBY",81200,NA,"2015","Ruby fish","Ruby Fish","Starting Oct 2015",0.111101081855366
+"56","for 12 months to 30-09-2016","RCO",1655677,NA,"2015","Red cod","Red Cod","Starting Oct 2015",0.117290045360145
+"57","for 12 months to 30-09-2016","RIB",168300,NA,"2015","Ribaldo","Ribaldo","Starting Oct 2015",0.118327711790079
+"58","for 12 months to 30-09-2016","RSK",397200,NA,"2015","Rough skate","Rough Skate","Starting Oct 2015",0.110793148324267
+"59","for 12 months to 30-09-2016","RSN",48666.6666666667,NA,"2015","Red snapper","Red Snapper","Starting Oct 2015",1.35481048355313
+"60","for 12 months to 30-09-2016","SCH",429512.5,NA,"2015","School shark","School Shark","Starting Oct 2015",0.982499627741253
+"61","for 12 months to 30-09-2016","SCI",111272.727272727,NA,"2015","Scampi",NA,NA,NA
+"62","for 12 months to 30-09-2016","SFE",69400,NA,"2015","Short-finned eel","Short-finned eel","Starting Oct 2015",2.30319871957092
+"63","for 12 months to 30-09-2016","SKI",212078.8,NA,"2015","Gemfish","Gemfish","Starting Oct 2015",0.643129533385494
+"64","for 12 months to 30-09-2016","SNA",1059550,NA,"2015","Snapper","Snapper","Starting Oct 2015",3.77781659685222
+"65","for 12 months to 30-09-2016","SPD",1808571.42857143,NA,"2015","Spiny dogfish","Spiny Dogfish","Starting Oct 2015",0.0345378192216714
+"66","for 12 months to 30-09-2016","SPE",219000,NA,"2015","Sea perch","Sea Perch","Starting Oct 2015",0.15056393589797
+"67","for 12 months to 30-09-2016","SPO",327677.333333333,NA,"2015","Rig","Rig","Starting Oct 2015",0.791604749318747
+"68","for 12 months to 30-09-2016","SPR",90000,NA,"2015","Sprats","Sprats","Starting Oct 2015",0.0414
+"69","for 12 months to 30-09-2016","SQU",31833095.25,10781685.75,"2015","Arrow squid","Arrow squid","Starting Oct 2015",0.064930257542133
+"70","for 12 months to 30-09-2016","SSK",169800,NA,"2015","Smooth skate","Smooth Skate","Starting Oct 2015",0.115247051444688
+"71","for 12 months to 30-09-2016","STA",692050,NA,"2015","Stargazer","Stargazer","Starting Oct 2015",0.45286102099953
+"72","for 12 months to 30-09-2016","STN",971000,949351,"2015","Southern bluefin tuna",NA,NA,NA
+"73","for 12 months to 30-09-2016","SUR",95583.3333333333,NA,"2015","Kina","Kina","Starting Oct 2015",0.742815863494801
+"74","for 12 months to 30-09-2016","SWA",2595050.25,NA,"2015","Silver warehou","Silver Warehou","Starting Oct 2015",0.641158363287697
+"75","for 12 months to 30-09-2016","SWO",885000,758748,"2015","Swordfish","Swordfish","Starting Oct 2015",0.7187
+"76","for 12 months to 30-09-2016","TAR",804896.625,NA,"2015","Tarakihi","Tarakihi","Starting Oct 2015",0.888750634178641
+"77","for 12 months to 30-09-2016","TOR",116000,18024,"2015","Pacific bluefin tuna",NA,NA,NA
+"78","for 12 months to 30-09-2016","TRE",786620.6,NA,"2015","Trevally","Trevally","Starting Oct 2015",0.318006991018923
+"79","for 12 months to 30-09-2016","TRU",14400,NA,"2015","Trumpeter","Trumpeter","Starting Oct 2015",0.573612741862717
+"80","for 12 months to 30-09-2016","TUA",4777.77777777778,NA,"2015","Tuatua",NA,NA,NA
+"81","for 12 months to 30-09-2016","WAR",752059.666666667,NA,"2015","Blue warehou","Blue Warehou","Starting Oct 2015",0.387282470512853
+"82","for 12 months to 30-09-2016","WWA",415000,NA,"2015","White warehou","White Warehou","Starting Oct 2015",0.219471458109367
+"83","for 12 months to 30-09-2016","YEM",6800,NA,"2015","Yellow eyed mullet","Yellow Eyed Mullet","Starting Oct 2015",0.194372022309219
+"84","for 12 months to 30-09-2016","YFN",263000,57575,"2015","Yellowfin tuna",NA,NA,NA
+"85","for 12 months to 30-09-2017","ANC",80000,NA,"2016","Anchovy","Anchovy","Starting Oct 2016",0.0316
+"86","for 12 months to 30-09-2017","BAR",6680492.2,NA,"2016","Barracouta","Barracouta","Starting Oct 2016",0.108744470653439
+"87","for 12 months to 30-09-2017","BCO",291453.125,NA,"2016","Blue cod","Blue Cod","Starting Oct 2016",1.40456245400573
+"88","for 12 months to 30-09-2017","BIG",714000,104916,"2016","Bigeye tuna",NA,NA,NA
+"89","for 12 months to 30-09-2017","BNS",151666.666666667,NA,"2016","Bluenose","Bluenose","Starting Oct 2016",2.43318316096992
+"90","for 12 months to 30-09-2017","BUT",20250,NA,"2016","Butterfish","Butterfish","Starting Oct 2016",0.83792013073071
+"91","for 12 months to 30-09-2017","BWS",1860000,115704,"2016","Blue shark","Blue shark","Starting Oct 2016",0.0836
+"92","for 12 months to 30-09-2017","BYX",499283.333333333,NA,"2016","Alfonsino","Alfonsino","Starting Oct 2016",1.17168872949805
+"93","for 12 months to 30-09-2017","CDL",196800,NA,"2016","Cardinalfish","Cardinalfish","Starting Oct 2016",0.116263927064877
+"94","for 12 months to 30-09-2017","COC",247230.769230769,NA,"2016","Cockle",NA,NA,NA
+"95","for 12 months to 30-09-2017","ELE",218916.666666667,NA,"2016","Elephant fish","Elephant Fish","Starting Oct 2016",0.76894266685313
+"96","for 12 months to 30-09-2017","EMA",2310000,NA,"2016","Blue mackerel","Blue Mackerel","Starting Oct 2016",0.113827912592804
+"97","for 12 months to 30-09-2017","FLA",1083760,NA,"2016","Flatfish","Flatfish","Starting Oct 2016",0.701753243621283
+"98","for 12 months to 30-09-2017","FRO",401900,NA,"2016","Frostfish","Frostfish","Starting Oct 2016",0.075289931122991
+"99","for 12 months to 30-09-2017","GAR",7142.85714285714,NA,"2016","Garfish","Garfish","Starting Oct 2016",0.8067
+"100","for 12 months to 30-09-2017","GLM",215000,NA,"2016","Green-lipped mussel","Green-lipped mussel","Starting Oct 2016",5.9983
+"101","for 12 months to 30-09-2017","GMU",201120.2,NA,"2016","Grey mullet","Grey Mullet","Starting Oct 2016",0.8413
+"102","for 12 months to 30-09-2017","GSH",304700,NA,"2016","Ghost shark","Ghost Shark","Starting Oct 2016",0.103553880490452
+"103","for 12 months to 30-09-2017","GSP",593333.333333333,308594.333333333,"2016","Pale ghost shark","Pale Ghost Shark","Starting Oct 2016",0.0666792757121107
+"104","for 12 months to 30-09-2017","GUR",938531.166666667,NA,"2016","Gurnard","Gurnard","Starting Oct 2016",0.800594765827254
+"105","for 12 months to 30-09-2017","HAK",3302785.75,NA,"2016","Hake","Hake","Starting Oct 2016",0.497018015037039
+"106","for 12 months to 30-09-2017","HOK",75005000,NA,"2016","Hoki","Hoki","Starting Oct 2016",0.302
+"107","for 12 months to 30-09-2017","HPB",272700,NA,"2016","Hapuku & bass","Hapuku & Bass","Starting Oct 2016",1.19503226784973
+"108","for 12 months to 30-09-2017","JDO",241080,NA,"2016","John dory","John Dory","Starting Oct 2016",1.31887142766789
+"109","for 12 months to 30-09-2017","JMA",12831803.5,11838985,"2016","Jack mackerel","Jack mackerel","Starting Oct 2016",0.119635591694571
+"110","for 12 months to 30-09-2017","KAH",454666.666666667,NA,"2016","Kahawai","Kahawai","Starting Oct 2016",0.292635729366545
+"111","for 12 months to 30-09-2017","KBB",754800,NA,"2016","Bladder kelp",NA,NA,NA
+"112","for 12 months to 30-09-2017","KIN",31000,NA,"2016","Kingfish","King Crab","Starting Oct 2016",3.92042814322759
+"113","for 12 months to 30-09-2017","KWH",6700,NA,"2016","Knobbed whelk",NA,NA,NA
+"114","for 12 months to 30-09-2017","LDO",261000,NA,"2016","Lookdown dory","Lookdown Dory","Starting Oct 2016",0.108176876252119
+"115","for 12 months to 30-09-2017","LEA",292200,NA,"2016","Leatherjacket","Leatherjacket","Starting Oct 2016",0.111304233209526
+"116","for 12 months to 30-09-2017","LFE",14818.1818181818,NA,"2016","Long-finned eel","Long-finned eel","Starting Oct 2016",2.4896349819986
+"117","for 12 months to 30-09-2017","LIN",2899000,NA,"2016","Ling","Ling","Starting Oct 2016",1.47117016464334
+"118","for 12 months to 30-09-2017","MAK",2e+05,37801,"2016","Mako shark","Mako Shark","Starting Oct 2016",0.0661
+"119","for 12 months to 30-09-2017","MOK",128181.2,NA,"2016","Blue moki","Blue Moki","Starting Oct 2016",0.581697505735441
+"120","for 12 months to 30-09-2017","MOO",527000,56582,"2016","Moonfish","Moonfish","Starting Oct 2016",0.164
+"121","for 12 months to 30-09-2017","OEO",2972000,NA,"2016","Oreo","Oreo","Starting Oct 2016",0.329521059767002
+"122","for 12 months to 30-09-2017","ORH",1092000,NA,"2016","Orange roughy","Orange Roughy","Starting Oct 2016",1.9280900571117
+"123","for 12 months to 30-09-2017","OYS",56590.9090909091,NA,"2016","Dredge oyster",NA,NA,NA
+"124","for 12 months to 30-09-2017","OYU",14950000,9989921,"2016","Dredge oyster","Dredge Oyster","Starting Oct 2016",0.2353
+"125","for 12 months to 30-09-2017","PAD",76500,NA,"2016","Paddle crab","Paddle Crab","Starting Oct 2016",0.2525
+"126","for 12 months to 30-09-2017","PAR",21000,NA,"2016","Parore","Parore","Starting Oct 2016",0.261576955748357
+"127","for 12 months to 30-09-2017","PAU",96487.9,NA,"2016","Paua","Paua","Starting Oct 2016",23.1399784437319
+"128","for 12 months to 30-09-2017","PIL",355000,NA,"2016","Pilchards","Pilchards","Starting Oct 2016",0.18
+"129","for 12 months to 30-09-2017","POR",20750,NA,"2016","Porae","Porae","Starting Oct 2016",0.805293025893026
+"130","for 12 months to 30-09-2017","POS",110000,26655,"2016","Porbeagle shark","Porbeagle Shark","Starting Oct 2016",0.0591
+"131","for 12 months to 30-09-2017","PPI",20400,NA,"2016","Pipi",NA,NA,NA
+"132","for 12 months to 30-09-2017","PRK",3272.72727272727,NA,"2016","Prawn killer","Prawn Killer","Starting Oct 2016",0.0667391922455573
+"133","for 12 months to 30-09-2017","PTO",49500,18630,"2016","Patagonian toothfish",NA,NA,NA
+"134","for 12 months to 30-09-2017","PZL",3937.5,NA,"2016","Deepwater clam",NA,NA,NA
+"135","for 12 months to 30-09-2017","QSC",380000,23130,"2016","Queen scallop",NA,NA,NA
+"136","for 12 months to 30-09-2017","RBM",980000,100729,"2016","Ray's bream","Ray's Bream","Starting Oct 2016",0.0637
+"137","for 12 months to 30-09-2017","RBT",1262500,NA,"2016","Redbait","Redbait","Starting Oct 2016",0.148657372599184
+"138","for 12 months to 30-09-2017","RBY",83900,NA,"2016","Ruby fish","Ruby Fish","Starting Oct 2016",0.101066059064423
+"139","for 12 months to 30-09-2017","RCO",1655677,NA,"2016","Red cod","Red Cod","Starting Oct 2016",0.114128305920905
+"140","for 12 months to 30-09-2017","RIB",168300,NA,"2016","Ribaldo","Ribaldo","Starting Oct 2016",0.108149329960055
+"141","for 12 months to 30-09-2017","RSK",397200,NA,"2016","Rough skate","Rough Skate","Starting Oct 2016",0.11673874643166
+"142","for 12 months to 30-09-2017","RSN",48666.6666666667,NA,"2016","Red snapper","Red Snapper","Starting Oct 2016",1.23315774018097
+"143","for 12 months to 30-09-2017","SCH",429512.5,NA,"2016","School shark","School Shark","Starting Oct 2016",0.890154328705105
+"144","for 12 months to 30-09-2017","SCI",113090.909090909,NA,"2016","Scampi","Scampi","Starting Oct 2016",13.1047339522123
+"145","for 12 months to 30-09-2017","SFE",53556.3636363636,NA,"2016","Short-finned eel","Short-finned eel","Starting Oct 2016",2.38700131155085
+"146","for 12 months to 30-09-2017","SKI",212078.8,NA,"2016","Gemfish","Gemfish","Starting Oct 2016",0.681437682348419
+"147","for 12 months to 30-09-2017","SNA",1067883.33333333,NA,"2016","Snapper","Snapper","Starting Oct 2016",3.58948610634983
+"148","for 12 months to 30-09-2017","SPD",1808571.42857143,NA,"2016","Spiny dogfish","Spiny Dogfish","Starting Oct 2016",0.0302776022689394
+"149","for 12 months to 30-09-2017","SPE",219000,NA,"2016","Sea perch","Sea Perch","Starting Oct 2016",0.143959343526097
+"150","for 12 months to 30-09-2017","SPO",327677.333333333,NA,"2016","Rig","Rig","Starting Oct 2016",0.981920262605902
+"151","for 12 months to 30-09-2017","SPR",90000,NA,"2016","Sprats","Sprats","Starting Oct 2016",0.0369
+"152","for 12 months to 30-09-2017","SQU",20530070.25,4615525.25,"2016","Arrow squid","Arrow squid","Starting Oct 2016",0.0670248053439526
+"153","for 12 months to 30-09-2017","SSK",169800,NA,"2016","Smooth skate","Smooth Skate","Starting Oct 2016",0.121610965416459
+"154","for 12 months to 30-09-2017","STA",692050,NA,"2016","Stargazer","Stargazer","Starting Oct 2016",0.484454448688245
+"155","for 12 months to 30-09-2017","STN",971000,913498,"2016","Southern bluefin tuna",NA,NA,NA
+"156","for 12 months to 30-09-2017","SUR",95583.3333333333,NA,"2016","Kina","Kina","Starting Oct 2016",0.729606477828498
+"157","for 12 months to 30-09-2017","SWA",2595050.25,NA,"2016","Silver warehou","Silver Warehou","Starting Oct 2016",0.679609674984546
+"158","for 12 months to 30-09-2017","SWO",885000,500513,"2016","Swordfish","Swordfish","Starting Oct 2016",0.7506
+"159","for 12 months to 30-09-2017","TAR",804896.625,NA,"2016","Tarakihi","Tarakihi","Starting Oct 2016",0.895190652082267
+"160","for 12 months to 30-09-2017","TOR",116000,14407,"2016","Pacific bluefin tuna",NA,NA,NA
+"161","for 12 months to 30-09-2017","TRE",786620.6,707635.8,"2016","Trevally","Trevally","Starting Oct 2016",0.42191049928589
+"162","for 12 months to 30-09-2017","TRU",14400,NA,"2016","Trumpeter","Trumpeter","Starting Oct 2016",0.585565524822834
+"163","for 12 months to 30-09-2017","TUA",4777.77777777778,NA,"2016","Tuatua",NA,NA,NA
+"164","for 12 months to 30-09-2017","WAR",752059.666666667,NA,"2016","Blue warehou","Blue Warehou","Starting Oct 2016",0.359992256146023
+"165","for 12 months to 30-09-2017","WWA",415000,NA,"2016","White warehou","White Warehou","Starting Oct 2016",0.318322541858363
+"166","for 12 months to 30-09-2017","YEM",6800,NA,"2016","Yellow eyed mullet","Yellow Eyed Mullet","Starting Oct 2016",0.268785801433582
+"167","for 12 months to 30-09-2017","YFN",263000,7553,"2016","Yellowfin tuna",NA,NA,NA
+"168","for 12 months to 30-09-2018","ANC",80000,NA,"2017","Anchovy","Anchovy","Starting Oct 2017",0.0302
+"169","for 12 months to 30-09-2018","BAR",6680492.2,NA,"2017","Barracouta","Barracouta","Starting Oct 2017",0.111851405367947
+"170","for 12 months to 30-09-2018","BCO",291453.125,NA,"2017","Blue cod","Blue Cod","Starting Oct 2017",1.407982105582
+"171","for 12 months to 30-09-2018","BIG",714000,136684,"2017","Bigeye tuna",NA,NA,NA
+"172","for 12 months to 30-09-2018","BNS",105000,NA,"2017","Bluenose","Bluenose","Starting Oct 2017",2.31535075027329
+"173","for 12 months to 30-09-2018","BUT",20250,NA,"2017","Butterfish","Butterfish","Starting Oct 2017",0.983444381714928
+"174","for 12 months to 30-09-2018","BWS",1860000,120492,"2017","Blue shark","Blue shark","Starting Oct 2017",0.0732
+"175","for 12 months to 30-09-2018","BYX",499283.333333333,NA,"2017","Alfonsino","Alfonsino","Starting Oct 2017",1.04524873092551
+"176","for 12 months to 30-09-2018","CDL",196800,NA,"2017","Cardinalfish","Cardinalfish","Starting Oct 2017",0.121943379239755
+"177","for 12 months to 30-09-2018","COC",247230.769230769,NA,"2017","Cockle",NA,NA,NA
+"178","for 12 months to 30-09-2018","ELE",218916.666666667,NA,"2017","Elephant fish","Elephant Fish","Starting Oct 2017",0.573777733731868
+"179","for 12 months to 30-09-2018","EMA",2310000,NA,"2017","Blue mackerel","Blue Mackerel","Starting Oct 2017",0.123175715406752
+"180","for 12 months to 30-09-2018","FLA",1083760,NA,"2017","Flatfish","Flatfish","Starting Oct 2017",0.666903574085669
+"181","for 12 months to 30-09-2018","FRO",401900,NA,"2017","Frostfish","Frostfish","Starting Oct 2017",0.0582164413120768
+"182","for 12 months to 30-09-2018","GAR",7142.85714285714,NA,"2017","Garfish","Garfish","Starting Oct 2017",0.5312
+"183","for 12 months to 30-09-2018","GLM",215000,NA,"2017","Green-lipped mussel","Green-lipped mussel","Starting Oct 2017",8.488
+"184","for 12 months to 30-09-2018","GMU",201120.2,NA,"2017","Grey mullet","Grey Mullet","Starting Oct 2017",0.7306
+"185","for 12 months to 30-09-2018","GSH",304700,NA,"2017","Ghost shark","Ghost Shark","Starting Oct 2017",0.101607372841594
+"186","for 12 months to 30-09-2018","GSP",593333.333333333,343001.333333333,"2017","Pale ghost shark","Pale Ghost Shark","Starting Oct 2017",0.0441015680193838
+"187","for 12 months to 30-09-2018","GUR",960197.833333333,NA,"2017","Gurnard","Gurnard","Starting Oct 2017",0.777476749825653
+"188","for 12 months to 30-09-2018","HAK",2643785.75,NA,"2017","Hake","Hake","Starting Oct 2017",0.667775833523768
+"189","for 12 months to 30-09-2018","HOK",75005000,NA,"2017","Hoki","Hoki","Starting Oct 2017",0.3568
+"190","for 12 months to 30-09-2018","HPB",272700,NA,"2017","Hapuku & bass","Hapuku & Bass","Starting Oct 2017",1.1264407782335
+"191","for 12 months to 30-09-2018","JDO",241080,NA,"2017","John dory","John Dory","Starting Oct 2017",1.3073213798878
+"192","for 12 months to 30-09-2018","JMA",12831803.5,NA,"2017","Jack mackerel","Jack mackerel","Starting Oct 2017",0.126501589765245
+"193","for 12 months to 30-09-2018","KAH",454666.666666667,NA,"2017","Kahawai","Kahawai","Starting Oct 2017",0.28805407837861
+"194","for 12 months to 30-09-2018","KBB",754800,NA,"2017","Bladder kelp",NA,NA,NA
+"195","for 12 months to 30-09-2018","KIN",31000,NA,"2017","Kingfish","King Crab","Starting Oct 2017",4.57108287789437
+"196","for 12 months to 30-09-2018","KWH",6700,NA,"2017","Knobbed whelk",NA,NA,NA
+"197","for 12 months to 30-09-2018","LDO",261000,NA,"2017","Lookdown dory","Lookdown Dory","Starting Oct 2017",0.121378646839601
+"198","for 12 months to 30-09-2018","LEA",292200,NA,"2017","Leatherjacket","Leatherjacket","Starting Oct 2017",0.11735509680417
+"199","for 12 months to 30-09-2018","LFE",14818.1818181818,NA,"2017","Long-finned eel","Long-finned eel","Starting Oct 2017",2.45198035195777
+"200","for 12 months to 30-09-2018","LIN",2899000,NA,"2017","Ling","Ling","Starting Oct 2017",1.1763942717354
+"201","for 12 months to 30-09-2018","MAK",2e+05,32965,"2017","Mako shark","Mako Shark","Starting Oct 2017",0.0692
+"202","for 12 months to 30-09-2018","MOK",128181.2,123956.6,"2017","Blue moki","Blue Moki","Starting Oct 2017",0.639441560181885
+"203","for 12 months to 30-09-2018","MOO",527000,67202,"2017","Moonfish","Moonfish","Starting Oct 2017",0.3081
+"204","for 12 months to 30-09-2018","OEO",2972000,NA,"2017","Oreo","Oreo","Starting Oct 2017",0.335604218283638
+"205","for 12 months to 30-09-2018","ORH",1116625,NA,"2017","Orange roughy","Orange Roughy","Starting Oct 2017",1.55953284475517
+"206","for 12 months to 30-09-2018","OYS",56590.9090909091,NA,"2017","Dredge oyster",NA,NA,NA
+"207","for 12 months to 30-09-2018","OYU",14950000,9905321,"2017","Dredge oyster","Dredge Oyster","Starting Oct 2017",0.245
+"208","for 12 months to 30-09-2018","PAD",76500,NA,"2017","Paddle crab","Paddle Crab","Starting Oct 2017",0.7473
+"209","for 12 months to 30-09-2018","PAR",21000,NA,"2017","Parore","Parore","Starting Oct 2017",0.278644914330656
+"210","for 12 months to 30-09-2018","PAU",91906.4,NA,"2017","Paua","Paua","Starting Oct 2017",30.5875868936647
+"211","for 12 months to 30-09-2018","PIL",355000,NA,"2017","Pilchards",NA,NA,NA
+"212","for 12 months to 30-09-2018","POR",20750,NA,"2017","Porae","Porae","Starting Oct 2017",0.853071605564181
+"213","for 12 months to 30-09-2018","POS",110000,56943,"2017","Porbeagle shark","Porbeagle Shark","Starting Oct 2017",0.0826
+"214","for 12 months to 30-09-2018","PPI",20400,NA,"2017","Pipi",NA,NA,NA
+"215","for 12 months to 30-09-2018","PRK",3272.72727272727,NA,"2017","Prawn killer","Prawn Killer","Starting Oct 2017",0.0705261167404025
+"216","for 12 months to 30-09-2018","PTO",49500,4485,"2017","Patagonian toothfish",NA,NA,NA
+"217","for 12 months to 30-09-2018","PZL",3937.5,NA,"2017","Deepwater clam",NA,NA,NA
+"218","for 12 months to 30-09-2018","QSC",380000,25735,"2017","Queen scallop",NA,NA,NA
+"219","for 12 months to 30-09-2018","RBM",980000,289677,"2017","Ray's bream","Ray's Bream","Starting Oct 2017",0.0794
+"220","for 12 months to 30-09-2018","RBT",1262500,NA,"2017","Redbait","Redbait","Starting Oct 2017",0.2
+"221","for 12 months to 30-09-2018","RBY",83900,NA,"2017","Ruby fish","Ruby Fish","Starting Oct 2017",0.0820779396444185
+"222","for 12 months to 30-09-2018","RCO",1655673.4,NA,"2017","Red cod","Red Cod","Starting Oct 2017",0.134368699437418
+"223","for 12 months to 30-09-2018","RIB",168300,NA,"2017","Ribaldo","Ribaldo","Starting Oct 2017",0.332046884941063
+"224","for 12 months to 30-09-2018","RSK",397200,331415.8,"2017","Rough skate","Rough Skate","Starting Oct 2017",0.120625614687776
+"225","for 12 months to 30-09-2018","RSN",48666.6666666667,NA,"2017","Red snapper","Red Snapper","Starting Oct 2017",1.29211944344261
+"226","for 12 months to 30-09-2018","SCH",429512.5,NA,"2017","School shark","School Shark","Starting Oct 2017",0.900459076862653
+"227","for 12 months to 30-09-2018","SCI",113090.909090909,NA,"2017","Scampi","Scampi","Starting Oct 2017",17.2446365459379
+"228","for 12 months to 30-09-2018","SFE",53556.3636363636,NA,"2017","Short-finned eel","Short-finned eel","Starting Oct 2017",2.33062753129889
+"229","for 12 months to 30-09-2018","SKI",212078.8,NA,"2017","Gemfish","Gemfish","Starting Oct 2017",0.742077939111107
+"230","for 12 months to 30-09-2018","SNA",1067883.33333333,1081790,"2017","Snapper","Snapper","Starting Oct 2017",3.81395249151789
+"231","for 12 months to 30-09-2018","SPD",1808571.42857143,NA,"2017","Spiny dogfish","Spiny Dogfish","Starting Oct 2017",0.0300690402417563
+"232","for 12 months to 30-09-2018","SPE",219000,NA,"2017","Sea perch","Sea Perch","Starting Oct 2017",0.147402922533333
+"233","for 12 months to 30-09-2018","SPO",327677.333333333,243203.333333333,"2017","Rig","Rig","Starting Oct 2017",0.911240149752226
+"234","for 12 months to 30-09-2018","SPR",90000,NA,"2017","Sprats",NA,NA,NA
+"235","for 12 months to 30-09-2018","SQU",20530070.25,5768173.25,"2017","Arrow squid","Arrow squid","Starting Oct 2017",0.079142621680798
+"236","for 12 months to 30-09-2018","SSK",169800,NA,"2017","Smooth skate","Smooth Skate","Starting Oct 2017",0.122787783162228
+"237","for 12 months to 30-09-2018","STA",692050,NA,"2017","Stargazer","Stargazer","Starting Oct 2017",0.582090345773155
+"238","for 12 months to 30-09-2018","STN",971000,1008136,"2017","Southern bluefin tuna",NA,NA,NA
+"239","for 12 months to 30-09-2018","SUR",95583.3333333333,NA,"2017","Kina","Kina","Starting Oct 2017",0.761496181204079
+"240","for 12 months to 30-09-2018","SWA",2595050.25,NA,"2017","Silver warehou","Silver Warehou","Starting Oct 2017",0.712637966912096
+"241","for 12 months to 30-09-2018","SWO",885000,475014,"2017","Swordfish","Swordfish","Starting Oct 2017",0.8331
+"242","for 12 months to 30-09-2018","TAR",804896.625,NA,"2017","Tarakihi","Tarakihi","Starting Oct 2017",0.869400065369354
+"243","for 12 months to 30-09-2018","TOR",116000,20706,"2017","Pacific bluefin tuna",NA,NA,NA
+"244","for 12 months to 30-09-2018","TRE",786620.6,NA,"2017","Trevally","Trevally","Starting Oct 2017",0.486434787641619
+"245","for 12 months to 30-09-2018","TRU",14400,NA,"2017","Trumpeter","Trumpeter","Starting Oct 2017",0.636866370196136
+"246","for 12 months to 30-09-2018","TUA",4777.77777777778,NA,"2017","Tuatua",NA,NA,NA
+"247","for 12 months to 30-09-2018","WAR",752059.666666667,NA,"2017","Blue warehou","Blue Warehou","Starting Oct 2017",0.311164532180785
+"248","for 12 months to 30-09-2018","WWA",415000,NA,"2017","White warehou","White Warehou","Starting Oct 2017",0.376284594472283
+"249","for 12 months to 30-09-2018","YEM",6800,NA,"2017","Yellow eyed mullet","Yellow Eyed Mullet","Starting Oct 2017",0.260299064758396
+"250","for 12 months to 30-09-2018","YFN",263000,23074,"2017","Yellowfin tuna",NA,NA,NA
+"251","for 12 months to 30-09-2019","ANC",80000,NA,"2018","Anchovy","Anchovy","Starting Oct 2018",0.0477951326315789
+"252","for 12 months to 30-09-2019","BAR",6680492.2,NA,"2018","Barracouta","Barracouta","Starting Oct 2018",0.120664604015933
+"253","for 12 months to 30-09-2019","BCO",291453.125,NA,"2018","Blue cod","Blue Cod","Starting Oct 2018",1.52080202410056
+"254","for 12 months to 30-09-2019","BIG",714000,54557,"2018","Bigeye tuna",NA,NA,NA
+"255","for 12 months to 30-09-2019","BNS",105000,NA,"2018","Bluenose","Bluenose","Starting Oct 2018",2.60565892847052
+"256","for 12 months to 30-09-2019","BUT",20250,NA,"2018","Butterfish","Butterfish","Starting Oct 2018",0.92335208508803
+"257","for 12 months to 30-09-2019","BWS",1860000,100625,"2018","Blue shark","Blue shark","Starting Oct 2018",0.0487
+"258","for 12 months to 30-09-2019","BYX",499283.333333333,NA,"2018","Alfonsino","Alfonsino","Starting Oct 2018",1.17149355719724
+"259","for 12 months to 30-09-2019","CDL",196800,NA,"2018","Cardinalfish","Cardinalfish","Starting Oct 2018",0.120640395023677
+"260","for 12 months to 30-09-2019","COC",247230.769230769,NA,"2018","Cockle",NA,NA,NA
+"261","for 12 months to 30-09-2019","ELE",243916.666666667,NA,"2018","Elephant fish","Elephant Fish","Starting Oct 2018",0.848137490396964
+"262","for 12 months to 30-09-2019","EMA",2310000,NA,"2018","Blue mackerel","Blue Mackerel","Starting Oct 2018",0.0918341572220321
+"263","for 12 months to 30-09-2019","FLA",1024300,NA,"2018","Flatfish","Flatfish","Starting Oct 2018",0.637956567576687
+"264","for 12 months to 30-09-2019","FRO",401900,NA,"2018","Frostfish","Frostfish","Starting Oct 2018",0.0707922927209902
+"265","for 12 months to 30-09-2019","GAR",7142.85714285714,NA,"2018","Garfish","Garfish","Starting Oct 2018",0.9685
+"266","for 12 months to 30-09-2019","GLM",209375,NA,"2018","Green-lipped mussel","Green-lipped mussel","Starting Oct 2018",7.5526
+"267","for 12 months to 30-09-2019","GMU",201120.2,NA,"2018","Grey mullet","Grey Mullet","Starting Oct 2018",0.620465877727221
+"268","for 12 months to 30-09-2019","GSH",304700,NA,"2018","Ghost shark","Ghost Shark","Starting Oct 2018",0.102358864753427
+"269","for 12 months to 30-09-2019","GSP",593333.333333333,280183.666666667,"2018","Pale ghost shark","Pale Ghost Shark","Starting Oct 2018",0.0475460252205127
+"270","for 12 months to 30-09-2019","GUR",976864.5,NA,"2018","Gurnard","Gurnard","Starting Oct 2018",0.76840154442746
+"271","for 12 months to 30-09-2019","HAK",2643785.75,NA,"2018","Hake","Hake","Starting Oct 2018",0.4106
+"272","for 12 months to 30-09-2019","HOK",75005000,NA,"2018","Hoki","Hoki","Starting Oct 2018",0.3187
+"273","for 12 months to 30-09-2019","HPB",272700,NA,"2018","Hapuku & bass","Hapuku & Bass","Starting Oct 2018",1.05736327649331
+"274","for 12 months to 30-09-2019","JDO",174880,NA,"2018","John dory","John Dory","Starting Oct 2018",1.31271793729561
+"275","for 12 months to 30-09-2019","JMA",12831803.5,NA,"2018","Jack mackerel","Jack mackerel","Starting Oct 2018",0.111923707774437
+"276","for 12 months to 30-09-2019","KAH",454666.666666667,NA,"2018","Kahawai","Kahawai","Starting Oct 2018",0.284850342205308
+"277","for 12 months to 30-09-2019","KBB",754800,NA,"2018","Bladder kelp",NA,NA,NA
+"278","for 12 months to 30-09-2019","KIN",31714.2857142857,NA,"2018","Kingfish","King Crab","Starting Oct 2018",4.41282928095887
+"279","for 12 months to 30-09-2019","KWH",6700,NA,"2018","Knobbed whelk",NA,NA,NA
+"280","for 12 months to 30-09-2019","LDO",261000,NA,"2018","Lookdown dory","Lookdown Dory","Starting Oct 2018",0.136354741350867
+"281","for 12 months to 30-09-2019","LEA",292200,NA,"2018","Leatherjacket","Leatherjacket","Starting Oct 2018",0.137172691284153
+"282","for 12 months to 30-09-2019","LFE",12454.5454545455,NA,"2018","Long-finned eel","Long-finned eel","Starting Oct 2018",2
+"283","for 12 months to 30-09-2019","LIN",2996500,NA,"2018","Ling","Ling","Starting Oct 2018",1.5609827522315
+"284","for 12 months to 30-09-2019","MAK",2e+05,27000,"2018","Mako shark","Mako Shark","Starting Oct 2018",0.0642
+"285","for 12 months to 30-09-2019","MOK",128181.2,NA,"2018","Blue moki","Blue Moki","Starting Oct 2018",0.6830319517104
+"286","for 12 months to 30-09-2019","MOO",527000,45248,"2018","Moonfish","Moonfish","Starting Oct 2018",0.47
+"287","for 12 months to 30-09-2019","OEO",3092000,NA,"2018","Oreo","Oreo","Starting Oct 2018",0.37191761612314
+"288","for 12 months to 30-09-2019","ORH",1228375,NA,"2018","Orange roughy","Orange Roughy","Starting Oct 2018",2.12781078082884
+"289","for 12 months to 30-09-2019","OYS",56590.9090909091,NA,"2018","Dredge oyster",NA,NA,NA
+"290","for 12 months to 30-09-2019","OYU",14950000,9493545,"2018","Dredge oyster","Dredge Oyster","Starting Oct 2018",0.2447
+"291","for 12 months to 30-09-2019","PAD",76500,NA,"2018","Paddle crab","Paddle Crab","Starting Oct 2018",0.903512400143576
+"292","for 12 months to 30-09-2019","PAR",21000,NA,"2018","Parore","Parore","Starting Oct 2018",0.283525794696959
+"293","for 12 months to 30-09-2019","PAU",91906.4,NA,"2018","Paua","Paua","Starting Oct 2018",30.68996964975
+"294","for 12 months to 30-09-2019","PIL",355000,NA,"2018","Pilchards","Pilchards","Starting Oct 2018",0.123548219685535
+"295","for 12 months to 30-09-2019","POR",20750,NA,"2018","Porae","Porae","Starting Oct 2018",0.839525932396388
+"296","for 12 months to 30-09-2019","POS",110000,36709,"2018","Porbeagle shark","Porbeagle Shark","Starting Oct 2018",0.0741
+"297","for 12 months to 30-09-2019","PPI",20400,NA,"2018","Pipi",NA,NA,NA
+"298","for 12 months to 30-09-2019","PRK",3272.72727272727,NA,"2018","Prawn killer","Prawn Killer","Starting Oct 2018",0.0544
+"299","for 12 months to 30-09-2019","PTO",49500,20,"2018","Patagonian toothfish",NA,NA,NA
+"300","for 12 months to 30-09-2019","PZL",3937.5,NA,"2018","Deepwater clam",NA,NA,NA
+"301","for 12 months to 30-09-2019","QSC",380000,12168,"2018","Queen scallop",NA,NA,NA
+"302","for 12 months to 30-09-2019","RBM",980000,141174,"2018","Ray's bream","Ray's Bream","Starting Oct 2018",0.0476
+"303","for 12 months to 30-09-2019","RBT",1262500,NA,"2018","Redbait","Redbait","Starting Oct 2018",0.1961
+"304","for 12 months to 30-09-2019","RBY",83900,NA,"2018","Ruby fish","Ruby Fish","Starting Oct 2018",0.0907571293544082
+"305","for 12 months to 30-09-2019","RCO",1655673.4,NA,"2018","Red cod","Red Cod","Starting Oct 2018",0.106055198517283
+"306","for 12 months to 30-09-2019","RIB",168300,NA,"2018","Ribaldo","Ribaldo","Starting Oct 2018",0.114454068633111
+"307","for 12 months to 30-09-2019","RSK",397200,NA,"2018","Rough skate","Rough Skate","Starting Oct 2018",0.11605144661846
+"308","for 12 months to 30-09-2019","RSN",48666.6666666667,NA,"2018","Red snapper","Red Snapper","Starting Oct 2018",1.19946698841069
+"309","for 12 months to 30-09-2019","SCH",429512.5,NA,"2018","School shark","School Shark","Starting Oct 2018",0.813096330734041
+"310","for 12 months to 30-09-2019","SCI",119272.727272727,NA,"2018","Scampi","Scampi","Starting Oct 2018",20.9558628832992
+"311","for 12 months to 30-09-2019","SFE",53556.3636363636,NA,"2018","Short-finned eel","Short-finned eel","Starting Oct 2018",2
+"312","for 12 months to 30-09-2019","SKI",212078.8,NA,"2018","Gemfish","Gemfish","Starting Oct 2018",0.736985366078149
+"313","for 12 months to 30-09-2019","SNA",1067883.33333333,NA,"2018","Snapper","Snapper","Starting Oct 2018",3.9399130373524
+"314","for 12 months to 30-09-2019","SPD",1808571.42857143,NA,"2018","Spiny dogfish","Spiny Dogfish","Starting Oct 2018",0.040008773661318
+"315","for 12 months to 30-09-2019","SPE",219000,NA,"2018","Sea perch","Sea Perch","Starting Oct 2018",0.143102362677433
+"316","for 12 months to 30-09-2019","SPO",331844,NA,"2018","Rig","Rig","Starting Oct 2018",0.947456600027692
+"317","for 12 months to 30-09-2019","SPR",90000,NA,"2018","Sprats",NA,NA,NA
+"318","for 12 months to 30-09-2019","SQU",20530070.25,NA,"2018","Arrow squid","Arrow squid","Starting Oct 2018",0.0731101595869427
+"319","for 12 months to 30-09-2019","SSK",169800,NA,"2018","Smooth skate","Smooth Skate","Starting Oct 2018",0.117366608147923
+"320","for 12 months to 30-09-2019","STA",692050,NA,"2018","Stargazer","Stargazer","Starting Oct 2018",0.40516408695373
+"321","for 12 months to 30-09-2019","STN",1046000,956979,"2018","Southern bluefin tuna",NA,NA,NA
+"322","for 12 months to 30-09-2019","SUR",95583.3333333333,NA,"2018","Kina","Kina","Starting Oct 2018",0.783473446780596
+"323","for 12 months to 30-09-2019","SWA",2595050.25,NA,"2018","Silver warehou","Silver Warehou","Starting Oct 2018",0.811080532704964
+"324","for 12 months to 30-09-2019","SWO",885000,262437,"2018","Swordfish","Swordfish","Starting Oct 2018",0.8548
+"325","for 12 months to 30-09-2019","TAR",672900,NA,"2018","Tarakihi","Tarakihi","Starting Oct 2018",0.964235310107411
+"326","for 12 months to 30-09-2019","TOR",116000,21629,"2018","Pacific bluefin tuna",NA,NA,NA
+"327","for 12 months to 30-09-2019","TRE",786620.6,617937.4,"2018","Trevally","Trevally","Starting Oct 2018",0.606733689299574
+"328","for 12 months to 30-09-2019","TRU",14400,NA,"2018","Trumpeter","Trumpeter","Starting Oct 2018",0.38519508382324
+"329","for 12 months to 30-09-2019","TUA",4777.77777777778,NA,"2018","Tuatua",NA,NA,NA
+"330","for 12 months to 30-09-2019","WAR",752059.666666667,NA,"2018","Blue warehou","Blue Warehou","Starting Oct 2018",0.293515789225155
+"331","for 12 months to 30-09-2019","WWA",415000,NA,"2018","White warehou","White Warehou","Starting Oct 2018",0.282107544603186
+"332","for 12 months to 30-09-2019","YEM",6800,NA,"2018","Yellow eyed mullet","Yellow Eyed Mullet","Starting Oct 2018",0.206828833139654
+"333","for 12 months to 30-09-2019","YFN",263000,4919,"2018","Yellowfin tuna",NA,NA,NA
+"334","for 12 months to 30-09-2020","ANC",80000,NA,"2019","Anchovy",NA,NA,NA
+"335","for 12 months to 30-09-2020","BAR",6680492.2,NA,"2019","Barracouta","Barracouta","Starting Oct 2019",0.122994623463238
+"336","for 12 months to 30-09-2020","BCO",291453.125,NA,"2019","Blue cod","Blue Cod","Starting Oct 2019",1.69954170215948
+"337","for 12 months to 30-09-2020","BIG",714000,59398,"2019","Bigeye tuna",NA,NA,NA
+"338","for 12 months to 30-09-2020","BNS",105000,NA,"2019","Bluenose","Bluenose","Starting Oct 2019",2.503012964119
+"339","for 12 months to 30-09-2020","BUT",20250,NA,"2019","Butterfish","Butterfish","Starting Oct 2019",0.940603426080002
+"340","for 12 months to 30-09-2020","BWS",1860000,112288,"2019","Blue shark","Blue shark","Starting Oct 2019",0.0493
+"341","for 12 months to 30-09-2020","BYX",499283.333333333,NA,"2019","Alfonsino","Alfonsino","Starting Oct 2019",1.08899254916519
+"342","for 12 months to 30-09-2020","CDL",196800,NA,"2019","Cardinalfish","Cardinalfish","Starting Oct 2019",0.146203319922185
+"343","for 12 months to 30-09-2020","COC",247230.769230769,NA,"2019","Cockle",NA,NA,NA
+"344","for 12 months to 30-09-2020","ELE",243950,NA,"2019","Elephant fish","Elephant Fish","Starting Oct 2019",0.700786109179511
+"345","for 12 months to 30-09-2020","EMA",2310000,NA,"2019","Blue mackerel","Blue Mackerel","Starting Oct 2019",0.0960515949984487
+"346","for 12 months to 30-09-2020","FLA",1024300,382277.6,"2019","Flatfish","Flatfish","Starting Oct 2019",0.796551306607995
+"347","for 12 months to 30-09-2020","FRO",401900,NA,"2019","Frostfish","Frostfish","Starting Oct 2019",0.0740361650256658
+"348","for 12 months to 30-09-2020","GAR",7142.85714285714,NA,"2019","Garfish","Garfish","Starting Oct 2019",1.0479
+"349","for 12 months to 30-09-2020","GLM",209375,NA,"2019","Green-lipped mussel","Green-lipped mussel","Starting Oct 2019",8.848
+"350","for 12 months to 30-09-2020","GMU",201120.2,NA,"2019","Grey mullet","Grey Mullet","Starting Oct 2019",0.6133
+"351","for 12 months to 30-09-2020","GSH",304700,NA,"2019","Ghost shark","Ghost Shark","Starting Oct 2019",0.0958346286626052
+"352","for 12 months to 30-09-2020","GSP",593333.333333333,226989.666666667,"2019","Pale ghost shark","Pale Ghost Shark","Starting Oct 2019",0.060033981061714
+"353","for 12 months to 30-09-2020","GUR",993197.833333333,NA,"2019","Gurnard","Gurnard","Starting Oct 2019",0.823024952666857
+"354","for 12 months to 30-09-2020","HAK",1945785.75,NA,"2019","Hake","Hake","Starting Oct 2019",0.704044680639494
+"355","for 12 months to 30-09-2020","HOK",57505000,NA,"2019","Hoki","Hoki","Starting Oct 2019",0.3924
+"356","for 12 months to 30-09-2020","HPB",272700,NA,"2019","Hapuku & bass","Hapuku & Bass","Starting Oct 2019",1.00762515689082
+"357","for 12 months to 30-09-2020","JDO",179080,NA,"2019","John dory","John Dory","Starting Oct 2019",1.65048271987929
+"358","for 12 months to 30-09-2020","JMA",12831803.5,NA,"2019","Jack mackerel","Jack mackerel","Starting Oct 2019",0.141254202391221
+"359","for 12 months to 30-09-2020","KAH",454666.666666667,NA,"2019","Kahawai","Kahawai","Starting Oct 2019",0.339004635412021
+"360","for 12 months to 30-09-2020","KBB",754800,NA,"2019","Bladder kelp",NA,NA,NA
+"361","for 12 months to 30-09-2020","KIN",31714.2857142857,NA,"2019","Kingfish","King Crab","Starting Oct 2019",4.41913223411783
+"362","for 12 months to 30-09-2020","KWH",6700,NA,"2019","Knobbed whelk",NA,NA,NA
+"363","for 12 months to 30-09-2020","LDO",261000,NA,"2019","Lookdown dory","Lookdown Dory","Starting Oct 2019",0.136780624252166
+"364","for 12 months to 30-09-2020","LEA",292200,NA,"2019","Leatherjacket","Leatherjacket","Starting Oct 2019",0.146002303651488
+"365","for 12 months to 30-09-2020","LFE",12454.5454545455,NA,"2019","Long-finned eel",NA,NA,NA
+"366","for 12 months to 30-09-2020","LIN",3034875,2057017.5,"2019","Ling","Ling","Starting Oct 2019",1.17147930879542
+"367","for 12 months to 30-09-2020","MAK",2e+05,29598,"2019","Mako shark","Mako Shark","Starting Oct 2019",0.0551
+"368","for 12 months to 30-09-2020","MOK",128181.2,NA,"2019","Blue moki","Blue Moki","Starting Oct 2019",0.604101324166108
+"369","for 12 months to 30-09-2020","MOO",527000,47407,"2019","Moonfish","Moonfish","Starting Oct 2019",0.1242
+"370","for 12 months to 30-09-2020","OEO",3092000,NA,"2019","Oreo","Oreo","Starting Oct 2019",0.397287393911342
+"371","for 12 months to 30-09-2020","ORH",1370750,NA,"2019","Orange roughy","Orange Roughy","Starting Oct 2019",2.1893745677342
+"372","for 12 months to 30-09-2020","OYS",56590.9090909091,NA,"2019","Dredge oyster",NA,NA,NA
+"373","for 12 months to 30-09-2020","OYU",14950000,8310096,"2019","Dredge oyster","Dredge Oyster","Starting Oct 2019",0.2412
+"374","for 12 months to 30-09-2020","PAD",76500,NA,"2019","Paddle crab","Paddle Crab","Starting Oct 2019",0.2441
+"375","for 12 months to 30-09-2020","PAR",21000,NA,"2019","Parore","Parore","Starting Oct 2019",0.293385192458326
+"376","for 12 months to 30-09-2020","PAU",91906.4,NA,"2019","Paua","Paua","Starting Oct 2019",30.5777852448126
+"377","for 12 months to 30-09-2020","PIL",355000,NA,"2019","Pilchards","Pilchards","Starting Oct 2019",0.147020795391978
+"378","for 12 months to 30-09-2020","POR",20750,NA,"2019","Porae","Porae","Starting Oct 2019",0.823975159722753
+"379","for 12 months to 30-09-2020","POS",110000,24924,"2019","Porbeagle shark","Porbeagle Shark","Starting Oct 2019",0.0553
+"380","for 12 months to 30-09-2020","PPI",20400,NA,"2019","Pipi",NA,NA,NA
+"381","for 12 months to 30-09-2020","PRK",3272.72727272727,NA,"2019","Prawn killer",NA,NA,NA
+"382","for 12 months to 30-09-2020","PTO",49500,5,"2019","Patagonian toothfish",NA,NA,NA
+"383","for 12 months to 30-09-2020","PZL",3937.5,NA,"2019","Deepwater clam",NA,NA,NA
+"384","for 12 months to 30-09-2020","QSC",380000,16605,"2019","Queen scallop",NA,NA,NA
+"385","for 12 months to 30-09-2020","RBM",980000,218833,"2019","Ray's bream","Ray's Bream","Starting Oct 2019",0.0744
+"386","for 12 months to 30-09-2020","RBT",1262500,NA,"2019","Redbait","Redbait","Starting Oct 2019",0.2111
+"387","for 12 months to 30-09-2020","RBY",83900,NA,"2019","Ruby fish","Ruby Fish","Starting Oct 2019",0.0735074717907474
+"388","for 12 months to 30-09-2020","RCO",1655673.4,NA,"2019","Red cod","Red Cod","Starting Oct 2019",0.102912437373274
+"389","for 12 months to 30-09-2020","RIB",168300,NA,"2019","Ribaldo","Ribaldo","Starting Oct 2019",0.102403684509439
+"390","for 12 months to 30-09-2020","RSK",397200,NA,"2019","Rough skate","Rough Skate","Starting Oct 2019",0.115904961735888
+"391","for 12 months to 30-09-2020","RSN",48666.6666666667,NA,"2019","Red snapper","Red Snapper","Starting Oct 2019",1.4790476785832
+"392","for 12 months to 30-09-2020","SCH",429512.5,326675.75,"2019","School shark","School Shark","Starting Oct 2019",0.786819466622805
+"393","for 12 months to 30-09-2020","SCI",119272.727272727,NA,"2019","Scampi","Scampi","Starting Oct 2019",23.6386245880697
+"394","for 12 months to 30-09-2020","SFE",53556.3636363636,NA,"2019","Short-finned eel",NA,NA,NA
+"395","for 12 months to 30-09-2020","SKI",331600,NA,"2019","Gemfish","Gemfish","Starting Oct 2019",0.630800634323769
+"396","for 12 months to 30-09-2020","SNA",1067883.33333333,NA,"2019","Snapper","Snapper","Starting Oct 2019",3.95485666076314
+"397","for 12 months to 30-09-2020","SPD",1808571.42857143,NA,"2019","Spiny dogfish","Spiny Dogfish","Starting Oct 2019",0.0295162383261161
+"398","for 12 months to 30-09-2020","SPE",219000,NA,"2019","Sea perch","Sea Perch","Starting Oct 2019",0.166033450941438
+"399","for 12 months to 30-09-2020","SPO",336344,NA,"2019","Rig","Rig","Starting Oct 2019",1.0757695864504
+"400","for 12 months to 30-09-2020","SPR",90000,NA,"2019","Sprats",NA,NA,NA
+"401","for 12 months to 30-09-2020","SQU",20530070.25,10507904,"2019","Arrow squid","Arrow squid","Starting Oct 2019",0.0835487797216895
+"402","for 12 months to 30-09-2020","SSK",169800,NA,"2019","Smooth skate","Smooth Skate","Starting Oct 2019",0.120074225166364
+"403","for 12 months to 30-09-2020","STA",692050,NA,"2019","Stargazer","Stargazer","Starting Oct 2019",0.470178990817986
+"404","for 12 months to 30-09-2020","STN",1046000,856754,"2019","Southern bluefin tuna",NA,NA,NA
+"405","for 12 months to 30-09-2020","SUR",95583.3333333333,NA,"2019","Kina","Kina","Starting Oct 2019",0.689574392898157
+"406","for 12 months to 30-09-2020","SWA",2595050.25,NA,"2019","Silver warehou","Silver Warehou","Starting Oct 2019",0.710960877281874
+"407","for 12 months to 30-09-2020","SWO",885000,216029,"2019","Swordfish","Swordfish","Starting Oct 2019",0.991
+"408","for 12 months to 30-09-2020","TAR",632400,NA,"2019","Tarakihi","Tarakihi","Starting Oct 2019",0.969607347650418
+"409","for 12 months to 30-09-2020","TOR",116000,47497,"2019","Pacific bluefin tuna",NA,NA,NA
+"410","for 12 months to 30-09-2020","TRE",786620.6,NA,"2019","Trevally","Trevally","Starting Oct 2019",0.448903261308507
+"411","for 12 months to 30-09-2020","TRU",14400,NA,"2019","Trumpeter","Trumpeter","Starting Oct 2019",0.410031731102385
+"412","for 12 months to 30-09-2020","TUA",4777.77777777778,NA,"2019","Tuatua",NA,NA,NA
+"413","for 12 months to 30-09-2020","WAR",752059.666666667,NA,"2019","Blue warehou","Blue Warehou","Starting Oct 2019",0.327326652554584
+"414","for 12 months to 30-09-2020","WWA",415000,NA,"2019","White warehou","White Warehou","Starting Oct 2019",0.723070914088213
+"415","for 12 months to 30-09-2020","YEM",6800,NA,"2019","Yellow eyed mullet","Yellow Eyed Mullet","Starting Oct 2019",0.247891500369549
+"416","for 12 months to 30-09-2020","YFN",263000,9700,"2019","Yellowfin tuna",NA,NA,NA
+"417","for 12 months to 30-09-2021","ANC",80000,NA,"2020","Anchovy","Anchovy","Starting Oct 2020",0.0403118735284225
+"418","for 12 months to 30-09-2021","BAR",6680492.2,NA,"2020","Barracouta","Barracouta","Starting Oct 2020",0.110275685757029
+"419","for 12 months to 30-09-2021","BCO",236578.125,NA,"2020","Blue cod","Blue Cod","Starting Oct 2020",1.80797466260748
+"420","for 12 months to 30-09-2021","BIG",714000,93724,"2020","Bigeye tuna",NA,NA,NA
+"421","for 12 months to 30-09-2021","BNS",105000,NA,"2020","Bluenose","Bluenose","Starting Oct 2020",2.31945457446679
+"422","for 12 months to 30-09-2021","BUT",20250,NA,"2020","Butterfish","Butterfish","Starting Oct 2020",1.06646660968193
+"423","for 12 months to 30-09-2021","BWS",1860000,93587,"2020","Blue shark","Blue shark","Starting Oct 2020",0.0402
+"424","for 12 months to 30-09-2021","BYX",499283.333333333,NA,"2020","Alfonsino","Alfonsino","Starting Oct 2020",1.31361996694609
+"425","for 12 months to 30-09-2021","CDL",197900,NA,"2020","Cardinalfish","Cardinalfish","Starting Oct 2020",0.153870167883604
+"426","for 12 months to 30-09-2021","COC",247230.769230769,NA,"2020","Cockle",NA,NA,NA
+"427","for 12 months to 30-09-2021","ELE",243950,NA,"2020","Elephant fish","Elephant Fish","Starting Oct 2020",0.598432718750725
+"428","for 12 months to 30-09-2021","EMA",2310000,NA,"2020","Blue mackerel","Blue Mackerel","Starting Oct 2020",0.0918583600242702
+"429","for 12 months to 30-09-2021","FLA",1024300,NA,"2020","Flatfish","Flatfish","Starting Oct 2020",0.774312119549507
+"430","for 12 months to 30-09-2021","FRO",401900,NA,"2020","Frostfish","Frostfish","Starting Oct 2020",0.0671588140038681
+"431","for 12 months to 30-09-2021","GAR",7142.85714285714,NA,"2020","Garfish","Garfish","Starting Oct 2020",0.8744
+"432","for 12 months to 30-09-2021","GLM",209375,NA,"2020","Green-lipped mussel","Green-lipped mussel","Starting Oct 2020",6.715
+"433","for 12 months to 30-09-2021","GMU",201120.2,NA,"2020","Grey mullet","Grey Mullet","Starting Oct 2020",0.5995
+"434","for 12 months to 30-09-2021","GSH",304700,NA,"2020","Ghost shark","Ghost Shark","Starting Oct 2020",0.109235349720162
+"435","for 12 months to 30-09-2021","GSP",593333.333333333,262873.666666667,"2020","Pale ghost shark","Pale Ghost Shark","Starting Oct 2020",0.0417480491187725
+"436","for 12 months to 30-09-2021","GUR",1041031.16666667,717682.5,"2020","Gurnard","Gurnard","Starting Oct 2020",0.849871461996477
+"437","for 12 months to 30-09-2021","HAK",1945785.75,NA,"2020","Hake","Hake","Starting Oct 2020",0.767090783538866
+"438","for 12 months to 30-09-2021","HOK",57505000,NA,"2020","Hoki","Hoki","Starting Oct 2020",0.4779
+"439","for 12 months to 30-09-2021","HPB",272700,NA,"2020","Hapuku & bass","Hapuku & Bass","Starting Oct 2020",0.992564149719586
+"440","for 12 months to 30-09-2021","JDO",179080,NA,"2020","John dory","John Dory","Starting Oct 2020",1.33128585547636
+"441","for 12 months to 30-09-2021","JMA",12831803.5,NA,"2020","Jack mackerel","Jack mackerel","Starting Oct 2020",0.143890619700797
+"442","for 12 months to 30-09-2021","KAH",454666.666666667,NA,"2020","Kahawai","Kahawai","Starting Oct 2020",0.334370814995657
+"443","for 12 months to 30-09-2021","KBB",754800,NA,"2020","Bladder kelp",NA,NA,NA
+"444","for 12 months to 30-09-2021","KIN",42428.5714285714,NA,"2020","Kingfish","King Crab","Starting Oct 2020",4.38656193448125
+"445","for 12 months to 30-09-2021","KWH",6700,NA,"2020","Knobbed whelk",NA,NA,NA
+"446","for 12 months to 30-09-2021","LDO",261000,NA,"2020","Lookdown dory","Lookdown Dory","Starting Oct 2020",0.128827207896083
+"447","for 12 months to 30-09-2021","LEA",294200,NA,"2020","Leatherjacket","Leatherjacket","Starting Oct 2020",0.141815506197452
+"448","for 12 months to 30-09-2021","LFE",12454.5454545455,NA,"2020","Long-finned eel",NA,NA,NA
+"449","for 12 months to 30-09-2021","LIN",3034875,NA,"2020","Ling","Ling","Starting Oct 2020",1.17927337996614
+"450","for 12 months to 30-09-2021","MAK",2e+05,29166,"2020","Mako shark","Mako Shark","Starting Oct 2020",0.0571
+"451","for 12 months to 30-09-2021","MOK",131381.2,NA,"2020","Blue moki","Blue Moki","Starting Oct 2020",0.656774359135922
+"452","for 12 months to 30-09-2021","MOO",527000,37658,"2020","Moonfish","Moonfish","Starting Oct 2020",0.3091
+"453","for 12 months to 30-09-2021","OEO",3092000,NA,"2020","Oreo","Oreo","Starting Oct 2020",0.296007936674481
+"454","for 12 months to 30-09-2021","ORH",1520125,NA,"2020","Orange roughy","Orange Roughy","Starting Oct 2020",2.05785233580795
+"455","for 12 months to 30-09-2021","OYS",56590.9090909091,NA,"2020","Dredge oyster",NA,NA,NA
+"456","for 12 months to 30-09-2021","OYU",14950000,7616045,"2020","Dredge oyster","Dredge Oyster","Starting Oct 2020",0.2405
+"457","for 12 months to 30-09-2021","PAD",76500,NA,"2020","Paddle crab","Paddle Crab","Starting Oct 2020",0.3448
+"458","for 12 months to 30-09-2021","PAR",21000,NA,"2020","Parore","Parore","Starting Oct 2020",0.246500582066207
+"459","for 12 months to 30-09-2021","PAU",91906.4,NA,"2020","Paua","Paua","Starting Oct 2020",17.566234723316
+"460","for 12 months to 30-09-2021","PIL",355000,NA,"2020","Pilchards","Pilchards","Starting Oct 2020",0.0925273722391035
+"461","for 12 months to 30-09-2021","POR",22250,13945.25,"2020","Porae","Porae","Starting Oct 2020",0.841072332010041
+"462","for 12 months to 30-09-2021","POS",110000,33880,"2020","Porbeagle shark","Porbeagle Shark","Starting Oct 2020",0.0926
+"463","for 12 months to 30-09-2021","PPI",20400,NA,"2020","Pipi",NA,NA,NA
+"464","for 12 months to 30-09-2021","PRK",3272.72727272727,NA,"2020","Prawn killer",NA,NA,NA
+"465","for 12 months to 30-09-2021","PTO",49500,NA,"2020","Patagonian toothfish",NA,NA,NA
+"466","for 12 months to 30-09-2021","PZL",11050,NA,"2020","Deepwater clam",NA,NA,NA
+"467","for 12 months to 30-09-2021","QSC",380000,20354,"2020","Queen scallop",NA,NA,NA
+"468","for 12 months to 30-09-2021","RBM",980000,405364,"2020","Ray's bream","Ray's Bream","Starting Oct 2020",0.0576
+"469","for 12 months to 30-09-2021","RBT",1262500,NA,"2020","Redbait","Redbait","Starting Oct 2020",0.2111
+"470","for 12 months to 30-09-2021","RBY",84800,NA,"2020","Ruby fish","Ruby Fish","Starting Oct 2020",0.0751466485882872
+"471","for 12 months to 30-09-2021","RCO",1655673.4,NA,"2020","Red cod","Red Cod","Starting Oct 2020",0.106720914150604
+"472","for 12 months to 30-09-2021","RIB",168300,NA,"2020","Ribaldo","Ribaldo","Starting Oct 2020",0.117473983226232
+"473","for 12 months to 30-09-2021","RSK",397200,NA,"2020","Rough skate","Rough Skate","Starting Oct 2020",0.119176394366644
+"474","for 12 months to 30-09-2021","RSN",48666.6666666667,NA,"2020","Red snapper","Red Snapper","Starting Oct 2020",1.39857192749307
+"475","for 12 months to 30-09-2021","SCH",429512.5,NA,"2020","School shark","School Shark","Starting Oct 2020",0.778858656047425
+"476","for 12 months to 30-09-2021","SCI",120363.636363636,NA,"2020","Scampi","Scampi","Starting Oct 2020",18.6799688359013
+"477","for 12 months to 30-09-2021","SFE",53556.3636363636,NA,"2020","Short-finned eel",NA,NA,NA
+"478","for 12 months to 30-09-2021","SKI",340000,NA,"2020","Gemfish","Gemfish","Starting Oct 2020",0.593643116981031
+"479","for 12 months to 30-09-2021","SNA",1084550,NA,"2020","Snapper","Snapper","Starting Oct 2020",3.98529540227033
+"480","for 12 months to 30-09-2021","SPD",1808571.42857143,NA,"2020","Spiny dogfish","Spiny Dogfish","Starting Oct 2020",0.0268704292584188
+"481","for 12 months to 30-09-2021","SPE",219400,98372.3,"2020","Sea perch","Sea Perch","Starting Oct 2020",0.138122695487337
+"482","for 12 months to 30-09-2021","SPO",348177.333333333,NA,"2020","Rig","Rig","Starting Oct 2020",1.06286674818177
+"483","for 12 months to 30-09-2021","SPR",90000,NA,"2020","Sprats",NA,NA,NA
+"484","for 12 months to 30-09-2021","SQU",20530070.25,7520275.25,"2020","Arrow squid","Arrow squid","Starting Oct 2020",0.0731652249840721
+"485","for 12 months to 30-09-2021","SSK",169800,NA,"2020","Smooth skate","Smooth Skate","Starting Oct 2020",0.113948199513664
+"486","for 12 months to 30-09-2021","STA",702800,NA,"2020","Stargazer","Stargazer","Starting Oct 2020",0.47938373786386
+"487","for 12 months to 30-09-2021","STN",1046000,786736,"2020","Southern bluefin tuna",NA,NA,NA
+"488","for 12 months to 30-09-2021","SUR",95583.3333333333,NA,"2020","Kina","Kina","Starting Oct 2020",0.629287078089586
+"489","for 12 months to 30-09-2021","SWA",2780000,NA,"2020","Silver warehou","Silver Warehou","Starting Oct 2020",0.675544907197047
+"490","for 12 months to 30-09-2021","SWO",885000,306510,"2020","Swordfish","Swordfish","Starting Oct 2020",0.9436
+"491","for 12 months to 30-09-2021","TAR",632400,NA,"2020","Tarakihi","Tarakihi","Starting Oct 2020",1.03216616039926
+"492","for 12 months to 30-09-2021","TOR",116000,40112,"2020","Pacific bluefin tuna",NA,NA,NA
+"493","for 12 months to 30-09-2021","TRE",786620.6,NA,"2020","Trevally","Trevally","Starting Oct 2020",0.45287849448041
+"494","for 12 months to 30-09-2021","TRU",14700,NA,"2020","Trumpeter","Trumpeter","Starting Oct 2020",0.482925265410004
+"495","for 12 months to 30-09-2021","TUA",4777.77777777778,NA,"2020","Tuatua",NA,NA,NA
+"496","for 12 months to 30-09-2021","WAR",752059.666666667,NA,"2020","Blue warehou","Blue Warehou","Starting Oct 2020",0.310189132843339
+"497","for 12 months to 30-09-2021","WWA",415111.111111111,NA,"2020","White warehou","White Warehou","Starting Oct 2020",0.79441324944588
+"498","for 12 months to 30-09-2021","YEM",6900,NA,"2020","Yellow eyed mullet","Yellow Eyed Mullet","Starting Oct 2020",0.2262935843425
+"499","for 12 months to 30-09-2021","YFN",263000,24584,"2020","Yellowfin tuna",NA,NA,NA
+"500",NA,"BYX",NA,NA,"2001",NA,"Alfonsino","Starting Oct 2001",0.818559045599543
+"501",NA,"BYX",NA,NA,"2002",NA,"Alfonsino","Starting Oct 2002",0.979636721350094
+"502",NA,"BYX",NA,NA,"2003",NA,"Alfonsino","Starting Oct 2003",1.0333457385343
+"503",NA,"BYX",NA,NA,"2004",NA,"Alfonsino","Starting Oct 2004",1.07831071850898
+"504",NA,"BYX",NA,NA,"2005",NA,"Alfonsino","Starting Oct 2005",0.907450259308441
+"505",NA,"BYX",NA,NA,"2006",NA,"Alfonsino","Starting Oct 2006",1.00890380811606
+"506",NA,"BYX",NA,NA,"2007",NA,"Alfonsino","Starting Oct 2007",0.942288844643696
+"507",NA,"BYX",NA,NA,"2008",NA,"Alfonsino","Starting Oct 2008",0.901740634876515
+"508",NA,"BYX",NA,NA,"2009",NA,"Alfonsino","Starting Oct 2009",0.950309045081989
+"509",NA,"BYX",NA,NA,"2010",NA,"Alfonsino","Starting Oct 2010",1.01354217495237
+"510",NA,"BYX",NA,NA,"2011",NA,"Alfonsino","Starting Oct 2011",0.984383999490421
+"511",NA,"BYX",NA,NA,"2012",NA,"Alfonsino","Starting Oct 2012",1.10770887141646
+"512",NA,"BYX",NA,NA,"2013",NA,"Alfonsino","Starting Oct 2013",1.14402068406648
+"513",NA,"BYX",NA,NA,"2014",NA,"Alfonsino","Starting Oct 2014",1.10928676355687
+"514",NA,"BYX",NA,NA,"2021",NA,"Alfonsino","Starting Oct 2021",1.38074571101531
+"515",NA,"ANC",NA,NA,"2002",NA,"Anchovy","Starting Oct 2002",0.05
+"516",NA,"ANC",NA,NA,"2003",NA,"Anchovy","Starting Oct 2003",0.0407
+"517",NA,"ANC",NA,NA,"2005",NA,"Anchovy","Starting Oct 2005",0.05
+"518",NA,"ANC",NA,NA,"2006",NA,"Anchovy","Starting Oct 2006",0.0249634482649693
+"519",NA,"ANC",NA,NA,"2007",NA,"Anchovy","Starting Oct 2007",0.0295
+"520",NA,"ANC",NA,NA,"2008",NA,"Anchovy","Starting Oct 2008",0.0249136496530075
+"521",NA,"ANC",NA,NA,"2009",NA,"Anchovy","Starting Oct 2009",0.0232
+"522",NA,"ANC",NA,NA,"2010",NA,"Anchovy","Starting Oct 2010",0.05
+"523",NA,"ANC",NA,NA,"2012",NA,"Anchovy","Starting Oct 2012",0.0229
+"524",NA,"SQU",NA,NA,"2001",NA,"Arrow squid","Starting Oct 2001",0.137672516468064
+"525",NA,"SQU",NA,NA,"2002",NA,"Arrow squid","Starting Oct 2002",0.171462374362132
+"526",NA,"SQU",NA,NA,"2003",NA,"Arrow squid","Starting Oct 2003",0.0579790880948228
+"527",NA,"SQU",NA,NA,"2004",NA,"Arrow squid","Starting Oct 2004",0.152953679343787
+"528",NA,"SQU",NA,NA,"2005",NA,"Arrow squid","Starting Oct 2005",0.184367005623948
+"529",NA,"SQU",NA,NA,"2006",NA,"Arrow squid","Starting Oct 2006",0.188598568964587
+"530",NA,"SQU",NA,NA,"2007",NA,"Arrow squid","Starting Oct 2007",0.156300451964927
+"531",NA,"SQU",NA,NA,"2008",NA,"Arrow squid","Starting Oct 2008",0.118072469331275
+"532",NA,"SQU",NA,NA,"2009",NA,"Arrow squid","Starting Oct 2009",0.143600726072058
+"533",NA,"SQU",NA,NA,"2010",NA,"Arrow squid","Starting Oct 2010",0.110549280531483
+"534",NA,"SQU",NA,NA,"2011",NA,"Arrow squid","Starting Oct 2011",0.106725482795758
+"535",NA,"SQU",NA,NA,"2012",NA,"Arrow squid","Starting Oct 2012",0.087598776777983
+"536",NA,"SQU",NA,NA,"2013",NA,"Arrow squid","Starting Oct 2013",0.128190338400339
+"537",NA,"SQU",NA,NA,"2014",NA,"Arrow squid","Starting Oct 2014",0.0957877077930296
+"538",NA,"SQU",NA,NA,"2021",NA,"Arrow squid","Starting Oct 2021",0.1131
+"539",NA,"BAR",NA,NA,"2001",NA,"Barracouta","Starting Oct 2001",0.0749207988278152
+"540",NA,"BAR",NA,NA,"2002",NA,"Barracouta","Starting Oct 2002",0.0776796572511366
+"541",NA,"BAR",NA,NA,"2003",NA,"Barracouta","Starting Oct 2003",0.0765440998086808
+"542",NA,"BAR",NA,NA,"2004",NA,"Barracouta","Starting Oct 2004",0.076805384501667
+"543",NA,"BAR",NA,NA,"2005",NA,"Barracouta","Starting Oct 2005",0.105753626673613
+"544",NA,"BAR",NA,NA,"2006",NA,"Barracouta","Starting Oct 2006",0.0989305440943389
+"545",NA,"BAR",NA,NA,"2007",NA,"Barracouta","Starting Oct 2007",0.120308376090196
+"546",NA,"BAR",NA,NA,"2008",NA,"Barracouta","Starting Oct 2008",0.116105848926345
+"547",NA,"BAR",NA,NA,"2009",NA,"Barracouta","Starting Oct 2009",0.106017285969107
+"548",NA,"BAR",NA,NA,"2010",NA,"Barracouta","Starting Oct 2010",0.112036094418881
+"549",NA,"BAR",NA,NA,"2011",NA,"Barracouta","Starting Oct 2011",0.118401362205774
+"550",NA,"BAR",NA,NA,"2012",NA,"Barracouta","Starting Oct 2012",0.113877257723445
+"551",NA,"BAR",NA,NA,"2013",NA,"Barracouta","Starting Oct 2013",0.116637310700333
+"552",NA,"BAR",NA,NA,"2014",NA,"Barracouta","Starting Oct 2014",0.126053415059953
+"553",NA,"BAR",NA,NA,"2021",NA,"Barracouta","Starting Oct 2021",0.112023105372124
+"554",NA,"BIG",NA,NA,"2004",NA,"Bigeye Tuna","Starting Oct 2004",8.0971
+"555",NA,"BIG",NA,NA,"2005",NA,"Bigeye Tuna","Starting Oct 2005",5.2517
+"556",NA,"BCO",NA,NA,"2001",NA,"Blue Cod","Starting Oct 2001",0.537454899162384
+"557",NA,"BCO",NA,NA,"2002",NA,"Blue Cod","Starting Oct 2002",0.588897663883302
+"558",NA,"BCO",NA,NA,"2003",NA,"Blue Cod","Starting Oct 2003",0.69307520522951
+"559",NA,"BCO",NA,NA,"2004",NA,"Blue Cod","Starting Oct 2004",0.630214743457955
+"560",NA,"BCO",NA,NA,"2005",NA,"Blue Cod","Starting Oct 2005",0.684662451820787
+"561",NA,"BCO",NA,NA,"2006",NA,"Blue Cod","Starting Oct 2006",0.693911027138826
+"562",NA,"BCO",NA,NA,"2007",NA,"Blue Cod","Starting Oct 2007",0.736238203826228
+"563",NA,"BCO",NA,NA,"2008",NA,"Blue Cod","Starting Oct 2008",0.771907357325439
+"564",NA,"BCO",NA,NA,"2009",NA,"Blue Cod","Starting Oct 2009",0.926680221282625
+"565",NA,"BCO",NA,NA,"2010",NA,"Blue Cod","Starting Oct 2010",0.916365374990659
+"566",NA,"BCO",NA,NA,"2011",NA,"Blue Cod","Starting Oct 2011",0.949529839871492
+"567",NA,"BCO",NA,NA,"2012",NA,"Blue Cod","Starting Oct 2012",1.03311227390013
+"568",NA,"BCO",NA,NA,"2013",NA,"Blue Cod","Starting Oct 2013",1.1530485205188
+"569",NA,"BCO",NA,NA,"2014",NA,"Blue Cod","Starting Oct 2014",1.29259318368214
+"570",NA,"BCO",NA,NA,"2021",NA,"Blue Cod","Starting Oct 2021",2.20939376361546
+"571",NA,"EMA",NA,NA,"2002",NA,"Blue Mackerel","Starting Oct 2002",0.102341557597978
+"572",NA,"EMA",NA,NA,"2003",NA,"Blue Mackerel","Starting Oct 2003",0.135039821208539
+"573",NA,"EMA",NA,NA,"2004",NA,"Blue Mackerel","Starting Oct 2004",0.131435802481018
+"574",NA,"EMA",NA,NA,"2005",NA,"Blue Mackerel","Starting Oct 2005",0.120413622533406
+"575",NA,"EMA",NA,NA,"2006",NA,"Blue Mackerel","Starting Oct 2006",0.119565415746323
+"576",NA,"EMA",NA,NA,"2007",NA,"Blue Mackerel","Starting Oct 2007",0.116403760528206
+"577",NA,"EMA",NA,NA,"2008",NA,"Blue Mackerel","Starting Oct 2008",0.123651095927439
+"578",NA,"EMA",NA,NA,"2009",NA,"Blue Mackerel","Starting Oct 2009",0.117478147760153
+"579",NA,"EMA",NA,NA,"2010",NA,"Blue Mackerel","Starting Oct 2010",0.102859192686303
+"580",NA,"EMA",NA,NA,"2011",NA,"Blue Mackerel","Starting Oct 2011",0.11307013026432
+"581",NA,"EMA",NA,NA,"2012",NA,"Blue Mackerel","Starting Oct 2012",0.117977642259788
+"582",NA,"EMA",NA,NA,"2013",NA,"Blue Mackerel","Starting Oct 2013",0.114024956673647
+"583",NA,"EMA",NA,NA,"2014",NA,"Blue Mackerel","Starting Oct 2014",0.118192060086255
+"584",NA,"EMA",NA,NA,"2021",NA,"Blue Mackerel","Starting Oct 2021",0.0901834710802888
+"585",NA,"MOK",NA,NA,"2001",NA,"Blue Moki","Starting Oct 2001",0.39903378633938
+"586",NA,"MOK",NA,NA,"2002",NA,"Blue Moki","Starting Oct 2002",0.473480612986443
+"587",NA,"MOK",NA,NA,"2003",NA,"Blue Moki","Starting Oct 2003",0.52105803116642
+"588",NA,"MOK",NA,NA,"2004",NA,"Blue Moki","Starting Oct 2004",0.436841031914
+"589",NA,"MOK",NA,NA,"2005",NA,"Blue Moki","Starting Oct 2005",0.476632523284623
+"590",NA,"MOK",NA,NA,"2006",NA,"Blue Moki","Starting Oct 2006",0.488834420727666
+"591",NA,"MOK",NA,NA,"2007",NA,"Blue Moki","Starting Oct 2007",0.530129143067549
+"592",NA,"MOK",NA,NA,"2008",NA,"Blue Moki","Starting Oct 2008",0.514097933383666
+"593",NA,"MOK",NA,NA,"2009",NA,"Blue Moki","Starting Oct 2009",0.566831265696437
+"594",NA,"MOK",NA,NA,"2010",NA,"Blue Moki","Starting Oct 2010",0.603908001554514
+"595",NA,"MOK",NA,NA,"2011",NA,"Blue Moki","Starting Oct 2011",0.624329596266173
+"596",NA,"MOK",NA,NA,"2012",NA,"Blue Moki","Starting Oct 2012",0.667078548836573
+"597",NA,"MOK",NA,NA,"2013",NA,"Blue Moki","Starting Oct 2013",0.692506849503004
+"598",NA,"MOK",NA,NA,"2014",NA,"Blue Moki","Starting Oct 2014",0.630415818180513
+"599",NA,"MOK",NA,NA,"2021",NA,"Blue Moki","Starting Oct 2021",0.580919160821663
+"600",NA,"BWS",NA,NA,"2004",NA,"Blue shark","Starting Oct 2004",0.067
+"601",NA,"BWS",NA,NA,"2005",NA,"Blue shark","Starting Oct 2005",0.0519
+"602",NA,"BWS",NA,NA,"2006",NA,"Blue shark","Starting Oct 2006",0.0597
+"603",NA,"BWS",NA,NA,"2007",NA,"Blue shark","Starting Oct 2007",0.0605
+"604",NA,"BWS",NA,NA,"2008",NA,"Blue shark","Starting Oct 2008",0.0628
+"605",NA,"BWS",NA,NA,"2009",NA,"Blue shark","Starting Oct 2009",0.0494
+"606",NA,"BWS",NA,NA,"2010",NA,"Blue shark","Starting Oct 2010",0.0538
+"607",NA,"BWS",NA,NA,"2011",NA,"Blue shark","Starting Oct 2011",0.0551
+"608",NA,"BWS",NA,NA,"2012",NA,"Blue shark","Starting Oct 2012",0.0512
+"609",NA,"BWS",NA,NA,"2013",NA,"Blue shark","Starting Oct 2013",0.0504
+"610",NA,"BWS",NA,NA,"2014",NA,"Blue shark","Starting Oct 2014",0.0496
+"611",NA,"BWS",NA,NA,"2021",NA,"Blue shark","Starting Oct 2021",0.0503
+"612",NA,"WAR",NA,NA,"2001",NA,"Blue Warehou","Starting Oct 2001",0.252821804633772
+"613",NA,"WAR",NA,NA,"2002",NA,"Blue Warehou","Starting Oct 2002",0.270146985421535
+"614",NA,"WAR",NA,NA,"2003",NA,"Blue Warehou","Starting Oct 2003",0.267854608752404
+"615",NA,"WAR",NA,NA,"2004",NA,"Blue Warehou","Starting Oct 2004",0.25549018346053
+"616",NA,"WAR",NA,NA,"2005",NA,"Blue Warehou","Starting Oct 2005",0.283028372041224
+"617",NA,"WAR",NA,NA,"2006",NA,"Blue Warehou","Starting Oct 2006",0.249346887835008
+"618",NA,"WAR",NA,NA,"2007",NA,"Blue Warehou","Starting Oct 2007",0.601077875320886
+"619",NA,"WAR",NA,NA,"2008",NA,"Blue Warehou","Starting Oct 2008",0.565683420296753
+"620",NA,"WAR",NA,NA,"2009",NA,"Blue Warehou","Starting Oct 2009",0.324166314304636
+"621",NA,"WAR",NA,NA,"2010",NA,"Blue Warehou","Starting Oct 2010",0.31755835915238
+"622",NA,"WAR",NA,NA,"2011",NA,"Blue Warehou","Starting Oct 2011",0.341290780031156
+"623",NA,"WAR",NA,NA,"2012",NA,"Blue Warehou","Starting Oct 2012",0.331475366266447
+"624",NA,"WAR",NA,NA,"2013",NA,"Blue Warehou","Starting Oct 2013",0.351546996169121
+"625",NA,"WAR",NA,NA,"2014",NA,"Blue Warehou","Starting Oct 2014",0.285445271011668
+"626",NA,"WAR",NA,NA,"2021",NA,"Blue Warehou","Starting Oct 2021",0.2852
+"627",NA,"BNS",NA,NA,"2001",NA,"Bluenose","Starting Oct 2001",1.35074763867457
+"628",NA,"BNS",NA,NA,"2002",NA,"Bluenose","Starting Oct 2002",1.43271108778707
+"629",NA,"BNS",NA,NA,"2003",NA,"Bluenose","Starting Oct 2003",1.2644730874718
+"630",NA,"BNS",NA,NA,"2004",NA,"Bluenose","Starting Oct 2004",1.11537950448952
+"631",NA,"BNS",NA,NA,"2005",NA,"Bluenose","Starting Oct 2005",1.58187122327085
+"632",NA,"BNS",NA,NA,"2006",NA,"Bluenose","Starting Oct 2006",1.35476480679677
+"633",NA,"BNS",NA,NA,"2007",NA,"Bluenose","Starting Oct 2007",1.4693789433909
+"634",NA,"BNS",NA,NA,"2008",NA,"Bluenose","Starting Oct 2008",1.73004569381718
+"635",NA,"BNS",NA,NA,"2009",NA,"Bluenose","Starting Oct 2009",1.702795459549
+"636",NA,"BNS",NA,NA,"2010",NA,"Bluenose","Starting Oct 2010",1.75224689474788
+"637",NA,"BNS",NA,NA,"2011",NA,"Bluenose","Starting Oct 2011",1.90518557522481
+"638",NA,"BNS",NA,NA,"2012",NA,"Bluenose","Starting Oct 2012",2.11029020510605
+"639",NA,"BNS",NA,NA,"2013",NA,"Bluenose","Starting Oct 2013",2.21011451789367
+"640",NA,"BNS",NA,NA,"2014",NA,"Bluenose","Starting Oct 2014",2.17094150277211
+"641",NA,"BNS",NA,NA,"2021",NA,"Bluenose","Starting Oct 2021",2.91581924140765
+"642",NA,"BUT",NA,NA,"2002",NA,"Butterfish","Starting Oct 2002",1.19444744115566
+"643",NA,"BUT",NA,NA,"2003",NA,"Butterfish","Starting Oct 2003",1.1504069434121
+"644",NA,"BUT",NA,NA,"2004",NA,"Butterfish","Starting Oct 2004",1.19758955379108
+"645",NA,"BUT",NA,NA,"2005",NA,"Butterfish","Starting Oct 2005",1.11477616541516
+"646",NA,"BUT",NA,NA,"2006",NA,"Butterfish","Starting Oct 2006",0.971726160869386
+"647",NA,"BUT",NA,NA,"2007",NA,"Butterfish","Starting Oct 2007",0.948378198185257
+"648",NA,"BUT",NA,NA,"2008",NA,"Butterfish","Starting Oct 2008",0.97114480235174
+"649",NA,"BUT",NA,NA,"2009",NA,"Butterfish","Starting Oct 2009",1.33410593286437
+"650",NA,"BUT",NA,NA,"2010",NA,"Butterfish","Starting Oct 2010",1.10268564612993
+"651",NA,"BUT",NA,NA,"2011",NA,"Butterfish","Starting Oct 2011",0.838677379991306
+"652",NA,"BUT",NA,NA,"2012",NA,"Butterfish","Starting Oct 2012",0.957281445036425
+"653",NA,"BUT",NA,NA,"2013",NA,"Butterfish","Starting Oct 2013",1.04241327986479
+"654",NA,"BUT",NA,NA,"2014",NA,"Butterfish","Starting Oct 2014",0.891982272499107
+"655",NA,"BUT",NA,NA,"2021",NA,"Butterfish","Starting Oct 2021",0.799827849702233
+"656",NA,"CDL",NA,NA,"2001",NA,"Cardinalfish","Starting Oct 2001",0.130981151942716
+"657",NA,"CDL",NA,NA,"2002",NA,"Cardinalfish","Starting Oct 2002",0.123579137611819
+"658",NA,"CDL",NA,NA,"2003",NA,"Cardinalfish","Starting Oct 2003",0.107296480845996
+"659",NA,"CDL",NA,NA,"2004",NA,"Cardinalfish","Starting Oct 2004",0.107932127091268
+"660",NA,"CDL",NA,NA,"2005",NA,"Cardinalfish","Starting Oct 2005",0.130391977246702
+"661",NA,"CDL",NA,NA,"2006",NA,"Cardinalfish","Starting Oct 2006",0.106707646037771
+"662",NA,"CDL",NA,NA,"2007",NA,"Cardinalfish","Starting Oct 2007",0.112038545600764
+"663",NA,"CDL",NA,NA,"2008",NA,"Cardinalfish","Starting Oct 2008",0.0925525415648201
+"664",NA,"CDL",NA,NA,"2009",NA,"Cardinalfish","Starting Oct 2009",0.102320775890416
+"665",NA,"CDL",NA,NA,"2010",NA,"Cardinalfish","Starting Oct 2010",0.130467569427401
+"666",NA,"CDL",NA,NA,"2011",NA,"Cardinalfish","Starting Oct 2011",0.138929616357642
+"667",NA,"CDL",NA,NA,"2012",NA,"Cardinalfish","Starting Oct 2012",0.123117009539564
+"668",NA,"CDL",NA,NA,"2013",NA,"Cardinalfish","Starting Oct 2013",0.121953475954292
+"669",NA,"CDL",NA,NA,"2014",NA,"Cardinalfish","Starting Oct 2014",0.127306369748423
+"670",NA,"CDL",NA,NA,"2021",NA,"Cardinalfish","Starting Oct 2021",0.1516
+"671",NA,"COC",NA,NA,"2002",NA,"Cockle","Starting Oct 2002",0.8012
+"672",NA,"COC",NA,NA,"2003",NA,"Cockle","Starting Oct 2003",0.8074
+"673",NA,"COC",NA,NA,"2004",NA,"Cockle","Starting Oct 2004",1
+"674",NA,"COC",NA,NA,"2006",NA,"Cockle","Starting Oct 2006",1.0523
+"675",NA,"COC",NA,NA,"2010",NA,"Cockle","Starting Oct 2010",1.0141
+"676",NA,"OYU",NA,NA,"2001",NA,"Dredge Oyster","Starting Oct 2001",0.29
+"677",NA,"OYU",NA,NA,"2002",NA,"Dredge Oyster","Starting Oct 2002",0.3342
+"678",NA,"OYU",NA,NA,"2003",NA,"Dredge Oyster","Starting Oct 2003",0.3816
+"679",NA,"OYU",NA,NA,"2004",NA,"Dredge Oyster","Starting Oct 2004",0.3169
+"680",NA,"OYU",NA,NA,"2006",NA,"Dredge Oyster","Starting Oct 2006",0.2345
+"681",NA,"OYS",NA,NA,"2007",NA,"Dredge Oyster","Starting Oct 2007",0.250025904000773
+"682",NA,"OYU",NA,NA,"2007",NA,"Dredge Oyster","Starting Oct 2007",0.250025904000773
+"683",NA,"OYU",NA,NA,"2008",NA,"Dredge Oyster","Starting Oct 2008",0.2201
+"684",NA,"OYU",NA,NA,"2009",NA,"Dredge Oyster","Starting Oct 2009",0.2257
+"685",NA,"OYU",NA,NA,"2010",NA,"Dredge Oyster","Starting Oct 2010",0.2204
+"686",NA,"OYU",NA,NA,"2011",NA,"Dredge Oyster","Starting Oct 2011",0.2221
+"687",NA,"OYU",NA,NA,"2012",NA,"Dredge Oyster","Starting Oct 2012",0.2121
+"688",NA,"OYU",NA,NA,"2013",NA,"Dredge Oyster","Starting Oct 2013",0.2127
+"689",NA,"OYU",NA,NA,"2014",NA,"Dredge Oyster","Starting Oct 2014",0.2144
+"690",NA,"ELE",NA,NA,"2001",NA,"Elephant Fish","Starting Oct 2001",0.706617975194758
+"691",NA,"ELE",NA,NA,"2002",NA,"Elephant Fish","Starting Oct 2002",0.846710418810002
+"692",NA,"ELE",NA,NA,"2003",NA,"Elephant Fish","Starting Oct 2003",0.932394750151073
+"693",NA,"ELE",NA,NA,"2004",NA,"Elephant Fish","Starting Oct 2004",0.899376729365443
+"694",NA,"ELE",NA,NA,"2005",NA,"Elephant Fish","Starting Oct 2005",0.813997612975383
+"695",NA,"ELE",NA,NA,"2006",NA,"Elephant Fish","Starting Oct 2006",0.811965658943612
+"696",NA,"ELE",NA,NA,"2007",NA,"Elephant Fish","Starting Oct 2007",0.661602150071504
+"697",NA,"ELE",NA,NA,"2008",NA,"Elephant Fish","Starting Oct 2008",0.744559303591566
+"698",NA,"ELE",NA,NA,"2009",NA,"Elephant Fish","Starting Oct 2009",0.742765927871792
+"699",NA,"ELE",NA,NA,"2010",NA,"Elephant Fish","Starting Oct 2010",0.885050791677664
+"700",NA,"ELE",NA,NA,"2011",NA,"Elephant Fish","Starting Oct 2011",0.826928617621967
+"701",NA,"ELE",NA,NA,"2012",NA,"Elephant Fish","Starting Oct 2012",0.748385483224626
+"702",NA,"ELE",NA,NA,"2013",NA,"Elephant Fish","Starting Oct 2013",0.843133520100307
+"703",NA,"ELE",NA,NA,"2014",NA,"Elephant Fish","Starting Oct 2014",0.738380936591253
+"704",NA,"ELE",NA,NA,"2021",NA,"Elephant Fish","Starting Oct 2021",0.640096331438787
+"705",NA,"FLA",NA,NA,"2001",NA,"Flatfish","Starting Oct 2001",0.503236471941139
+"706",NA,"FLA",NA,NA,"2002",NA,"Flatfish","Starting Oct 2002",0.608841778533386
+"707",NA,"FLA",NA,NA,"2003",NA,"Flatfish","Starting Oct 2003",0.586784295186836
+"708",NA,"FLA",NA,NA,"2004",NA,"Flatfish","Starting Oct 2004",0.602915631702752
+"709",NA,"FLA",NA,NA,"2005",NA,"Flatfish","Starting Oct 2005",0.616922665756428
+"710",NA,"FLA",NA,NA,"2006",NA,"Flatfish","Starting Oct 2006",0.630455253398707
+"711",NA,"FLA",NA,NA,"2007",NA,"Flatfish","Starting Oct 2007",0.681598977680267
+"712",NA,"FLA",NA,NA,"2008",NA,"Flatfish","Starting Oct 2008",0.711316923059574
+"713",NA,"FLA",NA,NA,"2009",NA,"Flatfish","Starting Oct 2009",0.553563596129668
+"714",NA,"FLA",NA,NA,"2010",NA,"Flatfish","Starting Oct 2010",0.563593997964101
+"715",NA,"FLA",NA,NA,"2011",NA,"Flatfish","Starting Oct 2011",0.841064813613014
+"716",NA,"FLA",NA,NA,"2012",NA,"Flatfish","Starting Oct 2012",0.640303299288475
+"717",NA,"FLA",NA,NA,"2013",NA,"Flatfish","Starting Oct 2013",0.583716374255785
+"718",NA,"FLA",NA,NA,"2014",NA,"Flatfish","Starting Oct 2014",0.598344939776164
+"719",NA,"FLA",NA,NA,"2021",NA,"Flatfish","Starting Oct 2021",1.26184276440201
+"720",NA,"FRO",NA,NA,"2001",NA,"Frostfish","Starting Oct 2001",0.0525840463337761
+"721",NA,"FRO",NA,NA,"2002",NA,"Frostfish","Starting Oct 2002",0.0589656886365791
+"722",NA,"FRO",NA,NA,"2003",NA,"Frostfish","Starting Oct 2003",0.0611166354907163
+"723",NA,"FRO",NA,NA,"2004",NA,"Frostfish","Starting Oct 2004",0.0586406856896729
+"724",NA,"FRO",NA,NA,"2005",NA,"Frostfish","Starting Oct 2005",0.0591264093491947
+"725",NA,"FRO",NA,NA,"2006",NA,"Frostfish","Starting Oct 2006",0.0660490631013892
+"726",NA,"FRO",NA,NA,"2007",NA,"Frostfish","Starting Oct 2007",0.0700803923377968
+"727",NA,"FRO",NA,NA,"2008",NA,"Frostfish","Starting Oct 2008",0.065933053412697
+"728",NA,"FRO",NA,NA,"2009",NA,"Frostfish","Starting Oct 2009",0.0655311461107942
+"729",NA,"FRO",NA,NA,"2010",NA,"Frostfish","Starting Oct 2010",0.0636646368935687
+"730",NA,"FRO",NA,NA,"2011",NA,"Frostfish","Starting Oct 2011",0.0729135481945175
+"731",NA,"FRO",NA,NA,"2012",NA,"Frostfish","Starting Oct 2012",0.0701782443255046
+"732",NA,"FRO",NA,NA,"2013",NA,"Frostfish","Starting Oct 2013",0.0812454041594709
+"733",NA,"FRO",NA,NA,"2014",NA,"Frostfish","Starting Oct 2014",0.0680224070009592
+"734",NA,"FRO",NA,NA,"2021",NA,"Frostfish","Starting Oct 2021",0.0618081997554308
+"735",NA,"GAR",NA,NA,"2002",NA,"Garfish","Starting Oct 2002",1.0074833274261
+"736",NA,"GAR",NA,NA,"2003",NA,"Garfish","Starting Oct 2003",1.31163522209196
+"737",NA,"GAR",NA,NA,"2004",NA,"Garfish","Starting Oct 2004",1.2341618967286
+"738",NA,"GAR",NA,NA,"2005",NA,"Garfish","Starting Oct 2005",1.01599513886444
+"739",NA,"GAR",NA,NA,"2006",NA,"Garfish","Starting Oct 2006",0.967525188127765
+"740",NA,"GAR",NA,NA,"2007",NA,"Garfish","Starting Oct 2007",0.973
+"741",NA,"GAR",NA,NA,"2008",NA,"Garfish","Starting Oct 2008",0.645
+"742",NA,"GAR",NA,NA,"2009",NA,"Garfish","Starting Oct 2009",0.5234
+"743",NA,"GAR",NA,NA,"2010",NA,"Garfish","Starting Oct 2010",0.6537
+"744",NA,"GAR",NA,NA,"2011",NA,"Garfish","Starting Oct 2011",0.61
+"745",NA,"GAR",NA,NA,"2012",NA,"Garfish","Starting Oct 2012",0.5461
+"746",NA,"GAR",NA,NA,"2013",NA,"Garfish","Starting Oct 2013",0.5138
+"747",NA,"GAR",NA,NA,"2014",NA,"Garfish","Starting Oct 2014",0.5981
+"748",NA,"GAR",NA,NA,"2021",NA,"Garfish","Starting Oct 2021",0.9964
+"749",NA,"SKI",NA,NA,"2001",NA,"Gemfish","Starting Oct 2001",0.760468576206371
+"750",NA,"SKI",NA,NA,"2002",NA,"Gemfish","Starting Oct 2002",0.749662765289142
+"751",NA,"SKI",NA,NA,"2003",NA,"Gemfish","Starting Oct 2003",0.864738438167958
+"752",NA,"SKI",NA,NA,"2004",NA,"Gemfish","Starting Oct 2004",0.86347705955971
+"753",NA,"SKI",NA,NA,"2005",NA,"Gemfish","Starting Oct 2005",0.800207928647218
+"754",NA,"SKI",NA,NA,"2006",NA,"Gemfish","Starting Oct 2006",0.66846492542882
+"755",NA,"SKI",NA,NA,"2007",NA,"Gemfish","Starting Oct 2007",0.936311702281667
+"756",NA,"SKI",NA,NA,"2008",NA,"Gemfish","Starting Oct 2008",0.694491434420593
+"757",NA,"SKI",NA,NA,"2009",NA,"Gemfish","Starting Oct 2009",0.65397945649953
+"758",NA,"SKI",NA,NA,"2010",NA,"Gemfish","Starting Oct 2010",0.690336012492357
+"759",NA,"SKI",NA,NA,"2011",NA,"Gemfish","Starting Oct 2011",0.772920431609874
+"760",NA,"SKI",NA,NA,"2012",NA,"Gemfish","Starting Oct 2012",0.651246473404768
+"761",NA,"SKI",NA,NA,"2013",NA,"Gemfish","Starting Oct 2013",0.734916244856198
+"762",NA,"SKI",NA,NA,"2014",NA,"Gemfish","Starting Oct 2014",0.714541673557413
+"763",NA,"SKI",NA,NA,"2021",NA,"Gemfish","Starting Oct 2021",0.615103121500568
+"764",NA,"GSH",NA,NA,"2001",NA,"Ghost Shark","Starting Oct 2001",0.0964080574053295
+"765",NA,"GSH",NA,NA,"2002",NA,"Ghost Shark","Starting Oct 2002",0.0865463116213852
+"766",NA,"GSH",NA,NA,"2003",NA,"Ghost Shark","Starting Oct 2003",0.075558811533758
+"767",NA,"GSH",NA,NA,"2004",NA,"Ghost Shark","Starting Oct 2004",0.0765781693302738
+"768",NA,"GSH",NA,NA,"2005",NA,"Ghost Shark","Starting Oct 2005",0.0785310215898706
+"769",NA,"GSH",NA,NA,"2006",NA,"Ghost Shark","Starting Oct 2006",0.0961724250251622
+"770",NA,"GSH",NA,NA,"2007",NA,"Ghost Shark","Starting Oct 2007",0.0879955529224224
+"771",NA,"GSH",NA,NA,"2008",NA,"Ghost Shark","Starting Oct 2008",0.08856176593565
+"772",NA,"GSH",NA,NA,"2009",NA,"Ghost Shark","Starting Oct 2009",0.0957597517575805
+"773",NA,"GSH",NA,NA,"2010",NA,"Ghost Shark","Starting Oct 2010",0.0945142074676486
+"774",NA,"GSH",NA,NA,"2011",NA,"Ghost Shark","Starting Oct 2011",0.0981536907157057
+"775",NA,"GSH",NA,NA,"2012",NA,"Ghost Shark","Starting Oct 2012",0.109413467259786
+"776",NA,"GSH",NA,NA,"2013",NA,"Ghost Shark","Starting Oct 2013",0.101075173880827
+"777",NA,"GSH",NA,NA,"2014",NA,"Ghost Shark","Starting Oct 2014",0.101338790540453
+"778",NA,"GSH",NA,NA,"2021",NA,"Ghost Shark","Starting Oct 2021",0.114472336375879
+"779",NA,"GLM",NA,NA,"2004",NA,"Green-lipped mussel","Starting Oct 2004",0.114539724902919
+"780",NA,"GLM",NA,NA,"2005",NA,"Green-lipped mussel","Starting Oct 2005",1.0701
+"781",NA,"GLM",NA,NA,"2006",NA,"Green-lipped mussel","Starting Oct 2006",0.9761
+"782",NA,"GLM",NA,NA,"2007",NA,"Green-lipped mussel","Starting Oct 2007",0.701618059051737
+"783",NA,"GLM",NA,NA,"2008",NA,"Green-lipped mussel","Starting Oct 2008",0.219542093768877
+"784",NA,"GLM",NA,NA,"2010",NA,"Green-lipped mussel","Starting Oct 2010",1.3407
+"785",NA,"GLM",NA,NA,"2011",NA,"Green-lipped mussel","Starting Oct 2011",1.6523
+"786",NA,"GLM",NA,NA,"2012",NA,"Green-lipped mussel","Starting Oct 2012",1.9029
+"787",NA,"GLM",NA,NA,"2013",NA,"Green-lipped mussel","Starting Oct 2013",3.8964
+"788",NA,"GLM",NA,NA,"2014",NA,"Green-lipped mussel","Starting Oct 2014",4.6502
+"789",NA,"GMU",NA,NA,"2001",NA,"Grey Mullet","Starting Oct 2001",0.403994114938728
+"790",NA,"GMU",NA,NA,"2002",NA,"Grey Mullet","Starting Oct 2002",0.448547714547048
+"791",NA,"GMU",NA,NA,"2003",NA,"Grey Mullet","Starting Oct 2003",0.4613
+"792",NA,"GMU",NA,NA,"2004",NA,"Grey Mullet","Starting Oct 2004",0.472012957316964
+"793",NA,"GMU",NA,NA,"2005",NA,"Grey Mullet","Starting Oct 2005",0.4845
+"794",NA,"GMU",NA,NA,"2006",NA,"Grey Mullet","Starting Oct 2006",0.584065014556924
+"795",NA,"GMU",NA,NA,"2007",NA,"Grey Mullet","Starting Oct 2007",0.599
+"796",NA,"GMU",NA,NA,"2008",NA,"Grey Mullet","Starting Oct 2008",0.57793710995733
+"797",NA,"GMU",NA,NA,"2009",NA,"Grey Mullet","Starting Oct 2009",0.549619818164705
+"798",NA,"GMU",NA,NA,"2010",NA,"Grey Mullet","Starting Oct 2010",0.521130338043228
+"799",NA,"GMU",NA,NA,"2011",NA,"Grey Mullet","Starting Oct 2011",0.455659150517918
+"800",NA,"GMU",NA,NA,"2012",NA,"Grey Mullet","Starting Oct 2012",0.425
+"801",NA,"GMU",NA,NA,"2013",NA,"Grey Mullet","Starting Oct 2013",0.4573
+"802",NA,"GMU",NA,NA,"2014",NA,"Grey Mullet","Starting Oct 2014",0.5945
+"803",NA,"GMU",NA,NA,"2021",NA,"Grey Mullet","Starting Oct 2021",0.519
+"804",NA,"GUR",NA,NA,"2001",NA,"Gurnard","Starting Oct 2001",0.309002402303982
+"805",NA,"GUR",NA,NA,"2002",NA,"Gurnard","Starting Oct 2002",0.373579161675439
+"806",NA,"GUR",NA,NA,"2003",NA,"Gurnard","Starting Oct 2003",0.5161624016159
+"807",NA,"GUR",NA,NA,"2004",NA,"Gurnard","Starting Oct 2004",0.431306855278672
+"808",NA,"GUR",NA,NA,"2005",NA,"Gurnard","Starting Oct 2005",0.530911357786824
+"809",NA,"GUR",NA,NA,"2006",NA,"Gurnard","Starting Oct 2006",0.506999784113633
+"810",NA,"GUR",NA,NA,"2007",NA,"Gurnard","Starting Oct 2007",0.463122243172356
+"811",NA,"GUR",NA,NA,"2008",NA,"Gurnard","Starting Oct 2008",0.534451240197534
+"812",NA,"GUR",NA,NA,"2009",NA,"Gurnard","Starting Oct 2009",0.461333058784328
+"813",NA,"GUR",NA,NA,"2010",NA,"Gurnard","Starting Oct 2010",0.452918939951242
+"814",NA,"GUR",NA,NA,"2011",NA,"Gurnard","Starting Oct 2011",0.745860037496481
+"815",NA,"GUR",NA,NA,"2012",NA,"Gurnard","Starting Oct 2012",0.679604031587486
+"816",NA,"GUR",NA,NA,"2013",NA,"Gurnard","Starting Oct 2013",0.722059903490865
+"817",NA,"GUR",NA,NA,"2014",NA,"Gurnard","Starting Oct 2014",0.877083625860201
+"818",NA,"GUR",NA,NA,"2021",NA,"Gurnard","Starting Oct 2021",0.857695624192292
+"819",NA,"HAK",NA,NA,"2001",NA,"Hake","Starting Oct 2001",0.814128386327418
+"820",NA,"HAK",NA,NA,"2002",NA,"Hake","Starting Oct 2002",1.09560252395502
+"821",NA,"HAK",NA,NA,"2003",NA,"Hake","Starting Oct 2003",0.94958864721146
+"822",NA,"HAK",NA,NA,"2004",NA,"Hake","Starting Oct 2004",0.983917512158717
+"823",NA,"HAK",NA,NA,"2005",NA,"Hake","Starting Oct 2005",1.01072794409197
+"824",NA,"HAK",NA,NA,"2006",NA,"Hake","Starting Oct 2006",1.06371438975233
+"825",NA,"HAK",NA,NA,"2007",NA,"Hake","Starting Oct 2007",1.06640812548801
+"826",NA,"HAK",NA,NA,"2008",NA,"Hake","Starting Oct 2008",0.732614680223382
+"827",NA,"HAK",NA,NA,"2009",NA,"Hake","Starting Oct 2009",0.989544017911739
+"828",NA,"HAK",NA,NA,"2010",NA,"Hake","Starting Oct 2010",0.774509725773466
+"829",NA,"HAK",NA,NA,"2011",NA,"Hake","Starting Oct 2011",0.689889884141132
+"830",NA,"HAK",NA,NA,"2012",NA,"Hake","Starting Oct 2012",0.748423382629701
+"831",NA,"HAK",NA,NA,"2013",NA,"Hake","Starting Oct 2013",0.596056769223386
+"832",NA,"HAK",NA,NA,"2014",NA,"Hake","Starting Oct 2014",0.730280700358322
+"833",NA,"HPB",NA,NA,"2001",NA,"Hapuku & Bass","Starting Oct 2001",1.00567197875222
+"834",NA,"HPB",NA,NA,"2002",NA,"Hapuku & Bass","Starting Oct 2002",1.10561034917121
+"835",NA,"HPB",NA,NA,"2003",NA,"Hapuku & Bass","Starting Oct 2003",1.19703519587793
+"836",NA,"HPB",NA,NA,"2004",NA,"Hapuku & Bass","Starting Oct 2004",1.18959201922284
+"837",NA,"HPB",NA,NA,"2005",NA,"Hapuku & Bass","Starting Oct 2005",1.21841614391059
+"838",NA,"HPB",NA,NA,"2006",NA,"Hapuku & Bass","Starting Oct 2006",1.16549588536609
+"839",NA,"HPB",NA,NA,"2007",NA,"Hapuku & Bass","Starting Oct 2007",1.21958380735218
+"840",NA,"HPB",NA,NA,"2008",NA,"Hapuku & Bass","Starting Oct 2008",1.16429556905178
+"841",NA,"HPB",NA,NA,"2009",NA,"Hapuku & Bass","Starting Oct 2009",1.09800114847644
+"842",NA,"HPB",NA,NA,"2010",NA,"Hapuku & Bass","Starting Oct 2010",1.1697703477688
+"843",NA,"HPB",NA,NA,"2011",NA,"Hapuku & Bass","Starting Oct 2011",1.14701787107713
+"844",NA,"HPB",NA,NA,"2012",NA,"Hapuku & Bass","Starting Oct 2012",1.20881723235874
+"845",NA,"HPB",NA,NA,"2013",NA,"Hapuku & Bass","Starting Oct 2013",1.25064171770466
+"846",NA,"HPB",NA,NA,"2014",NA,"Hapuku & Bass","Starting Oct 2014",1.20918359719951
+"847",NA,"HPB",NA,NA,"2021",NA,"Hapuku & Bass","Starting Oct 2021",0.905513023071499
+"848",NA,"HOK",NA,NA,"2001",NA,"Hoki","Starting Oct 2001",0.5526
+"849",NA,"HOK",NA,NA,"2002",NA,"Hoki","Starting Oct 2002",0.5703
+"850",NA,"HOK",NA,NA,"2003",NA,"Hoki","Starting Oct 2003",0.3218
+"851",NA,"HOK",NA,NA,"2004",NA,"Hoki","Starting Oct 2004",0.4477
+"852",NA,"HOK",NA,NA,"2005",NA,"Hoki","Starting Oct 2005",0.5271
+"853",NA,"HOK",NA,NA,"2006",NA,"Hoki","Starting Oct 2006",0.5221
+"854",NA,"HOK",NA,NA,"2007",NA,"Hoki","Starting Oct 2007",0.6892
+"855",NA,"HOK",NA,NA,"2008",NA,"Hoki","Starting Oct 2008",0.7534
+"856",NA,"HOK",NA,NA,"2009",NA,"Hoki","Starting Oct 2009",0.8089
+"857",NA,"HOK",NA,NA,"2010",NA,"Hoki","Starting Oct 2010",0.7329
+"858",NA,"HOK",NA,NA,"2011",NA,"Hoki","Starting Oct 2011",0.5554
+"859",NA,"HOK",NA,NA,"2012",NA,"Hoki","Starting Oct 2012",0.5153
+"860",NA,"HOK",NA,NA,"2013",NA,"Hoki","Starting Oct 2013",0.4786
+"861",NA,"HOK",NA,NA,"2014",NA,"Hoki","Starting Oct 2014",0.3556
+"862",NA,"HOK",NA,NA,"2021",NA,"Hoki","Starting Oct 2021",0.5164
+"863",NA,"JMA",NA,NA,"2001",NA,"Jack mackerel","Starting Oct 2001",0.0348385623254949
+"864",NA,"JMA",NA,NA,"2002",NA,"Jack mackerel","Starting Oct 2002",0.0342979234471826
+"865",NA,"JMA",NA,NA,"2003",NA,"Jack mackerel","Starting Oct 2003",0.0393047057586363
+"866",NA,"JMA",NA,NA,"2004",NA,"Jack mackerel","Starting Oct 2004",0.0388949097806928
+"867",NA,"JMA",NA,NA,"2005",NA,"Jack mackerel","Starting Oct 2005",0.0475294192322865
+"868",NA,"JMA",NA,NA,"2006",NA,"Jack mackerel","Starting Oct 2006",0.0554561466669308
+"869",NA,"JMA",NA,NA,"2007",NA,"Jack mackerel","Starting Oct 2007",0.0663043090993937
+"870",NA,"JMA",NA,NA,"2008",NA,"Jack mackerel","Starting Oct 2008",0.0864923571954964
+"871",NA,"JMA",NA,NA,"2009",NA,"Jack mackerel","Starting Oct 2009",0.09213113603903
+"872",NA,"JMA",NA,NA,"2010",NA,"Jack mackerel","Starting Oct 2010",0.0905656937972004
+"873",NA,"JMA",NA,NA,"2011",NA,"Jack mackerel","Starting Oct 2011",0.0950620201455174
+"874",NA,"JMA",NA,NA,"2012",NA,"Jack mackerel","Starting Oct 2012",0.103214001297029
+"875",NA,"JMA",NA,NA,"2013",NA,"Jack mackerel","Starting Oct 2013",0.110134273715472
+"876",NA,"JMA",NA,NA,"2014",NA,"Jack mackerel","Starting Oct 2014",0.12299666721938
+"877",NA,"JMA",NA,NA,"2021",NA,"Jack mackerel","Starting Oct 2021",0.146737980024654
+"878",NA,"JDO",NA,NA,"2001",NA,"John Dory","Starting Oct 2001",1.01561847735344
+"879",NA,"JDO",NA,NA,"2002",NA,"John Dory","Starting Oct 2002",1.18429547973778
+"880",NA,"JDO",NA,NA,"2003",NA,"John Dory","Starting Oct 2003",1.08021469255283
+"881",NA,"JDO",NA,NA,"2004",NA,"John Dory","Starting Oct 2004",1.06842870829954
+"882",NA,"JDO",NA,NA,"2005",NA,"John Dory","Starting Oct 2005",0.953705759031195
+"883",NA,"JDO",NA,NA,"2006",NA,"John Dory","Starting Oct 2006",0.998266243400831
+"884",NA,"JDO",NA,NA,"2007",NA,"John Dory","Starting Oct 2007",1.19880500234328
+"885",NA,"JDO",NA,NA,"2008",NA,"John Dory","Starting Oct 2008",1.22180226710655
+"886",NA,"JDO",NA,NA,"2009",NA,"John Dory","Starting Oct 2009",1.14004465455147
+"887",NA,"JDO",NA,NA,"2010",NA,"John Dory","Starting Oct 2010",1.12432637854158
+"888",NA,"JDO",NA,NA,"2011",NA,"John Dory","Starting Oct 2011",1.26009063123154
+"889",NA,"JDO",NA,NA,"2012",NA,"John Dory","Starting Oct 2012",1.14459634119517
+"890",NA,"JDO",NA,NA,"2013",NA,"John Dory","Starting Oct 2013",1.13198592339842
+"891",NA,"JDO",NA,NA,"2014",NA,"John Dory","Starting Oct 2014",1.14836357988595
+"892",NA,"JDO",NA,NA,"2021",NA,"John Dory","Starting Oct 2021",1.41635032529036
+"893",NA,"KAH",NA,NA,"2004",NA,"Kahawai","Starting Oct 2004",0.186653238076844
+"894",NA,"KAH",NA,NA,"2005",NA,"Kahawai","Starting Oct 2005",0.199260367820907
+"895",NA,"KAH",NA,NA,"2006",NA,"Kahawai","Starting Oct 2006",0.191187069131143
+"896",NA,"KAH",NA,NA,"2007",NA,"Kahawai","Starting Oct 2007",0.217750909097282
+"897",NA,"KAH",NA,NA,"2008",NA,"Kahawai","Starting Oct 2008",0.25166391535565
+"898",NA,"KAH",NA,NA,"2009",NA,"Kahawai","Starting Oct 2009",0.264361390081022
+"899",NA,"KAH",NA,NA,"2010",NA,"Kahawai","Starting Oct 2010",0.269264668759947
+"900",NA,"KAH",NA,NA,"2011",NA,"Kahawai","Starting Oct 2011",0.249855792062417
+"901",NA,"KAH",NA,NA,"2012",NA,"Kahawai","Starting Oct 2012",0.268071953755583
+"902",NA,"KAH",NA,NA,"2013",NA,"Kahawai","Starting Oct 2013",0.276319055557345
+"903",NA,"KAH",NA,NA,"2014",NA,"Kahawai","Starting Oct 2014",0.291785983101717
+"904",NA,"KAH",NA,NA,"2021",NA,"Kahawai","Starting Oct 2021",0.409491528223397
+"905",NA,"SUR",NA,NA,"2002",NA,"Kina","Starting Oct 2002",0.604786369175657
+"906",NA,"SUR",NA,NA,"2003",NA,"Kina","Starting Oct 2003",0.750391452703858
+"907",NA,"SUR",NA,NA,"2004",NA,"Kina","Starting Oct 2004",0.835006622684091
+"908",NA,"SUR",NA,NA,"2005",NA,"Kina","Starting Oct 2005",0.511690903655073
+"909",NA,"SUR",NA,NA,"2006",NA,"Kina","Starting Oct 2006",0.577329411940992
+"910",NA,"SUR",NA,NA,"2007",NA,"Kina","Starting Oct 2007",0.514938704332405
+"911",NA,"SUR",NA,NA,"2008",NA,"Kina","Starting Oct 2008",0.552725609467907
+"912",NA,"SUR",NA,NA,"2009",NA,"Kina","Starting Oct 2009",0.587575729831832
+"913",NA,"SUR",NA,NA,"2010",NA,"Kina","Starting Oct 2010",0.558399619085719
+"914",NA,"SUR",NA,NA,"2011",NA,"Kina","Starting Oct 2011",0.459909176829977
+"915",NA,"SUR",NA,NA,"2012",NA,"Kina","Starting Oct 2012",0.555479142239894
+"916",NA,"SUR",NA,NA,"2013",NA,"Kina","Starting Oct 2013",0.514103540602692
+"917",NA,"SUR",NA,NA,"2014",NA,"Kina","Starting Oct 2014",0.571052661115813
+"918",NA,"SUR",NA,NA,"2021",NA,"Kina","Starting Oct 2021",0.630398806295468
+"919",NA,"KIN",NA,NA,"2003",NA,"King Crab","Starting Oct 2003",2.11199157424951
+"920",NA,"KIN",NA,NA,"2004",NA,"King Crab","Starting Oct 2004",2.85578850467419
+"921",NA,"KIN",NA,NA,"2005",NA,"King Crab","Starting Oct 2005",2.94447181002764
+"922",NA,"KIN",NA,NA,"2006",NA,"King Crab","Starting Oct 2006",2.65940030041808
+"923",NA,"KIN",NA,NA,"2007",NA,"King Crab","Starting Oct 2007",2.6484250483192
+"924",NA,"KIN",NA,NA,"2008",NA,"King Crab","Starting Oct 2008",2.82776002863651
+"925",NA,"KIN",NA,NA,"2009",NA,"King Crab","Starting Oct 2009",2.71743910316019
+"926",NA,"KIN",NA,NA,"2010",NA,"King Crab","Starting Oct 2010",2.46911441557985
+"927",NA,"KIN",NA,NA,"2011",NA,"King Crab","Starting Oct 2011",2.48521589140805
+"928",NA,"KIN",NA,NA,"2012",NA,"King Crab","Starting Oct 2012",2.74379503113586
+"929",NA,"KIN",NA,NA,"2013",NA,"King Crab","Starting Oct 2013",3.36581730900593
+"930",NA,"KIN",NA,NA,"2014",NA,"King Crab","Starting Oct 2014",3.658915401723
+"931",NA,"KIN",NA,NA,"2021",NA,"King Crab","Starting Oct 2021",3.33445496646857
+"932",NA,"LEA",NA,NA,"2003",NA,"Leatherjacket","Starting Oct 2003",0.0969363442583116
+"933",NA,"LEA",NA,NA,"2004",NA,"Leatherjacket","Starting Oct 2004",0.0729049763972421
+"934",NA,"LEA",NA,NA,"2005",NA,"Leatherjacket","Starting Oct 2005",0.0796429979565709
+"935",NA,"LEA",NA,NA,"2006",NA,"Leatherjacket","Starting Oct 2006",0.0719246431658434
+"936",NA,"LEA",NA,NA,"2007",NA,"Leatherjacket","Starting Oct 2007",0.0846275035632824
+"937",NA,"LEA",NA,NA,"2008",NA,"Leatherjacket","Starting Oct 2008",0.0701790578999833
+"938",NA,"LEA",NA,NA,"2009",NA,"Leatherjacket","Starting Oct 2009",0.0725013107930726
+"939",NA,"LEA",NA,NA,"2010",NA,"Leatherjacket","Starting Oct 2010",0.0873203475784823
+"940",NA,"LEA",NA,NA,"2011",NA,"Leatherjacket","Starting Oct 2011",0.0899042312172258
+"941",NA,"LEA",NA,NA,"2012",NA,"Leatherjacket","Starting Oct 2012",0.0811516441854897
+"942",NA,"LEA",NA,NA,"2013",NA,"Leatherjacket","Starting Oct 2013",0.131104183717554
+"943",NA,"LEA",NA,NA,"2014",NA,"Leatherjacket","Starting Oct 2014",0.204200859562693
+"944",NA,"LEA",NA,NA,"2021",NA,"Leatherjacket","Starting Oct 2021",0.166634060688715
+"945",NA,"LIN",NA,NA,"2001",NA,"Ling","Starting Oct 2001",0.970752495011432
+"946",NA,"LIN",NA,NA,"2002",NA,"Ling","Starting Oct 2002",1.1020266223764
+"947",NA,"LIN",NA,NA,"2003",NA,"Ling","Starting Oct 2003",0.953366028002407
+"948",NA,"LIN",NA,NA,"2004",NA,"Ling","Starting Oct 2004",0.949022558383158
+"949",NA,"LIN",NA,NA,"2005",NA,"Ling","Starting Oct 2005",0.909313989325057
+"950",NA,"LIN",NA,NA,"2006",NA,"Ling","Starting Oct 2006",0.936101435373024
+"951",NA,"LIN",NA,NA,"2007",NA,"Ling","Starting Oct 2007",0.927275406875664
+"952",NA,"LIN",NA,NA,"2008",NA,"Ling","Starting Oct 2008",1.01947237720488
+"953",NA,"LIN",NA,NA,"2009",NA,"Ling","Starting Oct 2009",1.01196666790992
+"954",NA,"LIN",NA,NA,"2010",NA,"Ling","Starting Oct 2010",1.09494799090917
+"955",NA,"LIN",NA,NA,"2011",NA,"Ling","Starting Oct 2011",1.1213022178157
+"956",NA,"LIN",NA,NA,"2012",NA,"Ling","Starting Oct 2012",1.19279092559649
+"957",NA,"LIN",NA,NA,"2013",NA,"Ling","Starting Oct 2013",1.286032026462
+"958",NA,"LIN",NA,NA,"2014",NA,"Ling","Starting Oct 2014",1.54396876240735
+"959",NA,"LIN",NA,NA,"2021",NA,"Ling","Starting Oct 2021",1.33045212087293
+"960",NA,"LFE",NA,NA,"2006",NA,"Long-finned eel","Starting Oct 2006",5.7801
+"961",NA,"LFE",NA,NA,"2012",NA,"Long-finned eel","Starting Oct 2012",2.07701271759367
+"962",NA,"LFE",NA,NA,"2013",NA,"Long-finned eel","Starting Oct 2013",2.52743057354059
+"963",NA,"LFE",NA,NA,"2014",NA,"Long-finned eel","Starting Oct 2014",2.49494963373516
+"964",NA,"LDO",NA,NA,"2004",NA,"Lookdown Dory","Starting Oct 2004",0.203486791947296
+"965",NA,"LDO",NA,NA,"2005",NA,"Lookdown Dory","Starting Oct 2005",0.147238014518167
+"966",NA,"LDO",NA,NA,"2006",NA,"Lookdown Dory","Starting Oct 2006",0.140800316678285
+"967",NA,"LDO",NA,NA,"2007",NA,"Lookdown Dory","Starting Oct 2007",0.120237941704657
+"968",NA,"LDO",NA,NA,"2008",NA,"Lookdown Dory","Starting Oct 2008",0.105855629970806
+"969",NA,"LDO",NA,NA,"2009",NA,"Lookdown Dory","Starting Oct 2009",0.116606711679485
+"970",NA,"LDO",NA,NA,"2010",NA,"Lookdown Dory","Starting Oct 2010",0.115760700675105
+"971",NA,"LDO",NA,NA,"2011",NA,"Lookdown Dory","Starting Oct 2011",0.146635127130665
+"972",NA,"LDO",NA,NA,"2012",NA,"Lookdown Dory","Starting Oct 2012",0.149024771482234
+"973",NA,"LDO",NA,NA,"2013",NA,"Lookdown Dory","Starting Oct 2013",0.164168948928475
+"974",NA,"LDO",NA,NA,"2014",NA,"Lookdown Dory","Starting Oct 2014",0.142831052360023
+"975",NA,"LDO",NA,NA,"2021",NA,"Lookdown Dory","Starting Oct 2021",0.127658238636364
+"976",NA,"MAK",NA,NA,"2004",NA,"Mako Shark","Starting Oct 2004",0.0718
+"977",NA,"MAK",NA,NA,"2005",NA,"Mako Shark","Starting Oct 2005",0.0557
+"978",NA,"MAK",NA,NA,"2006",NA,"Mako Shark","Starting Oct 2006",0.0645
+"979",NA,"MAK",NA,NA,"2007",NA,"Mako Shark","Starting Oct 2007",0.0563
+"980",NA,"MAK",NA,NA,"2008",NA,"Mako Shark","Starting Oct 2008",0.0614
+"981",NA,"MAK",NA,NA,"2009",NA,"Mako Shark","Starting Oct 2009",0.0472
+"982",NA,"MAK",NA,NA,"2010",NA,"Mako Shark","Starting Oct 2010",0.0533
+"983",NA,"MAK",NA,NA,"2011",NA,"Mako Shark","Starting Oct 2011",0.0536
+"984",NA,"MAK",NA,NA,"2012",NA,"Mako Shark","Starting Oct 2012",0.0624
+"985",NA,"MAK",NA,NA,"2013",NA,"Mako Shark","Starting Oct 2013",0.0674
+"986",NA,"MAK",NA,NA,"2014",NA,"Mako Shark","Starting Oct 2014",0.0646
+"987",NA,"MAK",NA,NA,"2021",NA,"Mako Shark","Starting Oct 2021",0.0611
+"988",NA,"MOO",NA,NA,"2004",NA,"Moonfish","Starting Oct 2004",0.2631
+"989",NA,"MOO",NA,NA,"2005",NA,"Moonfish","Starting Oct 2005",0.2592
+"990",NA,"MOO",NA,NA,"2006",NA,"Moonfish","Starting Oct 2006",0.1782
+"991",NA,"MOO",NA,NA,"2007",NA,"Moonfish","Starting Oct 2007",0.2954
+"992",NA,"MOO",NA,NA,"2008",NA,"Moonfish","Starting Oct 2008",0.2506
+"993",NA,"MOO",NA,NA,"2009",NA,"Moonfish","Starting Oct 2009",0.1086
+"994",NA,"MOO",NA,NA,"2010",NA,"Moonfish","Starting Oct 2010",0.1198
+"995",NA,"MOO",NA,NA,"2011",NA,"Moonfish","Starting Oct 2011",0.3955
+"996",NA,"MOO",NA,NA,"2012",NA,"Moonfish","Starting Oct 2012",0.1118
+"997",NA,"MOO",NA,NA,"2013",NA,"Moonfish","Starting Oct 2013",0.3581
+"998",NA,"MOO",NA,NA,"2014",NA,"Moonfish","Starting Oct 2014",0.1071
+"999",NA,"ORH",NA,NA,"2001",NA,"Orange Roughy","Starting Oct 2001",2.28154252719591
+"1000",NA,"ORH",NA,NA,"2002",NA,"Orange Roughy","Starting Oct 2002",1.94070379715301
+"1001",NA,"ORH",NA,NA,"2003",NA,"Orange Roughy","Starting Oct 2003",2.03192361920128
+"1002",NA,"ORH",NA,NA,"2004",NA,"Orange Roughy","Starting Oct 2004",1.90782935321819
+"1003",NA,"ORH",NA,NA,"2005",NA,"Orange Roughy","Starting Oct 2005",1.65524378398232
+"1004",NA,"ORH",NA,NA,"2006",NA,"Orange Roughy","Starting Oct 2006",1.76623391447618
+"1005",NA,"ORH",NA,NA,"2007",NA,"Orange Roughy","Starting Oct 2007",2.08380844721005
+"1006",NA,"ORH",NA,NA,"2008",NA,"Orange Roughy","Starting Oct 2008",2.03795913086341
+"1007",NA,"ORH",NA,NA,"2009",NA,"Orange Roughy","Starting Oct 2009",1.66107021399927
+"1008",NA,"ORH",NA,NA,"2010",NA,"Orange Roughy","Starting Oct 2010",1.76385888485521
+"1009",NA,"ORH",NA,NA,"2011",NA,"Orange Roughy","Starting Oct 2011",1.88821579139758
+"1010",NA,"ORH",NA,NA,"2012",NA,"Orange Roughy","Starting Oct 2012",1.68212387190753
+"1011",NA,"ORH",NA,NA,"2013",NA,"Orange Roughy","Starting Oct 2013",1.67824768198389
+"1012",NA,"ORH",NA,NA,"2014",NA,"Orange Roughy","Starting Oct 2014",1.95569332839102
+"1013",NA,"ORH",NA,NA,"2021",NA,"Orange Roughy","Starting Oct 2021",1.96855652979483
+"1014",NA,"OEO",NA,NA,"2001",NA,"Oreo","Starting Oct 2001",0.353861168801505
+"1015",NA,"OEO",NA,NA,"2002",NA,"Oreo","Starting Oct 2002",0.392270797189957
+"1016",NA,"OEO",NA,NA,"2003",NA,"Oreo","Starting Oct 2003",0.342268157910971
+"1017",NA,"OEO",NA,NA,"2004",NA,"Oreo","Starting Oct 2004",0.32497764589087
+"1018",NA,"OEO",NA,NA,"2005",NA,"Oreo","Starting Oct 2005",0.329661632143481
+"1019",NA,"OEO",NA,NA,"2006",NA,"Oreo","Starting Oct 2006",0.351167420846952
+"1020",NA,"OEO",NA,NA,"2007",NA,"Oreo","Starting Oct 2007",0.397520052635619
+"1021",NA,"OEO",NA,NA,"2008",NA,"Oreo","Starting Oct 2008",0.350215998019433
+"1022",NA,"OEO",NA,NA,"2009",NA,"Oreo","Starting Oct 2009",0.331102687915115
+"1023",NA,"OEO",NA,NA,"2010",NA,"Oreo","Starting Oct 2010",0.324100830673517
+"1024",NA,"OEO",NA,NA,"2011",NA,"Oreo","Starting Oct 2011",0.332839561692947
+"1025",NA,"OEO",NA,NA,"2012",NA,"Oreo","Starting Oct 2012",0.354823494505217
+"1026",NA,"OEO",NA,NA,"2013",NA,"Oreo","Starting Oct 2013",0.490855367673351
+"1027",NA,"OEO",NA,NA,"2014",NA,"Oreo","Starting Oct 2014",0.341715634740204
+"1028",NA,"OEO",NA,NA,"2021",NA,"Oreo","Starting Oct 2021",0.462668375512456
+"1029",NA,"TOR",NA,NA,"2004",NA,"Pacific Bluefin Tuna","Starting Oct 2004",8.6713
+"1030",NA,"TOR",NA,NA,"2007",NA,"Pacific Bluefin Tuna","Starting Oct 2007",8.2729
+"1031",NA,"PAD",NA,NA,"2002",NA,"Paddle Crab","Starting Oct 2002",0.777169534198343
+"1032",NA,"PAD",NA,NA,"2003",NA,"Paddle Crab","Starting Oct 2003",0.905277633535209
+"1033",NA,"PAD",NA,NA,"2004",NA,"Paddle Crab","Starting Oct 2004",0.860740947094872
+"1034",NA,"PAD",NA,NA,"2005",NA,"Paddle Crab","Starting Oct 2005",0.686534582811301
+"1035",NA,"PAD",NA,NA,"2006",NA,"Paddle Crab","Starting Oct 2006",0.624180330493851
+"1036",NA,"PAD",NA,NA,"2007",NA,"Paddle Crab","Starting Oct 2007",0.518643921517069
+"1037",NA,"PAD",NA,NA,"2008",NA,"Paddle Crab","Starting Oct 2008",0.411269190513866
+"1038",NA,"PAD",NA,NA,"2009",NA,"Paddle Crab","Starting Oct 2009",0.422150933323304
+"1039",NA,"PAD",NA,NA,"2010",NA,"Paddle Crab","Starting Oct 2010",0.707981099144148
+"1040",NA,"PAD",NA,NA,"2011",NA,"Paddle Crab","Starting Oct 2011",0.2118680726295
+"1041",NA,"PAD",NA,NA,"2012",NA,"Paddle Crab","Starting Oct 2012",0.22807764533152
+"1042",NA,"PAD",NA,NA,"2013",NA,"Paddle Crab","Starting Oct 2013",0.391805107338139
+"1043",NA,"PAD",NA,NA,"2014",NA,"Paddle Crab","Starting Oct 2014",0.2724
+"1044",NA,"PAD",NA,NA,"2021",NA,"Paddle Crab","Starting Oct 2021",0.2549
+"1045",NA,"GSP",NA,NA,"2001",NA,"Pale Ghost Shark","Starting Oct 2001",0.072583827986786
+"1046",NA,"GSP",NA,NA,"2002",NA,"Pale Ghost Shark","Starting Oct 2002",0.0676498932173262
+"1047",NA,"GSP",NA,NA,"2003",NA,"Pale Ghost Shark","Starting Oct 2003",0.056307618732026
+"1048",NA,"GSP",NA,NA,"2004",NA,"Pale Ghost Shark","Starting Oct 2004",0.0488157972920167
+"1049",NA,"GSP",NA,NA,"2005",NA,"Pale Ghost Shark","Starting Oct 2005",0.0407961322515456
+"1050",NA,"GSP",NA,NA,"2006",NA,"Pale Ghost Shark","Starting Oct 2006",0.0397477817005429
+"1051",NA,"GSP",NA,NA,"2007",NA,"Pale Ghost Shark","Starting Oct 2007",0.036256132853962
+"1052",NA,"GSP",NA,NA,"2008",NA,"Pale Ghost Shark","Starting Oct 2008",0.0366937009414904
+"1053",NA,"GSP",NA,NA,"2009",NA,"Pale Ghost Shark","Starting Oct 2009",0.0498722337611927
+"1054",NA,"GSP",NA,NA,"2010",NA,"Pale Ghost Shark","Starting Oct 2010",0.0697308938784467
+"1055",NA,"GSP",NA,NA,"2011",NA,"Pale Ghost Shark","Starting Oct 2011",0.0825623478612873
+"1056",NA,"GSP",NA,NA,"2012",NA,"Pale Ghost Shark","Starting Oct 2012",0.0730031685658397
+"1057",NA,"GSP",NA,NA,"2013",NA,"Pale Ghost Shark","Starting Oct 2013",0.0534911407696346
+"1058",NA,"GSP",NA,NA,"2014",NA,"Pale Ghost Shark","Starting Oct 2014",0.0486938741910117
+"1059",NA,"GSP",NA,NA,"2021",NA,"Pale Ghost Shark","Starting Oct 2021",0.0466
+"1060",NA,"PAR",NA,NA,"2004",NA,"Parore","Starting Oct 2004",0.155615794274768
+"1061",NA,"PAR",NA,NA,"2005",NA,"Parore","Starting Oct 2005",0.21811017972287
+"1062",NA,"PAR",NA,NA,"2006",NA,"Parore","Starting Oct 2006",0.249129796345978
+"1063",NA,"PAR",NA,NA,"2007",NA,"Parore","Starting Oct 2007",0.247881886960392
+"1064",NA,"PAR",NA,NA,"2008",NA,"Parore","Starting Oct 2008",0.262980666843458
+"1065",NA,"PAR",NA,NA,"2009",NA,"Parore","Starting Oct 2009",0.296644359358084
+"1066",NA,"PAR",NA,NA,"2010",NA,"Parore","Starting Oct 2010",0.310100283687153
+"1067",NA,"PAR",NA,NA,"2011",NA,"Parore","Starting Oct 2011",0.299381979131201
+"1068",NA,"PAR",NA,NA,"2012",NA,"Parore","Starting Oct 2012",0.306316561282787
+"1069",NA,"PAR",NA,NA,"2013",NA,"Parore","Starting Oct 2013",0.296820745348991
+"1070",NA,"PAR",NA,NA,"2014",NA,"Parore","Starting Oct 2014",0.260118152491579
+"1071",NA,"PAR",NA,NA,"2021",NA,"Parore","Starting Oct 2021",0.214386580140605
+"1072",NA,"PAU",NA,NA,"2001",NA,"Paua","Starting Oct 2001",32.8210328676005
+"1073",NA,"PAU",NA,NA,"2002",NA,"Paua","Starting Oct 2002",33.8139242553871
+"1074",NA,"PAU",NA,NA,"2003",NA,"Paua","Starting Oct 2003",26.872469478415
+"1075",NA,"PAU",NA,NA,"2004",NA,"Paua","Starting Oct 2004",27.8260567110642
+"1076",NA,"PAU",NA,NA,"2005",NA,"Paua","Starting Oct 2005",28.8324777138969
+"1077",NA,"PAU",NA,NA,"2006",NA,"Paua","Starting Oct 2006",29.5966784627831
+"1078",NA,"PAU",NA,NA,"2007",NA,"Paua","Starting Oct 2007",26.1425494623702
+"1079",NA,"PAU",NA,NA,"2008",NA,"Paua","Starting Oct 2008",27.0014131498633
+"1080",NA,"PAU",NA,NA,"2009",NA,"Paua","Starting Oct 2009",18.6890455059094
+"1081",NA,"PAU",NA,NA,"2010",NA,"Paua","Starting Oct 2010",21.3313162557349
+"1082",NA,"PAU",NA,NA,"2011",NA,"Paua","Starting Oct 2011",23.6186947218081
+"1083",NA,"PAU",NA,NA,"2012",NA,"Paua","Starting Oct 2012",25.5255620229105
+"1084",NA,"PAU",NA,NA,"2013",NA,"Paua","Starting Oct 2013",20.7740349108514
+"1085",NA,"PAU",NA,NA,"2014",NA,"Paua","Starting Oct 2014",20.6635411848742
+"1086",NA,"PAU",NA,NA,"2021",NA,"Paua","Starting Oct 2021",20.7813044250216
+"1087",NA,"PIL",NA,NA,"2002",NA,"Pilchards","Starting Oct 2002",0.249793641503056
+"1088",NA,"PIL",NA,NA,"2003",NA,"Pilchards","Starting Oct 2003",0.157459988149919
+"1089",NA,"PIL",NA,NA,"2004",NA,"Pilchards","Starting Oct 2004",0.129338883477582
+"1090",NA,"PIL",NA,NA,"2005",NA,"Pilchards","Starting Oct 2005",0.157298673058668
+"1091",NA,"PIL",NA,NA,"2006",NA,"Pilchards","Starting Oct 2006",0.1504214914194
+"1092",NA,"PIL",NA,NA,"2007",NA,"Pilchards","Starting Oct 2007",0.162150969991911
+"1093",NA,"PIL",NA,NA,"2008",NA,"Pilchards","Starting Oct 2008",0.16827361206378
+"1094",NA,"PIL",NA,NA,"2009",NA,"Pilchards","Starting Oct 2009",0.3133
+"1095",NA,"PIL",NA,NA,"2011",NA,"Pilchards","Starting Oct 2011",0.15
+"1096",NA,"PIL",NA,NA,"2012",NA,"Pilchards","Starting Oct 2012",0.563046045811006
+"1097",NA,"PIL",NA,NA,"2021",NA,"Pilchards","Starting Oct 2021",0.1603
+"1098",NA,"PPI",NA,NA,"2004",NA,"Pipi","Starting Oct 2004",0.9183
+"1099",NA,"PPI",NA,NA,"2006",NA,"Pipi","Starting Oct 2006",1.1868
+"1100",NA,"POR",NA,NA,"2004",NA,"Porae","Starting Oct 2004",0.525301807650568
+"1101",NA,"POR",NA,NA,"2005",NA,"Porae","Starting Oct 2005",0.438008388729253
+"1102",NA,"POR",NA,NA,"2006",NA,"Porae","Starting Oct 2006",0.425339896751502
+"1103",NA,"POR",NA,NA,"2007",NA,"Porae","Starting Oct 2007",0.361184396685954
+"1104",NA,"POR",NA,NA,"2008",NA,"Porae","Starting Oct 2008",0.454489652727305
+"1105",NA,"POR",NA,NA,"2009",NA,"Porae","Starting Oct 2009",0.444919628815629
+"1106",NA,"POR",NA,NA,"2010",NA,"Porae","Starting Oct 2010",0.491049984549193
+"1107",NA,"POR",NA,NA,"2011",NA,"Porae","Starting Oct 2011",0.592697254357085
+"1108",NA,"POR",NA,NA,"2012",NA,"Porae","Starting Oct 2012",0.552228648683868
+"1109",NA,"POR",NA,NA,"2013",NA,"Porae","Starting Oct 2013",0.509037893597185
+"1110",NA,"POR",NA,NA,"2014",NA,"Porae","Starting Oct 2014",0.534518472653753
+"1111",NA,"POR",NA,NA,"2021",NA,"Porae","Starting Oct 2021",0.838036505756531
+"1112",NA,"POS",NA,NA,"2004",NA,"Porbeagle Shark","Starting Oct 2004",0.0636
+"1113",NA,"POS",NA,NA,"2005",NA,"Porbeagle Shark","Starting Oct 2005",0.0639
+"1114",NA,"POS",NA,NA,"2006",NA,"Porbeagle Shark","Starting Oct 2006",0.0654
+"1115",NA,"POS",NA,NA,"2007",NA,"Porbeagle Shark","Starting Oct 2007",0.0658
+"1116",NA,"POS",NA,NA,"2008",NA,"Porbeagle Shark","Starting Oct 2008",0.0609
+"1117",NA,"POS",NA,NA,"2009",NA,"Porbeagle Shark","Starting Oct 2009",0.0542
+"1118",NA,"POS",NA,NA,"2010",NA,"Porbeagle Shark","Starting Oct 2010",0.0534
+"1119",NA,"POS",NA,NA,"2011",NA,"Porbeagle Shark","Starting Oct 2011",0.0668
+"1120",NA,"POS",NA,NA,"2012",NA,"Porbeagle Shark","Starting Oct 2012",0.0548
+"1121",NA,"POS",NA,NA,"2013",NA,"Porbeagle Shark","Starting Oct 2013",0.0581
+"1122",NA,"POS",NA,NA,"2014",NA,"Porbeagle Shark","Starting Oct 2014",0.0615
+"1123",NA,"POS",NA,NA,"2021",NA,"Porbeagle Shark","Starting Oct 2021",0.05
+"1124",NA,"PRK",NA,NA,"2009",NA,"Prawn Killer","Starting Oct 2009",0.0913
+"1125",NA,"PRK",NA,NA,"2010",NA,"Prawn Killer","Starting Oct 2010",0.0754591264031235
+"1126",NA,"PRK",NA,NA,"2011",NA,"Prawn Killer","Starting Oct 2011",0.1011
+"1127",NA,"PRK",NA,NA,"2012",NA,"Prawn Killer","Starting Oct 2012",0.1103
+"1128",NA,"PRK",NA,NA,"2013",NA,"Prawn Killer","Starting Oct 2013",0.115654170831945
+"1129",NA,"PRK",NA,NA,"2014",NA,"Prawn Killer","Starting Oct 2014",0.0901197345890411
+"1130",NA,"QSC",NA,NA,"2014",NA,"Queen Scallop","Starting Oct 2014",2.0083
+"1131",NA,"RBM",NA,NA,"2004",NA,"Ray's Bream","Starting Oct 2004",0.1153
+"1132",NA,"RBM",NA,NA,"2005",NA,"Ray's Bream","Starting Oct 2005",0.0616
+"1133",NA,"RBM",NA,NA,"2006",NA,"Ray's Bream","Starting Oct 2006",0.1008
+"1134",NA,"RBM",NA,NA,"2007",NA,"Ray's Bream","Starting Oct 2007",0.0867
+"1135",NA,"RBM",NA,NA,"2008",NA,"Ray's Bream","Starting Oct 2008",0.0581
+"1136",NA,"RBM",NA,NA,"2009",NA,"Ray's Bream","Starting Oct 2009",0.0738
+"1137",NA,"RBM",NA,NA,"2010",NA,"Ray's Bream","Starting Oct 2010",0.0767
+"1138",NA,"RBM",NA,NA,"2011",NA,"Ray's Bream","Starting Oct 2011",0.0706
+"1139",NA,"RBM",NA,NA,"2012",NA,"Ray's Bream","Starting Oct 2012",0.0592
+"1140",NA,"RBM",NA,NA,"2013",NA,"Ray's Bream","Starting Oct 2013",0.0623
+"1141",NA,"RBM",NA,NA,"2014",NA,"Ray's Bream","Starting Oct 2014",0.0707
+"1142",NA,"RBM",NA,NA,"2021",NA,"Ray's Bream","Starting Oct 2021",0.0668
+"1143",NA,"RCO",NA,NA,"2001",NA,"Red Cod","Starting Oct 2001",0.117927419218102
+"1144",NA,"RCO",NA,NA,"2002",NA,"Red Cod","Starting Oct 2002",0.11736908266477
+"1145",NA,"RCO",NA,NA,"2003",NA,"Red Cod","Starting Oct 2003",0.104414831279842
+"1146",NA,"RCO",NA,NA,"2004",NA,"Red Cod","Starting Oct 2004",0.101036561132074
+"1147",NA,"RCO",NA,NA,"2005",NA,"Red Cod","Starting Oct 2005",0.107986603527832
+"1148",NA,"RCO",NA,NA,"2006",NA,"Red Cod","Starting Oct 2006",0.101915274803452
+"1149",NA,"RCO",NA,NA,"2007",NA,"Red Cod","Starting Oct 2007",0.137022871103997
+"1150",NA,"RCO",NA,NA,"2008",NA,"Red Cod","Starting Oct 2008",0.129018496059163
+"1151",NA,"RCO",NA,NA,"2009",NA,"Red Cod","Starting Oct 2009",0.119896605358731
+"1152",NA,"RCO",NA,NA,"2010",NA,"Red Cod","Starting Oct 2010",0.118374485155107
+"1153",NA,"RCO",NA,NA,"2011",NA,"Red Cod","Starting Oct 2011",0.123950807356954
+"1154",NA,"RCO",NA,NA,"2012",NA,"Red Cod","Starting Oct 2012",0.179948891829689
+"1155",NA,"RCO",NA,NA,"2013",NA,"Red Cod","Starting Oct 2013",0.156712159116356
+"1156",NA,"RCO",NA,NA,"2014",NA,"Red Cod","Starting Oct 2014",0.121176086823834
+"1157",NA,"RCO",NA,NA,"2021",NA,"Red Cod","Starting Oct 2021",0.104989810015483
+"1158",NA,"RSN",NA,NA,"2004",NA,"Red Snapper","Starting Oct 2004",1.58018292693693
+"1159",NA,"RSN",NA,NA,"2005",NA,"Red Snapper","Starting Oct 2005",1.399261182786
+"1160",NA,"RSN",NA,NA,"2006",NA,"Red Snapper","Starting Oct 2006",1.26106919675086
+"1161",NA,"RSN",NA,NA,"2007",NA,"Red Snapper","Starting Oct 2007",1.50311220428351
+"1162",NA,"RSN",NA,NA,"2008",NA,"Red Snapper","Starting Oct 2008",1.28245390127251
+"1163",NA,"RSN",NA,NA,"2009",NA,"Red Snapper","Starting Oct 2009",1.85686011597167
+"1164",NA,"RSN",NA,NA,"2010",NA,"Red Snapper","Starting Oct 2010",1.60314901025329
+"1165",NA,"RSN",NA,NA,"2011",NA,"Red Snapper","Starting Oct 2011",1.06314080761047
+"1166",NA,"RSN",NA,NA,"2012",NA,"Red Snapper","Starting Oct 2012",1.22515630473129
+"1167",NA,"RSN",NA,NA,"2013",NA,"Red Snapper","Starting Oct 2013",1.21072617538554
+"1168",NA,"RSN",NA,NA,"2014",NA,"Red Snapper","Starting Oct 2014",1.37336120290684
+"1169",NA,"RSN",NA,NA,"2021",NA,"Red Snapper","Starting Oct 2021",1.43223968563318
+"1170",NA,"RBT",NA,NA,"2010",NA,"Redbait","Starting Oct 2010",0.2388
+"1171",NA,"RBT",NA,NA,"2011",NA,"Redbait","Starting Oct 2011",0.137223171958444
+"1172",NA,"RBT",NA,NA,"2012",NA,"Redbait","Starting Oct 2012",0.1586
+"1173",NA,"RBT",NA,NA,"2013",NA,"Redbait","Starting Oct 2013",0.1418
+"1174",NA,"RBT",NA,NA,"2014",NA,"Redbait","Starting Oct 2014",0.204
+"1175",NA,"RIB",NA,NA,"2001",NA,"Ribaldo","Starting Oct 2001",0.146217155876837
+"1176",NA,"RIB",NA,NA,"2002",NA,"Ribaldo","Starting Oct 2002",0.127155024428933
+"1177",NA,"RIB",NA,NA,"2003",NA,"Ribaldo","Starting Oct 2003",0.125965789817919
+"1178",NA,"RIB",NA,NA,"2004",NA,"Ribaldo","Starting Oct 2004",0.125535367131609
+"1179",NA,"RIB",NA,NA,"2005",NA,"Ribaldo","Starting Oct 2005",0.123350943523761
+"1180",NA,"RIB",NA,NA,"2006",NA,"Ribaldo","Starting Oct 2006",0.315632991961581
+"1181",NA,"RIB",NA,NA,"2007",NA,"Ribaldo","Starting Oct 2007",0.21026375240578
+"1182",NA,"RIB",NA,NA,"2008",NA,"Ribaldo","Starting Oct 2008",0.228366669114265
+"1183",NA,"RIB",NA,NA,"2009",NA,"Ribaldo","Starting Oct 2009",0.267820752876314
+"1184",NA,"RIB",NA,NA,"2010",NA,"Ribaldo","Starting Oct 2010",0.349455989729643
+"1185",NA,"RIB",NA,NA,"2011",NA,"Ribaldo","Starting Oct 2011",0.109077907264955
+"1186",NA,"RIB",NA,NA,"2012",NA,"Ribaldo","Starting Oct 2012",0.131632559666242
+"1187",NA,"RIB",NA,NA,"2013",NA,"Ribaldo","Starting Oct 2013",0.124396857279863
+"1188",NA,"RIB",NA,NA,"2014",NA,"Ribaldo","Starting Oct 2014",0.125237939928775
+"1189",NA,"RIB",NA,NA,"2021",NA,"Ribaldo","Starting Oct 2021",0.110050616148298
+"1190",NA,"SPO",NA,NA,"2001",NA,"Rig","Starting Oct 2001",0.857993512766522
+"1191",NA,"SPO",NA,NA,"2002",NA,"Rig","Starting Oct 2002",0.915140065157229
+"1192",NA,"SPO",NA,NA,"2003",NA,"Rig","Starting Oct 2003",0.872609501980712
+"1193",NA,"SPO",NA,NA,"2004",NA,"Rig","Starting Oct 2004",0.787957506015853
+"1194",NA,"SPO",NA,NA,"2005",NA,"Rig","Starting Oct 2005",0.793242663010794
+"1195",NA,"SPO",NA,NA,"2006",NA,"Rig","Starting Oct 2006",0.70658752817626
+"1196",NA,"SPO",NA,NA,"2007",NA,"Rig","Starting Oct 2007",0.763941211177736
+"1197",NA,"SPO",NA,NA,"2008",NA,"Rig","Starting Oct 2008",0.766558975224378
+"1198",NA,"SPO",NA,NA,"2009",NA,"Rig","Starting Oct 2009",0.758027106026716
+"1199",NA,"SPO",NA,NA,"2010",NA,"Rig","Starting Oct 2010",0.739168311804267
+"1200",NA,"SPO",NA,NA,"2011",NA,"Rig","Starting Oct 2011",0.737322650822274
+"1201",NA,"SPO",NA,NA,"2012",NA,"Rig","Starting Oct 2012",0.792415536745293
+"1202",NA,"SPO",NA,NA,"2013",NA,"Rig","Starting Oct 2013",0.763078595969914
+"1203",NA,"SPO",NA,NA,"2014",NA,"Rig","Starting Oct 2014",0.770125332773158
+"1204",NA,"SPO",NA,NA,"2021",NA,"Rig","Starting Oct 2021",0.982374811900807
+"1205",NA,"RSK",NA,NA,"2003",NA,"Rough Skate","Starting Oct 2003",0.188947910634548
+"1206",NA,"RSK",NA,NA,"2004",NA,"Rough Skate","Starting Oct 2004",0.19571937363822
+"1207",NA,"RSK",NA,NA,"2005",NA,"Rough Skate","Starting Oct 2005",0.137908420860493
+"1208",NA,"RSK",NA,NA,"2006",NA,"Rough Skate","Starting Oct 2006",0.151547170597286
+"1209",NA,"RSK",NA,NA,"2007",NA,"Rough Skate","Starting Oct 2007",0.14374302009425
+"1210",NA,"RSK",NA,NA,"2008",NA,"Rough Skate","Starting Oct 2008",0.13484206547878
+"1211",NA,"RSK",NA,NA,"2009",NA,"Rough Skate","Starting Oct 2009",0.143135073495125
+"1212",NA,"RSK",NA,NA,"2010",NA,"Rough Skate","Starting Oct 2010",0.137609729919899
+"1213",NA,"RSK",NA,NA,"2011",NA,"Rough Skate","Starting Oct 2011",0.153048275826505
+"1214",NA,"RSK",NA,NA,"2012",NA,"Rough Skate","Starting Oct 2012",0.135831006494836
+"1215",NA,"RSK",NA,NA,"2013",NA,"Rough Skate","Starting Oct 2013",0.123180075999674
+"1216",NA,"RSK",NA,NA,"2014",NA,"Rough Skate","Starting Oct 2014",0.122100152611729
+"1217",NA,"RSK",NA,NA,"2021",NA,"Rough Skate","Starting Oct 2021",0.12028039867799
+"1218",NA,"RBY",NA,NA,"2001",NA,"Ruby Fish","Starting Oct 2001",0.0871989622281673
+"1219",NA,"RBY",NA,NA,"2002",NA,"Ruby Fish","Starting Oct 2002",0.0963173174717931
+"1220",NA,"RBY",NA,NA,"2003",NA,"Ruby Fish","Starting Oct 2003",0.13745974517269
+"1221",NA,"RBY",NA,NA,"2004",NA,"Ruby Fish","Starting Oct 2004",0.162432763100325
+"1222",NA,"RBY",NA,NA,"2005",NA,"Ruby Fish","Starting Oct 2005",0.115538144610348
+"1223",NA,"RBY",NA,NA,"2006",NA,"Ruby Fish","Starting Oct 2006",0.115589195162464
+"1224",NA,"RBY",NA,NA,"2007",NA,"Ruby Fish","Starting Oct 2007",0.0743450771898085
+"1225",NA,"RBY",NA,NA,"2008",NA,"Ruby Fish","Starting Oct 2008",0.06265799026255
+"1226",NA,"RBY",NA,NA,"2009",NA,"Ruby Fish","Starting Oct 2009",0.0836304539559566
+"1227",NA,"RBY",NA,NA,"2010",NA,"Ruby Fish","Starting Oct 2010",0.0905714325997492
+"1228",NA,"RBY",NA,NA,"2011",NA,"Ruby Fish","Starting Oct 2011",0.132305180225617
+"1229",NA,"RBY",NA,NA,"2012",NA,"Ruby Fish","Starting Oct 2012",0.121464534417178
+"1230",NA,"RBY",NA,NA,"2013",NA,"Ruby Fish","Starting Oct 2013",0.118063881565063
+"1231",NA,"RBY",NA,NA,"2014",NA,"Ruby Fish","Starting Oct 2014",0.107032222837988
+"1232",NA,"RBY",NA,NA,"2021",NA,"Ruby Fish","Starting Oct 2021",0.172321023583604
+"1233",NA,"SCI",NA,NA,"2004",NA,"Scampi","Starting Oct 2004",12.518553340128
+"1234",NA,"SCI",NA,NA,"2005",NA,"Scampi","Starting Oct 2005",11.9959039580277
+"1235",NA,"SCI",NA,NA,"2006",NA,"Scampi","Starting Oct 2006",11.7011501389294
+"1236",NA,"SCI",NA,NA,"2014",NA,"Scampi","Starting Oct 2014",28.85
+"1237",NA,"SCI",NA,NA,"2021",NA,"Scampi","Starting Oct 2021",25.5367270175577
+"1238",NA,"SCH",NA,NA,"2001",NA,"School Shark","Starting Oct 2001",0.857406613854179
+"1239",NA,"SCH",NA,NA,"2002",NA,"School Shark","Starting Oct 2002",0.953724335048656
+"1240",NA,"SCH",NA,NA,"2003",NA,"School Shark","Starting Oct 2003",1.02582280787816
+"1241",NA,"SCH",NA,NA,"2004",NA,"School Shark","Starting Oct 2004",1.03806573516924
+"1242",NA,"SCH",NA,NA,"2005",NA,"School Shark","Starting Oct 2005",0.925723213991056
+"1243",NA,"SCH",NA,NA,"2006",NA,"School Shark","Starting Oct 2006",0.931463318917454
+"1244",NA,"SCH",NA,NA,"2007",NA,"School Shark","Starting Oct 2007",0.967642436133895
+"1245",NA,"SCH",NA,NA,"2008",NA,"School Shark","Starting Oct 2008",0.917296179054955
+"1246",NA,"SCH",NA,NA,"2009",NA,"School Shark","Starting Oct 2009",1.03058674319088
+"1247",NA,"SCH",NA,NA,"2010",NA,"School Shark","Starting Oct 2010",1.04163729122642
+"1248",NA,"SCH",NA,NA,"2011",NA,"School Shark","Starting Oct 2011",1.07326350192897
+"1249",NA,"SCH",NA,NA,"2012",NA,"School Shark","Starting Oct 2012",1.06126990995966
+"1250",NA,"SCH",NA,NA,"2013",NA,"School Shark","Starting Oct 2013",1.0603200210931
+"1251",NA,"SCH",NA,NA,"2014",NA,"School Shark","Starting Oct 2014",1.01972811731254
+"1252",NA,"SCH",NA,NA,"2021",NA,"School Shark","Starting Oct 2021",0.886170374276662
+"1253",NA,"SPE",NA,NA,"2001",NA,"Sea Perch","Starting Oct 2001",0.0525238029227196
+"1254",NA,"SPE",NA,NA,"2002",NA,"Sea Perch","Starting Oct 2002",0.0549274830173542
+"1255",NA,"SPE",NA,NA,"2003",NA,"Sea Perch","Starting Oct 2003",0.0549846620414858
+"1256",NA,"SPE",NA,NA,"2004",NA,"Sea Perch","Starting Oct 2004",0.0538216830278458
+"1257",NA,"SPE",NA,NA,"2005",NA,"Sea Perch","Starting Oct 2005",0.0509817800235114
+"1258",NA,"SPE",NA,NA,"2006",NA,"Sea Perch","Starting Oct 2006",0.0512786095220367
+"1259",NA,"SPE",NA,NA,"2007",NA,"Sea Perch","Starting Oct 2007",0.0471652018320505
+"1260",NA,"SPE",NA,NA,"2008",NA,"Sea Perch","Starting Oct 2008",0.0507161291486009
+"1261",NA,"SPE",NA,NA,"2009",NA,"Sea Perch","Starting Oct 2009",0.0627236049418384
+"1262",NA,"SPE",NA,NA,"2010",NA,"Sea Perch","Starting Oct 2010",0.0627540757958257
+"1263",NA,"SPE",NA,NA,"2011",NA,"Sea Perch","Starting Oct 2011",0.0847035788598992
+"1264",NA,"SPE",NA,NA,"2012",NA,"Sea Perch","Starting Oct 2012",0.0766426852488679
+"1265",NA,"SPE",NA,NA,"2013",NA,"Sea Perch","Starting Oct 2013",0.144573920143545
+"1266",NA,"SPE",NA,NA,"2014",NA,"Sea Perch","Starting Oct 2014",0.125811883488984
+"1267",NA,"SPE",NA,NA,"2021",NA,"Sea Perch","Starting Oct 2021",0.130200481488127
+"1268",NA,"SFE",NA,NA,"2004",NA,"Short-finned eel","Starting Oct 2004",2
+"1269",NA,"SFE",NA,NA,"2007",NA,"Short-finned eel","Starting Oct 2007",5.0622
+"1270",NA,"SFE",NA,NA,"2010",NA,"Short-finned eel","Starting Oct 2010",1.7712
+"1271",NA,"SFE",NA,NA,"2012",NA,"Short-finned eel","Starting Oct 2012",2.07093586422966
+"1272",NA,"SFE",NA,NA,"2013",NA,"Short-finned eel","Starting Oct 2013",2.4703355550062
+"1273",NA,"SFE",NA,NA,"2014",NA,"Short-finned eel","Starting Oct 2014",2.30884871783763
+"1274",NA,"SWA",NA,NA,"2001",NA,"Silver Warehou","Starting Oct 2001",0.529843596265004
+"1275",NA,"SWA",NA,NA,"2002",NA,"Silver Warehou","Starting Oct 2002",0.589466383350312
+"1276",NA,"SWA",NA,NA,"2003",NA,"Silver Warehou","Starting Oct 2003",0.639577740054649
+"1277",NA,"SWA",NA,NA,"2004",NA,"Silver Warehou","Starting Oct 2004",0.620038404765854
+"1278",NA,"SWA",NA,NA,"2005",NA,"Silver Warehou","Starting Oct 2005",0.671122243898572
+"1279",NA,"SWA",NA,NA,"2006",NA,"Silver Warehou","Starting Oct 2006",0.69160651955415
+"1280",NA,"SWA",NA,NA,"2007",NA,"Silver Warehou","Starting Oct 2007",0.712837416236826
+"1281",NA,"SWA",NA,NA,"2008",NA,"Silver Warehou","Starting Oct 2008",0.725097287830967
+"1282",NA,"SWA",NA,NA,"2009",NA,"Silver Warehou","Starting Oct 2009",0.728400422431574
+"1283",NA,"SWA",NA,NA,"2010",NA,"Silver Warehou","Starting Oct 2010",0.781988460803999
+"1284",NA,"SWA",NA,NA,"2011",NA,"Silver Warehou","Starting Oct 2011",0.670385547162859
+"1285",NA,"SWA",NA,NA,"2012",NA,"Silver Warehou","Starting Oct 2012",0.581873845918965
+"1286",NA,"SWA",NA,NA,"2013",NA,"Silver Warehou","Starting Oct 2013",0.602237715685017
+"1287",NA,"SWA",NA,NA,"2014",NA,"Silver Warehou","Starting Oct 2014",0.601426359589257
+"1288",NA,"SWA",NA,NA,"2021",NA,"Silver Warehou","Starting Oct 2021",0.628702911365444
+"1289",NA,"SSK",NA,NA,"2003",NA,"Smooth Skate","Starting Oct 2003",0.202252162800489
+"1290",NA,"SSK",NA,NA,"2004",NA,"Smooth Skate","Starting Oct 2004",0.198330872770399
+"1291",NA,"SSK",NA,NA,"2005",NA,"Smooth Skate","Starting Oct 2005",0.174906097739124
+"1292",NA,"SSK",NA,NA,"2006",NA,"Smooth Skate","Starting Oct 2006",0.170320219437348
+"1293",NA,"SSK",NA,NA,"2007",NA,"Smooth Skate","Starting Oct 2007",0.163732618949147
+"1294",NA,"SSK",NA,NA,"2008",NA,"Smooth Skate","Starting Oct 2008",0.162381184184862
+"1295",NA,"SSK",NA,NA,"2009",NA,"Smooth Skate","Starting Oct 2009",0.159810377754672
+"1296",NA,"SSK",NA,NA,"2010",NA,"Smooth Skate","Starting Oct 2010",0.148346585705817
+"1297",NA,"SSK",NA,NA,"2011",NA,"Smooth Skate","Starting Oct 2011",0.16094733677155
+"1298",NA,"SSK",NA,NA,"2012",NA,"Smooth Skate","Starting Oct 2012",0.158373234816379
+"1299",NA,"SSK",NA,NA,"2013",NA,"Smooth Skate","Starting Oct 2013",0.145189024192352
+"1300",NA,"SSK",NA,NA,"2014",NA,"Smooth Skate","Starting Oct 2014",0.138284277512013
+"1301",NA,"SSK",NA,NA,"2021",NA,"Smooth Skate","Starting Oct 2021",0.117770292148101
+"1302",NA,"SNA",NA,NA,"2001",NA,"Snapper","Starting Oct 2001",4.26763952807119
+"1303",NA,"SNA",NA,NA,"2002",NA,"Snapper","Starting Oct 2002",4.13411736955553
+"1304",NA,"SNA",NA,NA,"2003",NA,"Snapper","Starting Oct 2003",3.80920344314956
+"1305",NA,"SNA",NA,NA,"2004",NA,"Snapper","Starting Oct 2004",3.34556779430168
+"1306",NA,"SNA",NA,NA,"2005",NA,"Snapper","Starting Oct 2005",2.96549507876768
+"1307",NA,"SNA",NA,NA,"2006",NA,"Snapper","Starting Oct 2006",3.57469230087862
+"1308",NA,"SNA",NA,NA,"2007",NA,"Snapper","Starting Oct 2007",4.05999171391306
+"1309",NA,"SNA",NA,NA,"2008",NA,"Snapper","Starting Oct 2008",3.74089493277638
+"1310",NA,"SNA",NA,NA,"2009",NA,"Snapper","Starting Oct 2009",3.94484047393368
+"1311",NA,"SNA",NA,NA,"2010",NA,"Snapper","Starting Oct 2010",4.32200765320632
+"1312",NA,"SNA",NA,NA,"2011",NA,"Snapper","Starting Oct 2011",4.22304031543504
+"1313",NA,"SNA",NA,NA,"2012",NA,"Snapper","Starting Oct 2012",3.89271420514515
+"1314",NA,"SNA",NA,NA,"2013",NA,"Snapper","Starting Oct 2013",3.88426215760773
+"1315",NA,"SNA",NA,NA,"2014",NA,"Snapper","Starting Oct 2014",3.80751971885871
+"1316",NA,"SNA",NA,NA,"2021",NA,"Snapper","Starting Oct 2021",5.08621484020165
+"1317",NA,"STN",NA,NA,"2004",NA,"Southern Bluefin Tuna","Starting Oct 2004",10.7994
+"1318",NA,"STN",NA,NA,"2006",NA,"Southern Bluefin Tuna","Starting Oct 2006",15.1905
+"1319",NA,"SPD",NA,NA,"2004",NA,"Spiny Dogfish","Starting Oct 2004",0.043698972077128
+"1320",NA,"SPD",NA,NA,"2005",NA,"Spiny Dogfish","Starting Oct 2005",0.0295209795974083
+"1321",NA,"SPD",NA,NA,"2006",NA,"Spiny Dogfish","Starting Oct 2006",0.0299200095274585
+"1322",NA,"SPD",NA,NA,"2007",NA,"Spiny Dogfish","Starting Oct 2007",0.0296107939661058
+"1323",NA,"SPD",NA,NA,"2008",NA,"Spiny Dogfish","Starting Oct 2008",0.0295040114350963
+"1324",NA,"SPD",NA,NA,"2009",NA,"Spiny Dogfish","Starting Oct 2009",0.0431087538906324
+"1325",NA,"SPD",NA,NA,"2010",NA,"Spiny Dogfish","Starting Oct 2010",0.0407397513628235
+"1326",NA,"SPD",NA,NA,"2011",NA,"Spiny Dogfish","Starting Oct 2011",0.0370588022935513
+"1327",NA,"SPD",NA,NA,"2012",NA,"Spiny Dogfish","Starting Oct 2012",0.0330690807136462
+"1328",NA,"SPD",NA,NA,"2013",NA,"Spiny Dogfish","Starting Oct 2013",0.0313532778639566
+"1329",NA,"SPD",NA,NA,"2014",NA,"Spiny Dogfish","Starting Oct 2014",0.0312073134883585
+"1330",NA,"SPD",NA,NA,"2021",NA,"Spiny Dogfish","Starting Oct 2021",0.0338363460159655
+"1331",NA,"SPR",NA,NA,"2002",NA,"Sprats","Starting Oct 2002",0.032
+"1332",NA,"SPR",NA,NA,"2003",NA,"Sprats","Starting Oct 2003",0.0459
+"1333",NA,"SPR",NA,NA,"2008",NA,"Sprats","Starting Oct 2008",0.02
+"1334",NA,"STA",NA,NA,"2001",NA,"Stargazer","Starting Oct 2001",0.520010376485243
+"1335",NA,"STA",NA,NA,"2002",NA,"Stargazer","Starting Oct 2002",0.518411049973249
+"1336",NA,"STA",NA,NA,"2003",NA,"Stargazer","Starting Oct 2003",0.590442267440775
+"1337",NA,"STA",NA,NA,"2004",NA,"Stargazer","Starting Oct 2004",0.488631817137722
+"1338",NA,"STA",NA,NA,"2005",NA,"Stargazer","Starting Oct 2005",0.534462677578506
+"1339",NA,"STA",NA,NA,"2006",NA,"Stargazer","Starting Oct 2006",0.465213567120865
+"1340",NA,"STA",NA,NA,"2007",NA,"Stargazer","Starting Oct 2007",0.446029117905066
+"1341",NA,"STA",NA,NA,"2008",NA,"Stargazer","Starting Oct 2008",0.477505117943512
+"1342",NA,"STA",NA,NA,"2009",NA,"Stargazer","Starting Oct 2009",0.420781225318785
+"1343",NA,"STA",NA,NA,"2010",NA,"Stargazer","Starting Oct 2010",0.427372909464579
+"1344",NA,"STA",NA,NA,"2011",NA,"Stargazer","Starting Oct 2011",0.487469198852442
+"1345",NA,"STA",NA,NA,"2012",NA,"Stargazer","Starting Oct 2012",0.430546092829547
+"1346",NA,"STA",NA,NA,"2013",NA,"Stargazer","Starting Oct 2013",0.527791207573254
+"1347",NA,"STA",NA,NA,"2014",NA,"Stargazer","Starting Oct 2014",0.437145239519487
+"1348",NA,"STA",NA,NA,"2021",NA,"Stargazer","Starting Oct 2021",0.471137845963532
+"1349",NA,"SWO",NA,NA,"2004",NA,"Swordfish","Starting Oct 2004",1.2466
+"1350",NA,"SWO",NA,NA,"2005",NA,"Swordfish","Starting Oct 2005",1.0028
+"1351",NA,"SWO",NA,NA,"2006",NA,"Swordfish","Starting Oct 2006",1.1431
+"1352",NA,"SWO",NA,NA,"2007",NA,"Swordfish","Starting Oct 2007",1.1307
+"1353",NA,"SWO",NA,NA,"2008",NA,"Swordfish","Starting Oct 2008",0.8141
+"1354",NA,"SWO",NA,NA,"2009",NA,"Swordfish","Starting Oct 2009",0.7844
+"1355",NA,"SWO",NA,NA,"2010",NA,"Swordfish","Starting Oct 2010",0.9267
+"1356",NA,"SWO",NA,NA,"2011",NA,"Swordfish","Starting Oct 2011",0.8799
+"1357",NA,"SWO",NA,NA,"2012",NA,"Swordfish","Starting Oct 2012",0.7293
+"1358",NA,"SWO",NA,NA,"2013",NA,"Swordfish","Starting Oct 2013",1.0391
+"1359",NA,"SWO",NA,NA,"2014",NA,"Swordfish","Starting Oct 2014",0.8524
+"1360",NA,"TAR",NA,NA,"2001",NA,"Tarakihi","Starting Oct 2001",0.605585762102491
+"1361",NA,"TAR",NA,NA,"2002",NA,"Tarakihi","Starting Oct 2002",0.909492303204318
+"1362",NA,"TAR",NA,NA,"2003",NA,"Tarakihi","Starting Oct 2003",0.956788877530807
+"1363",NA,"TAR",NA,NA,"2004",NA,"Tarakihi","Starting Oct 2004",0.857635515089853
+"1364",NA,"TAR",NA,NA,"2005",NA,"Tarakihi","Starting Oct 2005",0.812143782423017
+"1365",NA,"TAR",NA,NA,"2006",NA,"Tarakihi","Starting Oct 2006",0.785235710382504
+"1366",NA,"TAR",NA,NA,"2007",NA,"Tarakihi","Starting Oct 2007",1.07950423812736
+"1367",NA,"TAR",NA,NA,"2008",NA,"Tarakihi","Starting Oct 2008",0.931315472033157
+"1368",NA,"TAR",NA,NA,"2009",NA,"Tarakihi","Starting Oct 2009",0.938990232746039
+"1369",NA,"TAR",NA,NA,"2010",NA,"Tarakihi","Starting Oct 2010",0.940613846381042
+"1370",NA,"TAR",NA,NA,"2011",NA,"Tarakihi","Starting Oct 2011",0.84635454630693
+"1371",NA,"TAR",NA,NA,"2012",NA,"Tarakihi","Starting Oct 2012",0.854950956254975
+"1372",NA,"TAR",NA,NA,"2013",NA,"Tarakihi","Starting Oct 2013",0.900089461827095
+"1373",NA,"TAR",NA,NA,"2014",NA,"Tarakihi","Starting Oct 2014",0.896478460392809
+"1374",NA,"TAR",NA,NA,"2021",NA,"Tarakihi","Starting Oct 2021",0.942807535142293
+"1375",NA,"TRE",NA,NA,"2001",NA,"Trevally","Starting Oct 2001",0.451670140997886
+"1376",NA,"TRE",NA,NA,"2002",NA,"Trevally","Starting Oct 2002",0.394163922783624
+"1377",NA,"TRE",NA,NA,"2003",NA,"Trevally","Starting Oct 2003",0.385330961877862
+"1378",NA,"TRE",NA,NA,"2004",NA,"Trevally","Starting Oct 2004",0.389079801255684
+"1379",NA,"TRE",NA,NA,"2005",NA,"Trevally","Starting Oct 2005",0.377262529843885
+"1380",NA,"TRE",NA,NA,"2006",NA,"Trevally","Starting Oct 2006",0.362571427968961
+"1381",NA,"TRE",NA,NA,"2007",NA,"Trevally","Starting Oct 2007",0.432904035320115
+"1382",NA,"TRE",NA,NA,"2008",NA,"Trevally","Starting Oct 2008",0.346187673034623
+"1383",NA,"TRE",NA,NA,"2009",NA,"Trevally","Starting Oct 2009",0.356224727310781
+"1384",NA,"TRE",NA,NA,"2010",NA,"Trevally","Starting Oct 2010",0.385904379267864
+"1385",NA,"TRE",NA,NA,"2011",NA,"Trevally","Starting Oct 2011",0.35581367817097
+"1386",NA,"TRE",NA,NA,"2012",NA,"Trevally","Starting Oct 2012",0.339005746807506
+"1387",NA,"TRE",NA,NA,"2013",NA,"Trevally","Starting Oct 2013",0.382759895217923
+"1388",NA,"TRE",NA,NA,"2014",NA,"Trevally","Starting Oct 2014",0.370996354661219
+"1389",NA,"TRE",NA,NA,"2021",NA,"Trevally","Starting Oct 2021",0.438728797484974
+"1390",NA,"TRU",NA,NA,"2001",NA,"Trumpeter","Starting Oct 2001",0.220728743916812
+"1391",NA,"TRU",NA,NA,"2002",NA,"Trumpeter","Starting Oct 2002",0.271265133398859
+"1392",NA,"TRU",NA,NA,"2003",NA,"Trumpeter","Starting Oct 2003",0.358303604145436
+"1393",NA,"TRU",NA,NA,"2004",NA,"Trumpeter","Starting Oct 2004",0.279567942658247
+"1394",NA,"TRU",NA,NA,"2005",NA,"Trumpeter","Starting Oct 2005",0.314063755777895
+"1395",NA,"TRU",NA,NA,"2006",NA,"Trumpeter","Starting Oct 2006",0.317421778389792
+"1396",NA,"TRU",NA,NA,"2007",NA,"Trumpeter","Starting Oct 2007",0.293439027705212
+"1397",NA,"TRU",NA,NA,"2008",NA,"Trumpeter","Starting Oct 2008",0.32035061400944
+"1398",NA,"TRU",NA,NA,"2009",NA,"Trumpeter","Starting Oct 2009",0.320947520435338
+"1399",NA,"TRU",NA,NA,"2010",NA,"Trumpeter","Starting Oct 2010",0.300384960387912
+"1400",NA,"TRU",NA,NA,"2011",NA,"Trumpeter","Starting Oct 2011",0.330169692854643
+"1401",NA,"TRU",NA,NA,"2012",NA,"Trumpeter","Starting Oct 2012",0.655900399874489
+"1402",NA,"TRU",NA,NA,"2013",NA,"Trumpeter","Starting Oct 2013",0.407104661493612
+"1403",NA,"TRU",NA,NA,"2014",NA,"Trumpeter","Starting Oct 2014",0.361435429044883
+"1404",NA,"TRU",NA,NA,"2021",NA,"Trumpeter","Starting Oct 2021",0.461786933214206
+"1405",NA,"TUA",NA,NA,"2008",NA,"Tuatua","Starting Oct 2008",1.1593
+"1406",NA,"WWA",NA,NA,"2001",NA,"White Warehou","Starting Oct 2001",0.179981543788852
+"1407",NA,"WWA",NA,NA,"2002",NA,"White Warehou","Starting Oct 2002",0.192082473454072
+"1408",NA,"WWA",NA,NA,"2003",NA,"White Warehou","Starting Oct 2003",0.154287566654366
+"1409",NA,"WWA",NA,NA,"2004",NA,"White Warehou","Starting Oct 2004",0.162589498937556
+"1410",NA,"WWA",NA,NA,"2005",NA,"White Warehou","Starting Oct 2005",0.154951074747713
+"1411",NA,"WWA",NA,NA,"2006",NA,"White Warehou","Starting Oct 2006",0.473316424826216
+"1412",NA,"WWA",NA,NA,"2007",NA,"White Warehou","Starting Oct 2007",0.400558391237776
+"1413",NA,"WWA",NA,NA,"2008",NA,"White Warehou","Starting Oct 2008",0.389581330718241
+"1414",NA,"WWA",NA,NA,"2009",NA,"White Warehou","Starting Oct 2009",0.506403931915815
+"1415",NA,"WWA",NA,NA,"2010",NA,"White Warehou","Starting Oct 2010",0.496677711863244
+"1416",NA,"WWA",NA,NA,"2011",NA,"White Warehou","Starting Oct 2011",0.488036140104361
+"1417",NA,"WWA",NA,NA,"2012",NA,"White Warehou","Starting Oct 2012",0.329133928469989
+"1418",NA,"WWA",NA,NA,"2013",NA,"White Warehou","Starting Oct 2013",0.317734600516036
+"1419",NA,"WWA",NA,NA,"2014",NA,"White Warehou","Starting Oct 2014",0.277200740164434
+"1420",NA,"YEM",NA,NA,"2001",NA,"Yellow Eyed Mullet","Starting Oct 2001",0.190045212346252
+"1421",NA,"YEM",NA,NA,"2002",NA,"Yellow Eyed Mullet","Starting Oct 2002",0.148189547050203
+"1422",NA,"YEM",NA,NA,"2003",NA,"Yellow Eyed Mullet","Starting Oct 2003",0.182130585073563
+"1423",NA,"YEM",NA,NA,"2004",NA,"Yellow Eyed Mullet","Starting Oct 2004",0.201036136226122
+"1424",NA,"YEM",NA,NA,"2005",NA,"Yellow Eyed Mullet","Starting Oct 2005",0.172665982369759
+"1425",NA,"YEM",NA,NA,"2006",NA,"Yellow Eyed Mullet","Starting Oct 2006",0.208596467565832
+"1426",NA,"YEM",NA,NA,"2007",NA,"Yellow Eyed Mullet","Starting Oct 2007",0.190312077889377
+"1427",NA,"YEM",NA,NA,"2008",NA,"Yellow Eyed Mullet","Starting Oct 2008",0.17432639927346
+"1428",NA,"YEM",NA,NA,"2009",NA,"Yellow Eyed Mullet","Starting Oct 2009",0.215413911232942
+"1429",NA,"YEM",NA,NA,"2010",NA,"Yellow Eyed Mullet","Starting Oct 2010",0.199589229371086
+"1430",NA,"YEM",NA,NA,"2011",NA,"Yellow Eyed Mullet","Starting Oct 2011",0.171179079034758
+"1431",NA,"YEM",NA,NA,"2012",NA,"Yellow Eyed Mullet","Starting Oct 2012",0.160057149377666
+"1432",NA,"YEM",NA,NA,"2013",NA,"Yellow Eyed Mullet","Starting Oct 2013",0.205164077195156
+"1433",NA,"YEM",NA,NA,"2014",NA,"Yellow Eyed Mullet","Starting Oct 2014",0.229655525921975
+"1434",NA,"YFN",NA,NA,"2004",NA,"Yellowfin Tuna","Starting Oct 2004",2.1095
+"1435",NA,"YFN",NA,NA,"2005",NA,"Yellowfin Tuna","Starting Oct 2005",2.8789
+"1436",NA,"YFN",NA,NA,"2006",NA,"Yellowfin Tuna","Starting Oct 2006",1.7464
+"1437",NA,"YFN",NA,NA,"2007",NA,"Yellowfin Tuna","Starting Oct 2007",3.022
+"1438",NA,"YFN",NA,NA,"2009",NA,"Yellowfin Tuna","Starting Oct 2009",2.2263

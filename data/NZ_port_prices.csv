@@ -1,0 +1,1604 @@
+,species,fishing_year,wt_port_price
+1,Albacore,2008,0.5275
+2,Albacore,2009,2.11
+3,Albacore,2010,2.16
+4,Albacore,2011,2.325
+5,Albacore,2012,2.44
+6,Albacore,2013,2.5625
+7,Albacore,2014,2.2475
+8,Albacore,2015,2.09
+9,Albacore,2016,2.2775
+10,Albacore,2017,2.8575
+11,Albacore,2018,2.905
+12,Albacore,2019,3.027421821
+13,Albacore,2020,3.504844717
+14,Albacore,2021,3.763800867
+15,Albacore,2022,2.965689317
+16,Alfonsino,2008,0.447916667
+17,Alfonsino,2009,1.791666667
+18,Alfonsino,2010,1.79375
+19,Alfonsino,2011,1.908333333
+20,Alfonsino,2012,2.15375
+21,Alfonsino,2013,1.922916667
+22,Alfonsino,2014,1.907916667
+23,Alfonsino,2015,1.848333333
+24,Alfonsino,2016,1.991666667
+25,Alfonsino,2017,1.855
+26,Alfonsino,2018,1.743779092
+27,Alfonsino,2019,1.92414207
+28,Alfonsino,2020,1.970528571
+29,Alfonsino,2021,2.10650792
+30,Alfonsino,2022,1.654246047
+31,Anchovy,2008,0.1725
+32,Anchovy,2009,0.69
+33,Anchovy,2010,0.725
+34,Anchovy,2011,0.83
+35,Anchovy,2012,0.8275
+36,Anchovy,2013,0.82
+37,Anchovy,2014,0.82
+38,Anchovy,2015,0.82
+39,Anchovy,2016,0.82
+40,Anchovy,2017,0.82
+41,Anchovy,2018,0.82
+42,Anchovy,2019,0.82
+43,Anchovy,2020,0.82
+44,Anchovy,2021,0.82
+45,Anchovy,2022,0.615
+46,Barracouta,2008,0.062
+47,Barracouta,2009,0.248
+48,Barracouta,2010,0.272
+49,Barracouta,2011,0.3555
+50,Barracouta,2012,0.39
+51,Barracouta,2013,0.386
+52,Barracouta,2014,0.374
+53,Barracouta,2015,0.362
+54,Barracouta,2016,0.339
+55,Barracouta,2017,0.361
+56,Barracouta,2018,0.363365112
+57,Barracouta,2019,0.46795161
+58,Barracouta,2020,0.30210002
+59,Barracouta,2021,0.302519628
+60,Barracouta,2022,0.223278062
+61,Bigeye Tuna,2008,4.1875
+62,Bigeye Tuna,2009,16.75
+63,Bigeye Tuna,2010,16.1025
+64,Bigeye Tuna,2011,14.4075
+65,Bigeye Tuna,2012,15.12
+66,Bigeye Tuna,2013,15.2125
+67,Bigeye Tuna,2014,15.76
+68,Bigeye Tuna,2015,15.76
+69,Bigeye Tuna,2016,14.945
+70,Bigeye Tuna,2017,11.87
+71,Bigeye Tuna,2018,9.978767706
+72,Bigeye Tuna,2019,9.975070825
+73,Bigeye Tuna,2020,9.975070825
+74,Bigeye Tuna,2021,9.975070825
+75,Bigeye Tuna,2022,7.481303119
+76,Black Cardinal Fish,2008,0.18
+77,Black Cardinal Fish,2009,0.72
+78,Black Cardinal Fish,2010,0.773888889
+79,Black Cardinal Fish,2011,0.946944445
+80,Black Cardinal Fish,2012,0.985833333
+81,Black Cardinal Fish,2013,1
+82,Black Cardinal Fish,2014,1.001111111
+83,Black Cardinal Fish,2015,0.998888889
+84,Black Cardinal Fish,2016,0.976666667
+85,Black Cardinal Fish,2017,0.968888889
+86,Black Cardinal Fish,2018,0.968294795
+87,Black Cardinal Fish,2019,0.879043424
+88,Black Cardinal Fish,2020,0.855126148
+89,Black Cardinal Fish,2021,0.841122407
+90,Black Cardinal Fish,2022,0.609525934
+91,Bladder Kelp,2011,0.0375
+92,Bladder Kelp,2012,0.15
+93,Bladder Kelp,2013,0.15
+94,Bladder Kelp,2014,0.15
+95,Bladder Kelp,2015,0.15
+96,Bladder Kelp,2016,0.15
+97,Bladder Kelp,2017,0.15
+98,Bladder Kelp,2018,0.15
+99,Bladder Kelp,2019,0.15
+100,Bladder Kelp,2020,0.15
+101,Bladder Kelp,2021,0.15
+102,Bladder Kelp,2022,0.1125
+103,Blue Cod,2008,0.9446875
+104,Blue Cod,2009,3.77875
+105,Blue Cod,2010,4.02625
+106,Blue Cod,2011,4.6665625
+107,Blue Cod,2012,4.3515625
+108,Blue Cod,2013,4.434375
+109,Blue Cod,2014,4.819375
+110,Blue Cod,2015,4.9271875
+111,Blue Cod,2016,4.94875
+112,Blue Cod,2017,5.7421875
+113,Blue Cod,2018,5.89426103
+114,Blue Cod,2019,5.799861732
+115,Blue Cod,2020,5.866144322
+116,Blue Cod,2021,6.521097613
+117,Blue Cod,2022,6.100679799
+118,Blue Mackerel,2008,0.09
+119,Blue Mackerel,2009,0.36
+120,Blue Mackerel,2010,0.419
+121,Blue Mackerel,2011,0.5695
+122,Blue Mackerel,2012,0.4725
+123,Blue Mackerel,2013,0.458
+124,Blue Mackerel,2014,0.572
+125,Blue Mackerel,2015,0.521
+126,Blue Mackerel,2016,0.3795
+127,Blue Mackerel,2017,0.4135
+128,Blue Mackerel,2018,0.411020511
+129,Blue Mackerel,2019,0.390911467
+130,Blue Mackerel,2020,0.355756734
+131,Blue Mackerel,2021,0.404827724
+132,Blue Mackerel,2022,0.303620793
+133,Blue Moki,2008,0.2275
+134,Blue Moki,2009,0.91
+135,Blue Moki,2010,1.073
+136,Blue Moki,2011,1.5765
+137,Blue Moki,2012,1.6165
+138,Blue Moki,2013,1.534
+139,Blue Moki,2014,1.327
+140,Blue Moki,2015,1.391
+141,Blue Moki,2016,1.641
+142,Blue Moki,2017,1.8985
+143,Blue Moki,2018,1.454097587
+144,Blue Moki,2019,1.588584914
+145,Blue Moki,2020,1.703734471
+146,Blue Moki,2021,1.758494526
+147,Blue Moki,2022,1.316761465
+148,Blue Shark,2008,0.1
+149,Blue Shark,2009,0.4
+150,Blue Shark,2010,0.4425
+151,Blue Shark,2011,0.57
+152,Blue Shark,2012,0.57
+153,Blue Shark,2013,0.57
+154,Blue Shark,2014,0.55
+155,Blue Shark,2015,0.4
+156,Blue Shark,2016,0.13
+157,Blue Shark,2017,0.13
+158,Blue Shark,2018,0.128794538
+159,Blue Shark,2019,0.125178151
+160,Blue Shark,2020,0.125178151
+161,Blue Shark,2021,0.125178151
+162,Blue Shark,2022,0.093883613
+163,Blue Warehou,2008,0.241666667
+164,Blue Warehou,2009,0.966666667
+165,Blue Warehou,2010,1.21
+166,Blue Warehou,2011,1.83875
+167,Blue Warehou,2012,1.532083333
+168,Blue Warehou,2013,1.588333333
+169,Blue Warehou,2014,1.790833333
+170,Blue Warehou,2015,1.72
+171,Blue Warehou,2016,1.517916667
+172,Blue Warehou,2017,1.630416667
+173,Blue Warehou,2018,1.241424302
+174,Blue Warehou,2019,1.231016543
+175,Blue Warehou,2020,1.422493744
+176,Blue Warehou,2021,1.40112699
+177,Blue Warehou,2022,1.0330155
+178,Bluenose,2008,1.17375
+179,Bluenose,2009,4.695
+180,Bluenose,2010,4.7225
+181,Bluenose,2011,4.72125
+182,Bluenose,2012,4.46125
+183,Bluenose,2013,4.52
+184,Bluenose,2014,4.85875
+185,Bluenose,2015,5.075833333
+186,Bluenose,2016,5.234166667
+187,Bluenose,2017,5.7775
+188,Bluenose,2018,5.075332896
+189,Bluenose,2019,5.078221763
+190,Bluenose,2020,4.929215286
+191,Bluenose,2021,4.975659934
+192,Bluenose,2022,3.969065277
+193,Broadbill Swordfish,2008,1.6275
+194,Broadbill Swordfish,2009,6.51
+195,Broadbill Swordfish,2010,6.315
+196,Broadbill Swordfish,2011,5.615
+197,Broadbill Swordfish,2012,5.26
+198,Broadbill Swordfish,2013,5.305
+199,Broadbill Swordfish,2014,5.41
+200,Broadbill Swordfish,2015,4.95
+201,Broadbill Swordfish,2016,4.5925
+202,Broadbill Swordfish,2017,4.6525
+203,Broadbill Swordfish,2018,5.350767879
+204,Broadbill Swordfish,2019,5.5710376
+205,Broadbill Swordfish,2020,6.224935855
+206,Broadbill Swordfish,2021,6.224935855
+207,Broadbill Swordfish,2022,4.668701891
+208,Butterfish,2008,0.8725
+209,Butterfish,2009,3.49
+210,Butterfish,2010,3.845
+211,Butterfish,2011,4.870625
+212,Butterfish,2012,4.7425
+213,Butterfish,2013,4.695
+214,Butterfish,2014,4.6096875
+215,Butterfish,2015,4.56375
+216,Butterfish,2016,4.71875
+217,Butterfish,2017,4.67125
+218,Butterfish,2018,4.586946645
+219,Butterfish,2019,4.72640954
+220,Butterfish,2020,4.81113539
+221,Butterfish,2021,4.7427953
+222,Butterfish,2022,3.486984254
+223,Cardinalfish,2012,0.25
+224,Cardinalfish,2013,1
+225,Cardinalfish,2014,1
+226,Cardinalfish,2015,1
+227,Cardinalfish,2016,1
+228,Cardinalfish,2017,1
+229,Cardinalfish,2018,1
+230,Cardinalfish,2019,1
+231,Cardinalfish,2020,1
+232,Cardinalfish,2021,1
+233,Cardinalfish,2022,0.75
+234,Cockles,2008,0.475
+235,Cockles,2009,1.9
+236,Cockles,2010,1.76
+237,Cockles,2011,1.25
+238,Cockles,2012,0.9775
+239,Cockles,2013,0.97
+240,Cockles,2014,0.97
+241,Cockles,2015,0.97
+242,Cockles,2016,0.97
+243,Cockles,2017,0.97
+244,Cockles,2018,0.97
+245,Cockles,2019,0.97
+246,Cockles,2020,0.97
+247,Cockles,2021,0.950961538
+248,Cockles,2022,0.670384615
+249,Crayfish,2008,9.6325
+250,Crayfish,2009,38.53
+251,Crayfish,2010,43.05
+252,Crayfish,2011,58.2075
+253,Crayfish,2012,63.8675
+254,Crayfish,2013,66.43
+255,Crayfish,2014,66.7575
+256,Crayfish,2015,69.075
+257,Crayfish,2016,72.65
+258,Crayfish,2017,76.35425
+259,Crayfish,2018,81.10775
+260,Crayfish,2019,81.14474531
+261,Crayfish,2020,84.36094
+262,Crayfish,2021,77.00371771
+263,Crayfish,2022,51.17581662
+264,Elephant Fish,2008,0.58125
+265,Elephant Fish,2009,2.325
+266,Elephant Fish,2010,2.20875
+267,Elephant Fish,2011,1.94125
+268,Elephant Fish,2012,2.180833333
+269,Elephant Fish,2013,2.154583333
+270,Elephant Fish,2014,2.144583333
+271,Elephant Fish,2015,2.2475
+272,Elephant Fish,2016,2.259583333
+273,Elephant Fish,2017,2.255416667
+274,Elephant Fish,2018,2.352058006
+275,Elephant Fish,2019,2.287137143
+276,Elephant Fish,2020,2.265682897
+277,Elephant Fish,2021,2.010921385
+278,Elephant Fish,2022,1.563872476
+279,Flatfish,2008,0.8295
+280,Flatfish,2009,3.318
+281,Flatfish,2010,3.265
+282,Flatfish,2011,3.0675
+283,Flatfish,2012,2.947
+284,Flatfish,2013,3.282
+285,Flatfish,2014,4.34
+286,Flatfish,2015,4.6665
+287,Flatfish,2016,5.2665
+288,Flatfish,2017,4.3435
+289,Flatfish,2018,4.467616266
+290,Flatfish,2019,4.780907988
+291,Flatfish,2020,4.730763011
+292,Flatfish,2021,5.153306438
+293,Flatfish,2022,3.867150375
+294,Freshwater Eels,2008,0.875
+295,Freshwater Eels,2009,3.5
+296,Freshwater Eels,2010,3.625
+297,Freshwater Eels,2011,4.085
+298,Freshwater Eels,2012,4.3325
+299,Freshwater Eels,2013,4.31
+300,Freshwater Eels,2014,4.31
+301,Freshwater Eels,2015,4.31
+302,Freshwater Eels,2016,4.31
+303,Freshwater Eels,2017,3.2325
+304,Freshwater Eels,2018,0
+305,Frostfish,2008,0.083
+306,Frostfish,2009,0.332
+307,Frostfish,2010,0.37975
+308,Frostfish,2011,0.614
+309,Frostfish,2012,0.885
+310,Frostfish,2013,0.934
+311,Frostfish,2014,1.099
+312,Frostfish,2015,1.00675
+313,Frostfish,2016,0.72
+314,Frostfish,2017,0.68975
+315,Frostfish,2018,0.686423397
+316,Frostfish,2019,0.660865628
+317,Frostfish,2020,0.608954699
+318,Frostfish,2021,0.611461293
+319,Frostfish,2022,0.453618357
+320,Garfish,2008,1.5425
+321,Garfish,2009,6.17
+322,Garfish,2010,6.6925
+323,Garfish,2011,8.1325
+324,Garfish,2012,7.735
+325,Garfish,2013,7.69
+326,Garfish,2014,7.69
+327,Garfish,2015,7.69
+328,Garfish,2016,7.69
+329,Garfish,2017,7.69
+330,Garfish,2018,7.69
+331,Garfish,2019,7.747545178
+332,Garfish,2020,7.968154977
+333,Garfish,2021,8.112077777
+334,Garfish,2022,6.084058333
+335,Gemfish,2008,0.4935
+336,Gemfish,2009,1.974
+337,Gemfish,2010,1.9055
+338,Gemfish,2011,1.669
+339,Gemfish,2012,1.5735
+340,Gemfish,2013,1.6005
+341,Gemfish,2014,1.682
+342,Gemfish,2015,1.667
+343,Gemfish,2016,1.7655
+344,Gemfish,2017,1.597
+345,Gemfish,2018,1.547967441
+346,Gemfish,2019,1.498467948
+347,Gemfish,2020,1.717449906
+348,Gemfish,2021,1.845736297
+349,Gemfish,2022,1.259931615
+350,Ghost Shark dark,2008,0.09
+351,Ghost Shark dark,2009,0.36
+352,Ghost Shark dark,2010,0.38975
+353,Ghost Shark dark,2011,0.46925
+354,Ghost Shark dark,2012,0.44
+355,Ghost Shark dark,2013,0.44425
+356,Ghost Shark dark,2014,0.457
+357,Ghost Shark dark,2015,0.43525
+358,Ghost Shark dark,2016,0.3735
+359,Ghost Shark dark,2017,0.38625
+360,Ghost Shark dark,2018,0.383102348
+361,Ghost Shark dark,2019,0.349662379
+362,Ghost Shark dark,2020,0.356598727
+363,Ghost Shark dark,2021,0.414941404
+364,Ghost Shark dark,2022,0.319779745
+365,Ghost Shark pale,2008,0.1
+366,Ghost Shark pale,2009,0.4
+367,Ghost Shark pale,2010,0.439166667
+368,Ghost Shark pale,2011,0.5425
+369,Ghost Shark pale,2012,0.5
+370,Ghost Shark pale,2013,0.486666667
+371,Ghost Shark pale,2014,0.446666667
+372,Ghost Shark pale,2015,0.439166667
+373,Ghost Shark pale,2016,0.408333333
+374,Ghost Shark pale,2017,0.3925
+375,Ghost Shark pale,2018,0.415495954
+376,Ghost Shark pale,2019,0.393095194
+377,Ghost Shark pale,2020,0.378543036
+378,Ghost Shark pale,2021,0.398243347
+379,Ghost Shark pale,2022,0.261240669
+380,Giant spider crab,2008,0.75
+381,Giant spider crab,2009,3
+382,Giant spider crab,2010,3.155
+383,Giant spider crab,2011,3.6225
+384,Giant spider crab,2012,3.6225
+385,Giant spider crab,2013,3.6
+386,Giant spider crab,2014,2.75
+387,Giant spider crab,2015,0.2
+388,Giant spider crab,2016,0.2
+389,Giant spider crab,2017,0.192916667
+390,Giant spider crab,2018,0.17165808
+391,Giant spider crab,2019,0.171632321
+392,Giant spider crab,2020,0.171632321
+393,Giant spider crab,2021,0.171632321
+394,Giant spider crab,2022,0.128724241
+395,Green Lipped Mussell,2008,0.1796875
+396,Green Lipped Mussell,2009,0.71875
+397,Green Lipped Mussell,2010,0.755625
+398,Green Lipped Mussell,2011,0.866875
+399,Green Lipped Mussell,2012,0.8675
+400,Green Lipped Mussell,2013,0.86375
+401,Green Lipped Mussell,2014,0.86375
+402,Green Lipped Mussell,2015,0.86375
+403,Green Lipped Mussell,2016,0.86375
+404,Green Lipped Mussell,2017,0.86375
+405,Green Lipped Mussell,2018,0.86375
+406,Green Lipped Mussell,2019,0.86375
+407,Green Lipped Mussell,2020,0.86375
+408,Green Lipped Mussell,2021,0.86375
+409,Green Lipped Mussell,2022,0.6478125
+410,Grey Mullet,2008,0.7725
+411,Grey Mullet,2009,3.09
+412,Grey Mullet,2010,3.1725
+413,Grey Mullet,2011,3.4725
+414,Grey Mullet,2012,3.6225
+415,Grey Mullet,2013,3.6
+416,Grey Mullet,2014,3.6
+417,Grey Mullet,2015,3.61
+418,Grey Mullet,2016,3.642
+419,Grey Mullet,2017,3.648
+420,Grey Mullet,2018,3.64799915
+421,Grey Mullet,2019,3.694112784
+422,Grey Mullet,2020,3.832800565
+423,Grey Mullet,2021,3.833200139
+424,Grey Mullet,2022,2.873509342
+425,Gurnard,2008,0.460416667
+426,Gurnard,2009,1.841666667
+427,Gurnard,2010,1.896666667
+428,Gurnard,2011,2.132916667
+429,Gurnard,2012,2.341666667
+430,Gurnard,2013,2.345416667
+431,Gurnard,2014,2.3975
+432,Gurnard,2015,2.2875
+433,Gurnard,2016,2.055
+434,Gurnard,2017,2.2675
+435,Gurnard,2018,2.392931636
+436,Gurnard,2019,2.492262855
+437,Gurnard,2020,2.561956996
+438,Gurnard,2021,2.668007409
+439,Gurnard,2022,2.0837938
+440,Hake,2008,0.25
+441,Hake,2009,1
+442,Hake,2010,1.1275
+443,Hake,2011,1.446875
+444,Hake,2012,1.255
+445,Hake,2013,1.241875
+446,Hake,2014,1.225
+447,Hake,2015,1.2225
+448,Hake,2016,1.230625
+449,Hake,2017,1.26375
+450,Hake,2018,1.256246891
+451,Hake,2019,1.377142859
+452,Hake,2020,1.419875341
+453,Hake,2021,1.346032678
+454,Hake,2022,0.952954017
+455,Hapuku and Bass,2008,1.1409375
+456,Hapuku and Bass,2009,4.56375
+457,Hapuku and Bass,2010,4.495625
+458,Hapuku and Bass,2011,4.3453125
+459,Hapuku and Bass,2012,4.498125
+460,Hapuku and Bass,2013,4.4053125
+461,Hapuku and Bass,2014,4.2140625
+462,Hapuku and Bass,2015,4.381875
+463,Hapuku and Bass,2016,4.8734375
+464,Hapuku and Bass,2017,4.8625
+465,Hapuku and Bass,2018,4.698652371
+466,Hapuku and Bass,2019,4.715195222
+467,Hapuku and Bass,2020,5.067554622
+468,Hapuku and Bass,2021,5.672890038
+469,Hapuku and Bass,2022,4.186669946
+470,Hoki,2008,0.15
+471,Hoki,2009,0.6
+472,Hoki,2010,0.655
+473,Hoki,2011,0.8175
+474,Hoki,2012,0.8075
+475,Hoki,2013,0.8
+476,Hoki,2014,0.8
+477,Hoki,2015,0.7825
+478,Hoki,2016,0.7275
+479,Hoki,2017,0.72375
+480,Hoki,2018,0.734550483
+481,Hoki,2019,0.729184735
+482,Hoki,2020,0.718455664
+483,Hoki,2021,0.724524392
+484,Hoki,2022,0.548120938
+485,Horse mussel,2008,0.025
+486,Horse mussel,2009,0.1
+487,Horse mussel,2010,0.105
+488,Horse mussel,2011,0.12
+489,Horse mussel,2012,0.12
+490,Horse mussel,2013,0.12
+491,Horse mussel,2014,0.12
+492,Horse mussel,2015,0.12
+493,Horse mussel,2016,0.12
+494,Horse mussel,2017,0.12
+495,Horse mussel,2018,0.12
+496,Horse mussel,2019,0.12
+497,Horse mussel,2020,0.12
+498,Horse mussel,2021,0.12
+499,Horse mussel,2022,0.09
+500,Jack Mackerel,2008,0.04625
+501,Jack Mackerel,2009,0.185
+502,Jack Mackerel,2010,0.240625
+503,Jack Mackerel,2011,0.405625
+504,Jack Mackerel,2012,0.4
+505,Jack Mackerel,2013,0.401875
+506,Jack Mackerel,2014,0.4075
+507,Jack Mackerel,2015,0.37875
+508,Jack Mackerel,2016,0.291875
+509,Jack Mackerel,2017,0.290625
+510,Jack Mackerel,2018,0.293014859
+511,Jack Mackerel,2019,0.292479469
+512,Jack Mackerel,2020,0.28308501
+513,Jack Mackerel,2021,0.26882785
+514,Jack Mackerel,2022,0.190835542
+515,John Dory,2008,1.4725
+516,John Dory,2009,5.89
+517,John Dory,2010,5.9665
+518,John Dory,2011,6.116
+519,John Dory,2012,5.8645
+520,John Dory,2013,5.915
+521,John Dory,2014,6.153
+522,John Dory,2015,6.1145
+523,John Dory,2016,6.1705
+524,John Dory,2017,6.1835
+525,John Dory,2018,6.055597844
+526,John Dory,2019,6.132494012
+527,John Dory,2020,6.309344299
+528,John Dory,2021,6.222891654
+529,John Dory,2022,4.860489257
+530,Kahawai,2008,0.075833333
+531,Kahawai,2009,0.303333333
+532,Kahawai,2010,0.373333333
+533,Kahawai,2011,0.602916667
+534,Kahawai,2012,0.659583333
+535,Kahawai,2013,0.65875
+536,Kahawai,2014,0.675
+537,Kahawai,2015,0.644166667
+538,Kahawai,2016,0.541666667
+539,Kahawai,2017,0.496666667
+540,Kahawai,2018,0.455937752
+541,Kahawai,2019,0.502096311
+542,Kahawai,2020,0.709352492
+543,Kahawai,2021,1.01744374
+544,Kahawai,2022,0.732551252
+545,Kina,2008,0.313541667
+546,Kina,2009,1.254166667
+547,Kina,2010,1.38
+548,Kina,2011,1.771458333
+549,Kina,2012,1.810416667
+550,Kina,2013,1.801666667
+551,Kina,2014,1.77625
+552,Kina,2015,1.709166667
+553,Kina,2016,1.717083333
+554,Kina,2017,1.658333333
+555,Kina,2018,1.705888978
+556,Kina,2019,1.848555912
+557,Kina,2020,1.789367381
+558,Kina,2021,2.075751307
+559,Kina,2022,2.600699902
+560,King Clam,2008,5
+561,King Clam,2009,20
+562,King Clam,2010,21.0325
+563,King Clam,2011,24.15
+564,King Clam,2012,24.1625
+565,King Clam,2013,24.02
+566,King Clam,2014,24.02
+567,King Clam,2015,24.02
+568,King Clam,2016,24.02
+569,King Clam,2017,24.02
+570,King Clam,2018,24.02
+571,King Clam,2019,23.86687597
+572,King Clam,2020,23.40750387
+573,King Clam,2021,23.40750387
+574,King Clam,2022,17.5556279
+575,King crab,2008,0.75
+576,King crab,2009,3
+577,King crab,2010,3.155
+578,King crab,2011,3.6225
+579,King crab,2012,3.6225
+580,King crab,2013,3.6
+581,King crab,2014,2.75
+582,King crab,2015,0.2
+583,King crab,2016,0.2
+584,King crab,2017,0.2
+585,King crab,2018,0.2
+586,King crab,2019,0.2
+587,King crab,2020,0.2
+588,King crab,2021,0.1965
+589,King crab,2022,0.1395
+590,Kingfish,2008,1.288571429
+591,Kingfish,2009,5.154285715
+592,Kingfish,2010,5.138214286
+593,Kingfish,2011,4.971428571
+594,Kingfish,2012,4.606428571
+595,Kingfish,2013,4.485714285
+596,Kingfish,2014,4.251428572
+597,Kingfish,2015,4.4575
+598,Kingfish,2016,4.650357143
+599,Kingfish,2017,4.239642857
+600,Kingfish,2018,3.210277055
+601,Kingfish,2019,3.285703255
+602,Kingfish,2020,3.919405244
+603,Kingfish,2021,4.179554097
+604,Kingfish,2022,3.296275755
+605,Knobbed Whelk,2008,0.15
+606,Knobbed Whelk,2009,0.6
+607,Knobbed Whelk,2010,0.63
+608,Knobbed Whelk,2011,0.72
+609,Knobbed Whelk,2012,0.7175
+610,Knobbed Whelk,2013,0.71
+611,Knobbed Whelk,2014,0.71
+612,Knobbed Whelk,2015,0.71
+613,Knobbed Whelk,2016,0.71
+614,Knobbed Whelk,2017,0.71
+615,Knobbed Whelk,2018,0.71
+616,Knobbed Whelk,2019,0.71
+617,Knobbed Whelk,2020,0.71
+618,Knobbed Whelk,2021,0.71
+619,Knobbed Whelk,2022,0.5325
+620,Leather Jacket,2008,0.13
+621,Leather Jacket,2009,0.52
+622,Leather Jacket,2010,0.571
+623,Leather Jacket,2011,0.7205
+624,Leather Jacket,2012,0.708
+625,Leather Jacket,2013,0.702
+626,Leather Jacket,2014,0.704
+627,Leather Jacket,2015,0.721
+628,Leather Jacket,2016,0.744
+629,Leather Jacket,2017,0.716
+630,Leather Jacket,2018,0.724488679
+631,Leather Jacket,2019,0.734289255
+632,Leather Jacket,2020,0.737680238
+633,Leather Jacket,2021,0.73196469
+634,Leather Jacket,2022,0.56049879
+635,Ling,2008,0.7415625
+636,Ling,2009,2.96625
+637,Ling,2010,2.88375
+638,Ling,2011,2.6296875
+639,Ling,2012,2.605
+640,Ling,2013,2.604375
+641,Ling,2014,2.6959375
+642,Ling,2015,2.786875
+643,Ling,2016,2.6778125
+644,Ling,2017,2.79875
+645,Ling,2018,2.707720965
+646,Ling,2019,2.762298418
+647,Ling,2020,2.689580741
+648,Ling,2021,2.876332713
+649,Ling,2022,2.185680629
+650,Long finned eel,2008,0.875
+651,Long finned eel,2009,3.5
+652,Long finned eel,2010,3.625
+653,Long finned eel,2011,4.085
+654,Long finned eel,2012,4.3325
+655,Long finned eel,2013,4.31
+656,Long finned eel,2014,4.31
+657,Long finned eel,2015,4.31
+658,Long finned eel,2016,4.31
+659,Long finned eel,2017,4.34875
+660,Long finned eel,2018,4.437810374
+661,Long finned eel,2019,4.358553572
+662,Long finned eel,2020,4.365489796
+663,Long finned eel,2021,4.365489796
+664,Long finned eel,2022,3.274117347
+665,Longfinned eel,2008,0.97
+666,Longfinned eel,2009,3.88
+667,Longfinned eel,2010,4.091
+668,Longfinned eel,2011,4.7495
+669,Longfinned eel,2012,4.8595
+670,Longfinned eel,2013,4.96
+671,Longfinned eel,2014,4.936
+672,Longfinned eel,2015,4.775
+673,Longfinned eel,2016,4.508
+674,Longfinned eel,2017,4.149
+675,Longfinned eel,2018,3.072200625
+676,Longfinned eel,2019,3.400224453
+677,Longfinned eel,2020,4.404317718
+678,Longfinned eel,2021,4.469799928
+679,Longfinned eel,2022,3.352349946
+680,Look Down Dory,2008,0.176666667
+681,Look Down Dory,2009,0.706666667
+682,Look Down Dory,2010,0.890833333
+683,Look Down Dory,2011,1.465
+684,Look Down Dory,2012,1.5275
+685,Look Down Dory,2013,1.5625
+686,Look Down Dory,2014,1.665
+687,Look Down Dory,2015,1.605833333
+688,Look Down Dory,2016,1.649166667
+689,Look Down Dory,2017,1.610833333
+690,Look Down Dory,2018,1.524674298
+691,Look Down Dory,2019,1.477576201
+692,Look Down Dory,2020,1.44647835
+693,Look Down Dory,2021,1.516376564
+694,Look Down Dory,2022,1.076763808
+695,Mako Shark,2008,0.1125
+696,Mako Shark,2009,0.45
+697,Mako Shark,2010,0.46
+698,Mako Shark,2011,0.4525
+699,Mako Shark,2012,0.34
+700,Mako Shark,2013,0.33
+701,Mako Shark,2014,0.315
+702,Mako Shark,2015,0.36
+703,Mako Shark,2016,0.365
+704,Mako Shark,2017,0.3575
+705,Mako Shark,2018,0.290499504
+706,Mako Shark,2019,0.291998015
+707,Mako Shark,2020,0.291998015
+708,Mako Shark,2021,0.291998015
+709,Mako Shark,2022,0.218998511
+710,Moonfish,2008,0.4575
+711,Moonfish,2009,1.83
+712,Moonfish,2010,2.1875
+713,Moonfish,2011,2.9225
+714,Moonfish,2012,1.905
+715,Moonfish,2013,1.89
+716,Moonfish,2014,1.89
+717,Moonfish,2015,1.89
+718,Moonfish,2016,1.8825
+719,Moonfish,2017,1.9025
+720,Moonfish,2018,2.031238701
+721,Moonfish,2019,2.034954803
+722,Moonfish,2020,2.034954803
+723,Moonfish,2021,2.034954803
+724,Moonfish,2022,1.526216102
+725,Octopus,2008,0.3825
+726,Octopus,2009,1.53
+727,Octopus,2010,1.6825
+728,Octopus,2011,2.2275
+729,Octopus,2012,2.4875
+730,Octopus,2013,2.48
+731,Octopus,2014,2.466111111
+732,Octopus,2015,2.424444444
+733,Octopus,2016,2.575833333
+734,Octopus,2017,2.2725
+735,Octopus,2018,0.7575
+736,Octopus,2019,3.03
+737,Octopus,2020,3.03
+738,Octopus,2021,3.489409282
+739,Octopus,2022,3.650727846
+740,Orange Roughy,2008,0.7475
+741,Orange Roughy,2009,2.99
+742,Orange Roughy,2010,2.8390625
+743,Orange Roughy,2011,2.485625
+744,Orange Roughy,2012,2.703125
+745,Orange Roughy,2013,2.3896875
+746,Orange Roughy,2014,2.165
+747,Orange Roughy,2015,2.190625
+748,Orange Roughy,2016,2.425
+749,Orange Roughy,2017,2.6096875
+750,Orange Roughy,2018,2.66394377
+751,Orange Roughy,2019,2.803356127
+752,Orange Roughy,2020,2.256554094
+753,Orange Roughy,2021,2.313309496
+754,Orange Roughy,2022,1.834299204
+755,Oreo,2008,0.2
+756,Oreo,2009,0.8
+757,Oreo,2010,0.805
+758,Oreo,2011,0.84
+759,Oreo,2012,0.8975
+760,Oreo,2013,0.89
+761,Oreo,2014,0.89
+762,Oreo,2015,0.885
+763,Oreo,2016,0.8225
+764,Oreo,2017,0.68
+765,Oreo,2018,0.657402574
+766,Oreo,2019,0.620539338
+767,Oreo,2020,0.713326463
+768,Oreo,2021,0.777660139
+769,Oreo,2022,0.727995877
+770,Oyster   Foveuax Strait (note: price is $/kg greenweight),2008,1.2175
+771,Oyster   Foveuax Strait (note: price is $/kg greenweight),2009,4.87
+772,Oyster   Foveuax Strait (note: price is $/kg greenweight),2010,5.1225
+773,Oyster   Foveuax Strait (note: price is $/kg greenweight),2011,5.885
+774,Oyster   Foveuax Strait (note: price is $/kg greenweight),2012,5.8875
+775,Oyster   Foveuax Strait (note: price is $/kg greenweight),2013,5.85
+776,Oyster   Foveuax Strait (note: price is $/kg greenweight),2014,5.85
+777,Oyster   Foveuax Strait (note: price is $/kg greenweight),2015,5.85
+778,Oyster   Foveuax Strait (note: price is $/kg greenweight),2016,5.85
+779,Oyster   Foveuax Strait (note: price is $/kg greenweight),2017,5.85
+780,Oyster   Foveuax Strait (note: price is $/kg greenweight),2018,5.85
+781,Oyster   Foveuax Strait (note: price is $/kg greenweight),2019,5.85
+782,Oyster   Foveuax Strait (note: price is $/kg greenweight),2020,5.85
+783,Oyster   Foveuax Strait (note: price is $/kg greenweight),2021,5.85
+784,Oyster   Foveuax Strait (note: price is $/kg greenweight),2022,4.3875
+785,Oyster   Other than Foveaux Strait,2008,0.992727273
+786,Oyster   Other than Foveaux Strait,2009,3.970909091
+787,Oyster   Other than Foveaux Strait,2010,4.176818182
+788,Oyster   Other than Foveaux Strait,2011,4.799318182
+789,Oyster   Other than Foveaux Strait,2012,4.803636364
+790,Oyster   Other than Foveaux Strait,2013,4.773636364
+791,Oyster   Other than Foveaux Strait,2014,4.773636364
+792,Oyster   Other than Foveaux Strait,2015,4.773636364
+793,Oyster   Other than Foveaux Strait,2016,4.773636364
+794,Oyster   Other than Foveaux Strait,2017,4.773636364
+795,Oyster   Other than Foveaux Strait,2018,4.773636364
+796,Oyster   Other than Foveaux Strait,2019,4.773636364
+797,Oyster   Other than Foveaux Strait,2020,4.773636364
+798,Oyster   Other than Foveaux Strait,2021,4.773636364
+799,Oyster   Other than Foveaux Strait,2022,3.580227273
+800,Pacific Bluefin Tuna,2008,6.5175
+801,Pacific Bluefin Tuna,2009,26.07
+802,Pacific Bluefin Tuna,2010,27.415
+803,Pacific Bluefin Tuna,2011,31.4775
+804,Pacific Bluefin Tuna,2012,31.4975
+805,Pacific Bluefin Tuna,2013,31.31
+806,Pacific Bluefin Tuna,2014,31.31
+807,Pacific Bluefin Tuna,2015,31.31
+808,Pacific Bluefin Tuna,2016,31.31
+809,Pacific Bluefin Tuna,2017,31.31
+810,Pacific Bluefin Tuna,2018,31.31
+811,Pacific Bluefin Tuna,2019,31.31
+812,Pacific Bluefin Tuna,2020,31.31
+813,Pacific Bluefin Tuna,2021,26.87447977
+814,Pacific Bluefin Tuna,2022,10.17593931
+815,Packhorse Rock Lobster,2008,6.78
+816,Packhorse Rock Lobster,2009,27.12
+817,Packhorse Rock Lobster,2010,32.34
+818,Packhorse Rock Lobster,2011,49.355
+819,Packhorse Rock Lobster,2012,54.565
+820,Packhorse Rock Lobster,2013,58
+821,Packhorse Rock Lobster,2014,55.5
+822,Packhorse Rock Lobster,2015,48
+823,Packhorse Rock Lobster,2016,48
+824,Packhorse Rock Lobster,2017,48
+825,Packhorse Rock Lobster,2018,45.85310361
+826,Packhorse Rock Lobster,2019,43.04465134
+827,Packhorse Rock Lobster,2020,53.70447623
+828,Packhorse Rock Lobster,2021,51.62830048
+829,Packhorse Rock Lobster,2022,35.64880935
+830,Paddle Crab,2008,1.0925
+831,Paddle Crab,2009,4.37
+832,Paddle Crab,2010,4.69175
+833,Paddle Crab,2011,5.4555
+834,Paddle Crab,2012,4.84125
+835,Paddle Crab,2013,4.9045
+836,Paddle Crab,2014,5.182
+837,Paddle Crab,2015,5.182
+838,Paddle Crab,2016,5.182
+839,Paddle Crab,2017,5.182
+840,Paddle Crab,2018,5.182
+841,Paddle Crab,2019,5.182
+842,Paddle Crab,2020,5.182
+843,Paddle Crab,2021,5.28825
+844,Paddle Crab,2022,4.20525
+845,Parore,2008,0.4525
+846,Parore,2009,1.81
+847,Parore,2010,1.87
+848,Parore,2011,2.04
+849,Parore,2012,2.005
+850,Parore,2013,1.99
+851,Parore,2014,1.99
+852,Parore,2015,2.050625
+853,Parore,2016,2.2325
+854,Parore,2017,2.2325
+855,Parore,2018,2.232592686
+856,Parore,2019,2.206256404
+857,Parore,2020,2.189908454
+858,Parore,2021,2.392231764
+859,Parore,2022,1.820809529
+860,Patagonian Toothfish,2008,0.75
+861,Patagonian Toothfish,2009,3
+862,Patagonian Toothfish,2010,3.155
+863,Patagonian Toothfish,2011,3.6225
+864,Patagonian Toothfish,2012,3.6225
+865,Patagonian Toothfish,2013,5.2
+866,Patagonian Toothfish,2014,10
+867,Patagonian Toothfish,2015,10
+868,Patagonian Toothfish,2016,10
+869,Patagonian Toothfish,2017,10
+870,Patagonian Toothfish,2018,10
+871,Patagonian Toothfish,2019,10
+872,Patagonian Toothfish,2020,10
+873,Patagonian Toothfish,2021,10
+874,Patagonian Toothfish,2022,7.5
+875,Paua,2008,8.2875
+876,Paua,2009,33.15
+877,Paua,2010,30.545
+878,Paua,2011,23.7475
+879,Paua,2012,26.74545455
+880,Paua,2013,26.91545455
+881,Paua,2014,28.00636364
+882,Paua,2015,25.33227273
+883,Paua,2016,18.37
+884,Paua,2017,17.985
+885,Paua,2018,6.217252837
+886,Paua,2019,28.40175851
+887,Paua,2020,39
+888,Paua,2021,38.97873357
+889,Paua,2022,29.18620071
+890,Pilchard,2008,0.175
+891,Pilchard,2009,0.7
+892,Pilchard,2010,0.735
+893,Pilchard,2011,0.84
+894,Pilchard,2012,0.8375
+895,Pilchard,2013,0.83
+896,Pilchard,2014,0.83
+897,Pilchard,2015,0.83
+898,Pilchard,2016,0.845357143
+899,Pilchard,2017,0.896428572
+900,Pilchard,2018,0.911426385
+901,Pilchard,2019,0.911419824
+902,Pilchard,2020,0.911419824
+903,Pilchard,2021,0.911419824
+904,Pilchard,2022,0.683564868
+905,Pipi,2008,0.275
+906,Pipi,2009,1.1
+907,Pipi,2010,1.06225
+908,Pipi,2011,0.94425
+909,Pipi,2012,0.9275
+910,Pipi,2013,0.92
+911,Pipi,2014,0.92
+912,Pipi,2015,0.92
+913,Pipi,2016,0.92
+914,Pipi,2017,0.92
+915,Pipi,2018,0.92
+916,Pipi,2019,0.92
+917,Pipi,2020,0.92
+918,Pipi,2021,0.92
+919,Pipi,2022,0.69
+920,Porae,2008,0.536875
+921,Porae,2009,2.1475
+922,Porae,2010,2.26
+923,Porae,2011,2.51625
+924,Porae,2012,2.2675
+925,Porae,2013,2.288125
+926,Porae,2014,2.395
+927,Porae,2015,2.398125
+928,Porae,2016,2.38625
+929,Porae,2017,2.3225
+930,Porae,2018,2.322084549
+931,Porae,2019,2.454313774
+932,Porae,2020,2.883172514
+933,Porae,2021,2.885531917
+934,Porae,2022,1.977541556
+935,Porbeagle Shark,2008,0.1
+936,Porbeagle Shark,2009,0.4
+937,Porbeagle Shark,2010,0.39
+938,Porbeagle Shark,2011,0.42
+939,Porbeagle Shark,2012,0.6
+940,Porbeagle Shark,2013,0.6275
+941,Porbeagle Shark,2014,0.595
+942,Porbeagle Shark,2015,0.25
+943,Porbeagle Shark,2016,0.29
+944,Porbeagle Shark,2017,0.41
+945,Porbeagle Shark,2018,0.409246746
+946,Porbeagle Shark,2019,0.406986983
+947,Porbeagle Shark,2020,0.406986983
+948,Porbeagle Shark,2021,0.406986983
+949,Porbeagle Shark,2022,0.305240237
+950,Prawn Killer,2008,0.0625
+951,Prawn Killer,2009,0.25
+952,Prawn Killer,2010,0.5025
+953,Prawn Killer,2011,1.8075
+954,Prawn Killer,2012,3.442272727
+955,Prawn Killer,2013,3.419318182
+956,Prawn Killer,2014,3.42
+957,Prawn Killer,2015,3.42
+958,Prawn Killer,2016,3.42
+959,Prawn Killer,2017,3.42
+960,Prawn Killer,2018,3.354544169
+961,Prawn Killer,2019,3.158176677
+962,Prawn Killer,2020,3.158176677
+963,Prawn Killer,2021,3.158176677
+964,Prawn Killer,2022,2.368632508
+965,Queen Scallop,2008,0.425
+966,Queen Scallop,2009,1.7
+967,Queen Scallop,2010,1.7875
+968,Queen Scallop,2011,2.0525
+969,Queen Scallop,2012,2.055
+970,Queen Scallop,2013,2.04
+971,Queen Scallop,2014,2.04
+972,Queen Scallop,2015,2.04
+973,Queen Scallop,2016,2.04
+974,Queen Scallop,2017,2.04
+975,Queen Scallop,2018,2.04
+976,Queen Scallop,2019,2.04
+977,Queen Scallop,2020,2.04
+978,Queen Scallop,2021,2.405
+979,Queen Scallop,2022,2.625
+980,Ray's Bream,2008,0.2075
+981,Ray's Bream,2009,0.83
+982,Ray's Bream,2010,0.875
+983,Ray's Bream,2011,1.035
+984,Ray's Bream,2012,1.1075
+985,Ray's Bream,2013,1.1225
+986,Ray's Bream,2014,1.19
+987,Ray's Bream,2015,1.19
+988,Ray's Bream,2016,1.1575
+989,Ray's Bream,2017,0.9875
+990,Ray's Bream,2018,0.770447993
+991,Ray's Bream,2019,0.771791971
+992,Ray's Bream,2020,0.771791971
+993,Ray's Bream,2021,0.771791971
+994,Ray's Bream,2022,0.578843978
+995,Red Bait,2010,0.0975
+996,Red Bait,2011,0.39
+997,Red Bait,2012,0.39
+998,Red Bait,2013,0.39
+999,Red Bait,2014,0.39
+1000,Red Bait,2015,0.371875
+1001,Red Bait,2016,0.3175
+1002,Red Bait,2017,0.3175
+1003,Red Bait,2018,0.317380618
+1004,Red Bait,2019,0.317022473
+1005,Red Bait,2020,0.323491846
+1006,Red Bait,2021,0.389660209
+1007,Red Bait,2022,0.397455707
+1008,Red Cod,2008,0.183
+1009,Red Cod,2009,0.732
+1010,Red Cod,2010,0.727
+1011,Red Cod,2011,0.73
+1012,Red Cod,2012,0.767
+1013,Red Cod,2013,0.701
+1014,Red Cod,2014,0.6575
+1015,Red Cod,2015,0.646
+1016,Red Cod,2016,0.5905
+1017,Red Cod,2017,0.577
+1018,Red Cod,2018,0.604378924
+1019,Red Cod,2019,0.603141843
+1020,Red Cod,2020,0.613662102
+1021,Red Cod,2021,0.670974641
+1022,Red Cod,2022,0.513101929
+1023,Red crab,2008,0.75
+1024,Red crab,2009,3
+1025,Red crab,2010,3.155
+1026,Red crab,2011,3.6225
+1027,Red crab,2012,3.6225
+1028,Red crab,2013,3.6
+1029,Red crab,2014,2.75
+1030,Red crab,2015,0.2
+1031,Red crab,2016,0.2
+1032,Red crab,2017,0.2
+1033,Red crab,2018,0.2
+1034,Red crab,2019,0.2
+1035,Red crab,2020,0.2
+1036,Red crab,2021,0.2
+1037,Red crab,2022,0.15
+1038,Red Snapper,2008,1.91
+1039,Red Snapper,2009,7.64
+1040,Red Snapper,2010,7.568333333
+1041,Red Snapper,2011,7.188333333
+1042,Red Snapper,2012,6.68
+1043,Red Snapper,2013,6.7075
+1044,Red Snapper,2014,6.91
+1045,Red Snapper,2015,6.844166667
+1046,Red Snapper,2016,6.811666667
+1047,Red Snapper,2017,7.4775
+1048,Red Snapper,2018,7.55616571
+1049,Red Snapper,2019,6.329609239
+1050,Red Snapper,2020,6.759221576
+1051,Red Snapper,2021,7.31694322
+1052,Red Snapper,2022,5.360362413
+1053,Ribaldo,2008,0.1345
+1054,Ribaldo,2009,0.538
+1055,Ribaldo,2010,0.6135
+1056,Ribaldo,2011,0.83425
+1057,Ribaldo,2012,0.81475
+1058,Ribaldo,2013,0.8035
+1059,Ribaldo,2014,0.7905
+1060,Ribaldo,2015,0.8245
+1061,Ribaldo,2016,0.92125
+1062,Ribaldo,2017,0.90325
+1063,Ribaldo,2018,0.883957463
+1064,Ribaldo,2019,0.934783854
+1065,Ribaldo,2020,0.8605763
+1066,Ribaldo,2021,0.918911376
+1067,Ribaldo,2022,0.65215698
+1068,Rig,2008,0.978333333
+1069,Rig,2009,3.913333333
+1070,Rig,2010,3.8475
+1071,Rig,2011,3.660416667
+1072,Rig,2012,3.684166667
+1073,Rig,2013,3.654583333
+1074,Rig,2014,3.619583333
+1075,Rig,2015,3.58625
+1076,Rig,2016,3.627916667
+1077,Rig,2017,3.6725
+1078,Rig,2018,3.708639149
+1079,Rig,2019,3.788873903
+1080,Rig,2020,3.519424949
+1081,Rig,2021,3.83741484
+1082,Rig,2022,3.170994255
+1083,Rough Skate,2008,0.105
+1084,Rough Skate,2009,0.42
+1085,Rough Skate,2010,0.455
+1086,Rough Skate,2011,0.574
+1087,Rough Skate,2012,0.6155
+1088,Rough Skate,2013,0.591
+1089,Rough Skate,2014,0.5285
+1090,Rough Skate,2015,0.521
+1091,Rough Skate,2016,0.4435
+1092,Rough Skate,2017,0.4415
+1093,Rough Skate,2018,0.402766292
+1094,Rough Skate,2019,0.39992148
+1095,Rough Skate,2020,0.426972214
+1096,Rough Skate,2021,0.517236039
+1097,Rough Skate,2022,0.425768496
+1098,Ruby Fish,2008,0.140625
+1099,Ruby Fish,2009,0.5625
+1100,Ruby Fish,2010,0.6409375
+1101,Ruby Fish,2011,0.9228125
+1102,Ruby Fish,2012,1.064375
+1103,Ruby Fish,2013,1.0875
+1104,Ruby Fish,2014,1.11775
+1105,Ruby Fish,2015,1.0255
+1106,Ruby Fish,2016,0.94075
+1107,Ruby Fish,2017,0.918
+1108,Ruby Fish,2018,0.922670559
+1109,Ruby Fish,2019,0.873113579
+1110,Ruby Fish,2020,0.748365735
+1111,Ruby Fish,2021,0.803186499
+1112,Ruby Fish,2022,0.645019204
+1113,Scallop,2008,3.605769231
+1114,Scallop,2009,14.42307692
+1115,Scallop,2010,15.21423077
+1116,Scallop,2011,17.18288462
+1117,Scallop,2012,15.93615384
+1118,Scallop,2013,15.83923077
+1119,Scallop,2014,15.83923077
+1120,Scallop,2015,15.83923077
+1121,Scallop,2016,15.83923077
+1122,Scallop,2017,15.83923077
+1123,Scallop,2018,15.83923077
+1124,Scallop,2019,15.83923077
+1125,Scallop,2020,15.83923077
+1126,Scallop,2021,15.83923077
+1127,Scallop,2022,11.87942308
+1128,Scampi,2008,4.665
+1129,Scampi,2009,18.66
+1130,Scampi,2010,19.6225
+1131,Scampi,2011,20.31477273
+1132,Scampi,2012,13.76159091
+1133,Scampi,2013,13.85909091
+1134,Scampi,2014,13.85909091
+1135,Scampi,2015,13.86522727
+1136,Scampi,2016,13.88363636
+1137,Scampi,2017,14.41136363
+1138,Scampi,2018,15.86318351
+1139,Scampi,2019,15.46909767
+1140,Scampi,2020,15.46909767
+1141,Scampi,2021,15.18503213
+1142,Scampi,2022,10.74962662
+1143,School Shark,2008,0.5490625
+1144,School Shark,2009,2.19625
+1145,School Shark,2010,2.180625
+1146,School Shark,2011,2.1496875
+1147,School Shark,2012,2.193125
+1148,School Shark,2013,2.1975
+1149,School Shark,2014,2.296875
+1150,School Shark,2015,2.4134375
+1151,School Shark,2016,2.3596875
+1152,School Shark,2017,2.356875
+1153,School Shark,2018,2.167783809
+1154,School Shark,2019,2.164099867
+1155,School Shark,2020,2.268073202
+1156,School Shark,2021,2.377989259
+1157,School Shark,2022,2.148391835
+1158,Sea Cucumber,2008,0.25
+1159,Sea Cucumber,2009,1
+1160,Sea Cucumber,2010,1.0525
+1161,Sea Cucumber,2011,1.21
+1162,Sea Cucumber,2012,1.2075
+1163,Sea Cucumber,2013,1.2
+1164,Sea Cucumber,2014,1.2
+1165,Sea Cucumber,2015,1.2
+1166,Sea Cucumber,2016,1.274166667
+1167,Sea Cucumber,2017,1.496666667
+1168,Sea Cucumber,2018,1.496671313
+1169,Sea Cucumber,2019,1.496685252
+1170,Sea Cucumber,2020,1.496685252
+1171,Sea Cucumber,2021,1.643351919
+1172,Sea Cucumber,2022,1.562513939
+1173,Sea Perch,2008,0.13125
+1174,Sea Perch,2009,0.525
+1175,Sea Perch,2010,0.59325
+1176,Sea Perch,2011,0.82325
+1177,Sea Perch,2012,0.8275
+1178,Sea Perch,2013,0.644
+1179,Sea Perch,2014,0.73975
+1180,Sea Perch,2015,0.78275
+1181,Sea Perch,2016,0.86175
+1182,Sea Perch,2017,0.72625
+1183,Sea Perch,2018,0.54308157
+1184,Sea Perch,2019,0.554293238
+1185,Sea Perch,2020,0.672248955
+1186,Sea Perch,2021,0.78800745
+1187,Sea Perch,2022,0.520342022
+1188,Seal Shark,2008,0.5125
+1189,Seal Shark,2009,2.05
+1190,Seal Shark,2010,1.7325
+1191,Seal Shark,2011,0.7425
+1192,Seal Shark,2012,1.373214286
+1193,Seal Shark,2013,3.290198413
+1194,Seal Shark,2014,2.309722223
+1195,Seal Shark,2015,2.182222223
+1196,Seal Shark,2016,2.929166667
+1197,Seal Shark,2017,3.8775
+1198,Seal Shark,2018,0.2775
+1199,Seal Shark,2019,1.111000508
+1200,Seal Shark,2020,1.114002032
+1201,Seal Shark,2021,0.850501524
+1202,Seal Shark,2022,0.045
+1203,Short finned eel,2008,0.875
+1204,Short finned eel,2009,3.5
+1205,Short finned eel,2010,3.625
+1206,Short finned eel,2011,4.085
+1207,Short finned eel,2012,4.3325
+1208,Short finned eel,2013,4.31
+1209,Short finned eel,2014,4.31
+1210,Short finned eel,2015,4.31
+1211,Short finned eel,2016,4.31
+1212,Short finned eel,2017,4.576666667
+1213,Short finned eel,2018,5.296626893
+1214,Short finned eel,2019,5.136555337
+1215,Short finned eel,2020,5.376698629
+1216,Short finned eel,2021,5.376698629
+1217,Short finned eel,2022,4.032523972
+1218,Shortfinned eel,2008,0.9675
+1219,Shortfinned eel,2009,3.87
+1220,Shortfinned eel,2010,4.137
+1221,Shortfinned eel,2011,4.98
+1222,Shortfinned eel,2012,5.172
+1223,Shortfinned eel,2013,5.37
+1224,Shortfinned eel,2014,5.5245
+1225,Shortfinned eel,2015,5.879
+1226,Shortfinned eel,2016,5.552
+1227,Shortfinned eel,2017,5.5865
+1228,Shortfinned eel,2018,5.69032932
+1229,Shortfinned eel,2019,5.605274713
+1230,Shortfinned eel,2020,5.351948294
+1231,Shortfinned eel,2021,5.366352133
+1232,Shortfinned eel,2022,4.0247641
+1233,Silver Warehou,2008,0.34
+1234,Silver Warehou,2009,1.36
+1235,Silver Warehou,2010,1.31
+1236,Silver Warehou,2011,1.118125
+1237,Silver Warehou,2012,0.965
+1238,Silver Warehou,2013,0.86375
+1239,Silver Warehou,2014,0.8075
+1240,Silver Warehou,2015,0.80125
+1241,Silver Warehou,2016,0.773125
+1242,Silver Warehou,2017,0.748125
+1243,Silver Warehou,2018,0.75943479
+1244,Silver Warehou,2019,0.768663086
+1245,Silver Warehou,2020,0.778164544
+1246,Silver Warehou,2021,0.791417804
+1247,Silver Warehou,2022,0.628582863
+1248,Skipjacktuna,2008,0.17
+1249,Skipjacktuna,2009,0.68
+1250,Skipjacktuna,2010,0.6375
+1251,Skipjacktuna,2011,0.515
+1252,Skipjacktuna,2012,0.5325
+1253,Skipjacktuna,2013,0.815
+1254,Skipjacktuna,2014,1.355
+1255,Skipjacktuna,2015,0.5
+1256,Skipjacktuna,2016,0.5
+1257,Skipjacktuna,2017,0.4925
+1258,Skipjacktuna,2018,0.4675
+1259,Skipjacktuna,2019,0.460788092
+1260,Skipjacktuna,2020,0.463152367
+1261,Skipjacktuna,2021,0.463152367
+1262,Skipjacktuna,2022,0.347364275
+1263,Smooth Skate,2008,0.089
+1264,Smooth Skate,2009,0.356
+1265,Smooth Skate,2010,0.4015
+1266,Smooth Skate,2011,0.534
+1267,Smooth Skate,2012,0.522
+1268,Smooth Skate,2013,0.515
+1269,Smooth Skate,2014,0.4915
+1270,Smooth Skate,2015,0.467
+1271,Smooth Skate,2016,0.4135
+1272,Smooth Skate,2017,0.4035
+1273,Smooth Skate,2018,0.389303328
+1274,Smooth Skate,2019,0.368432768
+1275,Smooth Skate,2020,0.38953477
+1276,Smooth Skate,2021,0.442889705
+1277,Smooth Skate,2022,0.293971367
+1278,Snapper,2008,1.251666667
+1279,Snapper,2009,5.006666667
+1280,Snapper,2010,5.080416667
+1281,Snapper,2011,5.363333333
+1282,Snapper,2012,5.540416667
+1283,Snapper,2013,5.556666667
+1284,Snapper,2014,5.660833333
+1285,Snapper,2015,5.673333333
+1286,Snapper,2016,5.875
+1287,Snapper,2017,5.664166667
+1288,Snapper,2018,4.804410892
+1289,Snapper,2019,4.852288356
+1290,Snapper,2020,5.312622199
+1291,Snapper,2021,5.42229065
+1292,Snapper,2022,4.135275495
+1293,Southern Blue Whiting,2008,0.0875
+1294,Southern Blue Whiting,2009,0.35
+1295,Southern Blue Whiting,2010,0.454
+1296,Southern Blue Whiting,2011,0.705
+1297,Southern Blue Whiting,2012,0.522
+1298,Southern Blue Whiting,2013,0.528
+1299,Southern Blue Whiting,2014,0.546
+1300,Southern Blue Whiting,2015,0.546
+1301,Southern Blue Whiting,2016,0.546
+1302,Southern Blue Whiting,2017,0.533
+1303,Southern Blue Whiting,2018,0.494
+1304,Southern Blue Whiting,2019,0.494
+1305,Southern Blue Whiting,2020,0.494
+1306,Southern Blue Whiting,2021,0.494
+1307,Southern Blue Whiting,2022,0.3705
+1308,Southern Bluefin Tuna,2008,6.5175
+1309,Southern Bluefin Tuna,2009,26.07
+1310,Southern Bluefin Tuna,2010,27.415
+1311,Southern Bluefin Tuna,2011,31.4775
+1312,Southern Bluefin Tuna,2012,31.4975
+1313,Southern Bluefin Tuna,2013,31.31
+1314,Southern Bluefin Tuna,2014,26.74
+1315,Southern Bluefin Tuna,2015,12.5
+1316,Southern Bluefin Tuna,2016,11.275
+1317,Southern Bluefin Tuna,2017,11.525
+1318,Southern Bluefin Tuna,2018,8.829377492
+1319,Southern Bluefin Tuna,2019,7.780020565
+1320,Southern Bluefin Tuna,2020,6.610986431
+1321,Southern Bluefin Tuna,2021,7.688429722
+1322,Southern Bluefin Tuna,2022,4.589889693
+1323,Spiny Dogfish,2008,0.140714286
+1324,Spiny Dogfish,2009,0.562857143
+1325,Spiny Dogfish,2010,0.569642857
+1326,Spiny Dogfish,2011,0.515357143
+1327,Spiny Dogfish,2012,0.291428572
+1328,Spiny Dogfish,2013,0.276428572
+1329,Spiny Dogfish,2014,0.231428572
+1330,Spiny Dogfish,2015,0.231428572
+1331,Spiny Dogfish,2016,0.239285715
+1332,Spiny Dogfish,2017,0.267857143
+1333,Spiny Dogfish,2018,0.282916564
+1334,Spiny Dogfish,2019,0.283094827
+1335,Spiny Dogfish,2020,0.277166178
+1336,Spiny Dogfish,2021,0.259380233
+1337,Spiny Dogfish,2022,0.194535175
+1338,Sprats,2008,0.25
+1339,Sprats,2009,1
+1340,Sprats,2010,1.0525
+1341,Sprats,2011,1.21
+1342,Sprats,2012,1.2075
+1343,Sprats,2013,1.2
+1344,Sprats,2014,1.2
+1345,Sprats,2015,1.2
+1346,Sprats,2016,1.2
+1347,Sprats,2017,1.2
+1348,Sprats,2018,1.2
+1349,Sprats,2019,1.2
+1350,Sprats,2020,1.2
+1351,Sprats,2021,1.2
+1352,Sprats,2022,0.9
+1353,Squid,2008,0.19375
+1354,Squid,2009,0.775
+1355,Squid,2010,0.849375
+1356,Squid,2011,1.091875
+1357,Squid,2012,1.1475
+1358,Squid,2013,1.150625
+1359,Squid,2014,1.1825
+1360,Squid,2015,1.1825
+1361,Squid,2016,1.176875
+1362,Squid,2017,1.16625
+1363,Squid,2018,1.184598842
+1364,Squid,2019,1.184390415
+1365,Squid,2020,1.191571273
+1366,Squid,2021,1.21400833
+1367,Squid,2022,0.932668525
+1368,Stargazer,2008,0.27
+1369,Stargazer,2009,1.08
+1370,Stargazer,2010,1.1365625
+1371,Stargazer,2011,1.29875
+1372,Stargazer,2012,1.27375
+1373,Stargazer,2013,1.2746875
+1374,Stargazer,2014,1.298125
+1375,Stargazer,2015,1.2678125
+1376,Stargazer,2016,1.2
+1377,Stargazer,2017,1.21875
+1378,Stargazer,2018,1.203675191
+1379,Stargazer,2019,1.180143719
+1380,Stargazer,2020,1.267704765
+1381,Stargazer,2021,1.45436966
+1382,Stargazer,2022,1.359018553
+1383,Surf Clam   Deepwater Tuatua,2008,0.175
+1384,Surf Clam   Deepwater Tuatua,2009,0.7
+1385,Surf Clam   Deepwater Tuatua,2010,0.735
+1386,Surf Clam   Deepwater Tuatua,2011,0.84
+1387,Surf Clam   Deepwater Tuatua,2012,0.8375
+1388,Surf Clam   Deepwater Tuatua,2013,0.83
+1389,Surf Clam   Deepwater Tuatua,2014,0.83
+1390,Surf Clam   Deepwater Tuatua,2015,0.83
+1391,Surf Clam   Deepwater Tuatua,2016,0.83
+1392,Surf Clam   Deepwater Tuatua,2017,0.83
+1393,Surf Clam   Deepwater Tuatua,2018,0.83
+1394,Surf Clam   Deepwater Tuatua,2019,0.83
+1395,Surf Clam   Deepwater Tuatua,2020,0.83
+1396,Surf Clam   Deepwater Tuatua,2021,0.9865625
+1397,Surf Clam   Deepwater Tuatua,2022,1.0921875
+1398,Surf Clam   frilled venus,2008,0.8
+1399,Surf Clam   frilled venus,2009,3.2
+1400,Surf Clam   frilled venus,2010,3.365
+1401,Surf Clam   frilled venus,2011,3.8625
+1402,Surf Clam   frilled venus,2012,3.8625
+1403,Surf Clam   frilled venus,2013,3.84
+1404,Surf Clam   frilled venus,2014,3.84
+1405,Surf Clam   frilled venus,2015,3.84
+1406,Surf Clam   frilled venus,2016,3.84
+1407,Surf Clam   frilled venus,2017,3.84
+1408,Surf Clam   frilled venus,2018,3.84
+1409,Surf Clam   frilled venus,2019,3.84
+1410,Surf Clam   frilled venus,2020,3.84
+1411,Surf Clam   frilled venus,2021,3.84
+1412,Surf Clam   frilled venus,2022,2.88
+1413,Surf Clam   large trough shell,2008,0.175
+1414,Surf Clam   large trough shell,2009,0.7
+1415,Surf Clam   large trough shell,2010,0.735
+1416,Surf Clam   large trough shell,2011,0.84
+1417,Surf Clam   large trough shell,2012,0.8375
+1418,Surf Clam   large trough shell,2013,0.83
+1419,Surf Clam   large trough shell,2014,0.83
+1420,Surf Clam   large trough shell,2015,0.83
+1421,Surf Clam   large trough shell,2016,0.83
+1422,Surf Clam   large trough shell,2017,0.83
+1423,Surf Clam   large trough shell,2018,0.83
+1424,Surf Clam   large trough shell,2019,0.83
+1425,Surf Clam   large trough shell,2020,0.890118641
+1426,Surf Clam   large trough shell,2021,1.198168422
+1427,Surf Clam   large trough shell,2022,1.1859375
+1428,Surf Clam   ringed dosinia,2008,0.65
+1429,Surf Clam   ringed dosinia,2009,2.6
+1430,Surf Clam   ringed dosinia,2010,2.735
+1431,Surf Clam   ringed dosinia,2011,3.1425
+1432,Surf Clam   ringed dosinia,2012,3.145
+1433,Surf Clam   ringed dosinia,2013,3.13
+1434,Surf Clam   ringed dosinia,2014,3.13
+1435,Surf Clam   ringed dosinia,2015,3.13
+1436,Surf Clam   ringed dosinia,2016,3.13
+1437,Surf Clam   ringed dosinia,2017,3.13
+1438,Surf Clam   ringed dosinia,2018,3.13
+1439,Surf Clam   ringed dosinia,2019,3.13
+1440,Surf Clam   ringed dosinia,2020,3.13
+1441,Surf Clam   ringed dosinia,2021,3.0790625
+1442,Surf Clam   ringed dosinia,2022,2.1946875
+1443,Surf Clam   silky dosinia,2008,0.6
+1444,Surf Clam   silky dosinia,2009,2.4
+1445,Surf Clam   silky dosinia,2010,2.525
+1446,Surf Clam   silky dosinia,2011,2.9025
+1447,Surf Clam   silky dosinia,2012,2.905
+1448,Surf Clam   silky dosinia,2013,2.89
+1449,Surf Clam   silky dosinia,2014,2.89
+1450,Surf Clam   silky dosinia,2015,2.89
+1451,Surf Clam   silky dosinia,2016,2.89
+1452,Surf Clam   silky dosinia,2017,2.89
+1453,Surf Clam   silky dosinia,2018,2.89
+1454,Surf Clam   silky dosinia,2019,2.89
+1455,Surf Clam   silky dosinia,2020,2.89
+1456,Surf Clam   silky dosinia,2021,2.89
+1457,Surf Clam   silky dosinia,2022,2.1675
+1458,Surf Clam   triangle shell,2008,0.175
+1459,Surf Clam   triangle shell,2009,0.7
+1460,Surf Clam   triangle shell,2010,0.735
+1461,Surf Clam   triangle shell,2011,0.84
+1462,Surf Clam   triangle shell,2012,0.8375
+1463,Surf Clam   triangle shell,2013,0.83
+1464,Surf Clam   triangle shell,2014,0.83
+1465,Surf Clam   triangle shell,2015,0.83
+1466,Surf Clam   triangle shell,2016,0.83
+1467,Surf Clam   triangle shell,2017,0.83
+1468,Surf Clam   triangle shell,2018,0.83
+1469,Surf Clam   triangle shell,2019,0.83
+1470,Surf Clam   triangle shell,2020,0.83
+1471,Surf Clam   triangle shell,2021,0.9865625
+1472,Surf Clam   triangle shell,2022,1.0921875
+1473,Surf Clam   trough shell,2008,0.425
+1474,Surf Clam   trough shell,2009,1.7
+1475,Surf Clam   trough shell,2010,1.7875
+1476,Surf Clam   trough shell,2011,2.0525
+1477,Surf Clam   trough shell,2012,2.055
+1478,Surf Clam   trough shell,2013,2.04
+1479,Surf Clam   trough shell,2014,2.04
+1480,Surf Clam   trough shell,2015,2.04
+1481,Surf Clam   trough shell,2016,2.04
+1482,Surf Clam   trough shell,2017,2.04
+1483,Surf Clam   trough shell,2018,2.04
+1484,Surf Clam   trough shell,2019,2.04
+1485,Surf Clam   trough shell,2020,2.04
+1486,Surf Clam   trough shell,2021,2.04
+1487,Surf Clam   trough shell,2022,1.53
+1488,Tarakihi,2008,0.721875
+1489,Tarakihi,2009,2.8875
+1490,Tarakihi,2010,2.8784375
+1491,Tarakihi,2011,2.8996875
+1492,Tarakihi,2012,3.026875
+1493,Tarakihi,2013,2.973125
+1494,Tarakihi,2014,2.9425
+1495,Tarakihi,2015,2.7896875
+1496,Tarakihi,2016,2.6325
+1497,Tarakihi,2017,2.6075
+1498,Tarakihi,2018,2.515133108
+1499,Tarakihi,2019,2.717819967
+1500,Tarakihi,2020,2.740133821
+1501,Tarakihi,2021,2.711473687
+1502,Tarakihi,2022,2.193886544
+1503,Trevally,2008,0.3925
+1504,Trevally,2009,1.57
+1505,Trevally,2010,1.619
+1506,Trevally,2011,1.766
+1507,Trevally,2012,1.8045
+1508,Trevally,2013,1.8285
+1509,Trevally,2014,1.541
+1510,Trevally,2015,1.463
+1511,Trevally,2016,1.3645
+1512,Trevally,2017,1.367
+1513,Trevally,2018,1.224889051
+1514,Trevally,2019,1.340876836
+1515,Trevally,2020,1.571778677
+1516,Trevally,2021,1.704674447
+1517,Trevally,2022,1.341676729
+1518,Trumpeter,2008,0.525
+1519,Trumpeter,2009,2.1
+1520,Trumpeter,2010,2.2890625
+1521,Trumpeter,2011,2.6646875
+1522,Trumpeter,2012,2.085555556
+1523,Trumpeter,2013,2.052416667
+1524,Trumpeter,2014,2.001
+1525,Trumpeter,2015,2.03175
+1526,Trumpeter,2016,2.1045
+1527,Trumpeter,2017,2.3225
+1528,Trumpeter,2018,2.478024296
+1529,Trumpeter,2019,2.437817325
+1530,Trumpeter,2020,2.584411029
+1531,Trumpeter,2021,2.7497801
+1532,Trumpeter,2022,2.208740798
+1533,Tuatua,2008,0.3125
+1534,Tuatua,2009,1.25
+1535,Tuatua,2010,1.315
+1536,Tuatua,2011,1.5125
+1537,Tuatua,2012,1.5175
+1538,Tuatua,2013,1.51
+1539,Tuatua,2014,1.51
+1540,Tuatua,2015,1.51
+1541,Tuatua,2016,1.51
+1542,Tuatua,2017,1.51
+1543,Tuatua,2018,1.51
+1544,Tuatua,2019,1.51
+1545,Tuatua,2020,1.51
+1546,Tuatua,2021,1.51
+1547,Tuatua,2022,1.1325
+1548,White Warehou,2008,0.3434375
+1549,White Warehou,2009,1.37375
+1550,White Warehou,2010,1.60375
+1551,White Warehou,2011,2.10875
+1552,White Warehou,2012,1.550034722
+1553,White Warehou,2013,1.518888889
+1554,White Warehou,2014,1.465833334
+1555,White Warehou,2015,1.5
+1556,White Warehou,2016,1.568333333
+1557,White Warehou,2017,1.24
+1558,White Warehou,2018,0.422103222
+1559,White Warehou,2019,1.678308934
+1560,White Warehou,2020,1.669486833
+1561,White Warehou,2021,1.72505409
+1562,White Warehou,2022,1.273761029
+1563,Yellow eyed Mullet,2008,0.402857143
+1564,Yellow eyed Mullet,2009,1.611428572
+1565,Yellow eyed Mullet,2010,2.053928572
+1566,Yellow eyed Mullet,2011,3.463571429
+1567,Yellow eyed Mullet,2012,3.7025
+1568,Yellow eyed Mullet,2013,3.693928571
+1569,Yellow eyed Mullet,2014,3.735714285
+1570,Yellow eyed Mullet,2015,3.7225
+1571,Yellow eyed Mullet,2016,3.662857143
+1572,Yellow eyed Mullet,2017,3.6275
+1573,Yellow eyed Mullet,2018,3.701216414
+1574,Yellow eyed Mullet,2019,3.705049365
+1575,Yellow eyed Mullet,2020,3.718457635
+1576,Yellow eyed Mullet,2021,3.718457635
+1577,Yellow eyed Mullet,2022,2.788843226
+1578,Yellow Eyed Mullet,2012,0.9275
+1579,Yellow Eyed Mullet,2013,3.7025
+1580,Yellow Eyed Mullet,2014,3.68
+1581,Yellow Eyed Mullet,2015,3.68
+1582,Yellow Eyed Mullet,2016,3.68
+1583,Yellow Eyed Mullet,2017,3.68
+1584,Yellow Eyed Mullet,2018,3.68
+1585,Yellow Eyed Mullet,2019,3.68
+1586,Yellow Eyed Mullet,2020,3.68
+1587,Yellow Eyed Mullet,2021,3.68
+1588,Yellow Eyed Mullet,2022,2.76
+1589,Yellowfin Tuna,2008,1.745
+1590,Yellowfin Tuna,2009,6.98
+1591,Yellowfin Tuna,2010,7.8525
+1592,Yellowfin Tuna,2011,9.48
+1593,Yellowfin Tuna,2012,6.4975
+1594,Yellowfin Tuna,2013,6.46
+1595,Yellowfin Tuna,2014,6.46
+1596,Yellowfin Tuna,2015,6.46
+1597,Yellowfin Tuna,2016,6.46
+1598,Yellowfin Tuna,2017,6.46
+1599,Yellowfin Tuna,2018,6.46
+1600,Yellowfin Tuna,2019,6.46
+1601,Yellowfin Tuna,2020,6.46
+1602,Yellowfin Tuna,2021,6.46
+1603,Yellowfin Tuna,2022,4.845

@@ -1,0 +1,2975 @@
+,species,fishing_year,wt_ace,TACC,units.TACC,Catch,Units.Catch,wt_port_price
+1,Alfonsino,2001,0.205,2727,Tonnes,NA,Tonnes,NA
+2,Alfonsino,2002,0.859,2995.7,Tonnes,2904.2,Tonnes,NA
+3,Alfonsino,2003,0.993,2995.7,Tonnes,2926.8,Tonnes,NA
+4,Alfonsino,2004,1.045,2995.7,Tonnes,2583.9,Tonnes,NA
+5,Alfonsino,2005,1.036,2995.7,Tonnes,3052.5,Tonnes,NA
+6,Alfonsino,2006,0.933,2995.7,Tonnes,2903.4,Tonnes,NA
+7,Alfonsino,2007,0.992,2995.7,Tonnes,2676.7,Tonnes,NA
+8,Alfonsino,2008,0.932,2995.7,Tonnes,2748.3,Tonnes,0.447916667
+9,Alfonsino,2009,0.914,2995.7,Tonnes,2665.2,Tonnes,1.791666667
+10,Alfonsino,2010,0.966,2995.7,Tonnes,2865.2,Tonnes,1.79375
+11,Alfonsino,2011,1.006,2995.7,Tonnes,2835.7,Tonnes,1.908333333
+12,Alfonsino,2012,1.015,2995.7,Tonnes,2699.3,Tonnes,2.15375
+13,Alfonsino,2013,1.117,2995.7,Tonnes,2679,Tonnes,1.922916667
+14,Alfonsino,2014,1.135,2995.7,Tonnes,2567.8,Tonnes,1.907916667
+15,Alfonsino,2015,1.102,2995.7,Tonnes,2693.3,Tonnes,1.848333333
+16,Alfonsino,2016,1.103,2995.7,Tonnes,2728.9,Tonnes,1.991666667
+17,Alfonsino,2017,1.14,2995.7,Tonnes,2651.8,Tonnes,1.855
+18,Alfonsino,2018,1.077,2995.7,Tonnes,2531,Tonnes,1.743779092
+19,Alfonsino,2019,1.151,2995.7,Tonnes,2342.2,Tonnes,1.92414207
+20,Alfonsino,2020,1.145,NA,NA,NA,NA,1.970528571
+21,Alfonsino,2021,1.33,NA,NA,NA,NA,2.10650792
+22,Alfonsino,2022,1.036,NA,NA,NA,NA,1.654246047
+23,Anchovy,2002,0.013,NA,NA,NA,NA,NA
+24,Anchovy,2003,0.048,560,Tonnes,8.3,Tonnes,NA
+25,Anchovy,2004,0.031,560,Tonnes,14.5,Tonnes,NA
+26,Anchovy,2005,0.013,560,Tonnes,11.7,Tonnes,NA
+27,Anchovy,2006,0.044,560,Tonnes,10,Tonnes,NA
+28,Anchovy,2007,0.026,560,Tonnes,2.6,Tonnes,NA
+29,Anchovy,2008,0.028,560,Tonnes,0.4,Tonnes,0.1725
+30,Anchovy,2009,0.024,560,Tonnes,1.7,Tonnes,0.69
+31,Anchovy,2010,0.03,560,Tonnes,12.5,Tonnes,0.725
+32,Anchovy,2011,0.038,560,Tonnes,1.2,Tonnes,0.83
+33,Anchovy,2012,0.006,560,Tonnes,0.7,Tonnes,0.8275
+34,Anchovy,2013,0.017,560,Tonnes,0.5,Tonnes,0.82
+35,Anchovy,2015,0.008,560,Tonnes,1,Tonnes,0.82
+36,Anchovy,2016,0.032,560,Tonnes,12.6,Tonnes,0.82
+37,Anchovy,2017,0.031,560,Tonnes,9.4,Tonnes,0.82
+38,Anchovy,2018,0.035,560,Tonnes,0.2,Tonnes,0.82
+39,Anchovy,2019,0.036,560,Tonnes,3.6,Tonnes,0.82
+40,Anchovy,2020,0.01,NA,NA,NA,NA,0.82
+41,Anchovy,2021,0.03,NA,NA,NA,NA,0.82
+42,Arrow Squid,2001,0.034,127332.3,Tonnes,NA,Tonnes,NA
+43,Arrow Squid,2002,0.146,127332.4,Tonnes,48173.1,Tonnes,NA
+44,Arrow Squid,2003,0.143,127332.4,Tonnes,43719.4,Tonnes,NA
+45,Arrow Squid,2004,0.082,127332.4,Tonnes,84962.3,Tonnes,NA
+46,Arrow Squid,2005,0.161,127332.4,Tonnes,86074.5,Tonnes,NA
+47,Arrow Squid,2006,0.185,127332.4,Tonnes,72418.4,Tonnes,NA
+48,Arrow Squid,2007,0.181,127332.4,Tonnes,70252.7,Tonnes,NA
+49,Arrow Squid,2008,0.147,127332.4,Tonnes,56035.2,Tonnes,NA
+50,Arrow Squid,2009,0.124,127332.4,Tonnes,46310.9,Tonnes,NA
+51,Arrow Squid,2010,0.135,127332.4,Tonnes,32436,Tonnes,NA
+52,Arrow Squid,2011,0.11,127332.4,Tonnes,37304.4,Tonnes,NA
+53,Arrow Squid,2012,0.102,127332.4,Tonnes,35207,Tonnes,NA
+54,Arrow Squid,2013,0.098,127332.4,Tonnes,24636.4,Tonnes,NA
+55,Arrow Squid,2014,0.12,127332.4,Tonnes,15053.2,Tonnes,NA
+56,Arrow Squid,2015,0.088,127332.4,Tonnes,16310.1,Tonnes,NA
+57,Arrow Squid,2016,0.065,127332.4,Tonnes,43126.7,Tonnes,NA
+58,Arrow Squid,2017,0.07,82120.3,Tonnes,18462.1,Tonnes,NA
+59,Arrow Squid,2018,0.078,NA,Tonnes,23069.3,Tonnes,NA
+60,Arrow Squid,2018,0.078,82120.3,Tonnes,NA,Tonnes,NA
+61,Arrow Squid,2019,0.076,82120.3,Tonnes,43391.8,Tonnes,NA
+62,Arrow Squid,2020,0.081,NA,NA,NA,NA,NA
+63,Arrow Squid,2021,0.083,NA,NA,NA,NA,NA
+64,Arrow Squid,2022,0.085,NA,NA,NA,NA,NA
+65,Barracouta,2001,0.019,32421,Tonnes,NA,Tonnes,NA
+66,Barracouta,2002,0.076,32672.5,Tonnes,21600.2,Tonnes,NA
+67,Barracouta,2003,0.077,32672.5,Tonnes,25036.2,Tonnes,NA
+68,Barracouta,2004,0.077,32672.5,Tonnes,22459.1,Tonnes,NA
+69,Barracouta,2005,0.084,32672.5,Tonnes,26932,Tonnes,NA
+70,Barracouta,2006,0.104,32672.5,Tonnes,27881.7,Tonnes,NA
+71,Barracouta,2007,0.104,32672.5,Tonnes,29617.6,Tonnes,NA
+72,Barracouta,2008,0.119,32672.5,Tonnes,27968.5,Tonnes,0.062
+73,Barracouta,2009,0.114,32672.5,Tonnes,26445,Tonnes,0.248
+74,Barracouta,2010,0.108,32672.5,Tonnes,28450.7,Tonnes,0.272
+75,Barracouta,2011,0.114,32672.5,Tonnes,26940,Tonnes,0.3555
+76,Barracouta,2012,0.117,32672.5,Tonnes,26441.4,Tonnes,0.39
+77,Barracouta,2013,0.115,32672.5,Tonnes,24972,Tonnes,0.386
+78,Barracouta,2014,0.119,32672.5,Tonnes,26314.3,Tonnes,0.374
+79,Barracouta,2015,0.125,32672.5,Tonnes,24327.7,Tonnes,0.362
+80,Barracouta,2016,0.118,32672.5,Tonnes,21511,Tonnes,0.339
+81,Barracouta,2017,0.11,33402.5,Tonnes,28169.6,Tonnes,0.361
+82,Barracouta,2018,0.114,NA,Tonnes,29070.9,Tonnes,0.363365112
+83,Barracouta,2018,0.114,33402.5,Tonnes,NA,Tonnes,0.363365112
+84,Barracouta,2019,0.121,33402.5,Tonnes,18408.6,Tonnes,0.46795161
+85,Barracouta,2020,0.12,NA,NA,NA,NA,0.30210002
+86,Barracouta,2021,0.111,NA,NA,NA,NA,0.302519628
+87,Barracouta,2022,0.084,NA,NA,NA,NA,0.223278062
+88,Bigeye Tuna,2004,2.024,NA,NA,NA,NA,NA
+89,Bigeye Tuna,2005,7.386,714,Tonnes,162.3,Tonnes,NA
+90,Bigeye Tuna,2006,3.939,714,Tonnes,177.4,Tonnes,NA
+91,Blue Cod,2001,0.134,2664.7,Tonnes,NA,Tonnes,NA
+92,Blue Cod,2002,0.55,2681.5,Tonnes,2324.3,Tonnes,NA
+93,Blue Cod,2003,0.615,2681.5,Tonnes,2457.5,Tonnes,NA
+94,Blue Cod,2004,0.677,2681.5,Tonnes,2501.9,Tonnes,NA
+95,Blue Cod,2005,0.644,2681.5,Tonnes,2452.3,Tonnes,NA
+96,Blue Cod,2006,0.687,2681.5,Tonnes,2187.4,Tonnes,NA
+97,Blue Cod,2007,0.704,2681.5,Tonnes,2419.8,Tonnes,NA
+98,Blue Cod,2008,0.745,2681.5,Tonnes,2316,Tonnes,0.9446875
+99,Blue Cod,2009,0.811,2681.5,Tonnes,2418.2,Tonnes,3.77875
+100,Blue Cod,2010,0.924,2681.5,Tonnes,2162.5,Tonnes,4.02625
+101,Blue Cod,2011,0.925,2681.5,Tonnes,2342.6,Tonnes,4.6665625
+102,Blue Cod,2012,0.97,2331.6,Tonnes,2216.5,Tonnes,4.3515625
+103,Blue Cod,2013,1.063,2331.6,Tonnes,2193.5,Tonnes,4.434375
+104,Blue Cod,2014,1.188,2331.6,Tonnes,2176.1,Tonnes,4.819375
+105,Blue Cod,2015,1.31,2331.6,Tonnes,2207.4,Tonnes,4.9271875
+106,Blue Cod,2016,1.372,2331.6,Tonnes,2105.7,Tonnes,4.94875
+107,Blue Cod,2017,1.405,2331.6,Tonnes,2155.1,Tonnes,5.7421875
+108,Blue Cod,2018,1.436,NA,Tonnes,2048.7,Tonnes,5.89426103
+109,Blue Cod,2018,1.436,2331.6,Tonnes,NA,Tonnes,5.89426103
+110,Blue Cod,2019,1.565,2331.6,Tonnes,1833.7,Tonnes,5.799861732
+111,Blue Cod,2020,1.727,NA,NA,NA,NA,5.866144322
+112,Blue Cod,2021,1.908,NA,NA,NA,NA,6.521097613
+113,Blue Cod,2022,1.657,NA,NA,NA,NA,6.100679799
+114,Blue Mackerel,2002,0.026,NA,NA,NA,NA,NA
+115,Blue Mackerel,2003,0.111,11550,Tonnes,11373.8,Tonnes,NA
+116,Blue Mackerel,2004,0.134,11550,Tonnes,9372.8,Tonnes,NA
+117,Blue Mackerel,2005,0.129,11550,Tonnes,12746.2,Tonnes,NA
+118,Blue Mackerel,2006,0.12,11550,Tonnes,10643,Tonnes,NA
+119,Blue Mackerel,2007,0.119,11550,Tonnes,10688.3,Tonnes,NA
+120,Blue Mackerel,2008,0.118,11550,Tonnes,8982.3,Tonnes,0.09
+121,Blue Mackerel,2009,0.122,11550,Tonnes,6740,Tonnes,0.36
+122,Blue Mackerel,2010,0.114,11550,Tonnes,11815.5,Tonnes,0.419
+123,Blue Mackerel,2011,0.105,11550,Tonnes,8638.2,Tonnes,0.5695
+124,Blue Mackerel,2012,0.114,11550,Tonnes,10816.7,Tonnes,0.4725
+125,Blue Mackerel,2013,0.117,11550,Tonnes,9716.2,Tonnes,0.458
+126,Blue Mackerel,2014,0.115,11550,Tonnes,8092.2,Tonnes,0.572
+127,Blue Mackerel,2015,0.12,11550,Tonnes,9128.9,Tonnes,0.521
+128,Blue Mackerel,2016,0.123,11550,Tonnes,8033,Tonnes,0.3795
+129,Blue Mackerel,2017,0.116,11550,Tonnes,8383.7,Tonnes,0.4135
+130,Blue Mackerel,2018,0.115,11550,Tonnes,11399.7,Tonnes,0.411020511
+131,Blue Mackerel,2019,0.093,11550,Tonnes,10299.5,Tonnes,0.390911467
+132,Blue Mackerel,2020,0.095,NA,NA,NA,NA,0.355756734
+133,Blue Mackerel,2021,0.091,NA,NA,NA,NA,0.404827724
+134,Blue Mackerel,2022,0.068,NA,NA,NA,NA,0.303620793
+135,Blue Moki,2001,0.1,604.1,Tonnes,NA,Tonnes,NA
+136,Blue Moki,2002,0.418,608.1,Tonnes,452.4,Tonnes,NA
+137,Blue Moki,2003,0.485,608.1,Tonnes,475.6,Tonnes,NA
+138,Blue Moki,2004,0.5,608.1,Tonnes,441.2,Tonnes,NA
+139,Blue Moki,2005,0.447,608.1,Tonnes,501.8,Tonnes,NA
+140,Blue Moki,2006,0.48,608.1,Tonnes,483.5,Tonnes,NA
+141,Blue Moki,2007,0.499,608.1,Tonnes,503.6,Tonnes,NA
+142,Blue Moki,2008,0.526,608.1,Tonnes,534.7,Tonnes,0.2275
+143,Blue Moki,2009,0.527,608.1,Tonnes,524.1,Tonnes,0.91
+144,Blue Moki,2010,0.576,608.1,Tonnes,521.9,Tonnes,1.073
+145,Blue Moki,2011,0.609,608.1,Tonnes,574.5,Tonnes,1.5765
+146,Blue Moki,2012,0.635,608.1,Tonnes,571.3,Tonnes,1.6165
+147,Blue Moki,2013,0.673,608.1,Tonnes,549,Tonnes,1.534
+148,Blue Moki,2014,0.677,608.1,Tonnes,535,Tonnes,1.327
+149,Blue Moki,2015,0.622,640.9,Tonnes,529.7,Tonnes,1.391
+150,Blue Moki,2016,0.594,640.9,Tonnes,586.4,Tonnes,1.641
+151,Blue Moki,2017,0.596,640.9,Tonnes,555.5,Tonnes,1.8985
+152,Blue Moki,2018,0.65,640.9,Tonnes,619.8,Tonnes,1.454097587
+153,Blue Moki,2019,0.663,640.9,Tonnes,543.3,Tonnes,1.588584914
+154,Blue Moki,2020,0.617,NA,NA,NA,NA,1.703734471
+155,Blue Moki,2021,0.638,NA,NA,NA,NA,1.758494526
+156,Blue Moki,2022,0.436,NA,NA,NA,NA,1.316761465
+157,Blue Shark,2004,0.017,NA,NA,NA,NA,NA
+158,Blue Shark,2005,0.063,1860,Tonnes,752.4,Tonnes,NA
+159,Blue Shark,2006,0.054,1860,Tonnes,656.2,Tonnes,NA
+160,Blue Shark,2007,0.06,1860,Tonnes,789.9,Tonnes,NA
+161,Blue Shark,2008,0.061,1860,Tonnes,682.8,Tonnes,0.1
+162,Blue Shark,2009,0.059,1860,Tonnes,800.2,Tonnes,0.4
+163,Blue Shark,2010,0.051,1860,Tonnes,695.7,Tonnes,0.4425
+164,Blue Shark,2011,0.054,1860,Tonnes,770.4,Tonnes,0.57
+165,Blue Shark,2012,0.054,1860,Tonnes,1005.8,Tonnes,0.57
+166,Blue Shark,2013,0.051,1860,Tonnes,697.7,Tonnes,0.57
+167,Blue Shark,2014,0.05,1860,Tonnes,117.1,Tonnes,0.55
+168,Blue Shark,2015,0.054,1860,Tonnes,142.1,Tonnes,0.4
+169,Blue Shark,2016,0.072,1860,Tonnes,162.5,Tonnes,0.13
+170,Blue Shark,2017,0.081,1860,Tonnes,115.7,Tonnes,0.13
+171,Blue Shark,2018,0.067,NA,Tonnes,121.1,Tonnes,0.128794538
+172,Blue Shark,2018,0.067,1860,Tonnes,NA,Tonnes,0.128794538
+173,Blue Shark,2019,0.049,1860,Tonnes,99.4,Tonnes,0.125178151
+174,Blue Shark,2020,0.047,NA,NA,NA,NA,0.125178151
+175,Blue Shark,2021,0.043,NA,NA,NA,NA,0.125178151
+176,Blue Shark,2022,0.038,NA,NA,NA,NA,0.093883613
+177,Blue Warehou,2001,0.063,4512,Tonnes,NA,Tonnes,NA
+178,Blue Warehou,2002,0.257,4512.4,Tonnes,3112,Tonnes,NA
+179,Blue Warehou,2003,0.27,4512.4,Tonnes,5101.1,Tonnes,NA
+180,Blue Warehou,2004,0.265,4512.4,Tonnes,4819.9,Tonnes,NA
+181,Blue Warehou,2005,0.262,4512.4,Tonnes,4283.8,Tonnes,NA
+182,Blue Warehou,2006,0.275,4512.4,Tonnes,4569.8,Tonnes,NA
+183,Blue Warehou,2007,0.337,4512.4,Tonnes,4447.7,Tonnes,NA
+184,Blue Warehou,2008,0.592,4512.4,Tonnes,1530.1,Tonnes,0.241666667
+185,Blue Warehou,2009,0.505,4512.4,Tonnes,3119.8,Tonnes,0.966666667
+186,Blue Warehou,2010,0.323,4512.4,Tonnes,3385.7,Tonnes,1.21
+187,Blue Warehou,2011,0.323,4512.4,Tonnes,2923.9,Tonnes,1.83875
+188,Blue Warehou,2012,0.339,4512.4,Tonnes,3380.6,Tonnes,1.532083333
+189,Blue Warehou,2013,0.336,4512.4,Tonnes,2769.6,Tonnes,1.588333333
+190,Blue Warehou,2014,0.335,4512.4,Tonnes,2701.3,Tonnes,1.790833333
+191,Blue Warehou,2015,0.311,4512.4,Tonnes,3713.3,Tonnes,1.72
+192,Blue Warehou,2016,0.38,4512.4,Tonnes,2890.9,Tonnes,1.517916667
+193,Blue Warehou,2017,0.348,4512.4,Tonnes,3448,Tonnes,1.630416667
+194,Blue Warehou,2018,0.307,NA,Tonnes,2475.6,Tonnes,1.241424302
+195,Blue Warehou,2018,0.307,4512.4,Tonnes,NA,Tonnes,1.241424302
+196,Blue Warehou,2019,0.302,4512.4,Tonnes,2917.4,Tonnes,1.231016543
+197,Blue Warehou,2020,0.323,NA,NA,NA,NA,1.422493744
+198,Blue Warehou,2021,0.304,NA,NA,NA,NA,1.40112699
+199,Blue Warehou,2022,0.214,NA,NA,NA,NA,1.0330155
+200,Bluenose,2001,0.338,2489.9,Tonnes,NA,Tonnes,NA
+201,Bluenose,2002,1.371,3058.4,Tonnes,2783.8,Tonnes,NA
+202,Bluenose,2003,1.391,3058.4,Tonnes,3001.7,Tonnes,NA
+203,Bluenose,2004,1.227,3058.4,Tonnes,3090,Tonnes,NA
+204,Bluenose,2005,1.232,3233,Tonnes,3013.3,Tonnes,NA
+205,Bluenose,2006,1.525,3233,Tonnes,2474.8,Tonnes,NA
+206,Bluenose,2007,1.383,3233,Tonnes,2424.7,Tonnes,NA
+207,Bluenose,2008,1.535,3233,Tonnes,2499,Tonnes,1.17375
+208,Bluenose,2009,1.723,2335,Tonnes,2038.2,Tonnes,4.695
+209,Bluenose,2010,1.715,2335,Tonnes,2059.1,Tonnes,4.7225
+210,Bluenose,2011,1.79,2335,Tonnes,1695.9,Tonnes,4.72125
+211,Bluenose,2012,1.956,1590,Tonnes,1219.9,Tonnes,4.46125
+212,Bluenose,2013,2.135,1110,Tonnes,1139.2,Tonnes,4.52
+213,Bluenose,2014,2.2,1110,Tonnes,1154,Tonnes,4.85875
+214,Bluenose,2015,2.211,1110,Tonnes,1104.3,Tonnes,5.075833333
+215,Bluenose,2016,2.357,1110,Tonnes,960.6,Tonnes,5.234166667
+216,Bluenose,2017,2.404,910,Tonnes,823.4,Tonnes,5.7775
+217,Bluenose,2018,2.388,NA,Tonnes,656.4,Tonnes,5.075332896
+218,Bluenose,2018,2.388,630,Tonnes,NA,Tonnes,5.075332896
+219,Bluenose,2019,2.58,630,Tonnes,671,Tonnes,5.078221763
+220,Bluenose,2020,2.457,NA,NA,NA,NA,4.929215286
+221,Bluenose,2021,2.469,NA,NA,NA,NA,4.975659934
+222,Bluenose,2022,2.187,NA,NA,NA,NA,3.969065277
+223,Butterfish,2002,0.299,NA,NA,NA,NA,NA
+224,Butterfish,2003,1.183,162,Tonnes,130.2,Tonnes,NA
+225,Butterfish,2004,1.162,162,Tonnes,126.2,Tonnes,NA
+226,Butterfish,2005,1.177,162,Tonnes,131.9,Tonnes,NA
+227,Butterfish,2006,1.079,162,Tonnes,94.8,Tonnes,NA
+228,Butterfish,2007,0.966,162,Tonnes,116.8,Tonnes,NA
+229,Butterfish,2008,0.954,162,Tonnes,114.5,Tonnes,0.8725
+230,Butterfish,2009,1.062,162,Tonnes,122,Tonnes,3.49
+231,Butterfish,2010,1.276,162,Tonnes,97.9,Tonnes,3.845
+232,Butterfish,2011,1.037,162,Tonnes,116.2,Tonnes,4.870625
+233,Butterfish,2012,0.868,162,Tonnes,119.5,Tonnes,4.7425
+234,Butterfish,2013,0.979,162,Tonnes,110.4,Tonnes,4.695
+235,Butterfish,2014,1.005,162,Tonnes,95.1,Tonnes,4.6096875
+236,Butterfish,2015,0.912,162,Tonnes,99.3,Tonnes,4.56375
+237,Butterfish,2016,0.94,162,Tonnes,94.5,Tonnes,4.71875
+238,Butterfish,2017,0.874,162,Tonnes,114.3,Tonnes,4.67125
+239,Butterfish,2018,0.968,162,Tonnes,105.3,Tonnes,4.586946645
+240,Butterfish,2019,0.928,162,Tonnes,110.8,Tonnes,4.72640954
+241,Butterfish,2020,0.972,NA,NA,NA,NA,4.81113539
+242,Butterfish,2021,1,NA,NA,NA,NA,4.7427953
+243,Butterfish,2022,0.6,NA,NA,NA,NA,3.486984254
+244,Cardinalfish,2001,0.033,NA,NA,NA,NA,NA
+245,Cardinalfish,2002,0.129,NA,NA,NA,NA,NA
+246,Cardinalfish,2003,0.12,NA,NA,NA,NA,NA
+247,Cardinalfish,2004,0.107,NA,NA,NA,NA,NA
+248,Cardinalfish,2005,0.114,NA,NA,NA,NA,NA
+249,Cardinalfish,2006,0.124,NA,NA,NA,NA,NA
+250,Cardinalfish,2007,0.108,NA,NA,NA,NA,NA
+251,Cardinalfish,2008,0.107,NA,NA,NA,NA,NA
+252,Cardinalfish,2009,0.095,NA,NA,NA,NA,NA
+253,Cardinalfish,2010,0.109,NA,NA,NA,NA,NA
+254,Cardinalfish,2011,0.133,NA,NA,NA,NA,NA
+255,Cardinalfish,2012,0.135,NA,NA,NA,NA,0.25
+256,Cardinalfish,2013,0.123,NA,NA,NA,NA,1
+257,Cardinalfish,2014,0.123,NA,NA,NA,NA,1
+258,Cardinalfish,2015,0.123,NA,NA,NA,NA,1
+259,Cardinalfish,2016,0.111,NA,NA,NA,NA,1
+260,Cardinalfish,2017,0.118,NA,NA,NA,NA,1
+261,Cardinalfish,2018,0.122,NA,NA,NA,NA,1
+262,Cardinalfish,2019,0.127,NA,NA,NA,NA,1
+263,Cardinalfish,2020,0.148,NA,NA,NA,NA,1
+264,Cardinalfish,2021,0.153,NA,NA,NA,NA,1
+265,Cardinalfish,2022,0.114,NA,NA,NA,NA,0.75
+266,Cockle,2002,0.2,NA,NA,NA,NA,NA
+267,Cockle,2003,0.803,1736,Tonnes,806.7,Tonnes,NA
+268,Cockle,2004,0.856,3206,Tonnes,1533.4,Tonnes,NA
+269,Cockle,2005,0.75,3206,Tonnes,1379.4,Tonnes,NA
+270,Cockle,2006,0.263,3214,Tonnes,1539.7,Tonnes,NA
+271,Cockle,2007,0.789,3214,Tonnes,1355,Tonnes,NA
+272,Cockle,2010,0.254,3214,Tonnes,1214.4,Tonnes,NA
+273,Cockle,2011,0.761,3214,Tonnes,1247.5,Tonnes,NA
+274,Deepwater tuatua,2017,0.75,NA,NA,NA,NA,NA
+275,Deepwater tuatua,2018,0.25,NA,NA,NA,NA,NA
+276,Dredge Oyster,2001,0.073,NA,NA,NA,NA,NA
+277,Dredge Oyster,2002,0.301,NA,NA,NA,NA,NA
+278,Dredge Oyster,2003,0.346,NA,NA,NA,NA,NA
+279,Dredge Oyster,2004,0.365,NA,NA,NA,NA,NA
+280,Dredge Oyster,2005,0.238,NA,NA,NA,NA,NA
+281,Dredge Oyster,2006,0.059,NA,NA,NA,NA,NA
+282,Dredge Oyster,2007,0.238,NA,NA,NA,NA,NA
+283,Dredge Oyster,2008,0.243,NA,NA,NA,NA,NA
+284,Dredge Oyster,2009,0.222,NA,NA,NA,NA,NA
+285,Dredge Oyster,2010,0.224,NA,NA,NA,NA,NA
+286,Dredge Oyster,2011,0.221,NA,NA,NA,NA,NA
+287,Dredge Oyster,2012,0.22,NA,NA,NA,NA,NA
+288,Dredge Oyster,2013,0.212,NA,NA,NA,NA,NA
+289,Dredge Oyster,2014,0.213,NA,NA,NA,NA,NA
+290,Dredge Oyster,2015,0.214,NA,NA,NA,NA,NA
+291,Dredge Oyster,2016,0.219,NA,NA,NA,NA,NA
+292,Dredge Oyster,2017,0.238,NA,NA,NA,NA,NA
+293,Dredge Oyster,2018,0.245,NA,NA,NA,NA,NA
+294,Dredge Oyster,2019,0.244,NA,NA,NA,NA,NA
+295,Dredge Oyster,2020,0.241,NA,NA,NA,NA,NA
+296,Dredge Oyster,2021,0.18,NA,NA,NA,NA,NA
+297,Elephant Fish,2001,0.177,1039.7,Tonnes,NA,Tonnes,NA
+298,Elephant Fish,2002,0.742,1068.5,Tonnes,1055.3,Tonnes,NA
+299,Elephant Fish,2003,0.868,1193.5,Tonnes,1125.7,Tonnes,NA
+300,Elephant Fish,2004,0.924,1193.5,Tonnes,1138,Tonnes,NA
+301,Elephant Fish,2005,0.878,1213.5,Tonnes,1189.6,Tonnes,NA
+302,Elephant Fish,2006,0.813,1213.5,Tonnes,1260.4,Tonnes,NA
+303,Elephant Fish,2007,0.774,1213.5,Tonnes,1250.8,Tonnes,NA
+304,Elephant Fish,2008,0.682,1213.5,Tonnes,1435.9,Tonnes,0.58125
+305,Elephant Fish,2009,0.744,1213.5,Tonnes,1384.2,Tonnes,2.325
+306,Elephant Fish,2010,0.778,1283.5,Tonnes,1372,Tonnes,2.20875
+307,Elephant Fish,2011,0.871,1283.5,Tonnes,1383.6,Tonnes,1.94125
+308,Elephant Fish,2012,0.807,1283.5,Tonnes,1376.9,Tonnes,2.180833333
+309,Elephant Fish,2013,0.772,1313.5,Tonnes,1435.4,Tonnes,2.154583333
+310,Elephant Fish,2014,0.817,1313.5,Tonnes,1394.4,Tonnes,2.144583333
+311,Elephant Fish,2015,0.688,1313.5,Tonnes,1339.6,Tonnes,2.2475
+312,Elephant Fish,2016,0.596,1313.5,Tonnes,1400.1,Tonnes,2.259583333
+313,Elephant Fish,2017,0.72,1313.5,Tonnes,1327.6,Tonnes,2.255416667
+314,Elephant Fish,2018,0.642,NA,Tonnes,1345.9,Tonnes,2.352058006
+315,Elephant Fish,2018,0.642,1313.5,Tonnes,NA,Tonnes,2.352058006
+316,Elephant Fish,2019,0.811,1463.5,Tonnes,1353.6,Tonnes,2.287137143
+317,Elephant Fish,2020,0.675,NA,NA,NA,NA,2.265682897
+318,Elephant Fish,2021,0.609,NA,NA,NA,NA,2.010921385
+319,Elephant Fish,2022,0.48,NA,NA,NA,NA,1.563872476
+320,Flatfish,2001,0.126,NA,NA,NA,NA,NA
+321,Flatfish,2002,0.53,NA,NA,NA,NA,NA
+322,Flatfish,2003,0.603,NA,NA,NA,NA,NA
+323,Flatfish,2004,0.591,NA,NA,NA,NA,NA
+324,Flatfish,2005,0.606,NA,NA,NA,NA,NA
+325,Flatfish,2006,0.62,NA,NA,NA,NA,NA
+326,Flatfish,2007,0.643,NA,NA,NA,NA,NA
+327,Flatfish,2008,0.689,NA,NA,NA,NA,0.8295
+328,Flatfish,2009,0.672,NA,NA,NA,NA,3.318
+329,Flatfish,2010,0.556,NA,NA,NA,NA,3.265
+330,Flatfish,2011,0.633,NA,NA,NA,NA,3.0675
+331,Flatfish,2012,0.791,NA,NA,NA,NA,2.947
+332,Flatfish,2013,0.626,NA,NA,NA,NA,3.282
+333,Flatfish,2014,0.587,NA,NA,NA,NA,4.34
+334,Flatfish,2015,0.587,NA,NA,NA,NA,4.6665
+335,Flatfish,2016,0.59,NA,NA,NA,NA,5.2665
+336,Flatfish,2017,0.693,NA,NA,NA,NA,4.3435
+337,Flatfish,2018,0.66,NA,NA,NA,NA,4.467616266
+338,Flatfish,2019,0.678,NA,NA,NA,NA,4.780907988
+339,Flatfish,2020,0.791,NA,NA,NA,NA,4.730763011
+340,Flatfish,2021,0.896,NA,NA,NA,NA,5.153306438
+341,Flatfish,2022,0.946,NA,NA,NA,NA,3.867150375
+342,Frostfish,2001,0.013,3858,Tonnes,NA,Tonnes,NA
+343,Frostfish,2002,0.054,3858,Tonnes,2914.1,Tonnes,NA
+344,Frostfish,2003,0.06,3858,Tonnes,2251.7,Tonnes,NA
+345,Frostfish,2004,0.06,3858,Tonnes,1809,Tonnes,NA
+346,Frostfish,2005,0.059,3858,Tonnes,2661.1,Tonnes,NA
+347,Frostfish,2006,0.061,3858,Tonnes,2121.9,Tonnes,NA
+348,Frostfish,2007,0.067,4019,Tonnes,1971,Tonnes,NA
+349,Frostfish,2008,0.069,4019,Tonnes,1838.4,Tonnes,0.083
+350,Frostfish,2009,0.066,4019,Tonnes,1370,Tonnes,0.332
+351,Frostfish,2010,0.065,4019,Tonnes,1387.1,Tonnes,0.37975
+352,Frostfish,2011,0.066,4019,Tonnes,1105.7,Tonnes,0.614
+353,Frostfish,2012,0.072,4019,Tonnes,1665.4,Tonnes,0.885
+354,Frostfish,2013,0.073,4019,Tonnes,1814.3,Tonnes,0.934
+355,Frostfish,2014,0.078,4019,Tonnes,2119.7,Tonnes,1.099
+356,Frostfish,2015,0.066,4019,Tonnes,2322.3,Tonnes,1.00675
+357,Frostfish,2016,0.064,4019,Tonnes,2212,Tonnes,0.72
+358,Frostfish,2017,0.071,4019,Tonnes,1985.4,Tonnes,0.68975
+359,Frostfish,2018,0.061,4019,Tonnes,2693.3,Tonnes,0.686423397
+360,Frostfish,2019,0.072,4019,Tonnes,2869.1,Tonnes,0.660865628
+361,Frostfish,2020,0.072,NA,NA,NA,NA,0.608954699
+362,Frostfish,2021,0.066,NA,NA,NA,NA,0.611461293
+363,Frostfish,2022,0.046,NA,NA,NA,NA,0.453618357
+364,Garfish,2002,0.252,NA,NA,NA,NA,NA
+365,Garfish,2003,1.084,50,Tonnes,6.1,Tonnes,NA
+366,Garfish,2004,1.292,50,Tonnes,11.5,Tonnes,NA
+367,Garfish,2005,1.18,50,Tonnes,13.8,Tonnes,NA
+368,Garfish,2006,1.004,50,Tonnes,8.7,Tonnes,NA
+369,Garfish,2007,0.969,50,Tonnes,10.3,Tonnes,NA
+370,Garfish,2008,0.891,50,Tonnes,8,Tonnes,1.5425
+371,Garfish,2009,0.615,50,Tonnes,11.2,Tonnes,6.17
+372,Garfish,2010,0.556,50,Tonnes,12.1,Tonnes,6.6925
+373,Garfish,2011,0.643,50,Tonnes,12.5,Tonnes,8.1325
+374,Garfish,2012,0.594,50,Tonnes,8.5,Tonnes,7.735
+375,Garfish,2013,0.538,50,Tonnes,11.5,Tonnes,7.69
+376,Garfish,2014,0.535,50,Tonnes,15.4,Tonnes,7.69
+377,Garfish,2015,0.576,50,Tonnes,16.4,Tonnes,7.69
+378,Garfish,2016,0.585,50,Tonnes,24.7,Tonnes,7.69
+379,Garfish,2017,0.738,50,Tonnes,26,Tonnes,7.69
+380,Garfish,2018,0.641,50,Tonnes,20.2,Tonnes,7.69
+381,Garfish,2019,0.988,50,Tonnes,16.4,Tonnes,7.747545178
+382,Garfish,2020,1.005,NA,NA,NA,NA,7.968154977
+383,Garfish,2021,0.905,NA,NA,NA,NA,8.112077777
+384,Garfish,2022,0.747,NA,NA,NA,NA,6.084058333
+385,Gemfish,2001,0.19,1590,Tonnes,NA,Tonnes,NA
+386,Gemfish,2002,0.758,1060.4,Tonnes,664,Tonnes,NA
+387,Gemfish,2003,0.778,1060.4,Tonnes,901.9,Tonnes,NA
+388,Gemfish,2004,0.864,1060.4,Tonnes,1141.8,Tonnes,NA
+389,Gemfish,2005,0.848,1060.4,Tonnes,1199.3,Tonnes,NA
+390,Gemfish,2006,0.767,1060.4,Tonnes,687.7,Tonnes,NA
+391,Gemfish,2007,0.735,1060.4,Tonnes,766.9,Tonnes,NA
+392,Gemfish,2008,0.876,1060.4,Tonnes,662.2,Tonnes,0.4935
+393,Gemfish,2009,0.684,1060.4,Tonnes,606.3,Tonnes,1.974
+394,Gemfish,2010,0.663,1060.4,Tonnes,587.2,Tonnes,1.9055
+395,Gemfish,2011,0.711,1060.4,Tonnes,859.8,Tonnes,1.669
+396,Gemfish,2012,0.743,1060.4,Tonnes,637.7,Tonnes,1.5735
+397,Gemfish,2013,0.672,1060.4,Tonnes,579.9,Tonnes,1.6005
+398,Gemfish,2014,0.73,1060.4,Tonnes,763.9,Tonnes,1.682
+399,Gemfish,2015,0.697,1060.4,Tonnes,502.5,Tonnes,1.667
+400,Gemfish,2016,0.653,1060.4,Tonnes,677.4,Tonnes,1.7655
+401,Gemfish,2017,0.697,1060.4,Tonnes,1159.1,Tonnes,1.597
+402,Gemfish,2018,0.741,NA,Tonnes,1612,Tonnes,1.547967441
+403,Gemfish,2018,0.741,1060.4,Tonnes,NA,Tonnes,1.547967441
+404,Gemfish,2019,0.71,1060.4,Tonnes,2191.8,Tonnes,1.498467948
+405,Gemfish,2020,0.622,NA,NA,NA,NA,1.717449906
+406,Gemfish,2021,0.599,NA,NA,NA,NA,1.845736297
+407,Gemfish,2022,0.461,NA,NA,NA,NA,1.259931615
+408,Ghost Shark,2001,0.024,2943,Tonnes,NA,Tonnes,NA
+409,Ghost Shark,2002,0.094,2943,Tonnes,2064,Tonnes,NA
+410,Ghost Shark,2003,0.084,2943,Tonnes,2530.1,Tonnes,NA
+411,Ghost Shark,2004,0.076,2943,Tonnes,1962.6,Tonnes,NA
+412,Ghost Shark,2005,0.077,2943,Tonnes,2117.7,Tonnes,NA
+413,Ghost Shark,2006,0.083,2943,Tonnes,1725.7,Tonnes,NA
+414,Ghost Shark,2007,0.094,3012,Tonnes,2005.8,Tonnes,NA
+415,Ghost Shark,2008,0.088,3012,Tonnes,1911.2,Tonnes,NA
+416,Ghost Shark,2009,0.09,3012,Tonnes,1967.5,Tonnes,NA
+417,Ghost Shark,2010,0.095,3012,Tonnes,2028.1,Tonnes,NA
+418,Ghost Shark,2011,0.095,3012,Tonnes,2342,Tonnes,NA
+419,Ghost Shark,2012,0.101,3012,Tonnes,2240.7,Tonnes,NA
+420,Ghost Shark,2013,0.107,3047,Tonnes,1683.5,Tonnes,NA
+421,Ghost Shark,2014,0.101,3047,Tonnes,1817.3,Tonnes,NA
+422,Ghost Shark,2015,0.101,3047,Tonnes,1282.4,Tonnes,NA
+423,Ghost Shark,2016,0.102,3047,Tonnes,1369.4,Tonnes,NA
+424,Ghost Shark,2017,0.103,3047,Tonnes,1382.4,Tonnes,NA
+425,Ghost Shark,2018,0.102,NA,Tonnes,1362.6,Tonnes,NA
+426,Ghost Shark,2018,0.102,3047,Tonnes,NA,Tonnes,NA
+427,Ghost Shark,2019,0.101,3047,Tonnes,1402.1,Tonnes,NA
+428,Ghost Shark,2020,0.099,NA,NA,NA,NA,NA
+429,Ghost Shark,2021,0.111,NA,NA,NA,NA,NA
+430,Ghost Shark,2022,0.086,NA,NA,NA,NA,NA
+431,Giant Spider Crab,2004,0.408,NA,NA,NA,NA,NA
+432,Giant Spider Crab,2005,0.779,419,Tonnes,33.9,Tonnes,NA
+433,Giant Spider Crab,2006,0.214,419,Tonnes,72.1,Tonnes,NA
+434,Giant Spider Crab,2009,2.176,419,Tonnes,36.2,Tonnes,NA
+435,Giant Spider Crab,2010,1.556,419,Tonnes,84.1,Tonnes,NA
+436,Giant Spider Crab,2011,0.697,419,Tonnes,43.1,Tonnes,NA
+437,Giant Spider Crab,2012,0.669,419,Tonnes,98.6,Tonnes,NA
+438,Giant Spider Crab,2013,0.673,419,Tonnes,139.6,Tonnes,NA
+439,Giant Spider Crab,2014,0.637,419,Tonnes,146.2,Tonnes,NA
+440,Giant Spider Crab,2015,0.157,419,Tonnes,223.6,Tonnes,NA
+441,Giant Spider Crab,2016,0.054,419,Tonnes,80.3,Tonnes,NA
+442,Giant Spider Crab,2017,0.079,419,Tonnes,186.5,Tonnes,NA
+443,Giant Spider Crab,2018,0.075,419,Tonnes,243,Tonnes,NA
+444,Giant Spider Crab,2019,0.085,419,Tonnes,154.4,Tonnes,NA
+445,Giant Spider Crab,2020,0.085,NA,NA,NA,NA,NA
+446,Giant Spider Crab,2021,0.093,NA,NA,NA,NA,NA
+447,Giant Spider Crab,2022,0.024,NA,NA,NA,NA,NA
+448,Green-lipped mussel,2004,0.029,NA,NA,NA,NA,NA
+449,Green-lipped mussel,2005,0.353,NA,NA,NA,NA,NA
+450,Green-lipped mussel,2006,1.047,NA,NA,NA,NA,NA
+451,Green-lipped mussel,2007,0.907,NA,NA,NA,NA,NA
+452,Green-lipped mussel,2008,0.581,NA,NA,NA,NA,NA
+453,Green-lipped mussel,2009,0.165,NA,NA,NA,NA,NA
+454,Green-lipped mussel,2010,0.335,NA,NA,NA,NA,NA
+455,Green-lipped mussel,2011,1.419,NA,NA,NA,NA,NA
+456,Green-lipped mussel,2012,1.715,NA,NA,NA,NA,NA
+457,Green-lipped mussel,2013,2.401,NA,NA,NA,NA,NA
+458,Green-lipped mussel,2014,4.085,NA,NA,NA,NA,NA
+459,Green-lipped mussel,2015,5.174,NA,NA,NA,NA,NA
+460,Green-lipped mussel,2016,6.56,NA,NA,NA,NA,NA
+461,Green-lipped mussel,2017,6.621,NA,NA,NA,NA,NA
+462,Green-lipped mussel,2018,8.254,NA,NA,NA,NA,NA
+463,Green-lipped mussel,2019,7.876,NA,NA,NA,NA,NA
+464,Green-lipped mussel,2020,8.315,NA,NA,NA,NA,NA
+465,Green-lipped mussel,2021,5.036,NA,NA,NA,NA,NA
+466,Grey Mullet,2001,0.101,1005.1,Tonnes,NA,Tonnes,NA
+467,Grey Mullet,2002,0.415,1005.6,Tonnes,784.7,Tonnes,NA
+468,Grey Mullet,2003,0.452,1005.6,Tonnes,798.6,Tonnes,NA
+469,Grey Mullet,2004,0.464,1005.6,Tonnes,885.8,Tonnes,NA
+470,Grey Mullet,2005,0.475,1005.6,Tonnes,941,Tonnes,NA
+471,Grey Mullet,2006,0.509,1005.6,Tonnes,878.8,Tonnes,NA
+472,Grey Mullet,2007,0.588,1005.6,Tonnes,848.4,Tonnes,NA
+473,Grey Mullet,2008,0.594,1005.6,Tonnes,848.4,Tonnes,0.7725
+474,Grey Mullet,2009,0.571,1005.6,Tonnes,814.2,Tonnes,3.09
+475,Grey Mullet,2010,0.542,1005.6,Tonnes,746.2,Tonnes,3.1725
+476,Grey Mullet,2011,0.505,1005.6,Tonnes,825.6,Tonnes,3.4725
+477,Grey Mullet,2012,0.448,1005.6,Tonnes,848.2,Tonnes,3.6225
+478,Grey Mullet,2013,0.433,1005.6,Tonnes,869.1,Tonnes,3.6
+479,Grey Mullet,2014,0.492,1005.6,Tonnes,982.3,Tonnes,3.6
+480,Grey Mullet,2015,0.677,1005.6,Tonnes,902.4,Tonnes,3.61
+481,Grey Mullet,2016,0.902,1005.6,Tonnes,827.5,Tonnes,3.642
+482,Grey Mullet,2017,0.814,1005.6,Tonnes,835.2,Tonnes,3.648
+483,Grey Mullet,2018,0.703,NA,Tonnes,820.3,Tonnes,3.64799915
+484,Grey Mullet,2018,0.703,1005.6,Tonnes,NA,Tonnes,3.64799915
+485,Grey Mullet,2019,0.619,1005.6,Tonnes,849.9,Tonnes,3.694112784
+486,Grey Mullet,2020,0.61,NA,NA,NA,NA,3.832800565
+487,Grey Mullet,2021,0.579,NA,NA,NA,NA,3.833200139
+488,Grey Mullet,2022,0.389,NA,NA,NA,NA,2.873509342
+489,Gurnard,2001,0.077,5143.1,Tonnes,NA,Tonnes,NA
+490,Gurnard,2002,0.325,5147.3,Tonnes,3433.3,Tonnes,NA
+491,Gurnard,2003,0.409,5047.1,Tonnes,3831,Tonnes,NA
+492,Gurnard,2004,0.495,5047.1,Tonnes,3509,Tonnes,NA
+493,Gurnard,2005,0.456,5047.1,Tonnes,3974.4,Tonnes,NA
+494,Gurnard,2006,0.525,5047.1,Tonnes,3589.1,Tonnes,NA
+495,Gurnard,2007,0.496,5047.1,Tonnes,3822.1,Tonnes,NA
+496,Gurnard,2008,0.481,5047.1,Tonnes,3347.5,Tonnes,0.460416667
+497,Gurnard,2009,0.516,5047.1,Tonnes,3489.4,Tonnes,1.841666667
+498,Gurnard,2010,0.459,5181.2,Tonnes,3789,Tonnes,1.896666667
+499,Gurnard,2011,0.526,5181.2,Tonnes,3290.5,Tonnes,2.132916667
+500,Gurnard,2012,0.729,5181.2,Tonnes,3350.8,Tonnes,2.341666667
+501,Gurnard,2013,0.69,5451.2,Tonnes,3803.6,Tonnes,2.345416667
+502,Gurnard,2014,0.761,5451.2,Tonnes,3769,Tonnes,2.3975
+503,Gurnard,2015,0.84,5451.2,Tonnes,3909.8,Tonnes,2.2875
+504,Gurnard,2016,0.746,5631.2,Tonnes,3953.1,Tonnes,2.055
+505,Gurnard,2017,0.795,5631.2,Tonnes,3853.4,Tonnes,2.2675
+506,Gurnard,2018,0.775,NA,Tonnes,3856.2,Tonnes,2.392931636
+507,Gurnard,2018,0.775,5761.2,Tonnes,NA,Tonnes,2.392931636
+508,Gurnard,2019,0.782,5861.2,Tonnes,4028.1,Tonnes,2.492262855
+509,Gurnard,2020,0.83,NA,NA,NA,NA,2.561956996
+510,Gurnard,2021,0.852,NA,NA,NA,NA,2.668007409
+511,Gurnard,2022,0.643,NA,NA,NA,NA,2.0837938
+512,Hake,2001,0.204,13997,Tonnes,NA,Tonnes,NA
+513,Hake,2002,0.884,14066.5,Tonnes,11813.4,Tonnes,NA
+514,Hake,2003,1.059,14066.5,Tonnes,11580.6,Tonnes,NA
+515,Hake,2004,0.958,14066.5,Tonnes,13686,Tonnes,NA
+516,Hake,2005,0.991,12366.5,Tonnes,13376.7,Tonnes,NA
+517,Hake,2006,1.024,13211.1,Tonnes,9954.5,Tonnes,NA
+518,Hake,2007,1.064,13211.1,Tonnes,10593.3,Tonnes,NA
+519,Hake,2008,0.983,13211.1,Tonnes,5930.3,Tonnes,0.25
+520,Hake,2009,0.797,13211.1,Tonnes,10225.2,Tonnes,1
+521,Hake,2010,0.936,13211.1,Tonnes,4715.1,Tonnes,1.1275
+522,Hake,2011,0.753,13211.1,Tonnes,5837.9,Tonnes,1.446875
+523,Hake,2012,0.705,13211.1,Tonnes,6567.8,Tonnes,1.255
+524,Hake,2013,0.71,13211.1,Tonnes,7689.8,Tonnes,1.241875
+525,Hake,2014,0.63,13211.1,Tonnes,5692.7,Tonnes,1.225
+526,Hake,2015,0.646,13211.1,Tonnes,8248.4,Tonnes,1.2225
+527,Hake,2016,0.42,13211.1,Tonnes,4722.1,Tonnes,1.230625
+528,Hake,2017,0.54,13211.1,Tonnes,6144.7,Tonnes,1.26375
+529,Hake,2018,0.603,NA,Tonnes,4703.6,Tonnes,1.256246891
+530,Hake,2018,0.603,10575.1,Tonnes,NA,Tonnes,1.256246891
+531,Hake,2019,0.484,10575.1,Tonnes,2641.4,Tonnes,1.377142859
+532,Hake,2020,0.72,NA,NA,NA,NA,1.419875341
+533,Hake,2021,0.575,NA,NA,NA,NA,1.346032678
+534,Hapuku & Bass,2001,0.251,2181,Tonnes,NA,Tonnes,NA
+535,Hapuku & Bass,2002,1.031,2181.6,Tonnes,1513.4,Tonnes,NA
+536,Hapuku & Bass,2003,1.128,2181.6,Tonnes,1661.4,Tonnes,NA
+537,Hapuku & Bass,2004,1.195,2181.6,Tonnes,1605.8,Tonnes,NA
+538,Hapuku & Bass,2005,1.197,2181.6,Tonnes,1743.4,Tonnes,NA
+539,Hapuku & Bass,2006,1.205,2181.6,Tonnes,1728.1,Tonnes,NA
+540,Hapuku & Bass,2007,1.179,2181.6,Tonnes,1726.6,Tonnes,NA
+541,Hapuku & Bass,2008,1.206,2181.6,Tonnes,1657.8,Tonnes,NA
+542,Hapuku & Bass,2009,1.148,2181.6,Tonnes,1627.5,Tonnes,NA
+543,Hapuku & Bass,2010,1.116,2181.6,Tonnes,1633.4,Tonnes,NA
+544,Hapuku & Bass,2011,1.164,2181.6,Tonnes,1543.2,Tonnes,NA
+545,Hapuku & Bass,2012,1.162,2181.6,Tonnes,1506.4,Tonnes,NA
+546,Hapuku & Bass,2013,1.219,2181.6,Tonnes,1428.1,Tonnes,NA
+547,Hapuku & Bass,2014,1.24,2181.6,Tonnes,1401,Tonnes,NA
+548,Hapuku & Bass,2015,1.198,2181.6,Tonnes,1254.2,Tonnes,NA
+549,Hapuku & Bass,2016,1.172,2181.6,Tonnes,1236,Tonnes,NA
+550,Hapuku & Bass,2017,1.178,2181.6,Tonnes,1308,Tonnes,NA
+551,Hapuku & Bass,2018,1.109,NA,Tonnes,1250.2,Tonnes,NA
+552,Hapuku & Bass,2018,1.109,2181.6,Tonnes,NA,Tonnes,NA
+553,Hapuku & Bass,2019,1.045,2181.6,Tonnes,1258.9,Tonnes,NA
+554,Hapuku & Bass,2020,1.004,NA,NA,NA,NA,NA
+555,Hapuku & Bass,2021,0.971,NA,NA,NA,NA,NA
+556,Hapuku & Bass,2022,0.679,NA,NA,NA,NA,NA
+557,Hoki,2001,0.138,250010,Tonnes,NA,Tonnes,NA
+558,Hoki,2002,0.557,200010,Tonnes,195492.1,Tonnes,NA
+559,Hoki,2003,0.508,200010,Tonnes,184659.4,Tonnes,NA
+560,Hoki,2004,0.353,180010,Tonnes,135783.7,Tonnes,NA
+561,Hoki,2005,0.468,100010,Tonnes,104364.1,Tonnes,NA
+562,Hoki,2006,0.526,100010,Tonnes,104385.2,Tonnes,NA
+563,Hoki,2007,0.564,100010,Tonnes,101008.5,Tonnes,NA
+564,Hoki,2008,0.705,90010,Tonnes,89317.9,Tonnes,0.15
+565,Hoki,2009,0.767,90010,Tonnes,88804.9,Tonnes,0.6
+566,Hoki,2010,0.79,110010,Tonnes,107208.7,Tonnes,0.655
+567,Hoki,2011,0.689,120010,Tonnes,118804.6,Tonnes,0.8175
+568,Hoki,2012,0.545,130010,Tonnes,130108,Tonnes,0.8075
+569,Hoki,2013,0.506,130010,Tonnes,131567.9,Tonnes,0.8
+570,Hoki,2014,0.448,150010,Tonnes,146343.6,Tonnes,0.8
+571,Hoki,2015,0.359,160010,Tonnes,161528,Tonnes,0.7825
+572,Hoki,2016,0.352,150010,Tonnes,136719.1,Tonnes,0.7275
+573,Hoki,2017,0.316,150010,Tonnes,141566.5,Tonnes,0.72375
+574,Hoki,2018,0.347,NA,Tonnes,135417.7,Tonnes,0.734550483
+575,Hoki,2018,0.347,150010,Tonnes,NA,Tonnes,0.734550483
+576,Hoki,2019,0.337,150010,Tonnes,122387.4,Tonnes,0.729184735
+577,Hoki,2020,0.414,NA,NA,NA,NA,0.718455664
+578,Hoki,2021,0.488,NA,NA,NA,NA,0.724524392
+579,Hoki,2022,0.387,NA,NA,NA,NA,0.548120938
+580,Horse Mussel,2015,0.075,29,Tonnes,0.1,Tonnes,NA
+581,Horse Mussel,2016,0.025,29,Tonnes,0.4,Tonnes,NA
+582,Horse Mussel,2017,0.075,29,Tonnes,0.7,Tonnes,NA
+583,Horse Mussel,2018,0.025,29,Tonnes,0.2,Tonnes,NA
+584,Jack mackerel,2001,0.009,NA,NA,NA,NA,NA
+585,Jack mackerel,2002,0.035,NA,NA,NA,NA,NA
+586,Jack mackerel,2003,0.036,NA,NA,NA,NA,NA
+587,Jack mackerel,2004,0.039,NA,NA,NA,NA,NA
+588,Jack mackerel,2005,0.041,NA,NA,NA,NA,NA
+589,Jack mackerel,2006,0.05,NA,NA,NA,NA,NA
+590,Jack mackerel,2007,0.058,NA,NA,NA,NA,NA
+591,Jack mackerel,2008,0.071,NA,NA,NA,NA,NA
+592,Jack mackerel,2009,0.088,NA,NA,NA,NA,NA
+593,Jack mackerel,2010,0.092,NA,NA,NA,NA,NA
+594,Jack mackerel,2011,0.092,NA,NA,NA,NA,NA
+595,Jack mackerel,2012,0.097,NA,NA,NA,NA,NA
+596,Jack mackerel,2013,0.105,NA,NA,NA,NA,NA
+597,Jack mackerel,2014,0.113,NA,NA,NA,NA,NA
+598,Jack mackerel,2015,0.124,NA,NA,NA,NA,NA
+599,Jack mackerel,2016,0.124,NA,NA,NA,NA,NA
+600,Jack mackerel,2017,0.121,NA,NA,NA,NA,NA
+601,Jack mackerel,2018,0.123,NA,NA,NA,NA,NA
+602,Jack mackerel,2019,0.119,NA,NA,NA,NA,NA
+603,Jack mackerel,2020,0.142,NA,NA,NA,NA,NA
+604,Jack mackerel,2021,0.145,NA,NA,NA,NA,NA
+605,Jack mackerel,2022,0.11,NA,NA,NA,NA,NA
+606,John Dory,2001,0.254,1106.7,Tonnes,NA,Tonnes,NA
+607,John Dory,2002,1.058,1106.7,Tonnes,821.2,Tonnes,NA
+608,John Dory,2003,1.158,1106.7,Tonnes,794.7,Tonnes,NA
+609,John Dory,2004,1.077,1106.7,Tonnes,832.5,Tonnes,NA
+610,John Dory,2005,1.04,1129.4,Tonnes,878.3,Tonnes,NA
+611,John Dory,2006,0.965,1129.4,Tonnes,833.1,Tonnes,NA
+612,John Dory,2007,1.048,1129.4,Tonnes,815.3,Tonnes,NA
+613,John Dory,2008,1.205,1129.4,Tonnes,724.6,Tonnes,1.4725
+614,John Dory,2009,1.201,1129.4,Tonnes,676.8,Tonnes,5.89
+615,John Dory,2010,1.136,1140.4,Tonnes,620.2,Tonnes,5.9665
+616,John Dory,2011,1.158,1140.4,Tonnes,637,Tonnes,6.116
+617,John Dory,2012,1.231,1140.4,Tonnes,609.4,Tonnes,5.8645
+618,John Dory,2013,1.141,1165.4,Tonnes,630.6,Tonnes,5.915
+619,John Dory,2014,1.136,1165.4,Tonnes,642.4,Tonnes,6.153
+620,John Dory,2015,1.162,1165.4,Tonnes,652,Tonnes,6.1145
+621,John Dory,2016,1.232,1165.4,Tonnes,622.1,Tonnes,6.1705
+622,John Dory,2017,1.316,1205.4,Tonnes,677.9,Tonnes,6.1835
+623,John Dory,2018,1.309,1205.4,Tonnes,660.5,Tonnes,6.055597844
+624,John Dory,2019,1.397,874.4,Tonnes,611.1,Tonnes,6.132494012
+625,John Dory,2020,1.571,NA,NA,NA,NA,6.309344299
+626,John Dory,2021,1.353,NA,NA,NA,NA,6.222891654
+627,John Dory,2022,1.062,NA,NA,NA,NA,4.860489257
+628,Kahawai,2004,0.047,NA,NA,NA,NA,NA
+629,Kahawai,2005,0.19,3035,Tonnes,2530,Tonnes,NA
+630,Kahawai,2006,0.197,2728,Tonnes,2012.7,Tonnes,NA
+631,Kahawai,2007,0.198,2728,Tonnes,2507.4,Tonnes,NA
+632,Kahawai,2008,0.226,2728,Tonnes,2288.8,Tonnes,0.075833333
+633,Kahawai,2009,0.255,2728,Tonnes,2304.6,Tonnes,0.303333333
+634,Kahawai,2010,0.266,2728,Tonnes,1994.7,Tonnes,0.373333333
+635,Kahawai,2011,0.264,2728,Tonnes,2223.1,Tonnes,0.602916667
+636,Kahawai,2012,0.254,2728,Tonnes,2325.9,Tonnes,0.659583333
+637,Kahawai,2013,0.27,2728,Tonnes,2258.6,Tonnes,0.65875
+638,Kahawai,2014,0.28,2728,Tonnes,2102.2,Tonnes,0.675
+639,Kahawai,2015,0.29,2728,Tonnes,2181,Tonnes,0.644166667
+640,Kahawai,2016,0.288,2728,Tonnes,2222.7,Tonnes,0.541666667
+641,Kahawai,2017,0.291,2728,Tonnes,1794.4,Tonnes,0.496666667
+642,Kahawai,2018,0.287,NA,Tonnes,2138.6,Tonnes,0.455937752
+643,Kahawai,2018,0.287,2728,Tonnes,NA,Tonnes,0.455937752
+644,Kahawai,2019,0.298,2728,Tonnes,2040.7,Tonnes,0.502096311
+645,Kahawai,2020,0.338,NA,NA,NA,NA,0.709352492
+646,Kahawai,2021,0.353,NA,NA,NA,NA,1.01744374
+647,Kahawai,2022,0.307,NA,NA,NA,NA,0.732551252
+648,Kina,2002,0.151,NA,NA,NA,NA,NA
+649,Kina,2003,0.641,636,Tonnes,363.5,Tonnes,NA
+650,Kina,2004,0.772,937,Tonnes,560.4,Tonnes,NA
+651,Kina,2005,0.754,1147,Tonnes,704.7,Tonnes,NA
+652,Kina,2006,0.528,1147,Tonnes,826.5,Tonnes,NA
+653,Kina,2007,0.562,1147,Tonnes,868,Tonnes,NA
+654,Kina,2008,0.524,1147,Tonnes,765.6,Tonnes,0.313541667
+655,Kina,2009,0.561,1147,Tonnes,747.2,Tonnes,1.254166667
+656,Kina,2010,0.58,1147,Tonnes,711.9,Tonnes,1.38
+657,Kina,2011,0.534,1147,Tonnes,744.4,Tonnes,1.771458333
+658,Kina,2012,0.484,1147,Tonnes,862.6,Tonnes,1.810416667
+659,Kina,2013,0.545,1147,Tonnes,875,Tonnes,1.801666667
+660,Kina,2014,0.528,1147,Tonnes,896.3,Tonnes,1.77625
+661,Kina,2015,0.614,1147,Tonnes,888.6,Tonnes,1.709166667
+662,Kina,2016,0.74,1147,Tonnes,905.4,Tonnes,1.717083333
+663,Kina,2017,0.738,1147,Tonnes,1042.4,Tonnes,1.658333333
+664,Kina,2018,0.767,NA,Tonnes,946.9,Tonnes,1.705888978
+665,Kina,2018,0.767,1147,Tonnes,NA,Tonnes,1.705888978
+666,Kina,2019,0.76,1147,Tonnes,891.5,Tonnes,1.848555912
+667,Kina,2020,0.675,NA,NA,NA,NA,1.789367381
+668,Kina,2021,0.63,NA,NA,NA,NA,2.075751307
+669,Kina,2022,0.473,NA,NA,NA,NA,2.600699902
+670,King Crab,2003,0.528,NA,NA,NA,NA,NA
+671,King Crab,2004,2.298,NA,NA,NA,NA,NA
+672,King Crab,2005,2.878,90,Tonnes,0.8,Tonnes,NA
+673,King Crab,2006,2.873,90,Tonnes,1,Tonnes,NA
+674,King Crab,2007,2.657,90,Tonnes,1.6,Tonnes,NA
+675,King Crab,2008,2.693,90,Tonnes,2.8,Tonnes,NA
+676,King Crab,2009,2.8,90,Tonnes,2.6,Tonnes,NA
+677,King Crab,2010,3.161,90,Tonnes,2.5,Tonnes,NA
+678,King Crab,2011,3.092,90,Tonnes,3.7,Tonnes,NA
+679,King Crab,2012,2.7,90,Tonnes,3,Tonnes,NA
+680,King Crab,2013,3.51,90,Tonnes,4.2,Tonnes,NA
+681,King Crab,2014,4.422,90,Tonnes,11.6,Tonnes,NA
+682,King Crab,2015,4.788,90,Tonnes,8.8,Tonnes,NA
+683,King Crab,2016,4.403,90,Tonnes,2.5,Tonnes,NA
+684,King Crab,2017,5.089,90,Tonnes,0.6,Tonnes,NA
+685,King Crab,2018,4.822,90,Tonnes,1.1,Tonnes,NA
+686,King Crab,2019,4.414,90,Tonnes,1.7,Tonnes,NA
+687,King Crab,2020,4.411,NA,NA,NA,NA,NA
+688,King Crab,2021,4.124,NA,NA,NA,NA,NA
+689,King Crab,2022,2.501,NA,NA,NA,NA,NA
+690,Large trough shell,2004,0.491,NA,NA,NA,NA,NA
+691,Large trough shell,2005,0.851,NA,NA,NA,NA,NA
+692,Large trough shell,2006,0.942,NA,NA,NA,NA,NA
+693,Large trough shell,2007,0.238,NA,NA,NA,NA,NA
+694,Large trough shell,2017,0.75,NA,NA,NA,NA,NA
+695,Large trough shell,2018,0.25,NA,NA,NA,NA,NA
+696,Leatherjacket,2003,0.024,NA,NA,NA,NA,NA
+697,Leatherjacket,2004,0.091,1431,Tonnes,613.2,Tonnes,NA
+698,Leatherjacket,2005,0.075,1431,Tonnes,500.2,Tonnes,NA
+699,Leatherjacket,2006,0.078,1431,Tonnes,405.1,Tonnes,NA
+700,Leatherjacket,2007,0.075,1431,Tonnes,455.2,Tonnes,NA
+701,Leatherjacket,2008,0.081,1431,Tonnes,468.3,Tonnes,NA
+702,Leatherjacket,2009,0.071,1431,Tonnes,581.5,Tonnes,NA
+703,Leatherjacket,2010,0.076,1431,Tonnes,754,Tonnes,NA
+704,Leatherjacket,2011,0.088,1431,Tonnes,573.4,Tonnes,NA
+705,Leatherjacket,2012,0.088,1431,Tonnes,570.8,Tonnes,NA
+706,Leatherjacket,2013,0.094,1431,Tonnes,441,Tonnes,NA
+707,Leatherjacket,2014,0.149,1461,Tonnes,384.2,Tonnes,NA
+708,Leatherjacket,2015,0.213,1461,Tonnes,374.4,Tonnes,NA
+709,Leatherjacket,2016,0.208,1461,Tonnes,362.5,Tonnes,NA
+710,Leatherjacket,2017,0.113,1461,Tonnes,341.8,Tonnes,NA
+711,Leatherjacket,2018,0.122,1461,Tonnes,293.6,Tonnes,NA
+712,Leatherjacket,2019,0.139,1461,Tonnes,320.4,Tonnes,NA
+713,Leatherjacket,2020,0.145,NA,NA,NA,NA,NA
+714,Leatherjacket,2021,0.148,NA,NA,NA,NA,NA
+715,Leatherjacket,2022,0.125,NA,NA,NA,NA,NA
+716,Ling,2001,0.243,19843.2,Tonnes,NA,Tonnes,NA
+717,Ling,2002,1.004,19843.2,Tonnes,19563,Tonnes,NA
+718,Ling,2003,1.065,19978.5,Tonnes,18907.7,Tonnes,NA
+719,Ling,2004,0.952,19978.5,Tonnes,18757.7,Tonnes,NA
+720,Ling,2005,0.939,21977.1,Tonnes,17186.1,Tonnes,NA
+721,Ling,2006,0.916,21977.1,Tonnes,14177.8,Tonnes,NA
+722,Ling,2007,0.934,21977.1,Tonnes,16099.3,Tonnes,NA
+723,Ling,2008,0.95,21977.1,Tonnes,16262.7,Tonnes,0.7415625
+724,Ling,2009,1.018,21977.1,Tonnes,13111.1,Tonnes,2.96625
+725,Ling,2010,1.033,22226,Tonnes,12579.9,Tonnes,2.88375
+726,Ling,2011,1.102,22226,Tonnes,12336.7,Tonnes,2.6296875
+727,Ling,2012,1.139,22226,Tonnes,12954.6,Tonnes,2.605
+728,Ling,2013,1.216,22226,Tonnes,14317.2,Tonnes,2.604375
+729,Ling,2014,1.351,23192,Tonnes,15224.6,Tonnes,2.6959375
+730,Ling,2015,1.52,23192,Tonnes,15001.9,Tonnes,2.786875
+731,Ling,2016,1.454,23192,Tonnes,14665.6,Tonnes,2.6778125
+732,Ling,2017,1.397,23192,Tonnes,16600.6,Tonnes,2.79875
+733,Ling,2018,1.273,NA,Tonnes,18693.9,Tonnes,2.707720965
+734,Ling,2018,1.273,23192,Tonnes,NA,Tonnes,2.707720965
+735,Ling,2019,1.464,23972,Tonnes,16736.8,Tonnes,2.762298418
+736,Ling,2020,1.173,NA,NA,NA,NA,2.689580741
+737,Ling,2021,1.217,NA,NA,NA,NA,2.876332713
+738,Ling,2022,0.998,NA,NA,NA,NA,2.185680629
+739,Long-finned eel,2006,1.445,NA,NA,NA,NA,NA
+740,Long-finned eel,2007,4.335,NA,NA,NA,NA,NA
+741,Long-finned eel,2012,0.519,NA,NA,NA,NA,NA
+742,Long-finned eel,2013,2.19,NA,NA,NA,NA,NA
+743,Long-finned eel,2014,2.519,NA,NA,NA,NA,NA
+744,Long-finned eel,2015,2.497,NA,NA,NA,NA,NA
+745,Long-finned eel,2016,2.501,NA,NA,NA,NA,NA
+746,Long-finned eel,2017,2.48,NA,NA,NA,NA,NA
+747,Long-finned eel,2018,2.339,NA,NA,NA,NA,NA
+748,Long-finned eel,2019,1.5,NA,NA,NA,NA,NA
+749,Lookdown Dory,2004,0.051,NA,NA,NA,NA,NA
+750,Lookdown Dory,2005,0.189,783,Tonnes,382.3,Tonnes,NA
+751,Lookdown Dory,2006,0.146,783,Tonnes,470.6,Tonnes,NA
+752,Lookdown Dory,2007,0.136,783,Tonnes,430.9,Tonnes,NA
+753,Lookdown Dory,2008,0.117,783,Tonnes,430.3,Tonnes,NA
+754,Lookdown Dory,2009,0.109,783,Tonnes,459.6,Tonnes,NA
+755,Lookdown Dory,2010,0.116,783,Tonnes,434.4,Tonnes,NA
+756,Lookdown Dory,2011,0.123,783,Tonnes,380.4,Tonnes,NA
+757,Lookdown Dory,2012,0.147,783,Tonnes,381.9,Tonnes,NA
+758,Lookdown Dory,2013,0.153,783,Tonnes,493.5,Tonnes,NA
+759,Lookdown Dory,2014,0.159,783,Tonnes,460.3,Tonnes,NA
+760,Lookdown Dory,2015,0.138,783,Tonnes,563.9,Tonnes,NA
+761,Lookdown Dory,2016,0.12,783,Tonnes,507.2,Tonnes,NA
+762,Lookdown Dory,2017,0.111,783,Tonnes,499.5,Tonnes,NA
+763,Lookdown Dory,2018,0.125,NA,Tonnes,564.4,Tonnes,NA
+764,Lookdown Dory,2018,0.125,783,Tonnes,NA,Tonnes,NA
+765,Lookdown Dory,2019,0.136,783,Tonnes,420.4,Tonnes,NA
+766,Lookdown Dory,2020,0.135,NA,NA,NA,NA,NA
+767,Lookdown Dory,2021,0.129,NA,NA,NA,NA,NA
+768,Lookdown Dory,2022,0.096,NA,NA,NA,NA,NA
+769,Mako Shark,2004,0.018,NA,NA,NA,NA,NA
+770,Mako Shark,2005,0.068,406,Tonnes,109.7,Tonnes,NA
+771,Mako Shark,2006,0.058,406,Tonnes,82.1,Tonnes,NA
+772,Mako Shark,2007,0.062,406,Tonnes,74.6,Tonnes,NA
+773,Mako Shark,2008,0.058,406,Tonnes,73.7,Tonnes,0.1125
+774,Mako Shark,2009,0.058,406,Tonnes,77.8,Tonnes,0.45
+775,Mako Shark,2010,0.049,406,Tonnes,67.1,Tonnes,0.46
+776,Mako Shark,2011,0.053,406,Tonnes,91,Tonnes,0.4525
+777,Mako Shark,2012,0.056,406,Tonnes,101.8,Tonnes,0.34
+778,Mako Shark,2013,0.064,200,Tonnes,80.5,Tonnes,0.33
+779,Mako Shark,2014,0.067,200,Tonnes,44.1,Tonnes,0.315
+780,Mako Shark,2015,0.066,200,Tonnes,49.6,Tonnes,0.36
+781,Mako Shark,2016,0.068,200,Tonnes,70.8,Tonnes,0.365
+782,Mako Shark,2017,0.067,200,Tonnes,37.7,Tonnes,0.3575
+783,Mako Shark,2018,0.068,NA,Tonnes,33.1,Tonnes,0.290499504
+784,Mako Shark,2018,0.068,200,Tonnes,NA,Tonnes,0.290499504
+785,Mako Shark,2019,0.062,200,Tonnes,26.2,Tonnes,0.291998015
+786,Mako Shark,2020,0.056,NA,NA,NA,NA,0.291998015
+787,Mako Shark,2021,0.058,NA,NA,NA,NA,0.291998015
+788,Mako Shark,2022,0.046,NA,NA,NA,NA,0.218998511
+789,Moonfish,2004,0.066,NA,NA,NA,NA,NA
+790,Moonfish,2005,0.262,527,Tonnes,111.7,Tonnes,NA
+791,Moonfish,2006,0.239,527,Tonnes,79.5,Tonnes,NA
+792,Moonfish,2007,0.208,527,Tonnes,82.4,Tonnes,NA
+793,Moonfish,2008,0.284,527,Tonnes,42.6,Tonnes,0.4575
+794,Moonfish,2009,0.215,527,Tonnes,79.1,Tonnes,1.83
+795,Moonfish,2010,0.111,527,Tonnes,100.3,Tonnes,2.1875
+796,Moonfish,2011,0.189,527,Tonnes,118.5,Tonnes,2.9225
+797,Moonfish,2012,0.325,527,Tonnes,82.3,Tonnes,1.905
+798,Moonfish,2013,0.173,527,Tonnes,83.7,Tonnes,1.89
+799,Moonfish,2014,0.295,527,Tonnes,56.4,Tonnes,1.89
+800,Moonfish,2015,0.108,527,Tonnes,32.3,Tonnes,1.89
+801,Moonfish,2016,0.123,527,Tonnes,61.1,Tonnes,1.8825
+802,Moonfish,2017,0.2,527,Tonnes,56.6,Tonnes,1.9025
+803,Moonfish,2018,0.349,527,Tonnes,67.2,Tonnes,2.031238701
+804,Moonfish,2019,0.384,527,Tonnes,45.4,Tonnes,2.034954803
+805,Moonfish,2020,0.17,NA,NA,NA,NA,2.034954803
+806,Moonfish,2021,0.232,NA,NA,NA,NA,2.034954803
+807,Orange Roughy,2001,0.57,15641,Tonnes,NA,Tonnes,NA
+808,Orange Roughy,2002,2.196,15921,Tonnes,14379.5,Tonnes,NA
+809,Orange Roughy,2003,1.964,15221,Tonnes,14670.4,Tonnes,NA
+810,Orange Roughy,2004,2.001,15221,Tonnes,13414.1,Tonnes,NA
+811,Orange Roughy,2005,1.845,15921,Tonnes,15368,Tonnes,NA
+812,Orange Roughy,2006,1.683,15921,Tonnes,15502.2,Tonnes,NA
+813,Orange Roughy,2007,1.846,14721,Tonnes,14167.1,Tonnes,NA
+814,Orange Roughy,2008,2.072,13612,Tonnes,13110.4,Tonnes,0.7475
+815,Orange Roughy,2009,1.944,12532,Tonnes,11365.9,Tonnes,2.99
+816,Orange Roughy,2010,1.687,11062,Tonnes,9206.5,Tonnes,2.8390625
+817,Orange Roughy,2011,1.795,8221,Tonnes,6423.5,Tonnes,2.485625
+818,Orange Roughy,2012,1.837,6941,Tonnes,5837.9,Tonnes,2.703125
+819,Orange Roughy,2013,1.681,6941,Tonnes,5323.8,Tonnes,2.3896875
+820,Orange Roughy,2014,1.748,7841,Tonnes,7215.3,Tonnes,2.165
+821,Orange Roughy,2015,2.011,8736,Tonnes,8216.4,Tonnes,2.190625
+822,Orange Roughy,2016,2.114,8736,Tonnes,7811.1,Tonnes,2.425
+823,Orange Roughy,2017,1.836,8736,Tonnes,7619.2,Tonnes,2.6096875
+824,Orange Roughy,2018,1.702,8933,Tonnes,8073.4,Tonnes,2.66394377
+825,Orange Roughy,2019,2.143,9827,Tonnes,8018.8,Tonnes,2.803356127
+826,Orange Roughy,2020,2.156,NA,NA,NA,NA,2.256554094
+827,Orange Roughy,2021,2.036,NA,NA,NA,NA,2.313309496
+828,Orange Roughy,2022,1.476,NA,NA,NA,NA,1.834299204
+829,Oreo,2001,0.088,NA,NA,NA,NA,NA
+830,Oreo,2002,0.363,NA,NA,NA,NA,NA
+831,Oreo,2003,0.38,NA,NA,NA,NA,NA
+832,Oreo,2004,0.338,NA,NA,NA,NA,NA
+833,Oreo,2005,0.326,NA,NA,NA,NA,NA
+834,Oreo,2006,0.335,NA,NA,NA,NA,NA
+835,Oreo,2007,0.363,NA,NA,NA,NA,NA
+836,Oreo,2008,0.386,NA,NA,NA,NA,0.2
+837,Oreo,2009,0.345,NA,NA,NA,NA,0.8
+838,Oreo,2010,0.329,NA,NA,NA,NA,0.805
+839,Oreo,2011,0.326,NA,NA,NA,NA,0.84
+840,Oreo,2012,0.338,NA,NA,NA,NA,0.8975
+841,Oreo,2013,0.389,NA,NA,NA,NA,0.89
+842,Oreo,2014,0.454,NA,NA,NA,NA,0.89
+843,Oreo,2015,0.346,NA,NA,NA,NA,0.885
+844,Oreo,2016,0.352,NA,NA,NA,NA,0.8225
+845,Oreo,2017,0.331,NA,NA,NA,NA,0.68
+846,Oreo,2018,0.345,NA,NA,NA,NA,0.657402574
+847,Oreo,2019,0.378,NA,NA,NA,NA,0.620539338
+848,Oreo,2020,0.372,NA,NA,NA,NA,0.713326463
+849,Oreo,2021,0.338,NA,NA,NA,NA,0.777660139
+850,Oreo,2022,0.347,NA,NA,NA,NA,0.727995877
+851,Pacific Bluefin Tuna,2004,2.168,NA,NA,NA,NA,NA
+852,Pacific Bluefin Tuna,2005,6.503,116,Tonnes,22,Tonnes,NA
+853,Pacific Bluefin Tuna,2007,2.068,116,Tonnes,14.3,Tonnes,NA
+854,Pacific Bluefin Tuna,2008,6.205,116,Tonnes,13.1,Tonnes,6.5175
+855,Packhorse Rock Lobster,2002,4.85,NA,NA,NA,NA,NA
+856,Packhorse Rock Lobster,2003,7.623,NA,NA,NA,NA,NA
+857,Packhorse Rock Lobster,2004,7.18,NA,NA,NA,NA,NA
+858,Packhorse Rock Lobster,2005,6.813,NA,NA,NA,NA,NA
+859,Packhorse Rock Lobster,2006,6.939,NA,NA,NA,NA,NA
+860,Packhorse Rock Lobster,2007,7.813,NA,NA,NA,NA,NA
+861,Packhorse Rock Lobster,2008,2.022,NA,NA,NA,NA,6.78
+862,Packhorse Rock Lobster,2016,22.386,NA,NA,NA,NA,48
+863,Packhorse Rock Lobster,2017,32.373,NA,NA,NA,NA,48
+864,Packhorse Rock Lobster,2018,27.245,NA,NA,NA,NA,45.85310361
+865,Packhorse Rock Lobster,2019,27.471,NA,NA,NA,NA,43.04465134
+866,Packhorse Rock Lobster,2020,25.42,NA,NA,NA,NA,53.70447623
+867,Packhorse Rock Lobster,2021,25.65,NA,NA,NA,NA,51.62830048
+868,Packhorse Rock Lobster,2022,6.509,NA,NA,NA,NA,35.64880935
+869,Paddle Crab,2002,0.194,NA,NA,NA,NA,NA
+870,Paddle Crab,2003,0.809,765,Tonnes,280.8,Tonnes,NA
+871,Paddle Crab,2004,0.894,765,Tonnes,372.8,Tonnes,NA
+872,Paddle Crab,2005,0.817,765,Tonnes,292.4,Tonnes,NA
+873,Paddle Crab,2006,0.671,765,Tonnes,233.5,Tonnes,NA
+874,Paddle Crab,2007,0.598,765,Tonnes,133.4,Tonnes,NA
+875,Paddle Crab,2008,0.492,765,Tonnes,168.2,Tonnes,1.0925
+876,Paddle Crab,2009,0.414,765,Tonnes,134.7,Tonnes,4.37
+877,Paddle Crab,2010,0.494,765,Tonnes,120.1,Tonnes,4.69175
+878,Paddle Crab,2011,0.584,765,Tonnes,140.2,Tonnes,5.4555
+879,Paddle Crab,2012,0.216,765,Tonnes,121.6,Tonnes,4.84125
+880,Paddle Crab,2013,0.269,765,Tonnes,103,Tonnes,4.9045
+881,Paddle Crab,2014,0.362,765,Tonnes,101.1,Tonnes,5.182
+882,Paddle Crab,2015,0.383,765,Tonnes,110,Tonnes,5.182
+883,Paddle Crab,2016,0.6,765,Tonnes,127.2,Tonnes,5.182
+884,Paddle Crab,2017,0.376,765,Tonnes,68.6,Tonnes,5.182
+885,Paddle Crab,2018,0.786,765,Tonnes,26.8,Tonnes,5.182
+886,Paddle Crab,2019,0.739,765,Tonnes,23,Tonnes,5.182
+887,Paddle Crab,2020,0.269,NA,NA,NA,NA,5.182
+888,Paddle Crab,2021,0.322,NA,NA,NA,NA,5.28825
+889,Paddle Crab,2022,0.191,NA,NA,NA,NA,4.20525
+890,Pale Ghost Shark,2001,0.018,803,Tonnes,NA,Tonnes,NA
+891,Pale Ghost Shark,2002,0.071,803,Tonnes,1648.7,Tonnes,NA
+892,Pale Ghost Shark,2003,0.065,803,Tonnes,1895.3,Tonnes,NA
+893,Pale Ghost Shark,2004,0.054,803,Tonnes,1553.9,Tonnes,NA
+894,Pale Ghost Shark,2005,0.047,1780,Tonnes,888.2,Tonnes,NA
+895,Pale Ghost Shark,2006,0.041,1780,Tonnes,707.8,Tonnes,NA
+896,Pale Ghost Shark,2007,0.039,1780,Tonnes,793.9,Tonnes,NA
+897,Pale Ghost Shark,2008,0.036,1780,Tonnes,818.4,Tonnes,NA
+898,Pale Ghost Shark,2009,0.04,1780,Tonnes,794.8,Tonnes,NA
+899,Pale Ghost Shark,2010,0.055,1780,Tonnes,750.9,Tonnes,NA
+900,Pale Ghost Shark,2011,0.073,1780,Tonnes,611,Tonnes,NA
+901,Pale Ghost Shark,2012,0.08,1780,Tonnes,659,Tonnes,NA
+902,Pale Ghost Shark,2013,0.068,1780,Tonnes,697.3,Tonnes,NA
+903,Pale Ghost Shark,2014,0.052,1780,Tonnes,726.8,Tonnes,NA
+904,Pale Ghost Shark,2015,0.047,1780,Tonnes,758.1,Tonnes,NA
+905,Pale Ghost Shark,2016,0.049,1780,Tonnes,690.6,Tonnes,NA
+906,Pale Ghost Shark,2017,0.061,1780,Tonnes,925.8,Tonnes,NA
+907,Pale Ghost Shark,2018,0.045,NA,Tonnes,1029,Tonnes,NA
+908,Pale Ghost Shark,2018,0.045,1780,Tonnes,NA,Tonnes,NA
+909,Pale Ghost Shark,2019,0.051,1780,Tonnes,840,Tonnes,NA
+910,Pale Ghost Shark,2020,0.055,NA,NA,NA,NA,NA
+911,Pale Ghost Shark,2021,0.043,NA,NA,NA,NA,NA
+912,Pale Ghost Shark,2022,0.035,NA,NA,NA,NA,NA
+913,Parore,2004,0.039,NA,NA,NA,NA,NA
+914,Parore,2005,0.171,84,Tonnes,56.2,Tonnes,NA
+915,Parore,2006,0.226,84,Tonnes,62.7,Tonnes,NA
+916,Parore,2007,0.249,84,Tonnes,61.7,Tonnes,NA
+917,Parore,2008,0.252,84,Tonnes,68.6,Tonnes,0.4525
+918,Parore,2009,0.271,84,Tonnes,78.3,Tonnes,1.81
+919,Parore,2010,0.3,84,Tonnes,92.2,Tonnes,1.87
+920,Parore,2011,0.307,84,Tonnes,82.4,Tonnes,2.04
+921,Parore,2012,0.301,84,Tonnes,78.4,Tonnes,2.005
+922,Parore,2013,0.304,84,Tonnes,82.7,Tonnes,1.99
+923,Parore,2014,0.288,84,Tonnes,71.6,Tonnes,1.99
+924,Parore,2015,0.25,84,Tonnes,68.1,Tonnes,2.050625
+925,Parore,2016,0.231,84,Tonnes,66,Tonnes,2.2325
+926,Parore,2017,0.266,84,Tonnes,68.3,Tonnes,2.2325
+927,Parore,2018,0.28,NA,Tonnes,65.4,Tonnes,2.232592686
+928,Parore,2018,0.28,84,Tonnes,NA,Tonnes,2.232592686
+929,Parore,2019,0.286,84,Tonnes,80.3,Tonnes,2.206256404
+930,Parore,2020,0.282,NA,NA,NA,NA,2.189908454
+931,Parore,2021,0.238,NA,NA,NA,NA,2.392231764
+932,Parore,2022,0.161,NA,NA,NA,NA,1.820809529
+933,Paua,2001,8.205,1221,Tonnes,NA,Tonnes,NA
+934,Paua,2002,33.069,1194.2,Tonnes,1102.9,Tonnes,NA
+935,Paua,2003,32.079,1083.5,Tonnes,1075.3,Tonnes,NA
+936,Paua,2004,27.111,1058.5,Tonnes,1025.1,Tonnes,NA
+937,Paua,2005,28.078,1058.5,Tonnes,1026.8,Tonnes,NA
+938,Paua,2006,29.024,1058.5,Tonnes,1047.4,Tonnes,NA
+939,Paua,2007,28.733,1058.5,Tonnes,995.5,Tonnes,NA
+940,Paua,2008,26.357,1058.5,Tonnes,1010,Tonnes,8.2875
+941,Paua,2009,24.923,1058.5,Tonnes,1008.1,Tonnes,33.15
+942,Paua,2010,19.35,1058.5,Tonnes,1009.5,Tonnes,30.545
+943,Paua,2011,21.903,1058.5,Tonnes,944.4,Tonnes,23.7475
+944,Paua,2012,24.095,1058.5,Tonnes,947,Tonnes,26.74545455
+945,Paua,2013,24.338,1058.5,Tonnes,910.7,Tonnes,26.91545455
+946,Paua,2014,20.746,1058.5,Tonnes,926.2,Tonnes,28.00636364
+947,Paua,2015,19.905,1058.5,Tonnes,904.3,Tonnes,25.33227273
+948,Paua,2016,19.006,1058.5,Tonnes,912.2,Tonnes,18.37
+949,Paua,2017,25.002,964.9,Tonnes,812.2,Tonnes,17.985
+950,Paua,2018,30.613,NA,Tonnes,704.7,Tonnes,6.217252837
+951,Paua,2018,30.613,919.1,Tonnes,NA,Tonnes,6.217252837
+952,Paua,2019,30.662,919.1,Tonnes,675.8,Tonnes,28.40175851
+953,Paua,2020,27.325,NA,NA,NA,NA,39
+954,Paua,2021,18.37,NA,NA,NA,NA,38.97873357
+955,Paua,2022,15.586,NA,NA,NA,NA,29.18620071
+956,Pilchards,2002,0.062,NA,NA,NA,NA,NA
+957,Pilchards,2003,0.227,NA,NA,NA,NA,NA
+958,Pilchards,2004,0.15,NA,NA,NA,NA,NA
+959,Pilchards,2005,0.136,NA,NA,NA,NA,NA
+960,Pilchards,2006,0.156,NA,NA,NA,NA,NA
+961,Pilchards,2007,0.153,NA,NA,NA,NA,NA
+962,Pilchards,2008,0.164,NA,NA,NA,NA,NA
+963,Pilchards,2009,0.205,NA,NA,NA,NA,NA
+964,Pilchards,2010,0.235,NA,NA,NA,NA,NA
+965,Pilchards,2011,0.038,NA,NA,NA,NA,NA
+966,Pilchards,2012,0.253,NA,NA,NA,NA,NA
+967,Pilchards,2013,0.422,NA,NA,NA,NA,NA
+968,Pilchards,2015,0.046,NA,NA,NA,NA,NA
+969,Pilchards,2016,0.183,NA,NA,NA,NA,NA
+970,Pilchards,2017,0.135,NA,NA,NA,NA,NA
+971,Pilchards,2018,0.031,NA,NA,NA,NA,NA
+972,Pilchards,2019,0.129,NA,NA,NA,NA,NA
+973,Pilchards,2020,0.133,NA,NA,NA,NA,NA
+974,Pilchards,2021,0.109,NA,NA,NA,NA,NA
+975,Pilchards,2022,0.12,NA,NA,NA,NA,NA
+976,Pipi,2004,0.23,NA,NA,NA,NA,NA
+977,Pipi,2005,0.689,200,Tonnes,149.8,Tonnes,NA
+978,Pipi,2006,0.297,204,Tonnes,137.5,Tonnes,NA
+979,Pipi,2007,0.89,204,Tonnes,136.4,Tonnes,NA
+980,Porae,2004,0.131,NA,NA,NA,NA,NA
+981,Porae,2005,0.503,71,Tonnes,56.9,Tonnes,NA
+982,Porae,2006,0.435,71,Tonnes,49,Tonnes,NA
+983,Porae,2007,0.409,71,Tonnes,73.1,Tonnes,NA
+984,Porae,2008,0.385,71,Tonnes,52.1,Tonnes,0.536875
+985,Porae,2009,0.452,71,Tonnes,56.8,Tonnes,2.1475
+986,Porae,2010,0.456,71,Tonnes,67.6,Tonnes,2.26
+987,Porae,2011,0.516,71,Tonnes,72.1,Tonnes,2.51625
+988,Porae,2012,0.583,71,Tonnes,50.8,Tonnes,2.2675
+989,Porae,2013,0.541,83,Tonnes,67.4,Tonnes,2.288125
+990,Porae,2014,0.515,83,Tonnes,65.6,Tonnes,2.395
+991,Porae,2015,0.547,83,Tonnes,72,Tonnes,2.398125
+992,Porae,2016,0.64,83,Tonnes,65.9,Tonnes,2.38625
+993,Porae,2017,0.817,83,Tonnes,90.4,Tonnes,2.3225
+994,Porae,2018,0.85,NA,Tonnes,54.5,Tonnes,2.322084549
+995,Porae,2018,0.85,83,Tonnes,NA,Tonnes,2.322084549
+996,Porae,2019,0.836,83,Tonnes,54.6,Tonnes,2.454313774
+997,Porae,2020,0.828,NA,NA,NA,NA,2.883172514
+998,Porae,2021,0.84,NA,NA,NA,NA,2.885531917
+999,Porae,2022,0.629,NA,NA,NA,NA,1.977541556
+1000,Porbeagle Shark,2004,0.016,NA,NA,NA,NA,NA
+1001,Porbeagle Shark,2005,0.064,215,Tonnes,60.4,Tonnes,NA
+1002,Porbeagle Shark,2006,0.064,215,Tonnes,54.7,Tonnes,NA
+1003,Porbeagle Shark,2007,0.066,215,Tonnes,53.9,Tonnes,NA
+1004,Porbeagle Shark,2008,0.065,215,Tonnes,41.2,Tonnes,0.1
+1005,Porbeagle Shark,2009,0.059,215,Tonnes,61.4,Tonnes,0.4
+1006,Porbeagle Shark,2010,0.054,215,Tonnes,62.6,Tonnes,0.39
+1007,Porbeagle Shark,2011,0.057,215,Tonnes,73.2,Tonnes,0.42
+1008,Porbeagle Shark,2012,0.064,215,Tonnes,55.4,Tonnes,0.6
+1009,Porbeagle Shark,2013,0.056,110,Tonnes,83.3,Tonnes,0.6275
+1010,Porbeagle Shark,2014,0.059,110,Tonnes,70.1,Tonnes,0.595
+1011,Porbeagle Shark,2015,0.062,110,Tonnes,84.1,Tonnes,0.25
+1012,Porbeagle Shark,2016,0.061,110,Tonnes,43.3,Tonnes,0.29
+1013,Porbeagle Shark,2017,0.065,110,Tonnes,26.7,Tonnes,0.41
+1014,Porbeagle Shark,2018,0.08,NA,Tonnes,57.1,Tonnes,0.409246746
+1015,Porbeagle Shark,2018,0.08,110,Tonnes,NA,Tonnes,0.409246746
+1016,Porbeagle Shark,2019,0.069,110,Tonnes,36.2,Tonnes,0.406986983
+1017,Porbeagle Shark,2020,0.065,NA,NA,NA,NA,0.406986983
+1018,Porbeagle Shark,2021,0.082,NA,NA,NA,NA,0.406986983
+1019,Porbeagle Shark,2022,0.038,NA,NA,NA,NA,0.305240237
+1020,Prawn Killer,2009,0.023,36,Tonnes,1.2,Tonnes,0.25
+1021,Prawn Killer,2010,0.087,36,Tonnes,1.3,Tonnes,0.5025
+1022,Prawn Killer,2011,0.082,36,Tonnes,4.3,Tonnes,1.8075
+1023,Prawn Killer,2012,0.103,36,Tonnes,1.3,Tonnes,3.442272727
+1024,Prawn Killer,2013,0.112,36,Tonnes,0.9,Tonnes,3.419318182
+1025,Prawn Killer,2014,0.109,36,Tonnes,0.9,Tonnes,3.42
+1026,Prawn Killer,2015,0.101,36,Tonnes,1,Tonnes,3.42
+1027,Prawn Killer,2016,0.118,36,Tonnes,1.8,Tonnes,3.42
+1028,Prawn Killer,2017,0.068,36,Tonnes,3.1,Tonnes,3.42
+1029,Prawn Killer,2018,0.066,36,Tonnes,1,Tonnes,3.354544169
+1030,Prawn Killer,2019,0.041,36,Tonnes,0.8,Tonnes,3.158176677
+1031,Queen Scallop,2014,0.502,380,Tonnes,5,Tonnes,2.04
+1032,Queen Scallop,2015,1.506,380,Tonnes,1.8,Tonnes,2.04
+1033,Ray's Bream,2004,0.029,NA,NA,NA,NA,NA
+1034,Ray's Bream,2005,0.102,NA,NA,NA,NA,NA
+1035,Ray's Bream,2006,0.071,NA,NA,NA,NA,NA
+1036,Ray's Bream,2007,0.097,NA,NA,NA,NA,NA
+1037,Ray's Bream,2008,0.08,NA,NA,NA,NA,0.2075
+1038,Ray's Bream,2009,0.062,NA,NA,NA,NA,0.83
+1039,Ray's Bream,2010,0.075,NA,NA,NA,NA,0.875
+1040,Ray's Bream,2011,0.075,NA,NA,NA,NA,1.035
+1041,Ray's Bream,2012,0.068,NA,NA,NA,NA,1.1075
+1042,Ray's Bream,2013,0.06,NA,NA,NA,NA,1.1225
+1043,Ray's Bream,2014,0.064,NA,NA,NA,NA,1.19
+1044,Ray's Bream,2015,0.067,NA,NA,NA,NA,1.19
+1045,Ray's Bream,2016,0.058,NA,NA,NA,NA,1.1575
+1046,Ray's Bream,2017,0.068,NA,NA,NA,NA,0.9875
+1047,Ray's Bream,2018,0.071,NA,NA,NA,NA,0.770447993
+1048,Ray's Bream,2019,0.054,NA,NA,NA,NA,0.771791971
+1049,Ray's Bream,2020,0.07,NA,NA,NA,NA,0.771791971
+1050,Ray's Bream,2021,0.06,NA,NA,NA,NA,0.771791971
+1051,Ray's Bream,2022,0.05,NA,NA,NA,NA,0.578843978
+1052,Red Cod,2001,0.029,16066.4,Tonnes,NA,Tonnes,NA
+1053,Red Cod,2002,0.118,16074.1,Tonnes,4426.2,Tonnes,NA
+1054,Red Cod,2003,0.114,16074.1,Tonnes,6916.2,Tonnes,NA
+1055,Red Cod,2004,0.104,16074.1,Tonnes,10318.9,Tonnes,NA
+1056,Red Cod,2005,0.103,16074.1,Tonnes,7707.7,Tonnes,NA
+1057,Red Cod,2006,0.106,16074.1,Tonnes,6681.1,Tonnes,NA
+1058,Red Cod,2007,0.111,16074.1,Tonnes,5565.3,Tonnes,NA
+1059,Red Cod,2008,0.135,8278.4,Tonnes,6457.3,Tonnes,0.183
+1060,Red Cod,2009,0.127,8278.4,Tonnes,4896.2,Tonnes,0.732
+1061,Red Cod,2010,0.12,8278.4,Tonnes,5236.4,Tonnes,0.727
+1062,Red Cod,2011,0.12,8278.4,Tonnes,6693.7,Tonnes,0.73
+1063,Red Cod,2012,0.138,8278.4,Tonnes,7625.4,Tonnes,0.767
+1064,Red Cod,2013,0.174,8278.4,Tonnes,6879,Tonnes,0.701
+1065,Red Cod,2014,0.148,8278.4,Tonnes,5854.1,Tonnes,0.6575
+1066,Red Cod,2015,0.12,8278.4,Tonnes,3802.5,Tonnes,0.646
+1067,Red Cod,2016,0.116,8278.4,Tonnes,5687.9,Tonnes,0.5905
+1068,Red Cod,2017,0.119,8278.4,Tonnes,6876.4,Tonnes,0.577
+1069,Red Cod,2018,0.127,NA,Tonnes,3367.4,Tonnes,0.604378924
+1070,Red Cod,2018,0.127,8278.4,Tonnes,NA,Tonnes,0.604378924
+1071,Red Cod,2019,0.105,8278.4,Tonnes,2904.3,Tonnes,0.603141843
+1072,Red Cod,2020,0.104,NA,NA,NA,NA,0.613662102
+1073,Red Cod,2021,0.106,NA,NA,NA,NA,0.670974641
+1074,Red Cod,2022,0.079,NA,NA,NA,NA,0.513101929
+1075,Red crab,2010,0.571,NA,NA,NA,NA,3.155
+1076,Red crab,2011,0.19,NA,NA,NA,NA,3.6225
+1077,Red crab,2013,1.081,NA,NA,NA,NA,3.6
+1078,Red crab,2014,1.009,NA,NA,NA,NA,2.75
+1079,Red crab,2015,0.669,NA,NA,NA,NA,0.2
+1080,Red crab,2016,0.151,NA,NA,NA,NA,0.2
+1081,Red crab,2017,0.75,NA,NA,NA,NA,0.2
+1082,Red crab,2018,0.25,NA,NA,NA,NA,0.2
+1083,Red crab,2021,0.772,NA,NA,NA,NA,0.2
+1084,Red crab,2022,0.257,NA,NA,NA,NA,0.15
+1085,Red Snapper,2004,0.395,NA,NA,NA,NA,NA
+1086,Red Snapper,2005,1.535,146,Tonnes,54.3,Tonnes,NA
+1087,Red Snapper,2006,1.365,146,Tonnes,49.8,Tonnes,NA
+1088,Red Snapper,2007,1.322,146,Tonnes,54.2,Tonnes,NA
+1089,Red Snapper,2008,1.448,146,Tonnes,86.9,Tonnes,1.91
+1090,Red Snapper,2009,1.426,146,Tonnes,41.4,Tonnes,7.64
+1091,Red Snapper,2010,1.793,146,Tonnes,30.7,Tonnes,7.568333333
+1092,Red Snapper,2011,1.468,146,Tonnes,34.8,Tonnes,7.188333333
+1093,Red Snapper,2012,1.104,146,Tonnes,27.2,Tonnes,6.68
+1094,Red Snapper,2013,1.222,146,Tonnes,44.9,Tonnes,6.7075
+1095,Red Snapper,2014,1.251,146,Tonnes,63.2,Tonnes,6.91
+1096,Red Snapper,2015,1.369,146,Tonnes,57.6,Tonnes,6.844166667
+1097,Red Snapper,2016,1.324,146,Tonnes,44,Tonnes,6.811666667
+1098,Red Snapper,2017,1.248,146,Tonnes,66.3,Tonnes,7.4775
+1099,Red Snapper,2018,1.269,146,Tonnes,46.4,Tonnes,7.55616571
+1100,Red Snapper,2019,1.269,146,Tonnes,37.7,Tonnes,6.329609239
+1101,Red Snapper,2020,1.459,NA,NA,NA,NA,6.759221576
+1102,Red Snapper,2021,1.407,NA,NA,NA,NA,7.31694322
+1103,Red Snapper,2022,1.074,NA,NA,NA,NA,5.360362413
+1104,Redbait,2010,0.06,NA,NA,NA,NA,NA
+1105,Redbait,2011,0.213,NA,NA,NA,NA,NA
+1106,Redbait,2012,0.143,NA,NA,NA,NA,NA
+1107,Redbait,2013,0.154,NA,NA,NA,NA,NA
+1108,Redbait,2014,0.157,NA,NA,NA,NA,NA
+1109,Redbait,2015,0.188,NA,NA,NA,NA,NA
+1110,Redbait,2016,0.143,NA,NA,NA,NA,NA
+1111,Redbait,2017,0.161,NA,NA,NA,NA,NA
+1112,Redbait,2018,0.199,NA,NA,NA,NA,NA
+1113,Redbait,2019,0.2,NA,NA,NA,NA,NA
+1114,Redbait,2020,0.211,NA,NA,NA,NA,NA
+1115,Redbait,2021,0.158,NA,NA,NA,NA,NA
+1116,Ribaldo,2001,0.037,1282,Tonnes,NA,Tonnes,NA
+1117,Ribaldo,2002,0.141,1282,Tonnes,1265.9,Tonnes,NA
+1118,Ribaldo,2003,0.127,1282,Tonnes,1063.9,Tonnes,NA
+1119,Ribaldo,2004,0.126,1282,Tonnes,1226,Tonnes,NA
+1120,Ribaldo,2005,0.125,1282,Tonnes,1149.1,Tonnes,NA
+1121,Ribaldo,2006,0.171,1282,Tonnes,963.7,Tonnes,NA
+1122,Ribaldo,2007,0.289,1664,Tonnes,1146.7,Tonnes,NA
+1123,Ribaldo,2008,0.215,1664,Tonnes,988.1,Tonnes,0.1345
+1124,Ribaldo,2009,0.238,1664,Tonnes,1111.2,Tonnes,0.538
+1125,Ribaldo,2010,0.288,1664,Tonnes,755.4,Tonnes,0.6135
+1126,Ribaldo,2011,0.289,1664,Tonnes,913.3,Tonnes,0.83425
+1127,Ribaldo,2012,0.115,1683,Tonnes,834.9,Tonnes,0.81475
+1128,Ribaldo,2013,0.13,1683,Tonnes,798.1,Tonnes,0.8035
+1129,Ribaldo,2014,0.125,1683,Tonnes,1194.5,Tonnes,0.7905
+1130,Ribaldo,2015,0.124,1683,Tonnes,1231,Tonnes,0.8245
+1131,Ribaldo,2016,0.116,1683,Tonnes,1126.8,Tonnes,0.92125
+1132,Ribaldo,2017,0.164,1683,Tonnes,953.7,Tonnes,0.90325
+1133,Ribaldo,2018,0.278,NA,Tonnes,1094.1,Tonnes,0.883957463
+1134,Ribaldo,2018,0.278,1683,Tonnes,NA,Tonnes,0.883957463
+1135,Ribaldo,2019,0.111,1683,Tonnes,1020.9,Tonnes,0.934783854
+1136,Ribaldo,2020,0.106,NA,NA,NA,NA,0.8605763
+1137,Ribaldo,2021,0.116,NA,NA,NA,NA,0.918911376
+1138,Ribaldo,2022,0.083,NA,NA,NA,NA,0.65215698
+1139,Rig,2001,0.214,2034,Tonnes,NA,Tonnes,NA
+1140,Rig,2002,0.872,2034.1,Tonnes,1411,Tonnes,NA
+1141,Rig,2003,0.905,2034.1,Tonnes,1451.2,Tonnes,NA
+1142,Rig,2004,0.851,2034.1,Tonnes,1413.1,Tonnes,NA
+1143,Rig,2005,0.789,2048.1,Tonnes,1380.3,Tonnes,NA
+1144,Rig,2006,0.772,2048.1,Tonnes,1296.1,Tonnes,NA
+1145,Rig,2007,0.721,1919.1,Tonnes,1365.6,Tonnes,NA
+1146,Rig,2008,0.765,1919.1,Tonnes,1324.3,Tonnes,0.978333333
+1147,Rig,2009,0.764,1919.1,Tonnes,1186.2,Tonnes,3.913333333
+1148,Rig,2010,0.753,1919.1,Tonnes,1262.1,Tonnes,3.8475
+1149,Rig,2011,0.739,1919.1,Tonnes,1260.4,Tonnes,3.660416667
+1150,Rig,2012,0.751,1941.1,Tonnes,1303.2,Tonnes,3.684166667
+1151,Rig,2013,0.785,1941.1,Tonnes,1278.7,Tonnes,3.654583333
+1152,Rig,2014,0.765,1941.1,Tonnes,1385.5,Tonnes,3.619583333
+1153,Rig,2015,0.775,1941.1,Tonnes,1412.8,Tonnes,3.58625
+1154,Rig,2016,0.839,1966.1,Tonnes,1406.4,Tonnes,3.627916667
+1155,Rig,2017,0.964,1966.1,Tonnes,1416.2,Tonnes,3.6725
+1156,Rig,2018,0.92,NA,Tonnes,1459.2,Tonnes,3.708639149
+1157,Rig,2018,0.92,1966.1,Tonnes,NA,Tonnes,3.708639149
+1158,Rig,2019,0.98,1991.1,Tonnes,1363.5,Tonnes,3.788873903
+1159,Rig,2020,1.073,NA,NA,NA,NA,3.519424949
+1160,Rig,2021,1.043,NA,NA,NA,NA,3.83741484
+1161,Rig,2022,0.737,NA,NA,NA,NA,3.170994255
+1162,Rough Skate,2003,0.047,NA,NA,NA,NA,NA
+1163,Rough Skate,2004,0.191,1986,Tonnes,1841.8,Tonnes,NA
+1164,Rough Skate,2005,0.181,1986,Tonnes,2115.8,Tonnes,NA
+1165,Rough Skate,2006,0.141,1986,Tonnes,1699.4,Tonnes,NA
+1166,Rough Skate,2007,0.15,1986,Tonnes,1775.8,Tonnes,NA
+1167,Rough Skate,2008,0.142,1986,Tonnes,1571.2,Tonnes,0.105
+1168,Rough Skate,2009,0.137,1986,Tonnes,1942,Tonnes,0.42
+1169,Rough Skate,2010,0.142,1986,Tonnes,1904.8,Tonnes,0.455
+1170,Rough Skate,2011,0.141,1986,Tonnes,1882.1,Tonnes,0.574
+1171,Rough Skate,2012,0.149,1986,Tonnes,1563,Tonnes,0.6155
+1172,Rough Skate,2013,0.133,1986,Tonnes,1884.2,Tonnes,0.591
+1173,Rough Skate,2014,0.123,1986,Tonnes,2122.2,Tonnes,0.5285
+1174,Rough Skate,2015,0.119,1986,Tonnes,1605.4,Tonnes,0.521
+1175,Rough Skate,2016,0.112,1986,Tonnes,1553.2,Tonnes,0.4435
+1176,Rough Skate,2017,0.118,1986,Tonnes,1827.3,Tonnes,0.4415
+1177,Rough Skate,2018,0.119,NA,Tonnes,1656.8,Tonnes,0.402766292
+1178,Rough Skate,2018,0.119,1986,Tonnes,NA,Tonnes,0.402766292
+1179,Rough Skate,2019,0.116,1986,Tonnes,1429.5,Tonnes,0.39992148
+1180,Rough Skate,2020,0.117,NA,NA,NA,NA,0.426972214
+1181,Rough Skate,2021,0.119,NA,NA,NA,NA,0.517236039
+1182,Rough Skate,2022,0.09,NA,NA,NA,NA,0.425768496
+1183,Ruby Fish,2001,0.022,NA,NA,NA,NA,NA
+1184,Ruby Fish,2002,0.089,NA,NA,NA,NA,NA
+1185,Ruby Fish,2003,0.107,NA,NA,NA,NA,NA
+1186,Ruby Fish,2004,0.144,NA,NA,NA,NA,NA
+1187,Ruby Fish,2005,0.151,NA,NA,NA,NA,NA
+1188,Ruby Fish,2006,0.116,NA,NA,NA,NA,NA
+1189,Ruby Fish,2007,0.105,NA,NA,NA,NA,NA
+1190,Ruby Fish,2008,0.071,NA,NA,NA,NA,0.140625
+1191,Ruby Fish,2009,0.068,NA,NA,NA,NA,0.5625
+1192,Ruby Fish,2010,0.085,NA,NA,NA,NA,0.6409375
+1193,Ruby Fish,2011,0.101,NA,NA,NA,NA,0.9228125
+1194,Ruby Fish,2012,0.13,NA,NA,NA,NA,1.064375
+1195,Ruby Fish,2013,0.121,NA,NA,NA,NA,1.0875
+1196,Ruby Fish,2014,0.115,NA,NA,NA,NA,1.11775
+1197,Ruby Fish,2015,0.108,NA,NA,NA,NA,1.0255
+1198,Ruby Fish,2016,0.109,NA,NA,NA,NA,0.94075
+1199,Ruby Fish,2017,0.096,NA,NA,NA,NA,0.918
+1200,Ruby Fish,2018,0.084,NA,NA,NA,NA,0.922670559
+1201,Ruby Fish,2019,0.086,NA,NA,NA,NA,0.873113579
+1202,Ruby Fish,2020,0.074,NA,NA,NA,NA,0.748365735
+1203,Ruby Fish,2021,0.099,NA,NA,NA,NA,0.803186499
+1204,Ruby Fish,2022,0.129,NA,NA,NA,NA,0.645019204
+1205,Scallop,2002,11.264,809,Tonnes,735.1,Tonnes,NA
+1206,Scallop,2003,9.298,832,Tonnes,541.7,Tonnes,NA
+1207,Scallop,2004,6.558,832,Tonnes,298.4,Tonnes,NA
+1208,Scallop,2005,7.524,832,Tonnes,235.5,Tonnes,NA
+1209,Scallop,2006,6.941,841,Tonnes,346.7,Tonnes,NA
+1210,Scallop,2007,6.056,841,Tonnes,237.8,Tonnes,NA
+1211,Scallop,2008,1.468,841,Tonnes,226.2,Tonnes,3.605769231
+1212,Scallop,2011,4.852,841,Tonnes,121.1,Tonnes,17.18288462
+1213,Scallop,2012,1.617,841,Tonnes,113.5,Tonnes,15.93615384
+1214,Scallop,2013,5.25,841,Tonnes,120.9,Tonnes,15.83923077
+1215,Scallop,2014,7,919,Tonnes,93.9,Tonnes,15.83923077
+1216,Scallop,2015,7,572,Tonnes,57.8,Tonnes,15.83923077
+1217,Scallop,2016,1.75,572,Tonnes,65.8,Tonnes,15.83923077
+1218,Scampi,2004,3.13,NA,NA,NA,NA,NA
+1219,Scampi,2005,12.388,1291,Tonnes,918.5,Tonnes,NA
+1220,Scampi,2006,11.922,1291,Tonnes,870.7,Tonnes,NA
+1221,Scampi,2007,8.776,1291,Tonnes,837.7,Tonnes,NA
+1222,Scampi,2014,7.213,1224,Tonnes,768.7,Tonnes,13.85909091
+1223,Scampi,2015,21.638,1224,Tonnes,875.1,Tonnes,13.86522727
+1224,Scampi,2016,3.276,1224,Tonnes,974.2,Tonnes,13.88363636
+1225,Scampi,2017,14.14,1244,Tonnes,1053.6,Tonnes,14.41136363
+1226,Scampi,2018,18.172,NA,Tonnes,1019.9,Tonnes,15.86318351
+1227,Scampi,2018,18.172,1244,Tonnes,NA,Tonnes,15.86318351
+1228,Scampi,2019,21.627,1312,Tonnes,1068.8,Tonnes,15.46909767
+1229,Scampi,2020,22.399,NA,NA,NA,NA,15.46909767
+1230,Scampi,2021,20.394,NA,NA,NA,NA,15.18503213
+1231,Scampi,2022,19.153,NA,NA,NA,NA,10.74962662
+1232,School Shark,2001,0.214,3105.5,Tonnes,NA,Tonnes,NA
+1233,School Shark,2002,0.881,3120.2,Tonnes,2945.5,Tonnes,NA
+1234,School Shark,2003,0.972,3120.2,Tonnes,3161.1,Tonnes,NA
+1235,School Shark,2004,1.029,3120.2,Tonnes,3125.7,Tonnes,NA
+1236,School Shark,2005,1.01,3415.6,Tonnes,3368.8,Tonnes,NA
+1237,School Shark,2006,0.927,3415.6,Tonnes,3100,Tonnes,NA
+1238,School Shark,2007,0.941,3415.6,Tonnes,3179.6,Tonnes,NA
+1239,School Shark,2008,0.955,3436.1,Tonnes,3298,Tonnes,0.5490625
+1240,School Shark,2009,0.946,3436.1,Tonnes,3478.8,Tonnes,2.19625
+1241,School Shark,2010,1.033,3436.1,Tonnes,3268,Tonnes,2.180625
+1242,School Shark,2011,1.05,3436.1,Tonnes,3468.8,Tonnes,2.1496875
+1243,School Shark,2012,1.07,3436.1,Tonnes,3279.5,Tonnes,2.193125
+1244,School Shark,2013,1.061,3436.1,Tonnes,3159,Tonnes,2.1975
+1245,School Shark,2014,1.05,3436.1,Tonnes,3134.8,Tonnes,2.296875
+1246,School Shark,2015,1.01,3436.1,Tonnes,3109.8,Tonnes,2.4134375
+1247,School Shark,2016,0.959,3436.1,Tonnes,2920.8,Tonnes,2.3596875
+1248,School Shark,2017,0.893,3436.1,Tonnes,2853.1,Tonnes,2.356875
+1249,School Shark,2018,0.879,NA,Tonnes,3013.9,Tonnes,2.167783809
+1250,School Shark,2018,0.879,3436.1,Tonnes,NA,Tonnes,2.167783809
+1251,School Shark,2019,0.807,3436.1,Tonnes,2731.5,Tonnes,2.164099867
+1252,School Shark,2020,0.785,NA,NA,NA,NA,2.268073202
+1253,School Shark,2021,0.806,NA,NA,NA,NA,2.377989259
+1254,School Shark,2022,0.665,NA,NA,NA,NA,2.148391835
+1255,Sea cucumber,2008,0.779,NA,NA,NA,NA,NA
+1256,Sea cucumber,2009,0.26,NA,NA,NA,NA,NA
+1257,Sea cucumber,2010,0.537,NA,NA,NA,NA,NA
+1258,Sea cucumber,2011,0.179,NA,NA,NA,NA,NA
+1259,Sea cucumber,2012,1.558,NA,NA,NA,NA,NA
+1260,Sea cucumber,2013,0.519,NA,NA,NA,NA,NA
+1261,Sea cucumber,2014,7.403,NA,NA,NA,NA,NA
+1262,Sea cucumber,2015,13.22,NA,NA,NA,NA,NA
+1263,Sea cucumber,2016,14.948,NA,NA,NA,NA,NA
+1264,Sea cucumber,2017,16.069,NA,NA,NA,NA,NA
+1265,Sea cucumber,2018,18.898,NA,NA,NA,NA,NA
+1266,Sea cucumber,2019,19.483,NA,NA,NA,NA,NA
+1267,Sea cucumber,2020,16.664,NA,NA,NA,NA,NA
+1268,Sea cucumber,2021,19.324,NA,NA,NA,NA,NA
+1269,Sea cucumber,2022,5.129,NA,NA,NA,NA,NA
+1270,Sea Perch,2001,0.013,1516,Tonnes,NA,Tonnes,NA
+1271,Sea Perch,2002,0.053,1778,Tonnes,1881.3,Tonnes,NA
+1272,Sea Perch,2003,0.055,1778,Tonnes,2619.3,Tonnes,NA
+1273,Sea Perch,2004,0.055,1778,Tonnes,1970.2,Tonnes,NA
+1274,Sea Perch,2005,0.053,2155,Tonnes,1476,Tonnes,NA
+1275,Sea Perch,2006,0.051,2155,Tonnes,1157,Tonnes,NA
+1276,Sea Perch,2007,0.05,2170,Tonnes,1340.4,Tonnes,NA
+1277,Sea Perch,2008,0.048,2170,Tonnes,1248.3,Tonnes,0.13125
+1278,Sea Perch,2009,0.054,2170,Tonnes,854.1,Tonnes,0.525
+1279,Sea Perch,2010,0.063,2170,Tonnes,1016.4,Tonnes,0.59325
+1280,Sea Perch,2011,0.068,2170,Tonnes,1505.7,Tonnes,0.82325
+1281,Sea Perch,2012,0.083,2170,Tonnes,1107.9,Tonnes,0.8275
+1282,Sea Perch,2013,0.094,2170,Tonnes,1196.7,Tonnes,0.644
+1283,Sea Perch,2014,0.14,2190,Tonnes,1077.3,Tonnes,0.73975
+1284,Sea Perch,2015,0.132,2190,Tonnes,1427.1,Tonnes,0.78275
+1285,Sea Perch,2016,0.149,2190,Tonnes,1427.6,Tonnes,0.86175
+1286,Sea Perch,2017,0.145,2190,Tonnes,1231.3,Tonnes,0.72625
+1287,Sea Perch,2018,0.146,NA,Tonnes,1368.4,Tonnes,0.54308157
+1288,Sea Perch,2018,0.146,2190,Tonnes,NA,Tonnes,0.54308157
+1289,Sea Perch,2019,0.149,2190,Tonnes,1161.4,Tonnes,0.554293238
+1290,Sea Perch,2020,0.159,NA,NA,NA,NA,0.672248955
+1291,Sea Perch,2021,0.136,NA,NA,NA,NA,0.78800745
+1292,Sea Perch,2022,0.098,NA,NA,NA,NA,0.520342022
+1293,Short-finned eel,2004,0.5,NA,NA,NA,NA,NA
+1294,Short-finned eel,2005,1.5,NA,NA,NA,NA,NA
+1295,Short-finned eel,2007,1.266,NA,NA,NA,NA,NA
+1296,Short-finned eel,2008,3.797,NA,NA,NA,NA,NA
+1297,Short-finned eel,2010,0.443,NA,NA,NA,NA,NA
+1298,Short-finned eel,2011,1.328,NA,NA,NA,NA,NA
+1299,Short-finned eel,2012,0.518,NA,NA,NA,NA,NA
+1300,Short-finned eel,2013,2.171,NA,NA,NA,NA,NA
+1301,Short-finned eel,2014,2.43,NA,NA,NA,NA,NA
+1302,Short-finned eel,2015,2.307,NA,NA,NA,NA,NA
+1303,Short-finned eel,2016,2.324,NA,NA,NA,NA,NA
+1304,Short-finned eel,2017,2.373,NA,NA,NA,NA,NA
+1305,Short-finned eel,2018,2.248,NA,NA,NA,NA,NA
+1306,Short-finned eel,2019,1.5,NA,NA,NA,NA,NA
+1307,Silver Warehou,2001,0.132,9512.2,Tonnes,NA,Tonnes,NA
+1308,Silver Warehou,2002,0.545,9512.2,Tonnes,8550.5,Tonnes,NA
+1309,Silver Warehou,2003,0.602,10380.2,Tonnes,9547.3,Tonnes,NA
+1310,Silver Warehou,2004,0.635,10380.2,Tonnes,10729,Tonnes,NA
+1311,Silver Warehou,2005,0.633,10380.2,Tonnes,9544.9,Tonnes,NA
+1312,Silver Warehou,2006,0.676,10380.2,Tonnes,11138,Tonnes,NA
+1313,Silver Warehou,2007,0.697,10380.2,Tonnes,14173.7,Tonnes,NA
+1314,Silver Warehou,2008,0.716,10380.2,Tonnes,8107.3,Tonnes,0.34
+1315,Silver Warehou,2009,0.726,10380.2,Tonnes,8843.2,Tonnes,1.36
+1316,Silver Warehou,2010,0.742,10380.2,Tonnes,7077.8,Tonnes,1.31
+1317,Silver Warehou,2011,0.754,10380.2,Tonnes,8004.1,Tonnes,1.118125
+1318,Silver Warehou,2012,0.648,10380.2,Tonnes,7130.3,Tonnes,0.965
+1319,Silver Warehou,2013,0.587,10380.2,Tonnes,8663.1,Tonnes,0.86375
+1320,Silver Warehou,2014,0.602,10380.2,Tonnes,7988.1,Tonnes,0.8075
+1321,Silver Warehou,2015,0.611,10380.2,Tonnes,9052.6,Tonnes,0.80125
+1322,Silver Warehou,2016,0.651,10380.2,Tonnes,7514.9,Tonnes,0.773125
+1323,Silver Warehou,2017,0.688,10380.2,Tonnes,8670.7,Tonnes,0.748125
+1324,Silver Warehou,2018,0.737,NA,Tonnes,8652.7,Tonnes,0.75943479
+1325,Silver Warehou,2018,0.737,10380.2,Tonnes,NA,Tonnes,0.75943479
+1326,Silver Warehou,2019,0.786,10380.2,Tonnes,8607.6,Tonnes,0.768663086
+1327,Silver Warehou,2020,0.702,NA,NA,NA,NA,0.778164544
+1328,Silver Warehou,2021,0.664,NA,NA,NA,NA,0.791417804
+1329,Silver Warehou,2022,0.472,NA,NA,NA,NA,0.628582863
+1330,Smooth Skate,2003,0.051,NA,NA,NA,NA,NA
+1331,Smooth Skate,2004,0.201,849,Tonnes,670.8,Tonnes,NA
+1332,Smooth Skate,2005,0.192,849,Tonnes,630.4,Tonnes,NA
+1333,Smooth Skate,2006,0.174,849,Tonnes,713.9,Tonnes,NA
+1334,Smooth Skate,2007,0.169,849,Tonnes,693.1,Tonnes,NA
+1335,Smooth Skate,2008,0.163,849,Tonnes,660.5,Tonnes,0.089
+1336,Smooth Skate,2009,0.162,849,Tonnes,560.2,Tonnes,0.356
+1337,Smooth Skate,2010,0.157,849,Tonnes,546.2,Tonnes,0.4015
+1338,Smooth Skate,2011,0.151,849,Tonnes,609.4,Tonnes,0.534
+1339,Smooth Skate,2012,0.16,849,Tonnes,545.7,Tonnes,0.522
+1340,Smooth Skate,2013,0.155,849,Tonnes,597.7,Tonnes,0.515
+1341,Smooth Skate,2014,0.143,849,Tonnes,640.9,Tonnes,0.4915
+1342,Smooth Skate,2015,0.133,849,Tonnes,617.1,Tonnes,0.467
+1343,Smooth Skate,2016,0.117,849,Tonnes,683.1,Tonnes,0.4135
+1344,Smooth Skate,2017,0.122,849,Tonnes,795.3,Tonnes,0.4035
+1345,Smooth Skate,2018,0.121,NA,Tonnes,818.8,Tonnes,0.389303328
+1346,Smooth Skate,2018,0.121,849,Tonnes,NA,Tonnes,0.389303328
+1347,Smooth Skate,2019,0.118,849,Tonnes,701.8,Tonnes,0.368432768
+1348,Smooth Skate,2020,0.119,NA,NA,NA,NA,0.38953477
+1349,Smooth Skate,2021,0.115,NA,NA,NA,NA,0.442889705
+1350,Smooth Skate,2022,0.088,NA,NA,NA,NA,0.293971367
+1351,Snapper,2001,1.067,6494.6,Tonnes,NA,Tonnes,NA
+1352,Snapper,2002,4.234,6494.6,Tonnes,6345.3,Tonnes,NA
+1353,Snapper,2003,4.053,6557.3,Tonnes,6566.5,Tonnes,NA
+1354,Snapper,2004,3.693,6557.3,Tonnes,6689.8,Tonnes,NA
+1355,Snapper,2005,3.251,6557.3,Tonnes,6880.6,Tonnes,NA
+1356,Snapper,2006,3.118,6357.3,Tonnes,6527.1,Tonnes,NA
+1357,Snapper,2007,3.696,6357.3,Tonnes,6333.9,Tonnes,NA
+1358,Snapper,2008,3.98,6357.3,Tonnes,6369.1,Tonnes,1.251666667
+1359,Snapper,2009,3.792,6357.3,Tonnes,6398.5,Tonnes,5.006666667
+1360,Snapper,2010,4.039,6357.3,Tonnes,6229.3,Tonnes,5.080416667
+1361,Snapper,2011,4.297,6357.3,Tonnes,6358.4,Tonnes,5.363333333
+1362,Snapper,2012,4.14,6357.3,Tonnes,6547.9,Tonnes,5.540416667
+1363,Snapper,2013,3.891,6357.3,Tonnes,6304.6,Tonnes,5.556666667
+1364,Snapper,2014,3.865,6357.3,Tonnes,6257.3,Tonnes,5.660833333
+1365,Snapper,2015,3.8,6357.3,Tonnes,6232.2,Tonnes,5.673333333
+1366,Snapper,2016,3.731,6357.3,Tonnes,6247,Tonnes,5.875
+1367,Snapper,2017,3.646,6407.3,Tonnes,6590.8,Tonnes,5.664166667
+1368,Snapper,2018,3.845,NA,Tonnes,6490.7,Tonnes,4.804410892
+1369,Snapper,2018,3.845,6407.3,Tonnes,NA,Tonnes,4.804410892
+1370,Snapper,2019,3.944,6407.3,Tonnes,6349.5,Tonnes,4.852288356
+1371,Snapper,2020,3.962,NA,NA,NA,NA,5.312622199
+1372,Snapper,2021,4.261,NA,NA,NA,NA,5.42229065
+1373,Snapper,2022,3.815,NA,NA,NA,NA,4.135275495
+1374,Southern Blue Whiting,2002,0.086,45148,Tonnes,32879.2,Tonnes,NA
+1375,Southern Blue Whiting,2003,0.125,45148,Tonnes,41794.7,Tonnes,NA
+1376,Southern Blue Whiting,2004,0.135,35648,Tonnes,27811.9,Tonnes,NA
+1377,Southern Blue Whiting,2005,0.135,35648,Tonnes,21619.6,Tonnes,NA
+1378,Southern Blue Whiting,2006,0.15,35648,Tonnes,30277.6,Tonnes,NA
+1379,Southern Blue Whiting,2007,0.182,30648,Tonnes,25363.4,Tonnes,NA
+1380,Southern Blue Whiting,2008,0.191,30648,Tonnes,25586.6,Tonnes,0.0875
+1381,Southern Blue Whiting,2009,0.165,36948,Tonnes,31887.4,Tonnes,0.35
+1382,Southern Blue Whiting,2010,0.159,41848,Tonnes,39540.1,Tonnes,0.454
+1383,Southern Blue Whiting,2011,0.159,44848,Tonnes,38708.1,Tonnes,0.705
+1384,Southern Blue Whiting,2012,0.156,43408,Tonnes,38439.5,Tonnes,0.522
+1385,Southern Blue Whiting,2013,0.152,43408,Tonnes,29906.1,Tonnes,0.528
+1386,Southern Blue Whiting,2014,0.161,43408,Tonnes,33454.8,Tonnes,0.546
+1387,Southern Blue Whiting,2015,0.147,53208,Tonnes,31866.5,Tonnes,0.546
+1388,Southern Blue Whiting,2016,0.129,49288,Tonnes,24733.4,Tonnes,0.546
+1389,Southern Blue Whiting,2017,0.127,49288,Tonnes,22587.8,Tonnes,0.533
+1390,Southern Blue Whiting,2018,0.167,48815,Tonnes,21045.9,Tonnes,0.494
+1391,Southern Blue Whiting,2019,0.148,49583,Tonnes,16533.9,Tonnes,0.494
+1392,Southern Blue Whiting,2020,0.119,NA,NA,NA,NA,0.494
+1393,Southern Blue Whiting,2021,0.104,NA,NA,NA,NA,0.494
+1394,Southern Blue Whiting,2022,0.025,NA,NA,NA,NA,0.3705
+1395,Southern Bluefin Tuna,2004,2.7,NA,NA,NA,NA,NA
+1396,Southern Bluefin Tuna,2005,8.1,413,Tonnes,264.1,Tonnes,NA
+1397,Southern Bluefin Tuna,2006,3.798,413,Tonnes,238,Tonnes,NA
+1398,Southern Bluefin Tuna,2007,11.393,413,Tonnes,379.1,Tonnes,NA
+1399,Spiny Dogfish,2004,0.011,NA,NA,NA,NA,NA
+1400,Spiny Dogfish,2005,0.04,12660,Tonnes,7222,Tonnes,NA
+1401,Spiny Dogfish,2006,0.03,12660,Tonnes,8313.2,Tonnes,NA
+1402,Spiny Dogfish,2007,0.03,12660,Tonnes,7183.9,Tonnes,NA
+1403,Spiny Dogfish,2008,0.03,12660,Tonnes,6293.7,Tonnes,0.140714286
+1404,Spiny Dogfish,2009,0.033,12660,Tonnes,6219.7,Tonnes,0.562857143
+1405,Spiny Dogfish,2010,0.043,12660,Tonnes,6166.4,Tonnes,0.569642857
+1406,Spiny Dogfish,2011,0.04,12660,Tonnes,6076,Tonnes,0.515357143
+1407,Spiny Dogfish,2012,0.036,12660,Tonnes,5879.5,Tonnes,0.291428572
+1408,Spiny Dogfish,2013,0.033,12660,Tonnes,4965.1,Tonnes,0.276428572
+1409,Spiny Dogfish,2014,0.031,12660,Tonnes,5859.3,Tonnes,0.231428572
+1410,Spiny Dogfish,2015,0.032,12660,Tonnes,6318.4,Tonnes,0.231428572
+1411,Spiny Dogfish,2016,0.033,12660,Tonnes,4563.5,Tonnes,0.239285715
+1412,Spiny Dogfish,2017,0.03,12660,Tonnes,6009.9,Tonnes,0.267857143
+1413,Spiny Dogfish,2018,0.033,NA,Tonnes,6529.1,Tonnes,0.282916564
+1414,Spiny Dogfish,2018,0.033,12660,Tonnes,NA,Tonnes,0.282916564
+1415,Spiny Dogfish,2019,0.037,12660,Tonnes,5057.1,Tonnes,0.283094827
+1416,Spiny Dogfish,2020,0.029,NA,NA,NA,NA,0.277166178
+1417,Spiny Dogfish,2021,0.029,NA,NA,NA,NA,0.259380233
+1418,Spiny Dogfish,2022,0.025,NA,NA,NA,NA,0.194535175
+1419,Spiny red rock lobster,2002,17.075,NA,NA,NA,NA,NA
+1420,Spiny red rock lobster,2003,21.004,NA,NA,NA,NA,NA
+1421,Spiny red rock lobster,2004,19.084,NA,NA,NA,NA,NA
+1422,Spiny red rock lobster,2005,18.151,NA,NA,NA,NA,NA
+1423,Spiny red rock lobster,2006,18.996,NA,NA,NA,NA,NA
+1424,Spiny red rock lobster,2007,21.071,NA,NA,NA,NA,NA
+1425,Spiny red rock lobster,2008,24.125,NA,NA,NA,NA,NA
+1426,Spiny red rock lobster,2009,29.664,NA,NA,NA,NA,NA
+1427,Spiny red rock lobster,2010,32.463,NA,NA,NA,NA,NA
+1428,Spiny red rock lobster,2011,36.468,NA,NA,NA,NA,NA
+1429,Spiny red rock lobster,2012,40.039,NA,NA,NA,NA,NA
+1430,Spiny red rock lobster,2013,40.623,NA,NA,NA,NA,NA
+1431,Spiny red rock lobster,2014,41.381,NA,NA,NA,NA,NA
+1432,Spiny red rock lobster,2015,43.564,NA,NA,NA,NA,NA
+1433,Spiny red rock lobster,2016,47.143,NA,NA,NA,NA,NA
+1434,Spiny red rock lobster,2017,44.447,NA,NA,NA,NA,NA
+1435,Spiny red rock lobster,2018,45.227,NA,NA,NA,NA,NA
+1436,Spiny red rock lobster,2019,48.695,NA,NA,NA,NA,NA
+1437,Spiny red rock lobster,2020,40.511,NA,NA,NA,NA,NA
+1438,Spiny red rock lobster,2021,41.927,NA,NA,NA,NA,NA
+1439,Spiny red rock lobster,2022,10.853,NA,NA,NA,NA,NA
+1440,Sprats,2002,0.008,NA,NA,NA,NA,NA
+1441,Sprats,2003,0.035,450,Tonnes,0.1,Tonnes,NA
+1442,Sprats,2004,0.034,450,Tonnes,3.2,Tonnes,NA
+1443,Sprats,2008,0.005,450,Tonnes,0.2,Tonnes,0.25
+1444,Sprats,2009,0.015,450,Tonnes,1.1,Tonnes,1
+1445,Sprats,2015,0.01,450,Tonnes,0,Tonnes,1.2
+1446,Sprats,2016,0.04,450,Tonnes,0,Tonnes,1.2
+1447,Sprats,2017,0.028,450,Tonnes,NA,Tonnes,1.2
+1448,Stargazer,2001,0.13,4972.1,Tonnes,NA,Tonnes,NA
+1449,Stargazer,2002,0.52,5116.1,Tonnes,3252.9,Tonnes,NA
+1450,Stargazer,2003,0.536,5411.4,Tonnes,3171.1,Tonnes,NA
+1451,Stargazer,2004,0.565,5411.4,Tonnes,2945.9,Tonnes,NA
+1452,Stargazer,2005,0.5,5411.4,Tonnes,3381.1,Tonnes,NA
+1453,Stargazer,2006,0.517,5411.4,Tonnes,3605.9,Tonnes,NA
+1454,Stargazer,2007,0.46,5411.4,Tonnes,3478,Tonnes,NA
+1455,Stargazer,2008,0.454,5411.4,Tonnes,3257.2,Tonnes,0.27
+1456,Stargazer,2009,0.463,5411.4,Tonnes,2912,Tonnes,1.08
+1457,Stargazer,2010,0.422,5411.4,Tonnes,3246.8,Tonnes,1.1365625
+1458,Stargazer,2011,0.442,5456.4,Tonnes,3023.1,Tonnes,1.29875
+1459,Stargazer,2012,0.473,5456.4,Tonnes,3005.8,Tonnes,1.27375
+1460,Stargazer,2013,0.455,5456.4,Tonnes,2848.6,Tonnes,1.2746875
+1461,Stargazer,2014,0.505,5456.4,Tonnes,3006.6,Tonnes,1.298125
+1462,Stargazer,2015,0.441,5456.4,Tonnes,2933,Tonnes,1.2678125
+1463,Stargazer,2016,0.461,5536.4,Tonnes,3027,Tonnes,1.2
+1464,Stargazer,2017,0.509,5536.4,Tonnes,2781.4,Tonnes,1.21875
+1465,Stargazer,2018,0.538,NA,Tonnes,3004,Tonnes,1.203675191
+1466,Stargazer,2018,0.538,5536.4,Tonnes,NA,Tonnes,1.203675191
+1467,Stargazer,2019,0.421,5536.4,Tonnes,2838.5,Tonnes,1.180143719
+1468,Stargazer,2020,0.472,NA,NA,NA,NA,1.267704765
+1469,Stargazer,2021,0.477,NA,NA,NA,NA,1.45436966
+1470,Stargazer,2022,0.353,NA,NA,NA,NA,1.359018553
+1471,Swordfish,2004,0.312,NA,NA,NA,NA,NA
+1472,Swordfish,2005,1.186,885,Tonnes,320.4,Tonnes,NA
+1473,Swordfish,2006,1.038,885,Tonnes,551.2,Tonnes,NA
+1474,Swordfish,2007,1.14,885,Tonnes,412.7,Tonnes,NA
+1475,Swordfish,2008,1.052,885,Tonnes,350.1,Tonnes,NA
+1476,Swordfish,2009,0.807,885,Tonnes,398.5,Tonnes,NA
+1477,Swordfish,2010,0.82,885,Tonnes,536.6,Tonnes,NA
+1478,Swordfish,2011,0.915,885,Tonnes,729.6,Tonnes,NA
+1479,Swordfish,2012,0.842,885,Tonnes,688.2,Tonnes,NA
+1480,Swordfish,2013,0.807,885,Tonnes,796.3,Tonnes,NA
+1481,Swordfish,2014,0.992,885,Tonnes,577,Tonnes,NA
+1482,Swordfish,2015,0.819,885,Tonnes,726.2,Tonnes,NA
+1483,Swordfish,2016,0.727,885,Tonnes,758.7,Tonnes,NA
+1484,Swordfish,2017,0.771,885,Tonnes,500.5,Tonnes,NA
+1485,Swordfish,2018,0.839,885,Tonnes,475,Tonnes,NA
+1486,Swordfish,2019,0.889,885,Tonnes,262.5,Tonnes,NA
+1487,Swordfish,2020,0.979,NA,NA,NA,NA,NA
+1488,Swordfish,2021,0.708,NA,NA,NA,NA,NA
+1489,Tarakihi,2001,0.151,5991.8,Tonnes,NA,Tonnes,NA
+1490,Tarakihi,2002,0.682,5994.2,Tonnes,6147.6,Tonnes,NA
+1491,Tarakihi,2003,0.921,5994.2,Tonnes,6008.3,Tonnes,NA
+1492,Tarakihi,2004,0.932,5994.2,Tonnes,5722.7,Tonnes,NA
+1493,Tarakihi,2005,0.846,6390.9,Tonnes,5684.3,Tonnes,NA
+1494,Tarakihi,2006,0.805,6390.9,Tonnes,6220.4,Tonnes,NA
+1495,Tarakihi,2007,0.859,6390.9,Tonnes,5730.1,Tonnes,NA
+1496,Tarakihi,2008,1.042,6439.2,Tonnes,5430.8,Tonnes,0.721875
+1497,Tarakihi,2009,0.933,6439.2,Tonnes,5583.5,Tonnes,2.8875
+1498,Tarakihi,2010,0.939,6439.2,Tonnes,5552.7,Tonnes,2.8784375
+1499,Tarakihi,2011,0.917,6439.2,Tonnes,5709.2,Tonnes,2.8996875
+1500,Tarakihi,2012,0.849,6439.2,Tonnes,5346.8,Tonnes,3.026875
+1501,Tarakihi,2013,0.866,6439.2,Tonnes,5548.9,Tonnes,2.973125
+1502,Tarakihi,2014,0.899,6439.2,Tonnes,5857.6,Tonnes,2.9425
+1503,Tarakihi,2015,0.895,6439.2,Tonnes,6037.9,Tonnes,2.7896875
+1504,Tarakihi,2016,0.89,6439.2,Tonnes,5870.4,Tonnes,2.6325
+1505,Tarakihi,2017,0.889,6439.2,Tonnes,6338.3,Tonnes,2.6075
+1506,Tarakihi,2018,0.893,NA,Tonnes,5742.4,Tonnes,2.515133108
+1507,Tarakihi,2018,0.893,6439.2,Tonnes,NA,Tonnes,2.515133108
+1508,Tarakihi,2019,0.966,5383.2,Tonnes,5149.6,Tonnes,2.717819967
+1509,Tarakihi,2020,0.985,NA,NA,NA,NA,2.740133821
+1510,Tarakihi,2021,1.01,NA,NA,NA,NA,2.711473687
+1511,Tarakihi,2022,0.707,NA,NA,NA,NA,2.193886544
+1512,Trevally,2001,0.113,3932.4,Tonnes,NA,Tonnes,NA
+1513,Trevally,2002,0.437,3933.1,Tonnes,3186.5,Tonnes,NA
+1514,Trevally,2003,0.392,3933.1,Tonnes,3314.2,Tonnes,NA
+1515,Trevally,2004,0.386,3933.1,Tonnes,3548.6,Tonnes,NA
+1516,Trevally,2005,0.386,3933.1,Tonnes,3241.4,Tonnes,NA
+1517,Trevally,2006,0.374,3933.1,Tonnes,3524.6,Tonnes,NA
+1518,Trevally,2007,0.38,3933.1,Tonnes,2897.2,Tonnes,NA
+1519,Trevally,2008,0.411,3933.1,Tonnes,2874.6,Tonnes,0.3925
+1520,Trevally,2009,0.349,3933.1,Tonnes,3175,Tonnes,1.57
+1521,Trevally,2010,0.364,3933.1,Tonnes,3041.7,Tonnes,1.619
+1522,Trevally,2011,0.378,3933.1,Tonnes,3576.3,Tonnes,1.766
+1523,Trevally,2012,0.352,3933.1,Tonnes,3132.6,Tonnes,1.8045
+1524,Trevally,2013,0.35,3933.1,Tonnes,3337,Tonnes,1.8285
+1525,Trevally,2014,0.38,3933.1,Tonnes,3343.5,Tonnes,1.541
+1526,Trevally,2015,0.358,3933.1,Tonnes,3520.6,Tonnes,1.463
+1527,Trevally,2016,0.344,3933.1,Tonnes,3809.7,Tonnes,1.3645
+1528,Trevally,2017,0.438,3933.1,Tonnes,3538.2,Tonnes,1.367
+1529,Trevally,2018,0.517,NA,Tonnes,3758.5,Tonnes,1.224889051
+1530,Trevally,2018,0.517,3933.1,Tonnes,NA,Tonnes,1.224889051
+1531,Trevally,2019,0.567,3933.1,Tonnes,3089,Tonnes,1.340876836
+1532,Trevally,2020,0.45,NA,NA,NA,NA,1.571778677
+1533,Trevally,2021,0.449,NA,NA,NA,NA,1.704674447
+1534,Trevally,2022,0.329,NA,NA,NA,NA,1.341676729
+1535,Triangle shell,2014,0.402,NA,NA,NA,NA,NA
+1536,Triangle shell,2015,0.606,NA,NA,NA,NA,NA
+1537,Triangle shell,2016,0.157,NA,NA,NA,NA,NA
+1538,Triangle shell,2017,0.75,NA,NA,NA,NA,NA
+1539,Triangle shell,2018,0.25,NA,NA,NA,NA,NA
+1540,Trough Shell,2017,0.75,160,Tonnes,0,Tonnes,NA
+1541,Trough Shell,2018,0.25,160,Tonnes,0,Tonnes,NA
+1542,Trumpeter,2001,0.055,144,Tonnes,NA,Tonnes,NA
+1543,Trumpeter,2002,0.233,144,Tonnes,26.4,Tonnes,NA
+1544,Trumpeter,2003,0.293,144,Tonnes,50.7,Tonnes,NA
+1545,Trumpeter,2004,0.339,144,Tonnes,42.6,Tonnes,NA
+1546,Trumpeter,2005,0.288,144,Tonnes,90.1,Tonnes,NA
+1547,Trumpeter,2006,0.315,144,Tonnes,87.8,Tonnes,NA
+1548,Trumpeter,2007,0.311,144,Tonnes,98.7,Tonnes,NA
+1549,Trumpeter,2008,0.3,144,Tonnes,101.4,Tonnes,0.525
+1550,Trumpeter,2009,0.32,144,Tonnes,57.3,Tonnes,2.1
+1551,Trumpeter,2010,0.316,144,Tonnes,95.1,Tonnes,2.2890625
+1552,Trumpeter,2011,0.308,144,Tonnes,109.7,Tonnes,2.6646875
+1553,Trumpeter,2012,0.412,144,Tonnes,107.6,Tonnes,2.085555556
+1554,Trumpeter,2013,0.594,144,Tonnes,92.6,Tonnes,2.052416667
+1555,Trumpeter,2014,0.396,144,Tonnes,73.9,Tonnes,2.001
+1556,Trumpeter,2015,0.414,144,Tonnes,56.1,Tonnes,2.03175
+1557,Trumpeter,2016,0.577,144,Tonnes,75.9,Tonnes,2.1045
+1558,Trumpeter,2017,0.598,144,Tonnes,64.6,Tonnes,2.3225
+1559,Trumpeter,2018,0.574,144,Tonnes,52.4,Tonnes,2.478024296
+1560,Trumpeter,2019,0.391,144,Tonnes,62.5,Tonnes,2.437817325
+1561,Trumpeter,2020,0.428,NA,NA,NA,NA,2.584411029
+1562,Trumpeter,2021,0.478,NA,NA,NA,NA,2.7497801
+1563,Trumpeter,2022,0.346,NA,NA,NA,NA,2.208740798
+1564,Tuatua,2008,0.29,43,Tonnes,NA,Tonnes,0.3125
+1565,Tuatua,2009,0.869,43,Tonnes,NA,Tonnes,1.25
+1566,White Warehou,2001,0.045,3374,Tonnes,NA,Tonnes,NA
+1567,White Warehou,2002,0.183,3374,Tonnes,1940.1,Tonnes,NA
+1568,White Warehou,2003,0.183,3374,Tonnes,3346.4,Tonnes,NA
+1569,White Warehou,2004,0.156,3374,Tonnes,2356.7,Tonnes,NA
+1570,White Warehou,2005,0.161,3374,Tonnes,2863.5,Tonnes,NA
+1571,White Warehou,2006,0.235,3374,Tonnes,2496.9,Tonnes,NA
+1572,White Warehou,2007,0.455,3735,Tonnes,3215.1,Tonnes,NA
+1573,White Warehou,2008,0.398,3735,Tonnes,2115.2,Tonnes,0.3434375
+1574,White Warehou,2009,0.419,3735,Tonnes,2161.4,Tonnes,1.37375
+1575,White Warehou,2010,0.504,3735,Tonnes,1690.5,Tonnes,1.60375
+1576,White Warehou,2011,0.495,3735,Tonnes,1324.2,Tonnes,2.10875
+1577,White Warehou,2012,0.448,3735,Tonnes,1374.9,Tonnes,1.550034722
+1578,White Warehou,2013,0.326,3735,Tonnes,1451.7,Tonnes,1.518888889
+1579,White Warehou,2014,0.308,3735,Tonnes,1908.2,Tonnes,1.465833334
+1580,White Warehou,2015,0.263,3735,Tonnes,845.6,Tonnes,1.5
+1581,White Warehou,2016,0.244,3735,Tonnes,1069,Tonnes,1.568333333
+1582,White Warehou,2017,0.333,3735,Tonnes,1064.9,Tonnes,1.24
+1583,White Warehou,2018,0.353,NA,Tonnes,1133.8,Tonnes,0.422103222
+1584,White Warehou,2018,0.353,3735,Tonnes,NA,Tonnes,0.422103222
+1585,White Warehou,2019,0.392,3735,Tonnes,1027.8,Tonnes,1.678308934
+1586,White Warehou,2020,0.741,NA,NA,NA,NA,1.669486833
+1587,White Warehou,2021,0.596,NA,NA,NA,NA,1.72505409
+1588,Yellow Eyed Mullet,2001,0.048,NA,NA,NA,NA,NA
+1589,Yellow Eyed Mullet,2002,0.18,NA,NA,NA,NA,NA
+1590,Yellow Eyed Mullet,2003,0.157,NA,NA,NA,NA,NA
+1591,Yellow Eyed Mullet,2004,0.187,NA,NA,NA,NA,NA
+1592,Yellow Eyed Mullet,2005,0.194,NA,NA,NA,NA,NA
+1593,Yellow Eyed Mullet,2006,0.182,NA,NA,NA,NA,NA
+1594,Yellow Eyed Mullet,2007,0.204,NA,NA,NA,NA,NA
+1595,Yellow Eyed Mullet,2008,0.186,NA,NA,NA,NA,NA
+1596,Yellow Eyed Mullet,2009,0.185,NA,NA,NA,NA,NA
+1597,Yellow Eyed Mullet,2010,0.211,NA,NA,NA,NA,NA
+1598,Yellow Eyed Mullet,2011,0.192,NA,NA,NA,NA,NA
+1599,Yellow Eyed Mullet,2012,0.168,NA,NA,NA,NA,0.9275
+1600,Yellow Eyed Mullet,2013,0.171,NA,NA,NA,NA,3.7025
+1601,Yellow Eyed Mullet,2014,0.211,NA,NA,NA,NA,3.68
+1602,Yellow Eyed Mullet,2015,0.221,NA,NA,NA,NA,3.68
+1603,Yellow Eyed Mullet,2016,0.213,NA,NA,NA,NA,3.68
+1604,Yellow Eyed Mullet,2017,0.267,NA,NA,NA,NA,3.68
+1605,Yellow Eyed Mullet,2018,0.247,NA,NA,NA,NA,3.68
+1606,Yellow Eyed Mullet,2019,0.217,NA,NA,NA,NA,3.68
+1607,Yellow Eyed Mullet,2020,0.242,NA,NA,NA,NA,3.68
+1608,Yellow Eyed Mullet,2021,0.17,NA,NA,NA,NA,3.68
+1609,Yellowfin Tuna,2004,0.527,NA,NA,NA,NA,NA
+1610,Yellowfin Tuna,2005,2.302,263,Tonnes,36,Tonnes,NA
+1611,Yellowfin Tuna,2006,2.596,263,Tonnes,9.2,Tonnes,NA
+1612,Yellowfin Tuna,2007,2.065,263,Tonnes,18.9,Tonnes,NA
+1613,Yellowfin Tuna,2008,2.267,263,Tonnes,22.2,Tonnes,1.745
+1614,Yellowfin Tuna,2009,0.557,263,Tonnes,5.4,Tonnes,6.98
+1615,Yellowfin Tuna,2010,1.67,263,Tonnes,6.2,Tonnes,7.8525
+1616,Alfonsino,1996,NA,2721.9,Tonnes,NA,Tonnes,NA
+1617,Alfonsino,1997,NA,2721.1,Tonnes,NA,Tonnes,NA
+1618,Alfonsino,1998,NA,2727,Tonnes,NA,Tonnes,NA
+1619,Alfonsino,1999,NA,2727.5,Tonnes,NA,Tonnes,NA
+1620,Alfonsino,2000,NA,2726.7,Tonnes,NA,Tonnes,NA
+1621,All species,1996,NA,635804.1,Tonnes,NA,Tonnes,NA
+1622,All species,1997,NA,645066.7,Tonnes,NA,Tonnes,NA
+1623,All species,1998,NA,642339.6,Tonnes,NA,Tonnes,NA
+1624,All species,1999,NA,659318.1,Tonnes,NA,Tonnes,NA
+1625,All species,2000,NA,717348.5,Tonnes,NA,Tonnes,NA
+1626,All species,2001,NA,686818.1,Tonnes,NA,Tonnes,NA
+1627,All species,2002,NA,645753.1,Tonnes,475146.3,Tonnes,NA
+1628,All species,2003,NA,664516.5,Tonnes,495284.3,Tonnes,NA
+1629,All species,2004,NA,643039.5,Tonnes,475901.5,Tonnes,NA
+1630,All species,2005,NA,595176.8,Tonnes,469490.8,Tonnes,NA
+1631,All species,2006,NA,595469.4,Tonnes,452408.8,Tonnes,NA
+1632,All species,2007,NA,590548,Tonnes,441711.1,Tonnes,NA
+1633,All species,2008,NA,567723.7,Tonnes,401016.4,Tonnes,NA
+1634,All species,2009,NA,572260.1,Tonnes,384859.5,Tonnes,NA
+1635,All species,2010,NA,600652.3,Tonnes,398244.2,Tonnes,NA
+1636,All species,2011,NA,612823.5,Tonnes,403719.4,Tonnes,NA
+1637,All species,2012,NA,618364.1,Tonnes,413326.8,Tonnes,NA
+1638,All species,2013,NA,618366.6,Tonnes,397000.3,Tonnes,NA
+1639,All species,2014,NA,643193.2,Tonnes,414139.5,Tonnes,NA
+1640,All species,2015,NA,663730.5,Tonnes,426644.6,Tonnes,NA
+1641,All species,2016,NA,646127.2,Tonnes,400491.6,Tonnes,NA
+1642,All species,2017,NA,592452.2,Tonnes,400570.8,Tonnes,NA
+1643,All species,2018,NA,NA,Tonnes,396773.7,Tonnes,NA
+1644,All species,2018,NA,589241.3,Tonnes,NA,Tonnes,NA
+1645,All species,2019,NA,591009,Tonnes,375392,Tonnes,NA
+1646,Anchovy,2014,NA,560,Tonnes,2,Tonnes,0.82
+1647,Arrow Squid,1996,NA,123332.3,Tonnes,NA,Tonnes,NA
+1648,Arrow Squid,1997,NA,123332.3,Tonnes,NA,Tonnes,NA
+1649,Arrow Squid,1998,NA,123332.3,Tonnes,NA,Tonnes,NA
+1650,Arrow Squid,1999,NA,127332.3,Tonnes,NA,Tonnes,NA
+1651,Arrow Squid,2000,NA,127332.3,Tonnes,NA,Tonnes,NA
+1652,Barracouta,1996,NA,33202.1,Tonnes,NA,Tonnes,NA
+1653,Barracouta,1997,NA,34232.6,Tonnes,NA,Tonnes,NA
+1654,Barracouta,1998,NA,34232.6,Tonnes,NA,Tonnes,NA
+1655,Barracouta,1999,NA,32421,Tonnes,NA,Tonnes,NA
+1656,Barracouta,2000,NA,32421,Tonnes,NA,Tonnes,NA
+1657,Bigeye Tuna,2007,NA,714,Tonnes,196.1,Tonnes,NA
+1658,Bigeye Tuna,2008,NA,714,Tonnes,140.5,Tonnes,4.1875
+1659,Bigeye Tuna,2009,NA,714,Tonnes,236.6,Tonnes,16.75
+1660,Bigeye Tuna,2010,NA,714,Tonnes,161.2,Tonnes,16.1025
+1661,Bigeye Tuna,2011,NA,714,Tonnes,181.3,Tonnes,14.4075
+1662,Bigeye Tuna,2012,NA,714,Tonnes,157.2,Tonnes,15.12
+1663,Bigeye Tuna,2013,NA,714,Tonnes,115.9,Tonnes,15.2125
+1664,Bigeye Tuna,2014,NA,714,Tonnes,116.5,Tonnes,15.76
+1665,Bigeye Tuna,2015,NA,714,Tonnes,83.2,Tonnes,15.76
+1666,Bigeye Tuna,2016,NA,714,Tonnes,172.8,Tonnes,14.945
+1667,Bigeye Tuna,2017,NA,714,Tonnes,104.9,Tonnes,11.87
+1668,Bigeye Tuna,2018,NA,714,Tonnes,136.7,Tonnes,9.978767706
+1669,Bigeye Tuna,2019,NA,714,Tonnes,54.4,Tonnes,9.975070825
+1670,Black Cardinal Fish,1999,NA,3666,Tonnes,NA,Tonnes,NA
+1671,Black Cardinal Fish,2000,NA,3670,Tonnes,NA,Tonnes,NA
+1672,Black Cardinal Fish,2001,NA,3670,Tonnes,NA,Tonnes,NA
+1673,Black Cardinal Fish,2002,NA,3670,Tonnes,2349.8,Tonnes,NA
+1674,Black Cardinal Fish,2003,NA,3670,Tonnes,2721.2,Tonnes,NA
+1675,Black Cardinal Fish,2004,NA,3670,Tonnes,1724.9,Tonnes,NA
+1676,Black Cardinal Fish,2005,NA,3670,Tonnes,1479.7,Tonnes,NA
+1677,Black Cardinal Fish,2006,NA,3670,Tonnes,2901,Tonnes,NA
+1678,Black Cardinal Fish,2007,NA,3751,Tonnes,2215.3,Tonnes,NA
+1679,Black Cardinal Fish,2008,NA,3751,Tonnes,1132.6,Tonnes,0.18
+1680,Black Cardinal Fish,2009,NA,3751,Tonnes,1455.9,Tonnes,0.72
+1681,Black Cardinal Fish,2010,NA,3148,Tonnes,1164.7,Tonnes,0.773888889
+1682,Black Cardinal Fish,2011,NA,2548,Tonnes,862.7,Tonnes,0.946944445
+1683,Black Cardinal Fish,2012,NA,1968,Tonnes,741.6,Tonnes,0.985833333
+1684,Black Cardinal Fish,2013,NA,1968,Tonnes,575.1,Tonnes,1
+1685,Black Cardinal Fish,2014,NA,1968,Tonnes,541.9,Tonnes,1.001111111
+1686,Black Cardinal Fish,2015,NA,1968,Tonnes,665.3,Tonnes,0.998888889
+1687,Black Cardinal Fish,2016,NA,1968,Tonnes,521.6,Tonnes,0.976666667
+1688,Black Cardinal Fish,2017,NA,1968,Tonnes,597.5,Tonnes,0.968888889
+1689,Black Cardinal Fish,2018,NA,1968,Tonnes,401,Tonnes,0.968294795
+1690,Black Cardinal Fish,2019,NA,1968,Tonnes,696.2,Tonnes,0.879043424
+1691,Bladder Kelp,2011,NA,1509.6,Tonnes,53.3,Tonnes,0.0375
+1692,Bladder Kelp,2012,NA,1509.6,Tonnes,34.2,Tonnes,0.15
+1693,Bladder Kelp,2013,NA,1509.6,Tonnes,35,Tonnes,0.15
+1694,Bladder Kelp,2014,NA,1509.6,Tonnes,93.5,Tonnes,0.15
+1695,Bladder Kelp,2015,NA,1509.6,Tonnes,62.1,Tonnes,0.15
+1696,Bladder Kelp,2016,NA,1509.6,Tonnes,30.5,Tonnes,0.15
+1697,Bladder Kelp,2017,NA,1509.6,Tonnes,41.8,Tonnes,0.15
+1698,Bladder Kelp,2018,NA,1509.6,Tonnes,40.8,Tonnes,0.15
+1699,Bladder Kelp,2019,NA,1509.6,Tonnes,67.2,Tonnes,0.15
+1700,Blue Cod,1996,NA,2664.7,Tonnes,NA,Tonnes,NA
+1701,Blue Cod,1997,NA,2664.7,Tonnes,NA,Tonnes,NA
+1702,Blue Cod,1998,NA,2664.7,Tonnes,NA,Tonnes,NA
+1703,Blue Cod,1999,NA,2664.7,Tonnes,NA,Tonnes,NA
+1704,Blue Cod,2000,NA,2664.7,Tonnes,NA,Tonnes,NA
+1705,Blue Moki,1996,NA,604.1,Tonnes,NA,Tonnes,NA
+1706,Blue Moki,1997,NA,604.6,Tonnes,NA,Tonnes,NA
+1707,Blue Moki,1998,NA,604.1,Tonnes,NA,Tonnes,NA
+1708,Blue Moki,1999,NA,604.1,Tonnes,NA,Tonnes,NA
+1709,Blue Moki,2000,NA,604.6,Tonnes,NA,Tonnes,NA
+1710,Blue Warehou,1996,NA,4512,Tonnes,NA,Tonnes,NA
+1711,Blue Warehou,1997,NA,4512,Tonnes,NA,Tonnes,NA
+1712,Blue Warehou,1998,NA,4470.8,Tonnes,NA,Tonnes,NA
+1713,Blue Warehou,1999,NA,4512,Tonnes,NA,Tonnes,NA
+1714,Blue Warehou,2000,NA,4512,Tonnes,NA,Tonnes,NA
+1715,Bluenose,1996,NA,2170.3,Tonnes,NA,Tonnes,NA
+1716,Bluenose,1997,NA,2465.5,Tonnes,NA,Tonnes,NA
+1717,Bluenose,1998,NA,2489.9,Tonnes,NA,Tonnes,NA
+1718,Bluenose,1999,NA,2489.9,Tonnes,NA,Tonnes,NA
+1719,Bluenose,2000,NA,2489.9,Tonnes,NA,Tonnes,NA
+1720,Cockle,2008,NA,3214,Tonnes,1148.1,Tonnes,NA
+1721,Cockle,2009,NA,3214,Tonnes,1169.2,Tonnes,NA
+1722,Cockle,2012,NA,3214,Tonnes,1058.3,Tonnes,NA
+1723,Cockle,2013,NA,3214,Tonnes,1059.2,Tonnes,NA
+1724,Cockle,2014,NA,3214,Tonnes,1090.2,Tonnes,NA
+1725,Cockle,2015,NA,3214,Tonnes,1078,Tonnes,NA
+1726,Cockle,2016,NA,3214,Tonnes,1186.6,Tonnes,NA
+1727,Cockle,2017,NA,3214,Tonnes,1205.5,Tonnes,NA
+1728,Cockle,2018,NA,3214,Tonnes,1220.2,Tonnes,NA
+1729,Cockle,2019,NA,3214,Tonnes,1195,Tonnes,NA
+1730,Deepwater (King) Clam,2007,NA,31.5,Tonnes,NA,Tonnes,NA
+1731,Deepwater (King) Clam,2008,NA,31.5,Tonnes,0.5,Tonnes,NA
+1732,Deepwater (King) Clam,2009,NA,31.5,Tonnes,5.1,Tonnes,NA
+1733,Deepwater (King) Clam,2010,NA,31.5,Tonnes,4.6,Tonnes,NA
+1734,Deepwater (King) Clam,2011,NA,31.5,Tonnes,8,Tonnes,NA
+1735,Deepwater (King) Clam,2012,NA,31.5,Tonnes,10.9,Tonnes,NA
+1736,Deepwater (King) Clam,2013,NA,31.5,Tonnes,1.7,Tonnes,NA
+1737,Deepwater (King) Clam,2014,NA,31.5,Tonnes,6.1,Tonnes,NA
+1738,Deepwater (King) Clam,2015,NA,31.5,Tonnes,3.9,Tonnes,NA
+1739,Deepwater (King) Clam,2016,NA,31.5,Tonnes,4.7,Tonnes,NA
+1740,Deepwater (King) Clam,2017,NA,31.5,Tonnes,3.3,Tonnes,NA
+1741,Deepwater (King) Clam,2018,NA,31.5,Tonnes,6.7,Tonnes,NA
+1742,Deepwater (King) Clam,2019,NA,31.5,Tonnes,6.3,Tonnes,NA
+1743,Deepwater Tuatua,2005,NA,168,Tonnes,14.3,Tonnes,NA
+1744,Deepwater Tuatua,2006,NA,168,Tonnes,13.9,Tonnes,NA
+1745,Deepwater Tuatua,2007,NA,168,Tonnes,21.2,Tonnes,NA
+1746,Deepwater Tuatua,2008,NA,168,Tonnes,23.3,Tonnes,NA
+1747,Deepwater Tuatua,2009,NA,168,Tonnes,6.9,Tonnes,NA
+1748,Deepwater Tuatua,2010,NA,168,Tonnes,12.7,Tonnes,NA
+1749,Deepwater Tuatua,2011,NA,629,Tonnes,42.7,Tonnes,NA
+1750,Deepwater Tuatua,2012,NA,629,Tonnes,16.9,Tonnes,NA
+1751,Deepwater Tuatua,2013,NA,629,Tonnes,37.1,Tonnes,NA
+1752,Deepwater Tuatua,2014,NA,890,Tonnes,63.3,Tonnes,NA
+1753,Deepwater Tuatua,2015,NA,890,Tonnes,100.2,Tonnes,NA
+1754,Deepwater Tuatua,2016,NA,890,Tonnes,159.7,Tonnes,NA
+1755,Deepwater Tuatua,2017,NA,1024,Tonnes,216.3,Tonnes,NA
+1756,Deepwater Tuatua,2018,NA,1024,Tonnes,259.3,Tonnes,NA
+1757,Deepwater Tuatua,2019,NA,1024,Tonnes,282.1,Tonnes,NA
+1758,Elephant Fish,1996,NA,714.7,Tonnes,NA,Tonnes,NA
+1759,Elephant Fish,1997,NA,714.7,Tonnes,NA,Tonnes,NA
+1760,Elephant Fish,1998,NA,714.7,Tonnes,NA,Tonnes,NA
+1761,Elephant Fish,1999,NA,715.1,Tonnes,NA,Tonnes,NA
+1762,Elephant Fish,2000,NA,714.8,Tonnes,NA,Tonnes,NA
+1763,Flats,1996,NA,6670.3,Tonnes,NA,Tonnes,NA
+1764,Flats,1997,NA,6670.3,Tonnes,NA,Tonnes,NA
+1765,Flats,1998,NA,6670.3,Tonnes,NA,Tonnes,NA
+1766,Flats,1999,NA,6670.3,Tonnes,NA,Tonnes,NA
+1767,Flats,2000,NA,6670.3,Tonnes,NA,Tonnes,NA
+1768,Flats,2001,NA,6670.3,Tonnes,NA,Tonnes,NA
+1769,Flats,2002,NA,6670.3,Tonnes,3088,Tonnes,NA
+1770,Flats,2003,NA,6670.3,Tonnes,3298.5,Tonnes,NA
+1771,Flats,2004,NA,6670.3,Tonnes,3208.2,Tonnes,NA
+1772,Flats,2005,NA,6670.3,Tonnes,3875.8,Tonnes,NA
+1773,Flats,2006,NA,6670.3,Tonnes,3721.4,Tonnes,NA
+1774,Flats,2007,NA,6670.3,Tonnes,4065.5,Tonnes,NA
+1775,Flats,2008,NA,5418.8,Tonnes,3632.4,Tonnes,NA
+1776,Flats,2009,NA,5418.8,Tonnes,3413,Tonnes,NA
+1777,Flats,2010,NA,5418.8,Tonnes,3273.5,Tonnes,NA
+1778,Flats,2011,NA,5418.8,Tonnes,2468.5,Tonnes,NA
+1779,Flats,2012,NA,5418.8,Tonnes,2864.6,Tonnes,NA
+1780,Flats,2013,NA,5418.8,Tonnes,2778.9,Tonnes,NA
+1781,Flats,2014,NA,5418.8,Tonnes,2671.4,Tonnes,NA
+1782,Flats,2015,NA,5418.8,Tonnes,2465.7,Tonnes,NA
+1783,Flats,2016,NA,5418.8,Tonnes,2792.1,Tonnes,NA
+1784,Flats,2017,NA,5418.8,Tonnes,2852,Tonnes,NA
+1785,Flats,2018,NA,NA,Tonnes,2031.6,Tonnes,NA
+1786,Flats,2018,NA,5418.8,Tonnes,NA,Tonnes,NA
+1787,Flats,2019,NA,5121.5,Tonnes,1938.8,Tonnes,NA
+1788,Freshwater Eels (South Island),2001,NA,420.2,Tonnes,NA,Tonnes,NA
+1789,Freshwater Eels (South Island),2002,NA,420.2,Tonnes,213,Tonnes,NA
+1790,Freshwater Eels (South Island),2003,NA,420.2,Tonnes,170.1,Tonnes,NA
+1791,Freshwater Eels (South Island),2004,NA,420.2,Tonnes,265.4,Tonnes,NA
+1792,Freshwater Eels (South Island),2005,NA,420.2,Tonnes,280.5,Tonnes,NA
+1793,Freshwater Eels (South Island),2006,NA,420.2,Tonnes,271.9,Tonnes,NA
+1794,Freshwater Eels (South Island),2007,NA,420.2,Tonnes,285.4,Tonnes,NA
+1795,Freshwater Eels (South Island),2008,NA,420.2,Tonnes,287.7,Tonnes,NA
+1796,Freshwater Eels (South Island),2009,NA,420.2,Tonnes,215.2,Tonnes,NA
+1797,Freshwater Eels (South Island),2010,NA,420.2,Tonnes,242.9,Tonnes,NA
+1798,Freshwater Eels (South Island),2011,NA,420.2,Tonnes,296.3,Tonnes,NA
+1799,Freshwater Eels (South Island),2012,NA,420.2,Tonnes,336.8,Tonnes,NA
+1800,Freshwater Eels (South Island),2013,NA,420.2,Tonnes,352.3,Tonnes,NA
+1801,Freshwater Eels (South Island),2014,NA,420.2,Tonnes,298.8,Tonnes,NA
+1802,Freshwater Eels (South Island),2015,NA,420.2,Tonnes,243,Tonnes,NA
+1803,Freshwater Eels (South Island),2016,NA,420.2,Tonnes,200.8,Tonnes,NA
+1804,Freshwater Eels (South Island),2017,NA,121.9,Tonnes,117.9,Tonnes,NA
+1805,Frilled Venus Shell,2005,NA,16,Tonnes,1.3,Tonnes,NA
+1806,Frilled Venus Shell,2006,NA,16,Tonnes,0.2,Tonnes,NA
+1807,Frilled Venus Shell,2007,NA,16,Tonnes,0,Tonnes,NA
+1808,Frilled Venus Shell,2008,NA,16,Tonnes,NA,Tonnes,NA
+1809,Frilled Venus Shell,2009,NA,16,Tonnes,0,Tonnes,NA
+1810,Frilled Venus Shell,2010,NA,16,Tonnes,NA,Tonnes,NA
+1811,Frilled Venus Shell,2011,NA,16,Tonnes,NA,Tonnes,NA
+1812,Frilled Venus Shell,2012,NA,16,Tonnes,0.4,Tonnes,NA
+1813,Frilled Venus Shell,2013,NA,16,Tonnes,1.2,Tonnes,NA
+1814,Frilled Venus Shell,2014,NA,16,Tonnes,1.1,Tonnes,NA
+1815,Frilled Venus Shell,2015,NA,16,Tonnes,0.9,Tonnes,NA
+1816,Frilled Venus Shell,2016,NA,16,Tonnes,1,Tonnes,NA
+1817,Frilled Venus Shell,2017,NA,16,Tonnes,NA,Tonnes,NA
+1818,Frilled Venus Shell,2018,NA,16,Tonnes,NA,Tonnes,NA
+1819,Frilled Venus Shell,2019,NA,16,Tonnes,0,Tonnes,NA
+1820,Frostfish,1999,NA,3858,Tonnes,NA,Tonnes,NA
+1821,Frostfish,2000,NA,3858,Tonnes,NA,Tonnes,NA
+1822,Gemfish,1996,NA,7480.4,Tonnes,NA,Tonnes,NA
+1823,Gemfish,1997,NA,4861.9,Tonnes,NA,Tonnes,NA
+1824,Gemfish,1998,NA,2211,Tonnes,NA,Tonnes,NA
+1825,Gemfish,1999,NA,1590,Tonnes,NA,Tonnes,NA
+1826,Gemfish,2000,NA,1590,Tonnes,NA,Tonnes,NA
+1827,Ghost Shark,1999,NA,2943,Tonnes,NA,Tonnes,NA
+1828,Ghost Shark,2000,NA,2943,Tonnes,NA,Tonnes,NA
+1829,Giant Spider Crab,2007,NA,419,Tonnes,29.6,Tonnes,NA
+1830,Giant Spider Crab,2008,NA,419,Tonnes,29.5,Tonnes,NA
+1831,Green-lipped Mussel,2005,NA,1720,Tonnes,538.6,Tonnes,NA
+1832,Green-lipped Mussel,2006,NA,1720,Tonnes,334.8,Tonnes,NA
+1833,Green-lipped Mussel,2007,NA,1720,Tonnes,229,Tonnes,NA
+1834,Green-lipped Mussel,2008,NA,1720,Tonnes,152.6,Tonnes,NA
+1835,Green-lipped Mussel,2009,NA,1720,Tonnes,74,Tonnes,NA
+1836,Green-lipped Mussel,2010,NA,1720,Tonnes,187.7,Tonnes,NA
+1837,Green-lipped Mussel,2011,NA,1720,Tonnes,80.4,Tonnes,NA
+1838,Green-lipped Mussel,2012,NA,1720,Tonnes,162.6,Tonnes,NA
+1839,Green-lipped Mussel,2013,NA,1720,Tonnes,127.1,Tonnes,NA
+1840,Green-lipped Mussel,2014,NA,1720,Tonnes,166.3,Tonnes,NA
+1841,Green-lipped Mussel,2015,NA,1720,Tonnes,207,Tonnes,NA
+1842,Green-lipped Mussel,2016,NA,1720,Tonnes,203.4,Tonnes,NA
+1843,Green-lipped Mussel,2017,NA,1720,Tonnes,209.1,Tonnes,NA
+1844,Green-lipped Mussel,2018,NA,1720,Tonnes,151.9,Tonnes,NA
+1845,Green-lipped Mussel,2019,NA,1675,Tonnes,148.8,Tonnes,NA
+1846,Grey Mullet,1996,NA,1085.8,Tonnes,NA,Tonnes,NA
+1847,Grey Mullet,1997,NA,1085.8,Tonnes,NA,Tonnes,NA
+1848,Grey Mullet,1998,NA,1085.8,Tonnes,NA,Tonnes,NA
+1849,Grey Mullet,1999,NA,1005.1,Tonnes,NA,Tonnes,NA
+1850,Grey Mullet,2000,NA,1005,Tonnes,NA,Tonnes,NA
+1851,Gurnard,1996,NA,4981.7,Tonnes,NA,Tonnes,NA
+1852,Gurnard,1997,NA,5280.4,Tonnes,NA,Tonnes,NA
+1853,Gurnard,1998,NA,5143.1,Tonnes,NA,Tonnes,NA
+1854,Gurnard,1999,NA,5143.1,Tonnes,NA,Tonnes,NA
+1855,Gurnard,2000,NA,5143.1,Tonnes,NA,Tonnes,NA
+1856,Hake,1996,NA,13997,Tonnes,NA,Tonnes,NA
+1857,Hake,1997,NA,13997,Tonnes,NA,Tonnes,NA
+1858,Hake,1998,NA,13997,Tonnes,NA,Tonnes,NA
+1859,Hake,1999,NA,13997,Tonnes,NA,Tonnes,NA
+1860,Hake,2000,NA,13997,Tonnes,NA,Tonnes,NA
+1861,Hapuku & Bass,1996,NA,2178.5,Tonnes,NA,Tonnes,NA
+1862,Hapuku & Bass,1997,NA,2178.5,Tonnes,NA,Tonnes,NA
+1863,Hapuku & Bass,1998,NA,2181,Tonnes,NA,Tonnes,NA
+1864,Hapuku & Bass,1999,NA,2181,Tonnes,NA,Tonnes,NA
+1865,Hapuku & Bass,2000,NA,2181,Tonnes,NA,Tonnes,NA
+1866,Hoki,1996,NA,240010,Tonnes,NA,Tonnes,NA
+1867,Hoki,1997,NA,250010,Tonnes,NA,Tonnes,NA
+1868,Hoki,1998,NA,250010,Tonnes,NA,Tonnes,NA
+1869,Hoki,1999,NA,250010,Tonnes,NA,Tonnes,NA
+1870,Hoki,2000,NA,250010,Tonnes,NA,Tonnes,NA
+1871,Horse Mussel,2005,NA,29,Tonnes,1.3,Tonnes,NA
+1872,Horse Mussel,2006,NA,29,Tonnes,1,Tonnes,NA
+1873,Horse Mussel,2007,NA,29,Tonnes,0.3,Tonnes,NA
+1874,Horse Mussel,2008,NA,29,Tonnes,0.5,Tonnes,NA
+1875,Horse Mussel,2009,NA,29,Tonnes,0.1,Tonnes,NA
+1876,Horse Mussel,2010,NA,29,Tonnes,0.4,Tonnes,NA
+1877,Horse Mussel,2011,NA,29,Tonnes,0.9,Tonnes,NA
+1878,Horse Mussel,2012,NA,29,Tonnes,0.6,Tonnes,NA
+1879,Horse Mussel,2013,NA,29,Tonnes,NA,Tonnes,NA
+1880,Horse Mussel,2014,NA,29,Tonnes,0.2,Tonnes,NA
+1881,Horse Mussel,2019,NA,29,Tonnes,0,Tonnes,NA
+1882,Jack Mackerel,1996,NA,60546.5,Tonnes,NA,Tonnes,NA
+1883,Jack Mackerel,1997,NA,60546.5,Tonnes,NA,Tonnes,NA
+1884,Jack Mackerel,1998,NA,60546.5,Tonnes,NA,Tonnes,NA
+1885,Jack Mackerel,1999,NA,60546.5,Tonnes,NA,Tonnes,NA
+1886,Jack Mackerel,2000,NA,60546.5,Tonnes,NA,Tonnes,NA
+1887,Jack Mackerel,2001,NA,60546.5,Tonnes,NA,Tonnes,NA
+1888,Jack Mackerel,2002,NA,60547.2,Tonnes,32585.8,Tonnes,NA
+1889,Jack Mackerel,2003,NA,60547.2,Tonnes,34481.4,Tonnes,NA
+1890,Jack Mackerel,2004,NA,60547.2,Tonnes,36988.9,Tonnes,NA
+1891,Jack Mackerel,2005,NA,60547.2,Tonnes,46640.8,Tonnes,NA
+1892,Jack Mackerel,2006,NA,60547.2,Tonnes,42705.5,Tonnes,NA
+1893,Jack Mackerel,2007,NA,60547.2,Tonnes,39188.9,Tonnes,NA
+1894,Jack Mackerel,2008,NA,60547.2,Tonnes,47855.4,Tonnes,0.04625
+1895,Jack Mackerel,2009,NA,60547.2,Tonnes,40582.4,Tonnes,0.185
+1896,Jack Mackerel,2010,NA,60547.2,Tonnes,42944.3,Tonnes,0.240625
+1897,Jack Mackerel,2011,NA,60547.2,Tonnes,40052.6,Tonnes,0.405625
+1898,Jack Mackerel,2012,NA,60547.2,Tonnes,40261.4,Tonnes,0.4
+1899,Jack Mackerel,2013,NA,60547.2,Tonnes,43658.7,Tonnes,0.401875
+1900,Jack Mackerel,2014,NA,60547.2,Tonnes,50387.7,Tonnes,0.4075
+1901,Jack Mackerel,2015,NA,60547.2,Tonnes,48261.9,Tonnes,0.37875
+1902,Jack Mackerel,2016,NA,60547.2,Tonnes,40620.1,Tonnes,0.291875
+1903,Jack Mackerel,2017,NA,51327.2,Tonnes,47355.9,Tonnes,0.290625
+1904,Jack Mackerel,2018,NA,51327.2,Tonnes,45301.6,Tonnes,0.293014859
+1905,Jack Mackerel,2019,NA,51327.2,Tonnes,40733.7,Tonnes,0.292479469
+1906,John Dory,1996,NA,1106.7,Tonnes,NA,Tonnes,NA
+1907,John Dory,1997,NA,1106.7,Tonnes,NA,Tonnes,NA
+1908,John Dory,1998,NA,1106.7,Tonnes,NA,Tonnes,NA
+1909,John Dory,1999,NA,1106.7,Tonnes,NA,Tonnes,NA
+1910,John Dory,2000,NA,1106.7,Tonnes,NA,Tonnes,NA
+1911,Kingfish,2004,NA,200,Tonnes,159.9,Tonnes,NA
+1912,Kingfish,2005,NA,200,Tonnes,194.6,Tonnes,NA
+1913,Kingfish,2006,NA,200,Tonnes,168.9,Tonnes,NA
+1914,Kingfish,2007,NA,200,Tonnes,161.4,Tonnes,NA
+1915,Kingfish,2008,NA,200,Tonnes,157.1,Tonnes,1.288571429
+1916,Kingfish,2009,NA,200,Tonnes,153.8,Tonnes,5.154285715
+1917,Kingfish,2010,NA,200,Tonnes,172.1,Tonnes,5.138214286
+1918,Kingfish,2011,NA,200,Tonnes,171,Tonnes,4.971428571
+1919,Kingfish,2012,NA,209,Tonnes,235.2,Tonnes,4.606428571
+1920,Kingfish,2013,NA,209,Tonnes,226,Tonnes,4.485714285
+1921,Kingfish,2014,NA,217,Tonnes,283.6,Tonnes,4.251428572
+1922,Kingfish,2015,NA,217,Tonnes,234.9,Tonnes,4.4575
+1923,Kingfish,2016,NA,217,Tonnes,248.2,Tonnes,4.650357143
+1924,Kingfish,2017,NA,217,Tonnes,234.6,Tonnes,4.239642857
+1925,Kingfish,2018,NA,NA,Tonnes,255.3,Tonnes,3.210277055
+1926,Kingfish,2018,NA,217,Tonnes,NA,Tonnes,3.210277055
+1927,Kingfish,2019,NA,222,Tonnes,316.4,Tonnes,3.285703255
+1928,Knobbed Whelk,2007,NA,67,Tonnes,0.1,Tonnes,NA
+1929,Knobbed Whelk,2008,NA,67,Tonnes,9.4,Tonnes,0.15
+1930,Knobbed Whelk,2009,NA,67,Tonnes,0.5,Tonnes,0.6
+1931,Knobbed Whelk,2010,NA,67,Tonnes,18.6,Tonnes,0.63
+1932,Knobbed Whelk,2011,NA,67,Tonnes,16.5,Tonnes,0.72
+1933,Knobbed Whelk,2012,NA,67,Tonnes,0.9,Tonnes,0.7175
+1934,Knobbed Whelk,2013,NA,67,Tonnes,0.6,Tonnes,0.71
+1935,Knobbed Whelk,2014,NA,67,Tonnes,0.3,Tonnes,0.71
+1936,Knobbed Whelk,2015,NA,67,Tonnes,0.2,Tonnes,0.71
+1937,Knobbed Whelk,2016,NA,67,Tonnes,0,Tonnes,0.71
+1938,Knobbed Whelk,2017,NA,67,Tonnes,0.2,Tonnes,0.71
+1939,Knobbed Whelk,2018,NA,67,Tonnes,0.2,Tonnes,0.71
+1940,Knobbed Whelk,2019,NA,67,Tonnes,0.4,Tonnes,0.71
+1941,Large Trough Shell,2005,NA,162,Tonnes,60.1,Tonnes,NA
+1942,Large Trough Shell,2006,NA,162,Tonnes,50,Tonnes,NA
+1943,Large Trough Shell,2007,NA,162,Tonnes,61.6,Tonnes,NA
+1944,Large Trough Shell,2008,NA,162,Tonnes,51.9,Tonnes,NA
+1945,Large Trough Shell,2009,NA,162,Tonnes,38.6,Tonnes,NA
+1946,Large Trough Shell,2010,NA,162,Tonnes,29.2,Tonnes,NA
+1947,Large Trough Shell,2011,NA,180,Tonnes,30,Tonnes,NA
+1948,Large Trough Shell,2012,NA,180,Tonnes,47.3,Tonnes,NA
+1949,Large Trough Shell,2013,NA,180,Tonnes,77.3,Tonnes,NA
+1950,Large Trough Shell,2014,NA,744,Tonnes,68.8,Tonnes,NA
+1951,Large Trough Shell,2015,NA,744,Tonnes,68.6,Tonnes,NA
+1952,Large Trough Shell,2016,NA,744,Tonnes,71.8,Tonnes,NA
+1953,Large Trough Shell,2017,NA,814,Tonnes,62.6,Tonnes,NA
+1954,Large Trough Shell,2018,NA,814,Tonnes,71.9,Tonnes,NA
+1955,Large Trough Shell,2019,NA,814,Tonnes,62.9,Tonnes,NA
+1956,Ling,1996,NA,22111.1,Tonnes,NA,Tonnes,NA
+1957,Ling,1997,NA,22111.1,Tonnes,NA,Tonnes,NA
+1958,Ling,1998,NA,22113.1,Tonnes,NA,Tonnes,NA
+1959,Ling,1999,NA,22113.1,Tonnes,NA,Tonnes,NA
+1960,Ling,2000,NA,22113.1,Tonnes,NA,Tonnes,NA
+1961,Long-finned Freshwater Eel,2004,NA,1,Tonnes,0.2,Tonnes,NA
+1962,Long-finned Freshwater Eel,2005,NA,194,Tonnes,129.3,Tonnes,NA
+1963,Long-finned Freshwater Eel,2006,NA,194,Tonnes,120.8,Tonnes,NA
+1964,Long-finned Freshwater Eel,2007,NA,194,Tonnes,97.4,Tonnes,NA
+1965,Long-finned Freshwater Eel,2008,NA,82,Tonnes,72.8,Tonnes,NA
+1966,Long-finned Freshwater Eel,2009,NA,82,Tonnes,44.4,Tonnes,NA
+1967,Long-finned Freshwater Eel,2010,NA,82,Tonnes,47.6,Tonnes,NA
+1968,Long-finned Freshwater Eel,2011,NA,82,Tonnes,35.8,Tonnes,NA
+1969,Long-finned Freshwater Eel,2012,NA,82,Tonnes,77.3,Tonnes,NA
+1970,Long-finned Freshwater Eel,2013,NA,82,Tonnes,64.1,Tonnes,NA
+1971,Long-finned Freshwater Eel,2014,NA,82,Tonnes,59.8,Tonnes,NA
+1972,Long-finned Freshwater Eel,2015,NA,82,Tonnes,35.2,Tonnes,NA
+1973,Long-finned Freshwater Eel,2016,NA,82,Tonnes,21.5,Tonnes,NA
+1974,Long-finned Freshwater Eel,2017,NA,162,Tonnes,80.7,Tonnes,NA
+1975,Long-finned Freshwater Eel,2018,NA,163,Tonnes,86.4,Tonnes,NA
+1976,Long-finned Freshwater Eel,2019,NA,137,Tonnes,66,Tonnes,NA
+1977,Orange Roughy,1996,NA,21330,Tonnes,NA,Tonnes,NA
+1978,Orange Roughy,1997,NA,21330,Tonnes,NA,Tonnes,NA
+1979,Orange Roughy,1998,NA,21330.2,Tonnes,NA,Tonnes,NA
+1980,Orange Roughy,1999,NA,20354.8,Tonnes,NA,Tonnes,NA
+1981,Orange Roughy,2000,NA,20354.8,Tonnes,NA,Tonnes,NA
+1982,Oreos,1996,NA,26159.9,Tonnes,NA,Tonnes,NA
+1983,Oreos,1997,NA,25653.9,Tonnes,NA,Tonnes,NA
+1984,Oreos,1998,NA,25653.9,Tonnes,NA,Tonnes,NA
+1985,Oreos,1999,NA,24643,Tonnes,NA,Tonnes,NA
+1986,Oreos,2000,NA,23943,Tonnes,NA,Tonnes,NA
+1987,Oreos,2001,NA,22443,Tonnes,NA,Tonnes,NA
+1988,Oreos,2002,NA,20143,Tonnes,18720.9,Tonnes,NA
+1989,Oreos,2003,NA,19343,Tonnes,17621.3,Tonnes,NA
+1990,Oreos,2004,NA,21143,Tonnes,17104.5,Tonnes,NA
+1991,Oreos,2005,NA,21143,Tonnes,17220.2,Tonnes,NA
+1992,Oreos,2006,NA,21143,Tonnes,17475,Tonnes,NA
+1993,Oreos,2007,NA,21143,Tonnes,17111.8,Tonnes,NA
+1994,Oreos,2008,NA,18610,Tonnes,16978.6,Tonnes,NA
+1995,Oreos,2009,NA,18610,Tonnes,15877.6,Tonnes,NA
+1996,Oreos,2010,NA,18860,Tonnes,16792,Tonnes,NA
+1997,Oreos,2011,NA,18860,Tonnes,14421.7,Tonnes,NA
+1998,Oreos,2012,NA,18860,Tonnes,13087.6,Tonnes,NA
+1999,Oreos,2013,NA,18860,Tonnes,10977.9,Tonnes,NA
+2000,Oreos,2014,NA,18860,Tonnes,11250.7,Tonnes,NA
+2001,Oreos,2015,NA,18860,Tonnes,11058.8,Tonnes,NA
+2002,Oreos,2016,NA,14860,Tonnes,8111.1,Tonnes,NA
+2003,Oreos,2017,NA,14860,Tonnes,8019.6,Tonnes,NA
+2004,Oreos,2018,NA,14860,Tonnes,8783.2,Tonnes,NA
+2005,Oreos,2019,NA,15460,Tonnes,8949.5,Tonnes,NA
+2006,Oysters Dredge,1997,NA,505,Tonnes,NA,Tonnes,NA
+2007,Oysters Dredge,1998,NA,2030.5,Tonnes,NA,Tonnes,NA
+2008,Oysters Dredge,1999,NA,2030.5,Tonnes,NA,Tonnes,NA
+2009,Oysters Dredge,2000,NA,2030.5,Tonnes,NA,Tonnes,NA
+2010,Oysters Dredge,2001,NA,2030.5,Tonnes,NA,Tonnes,NA
+2011,Oysters Dredge,2002,NA,2030.5,Tonnes,1475.8,Tonnes,NA
+2012,Oysters Dredge,2003,NA,2030.5,Tonnes,944.3,Tonnes,NA
+2013,Oysters Dredge,2004,NA,2030.5,Tonnes,860.5,Tonnes,NA
+2014,Oysters Dredge,2005,NA,2030.5,Tonnes,909.9,Tonnes,NA
+2015,Oysters Dredge,2006,NA,2058.5,Tonnes,933.8,Tonnes,NA
+2016,Oysters Dredge,2007,NA,2058.5,Tonnes,883.7,Tonnes,NA
+2017,Oysters Dredge,2008,NA,2099.5,Tonnes,826.3,Tonnes,NA
+2018,Oysters Dredge,2009,NA,2099.5,Tonnes,881.8,Tonnes,NA
+2019,Oysters Dredge,2010,NA,2119.5,Tonnes,1035.8,Tonnes,NA
+2020,Oysters Dredge,2011,NA,2119.5,Tonnes,1122,Tonnes,NA
+2021,Oysters Dredge,2012,NA,2119.5,Tonnes,1253.4,Tonnes,NA
+2022,Oysters Dredge,2013,NA,2119.5,Tonnes,1358.7,Tonnes,NA
+2023,Oysters Dredge,2014,NA,2148,Tonnes,1357.6,Tonnes,NA
+2024,Oysters Dredge,2015,NA,2148,Tonnes,1023.6,Tonnes,NA
+2025,Oysters Dredge,2016,NA,2148,Tonnes,1026.1,Tonnes,NA
+2026,Oysters Dredge,2017,NA,2148,Tonnes,1019.5,Tonnes,NA
+2027,Oysters Dredge,2018,NA,2148,Tonnes,1010.7,Tonnes,NA
+2028,Oysters Dredge,2019,NA,2148,Tonnes,968.7,Tonnes,NA
+2029,Pacific Bluefin Tuna,2006,NA,116,Tonnes,21.1,Tonnes,NA
+2030,Pacific Bluefin Tuna,2009,NA,116,Tonnes,15.7,Tonnes,26.07
+2031,Pacific Bluefin Tuna,2010,NA,116,Tonnes,13.6,Tonnes,27.415
+2032,Pacific Bluefin Tuna,2011,NA,116,Tonnes,27.4,Tonnes,31.4775
+2033,Pacific Bluefin Tuna,2012,NA,116,Tonnes,13.7,Tonnes,31.4975
+2034,Pacific Bluefin Tuna,2013,NA,116,Tonnes,24.4,Tonnes,31.31
+2035,Pacific Bluefin Tuna,2014,NA,116,Tonnes,12.1,Tonnes,31.31
+2036,Pacific Bluefin Tuna,2015,NA,116,Tonnes,16.5,Tonnes,31.31
+2037,Pacific Bluefin Tuna,2016,NA,116,Tonnes,18,Tonnes,31.31
+2038,Pacific Bluefin Tuna,2017,NA,116,Tonnes,14.4,Tonnes,31.31
+2039,Pacific Bluefin Tuna,2018,NA,116,Tonnes,20.7,Tonnes,31.31
+2040,Pacific Bluefin Tuna,2019,NA,116,Tonnes,21.6,Tonnes,31.31
+2041,Pale Ghost Shark,2000,NA,803,Tonnes,NA,Tonnes,NA
+2042,Patagonian Toothfish,2011,NA,49.5,Tonnes,22.7,Tonnes,3.6225
+2043,Patagonian Toothfish,2012,NA,49.5,Tonnes,34.5,Tonnes,3.6225
+2044,Patagonian Toothfish,2013,NA,49.5,Tonnes,26.9,Tonnes,5.2
+2045,Patagonian Toothfish,2014,NA,49.5,Tonnes,0,Tonnes,10
+2046,Patagonian Toothfish,2015,NA,49.5,Tonnes,36.1,Tonnes,10
+2047,Patagonian Toothfish,2016,NA,49.5,Tonnes,6.4,Tonnes,10
+2048,Patagonian Toothfish,2017,NA,49.5,Tonnes,18.6,Tonnes,10
+2049,Patagonian Toothfish,2018,NA,49.5,Tonnes,4.5,Tonnes,10
+2050,Patagonian Toothfish,2019,NA,49.5,Tonnes,0,Tonnes,10
+2051,Paua,1996,NA,1253.7,Tonnes,NA,Tonnes,NA
+2052,Paua,1997,NA,1253.8,Tonnes,NA,Tonnes,NA
+2053,Paua,1998,NA,1257.7,Tonnes,NA,Tonnes,NA
+2054,Paua,1999,NA,1257.8,Tonnes,NA,Tonnes,NA
+2055,Paua,2000,NA,1252.8,Tonnes,NA,Tonnes,NA
+2056,Pilchard,2003,NA,2485,Tonnes,1048.9,Tonnes,NA
+2057,Pilchard,2004,NA,2485,Tonnes,1319.7,Tonnes,NA
+2058,Pilchard,2005,NA,2485,Tonnes,958.7,Tonnes,NA
+2059,Pilchard,2006,NA,2485,Tonnes,1010,Tonnes,NA
+2060,Pilchard,2007,NA,2485,Tonnes,864,Tonnes,NA
+2061,Pilchard,2008,NA,2485,Tonnes,720.8,Tonnes,0.175
+2062,Pilchard,2009,NA,2485,Tonnes,670.8,Tonnes,0.7
+2063,Pilchard,2010,NA,2485,Tonnes,667.2,Tonnes,0.735
+2064,Pilchard,2011,NA,2485,Tonnes,333.1,Tonnes,0.84
+2065,Pilchard,2012,NA,2485,Tonnes,220.7,Tonnes,0.8375
+2066,Pilchard,2013,NA,2485,Tonnes,391.1,Tonnes,0.83
+2067,Pilchard,2014,NA,2485,Tonnes,364.9,Tonnes,0.83
+2068,Pilchard,2015,NA,2485,Tonnes,235,Tonnes,0.83
+2069,Pilchard,2016,NA,2485,Tonnes,324.4,Tonnes,0.845357143
+2070,Pilchard,2017,NA,2485,Tonnes,284.4,Tonnes,0.896428572
+2071,Pilchard,2018,NA,2485,Tonnes,624.2,Tonnes,0.911426385
+2072,Pilchard,2019,NA,2485,Tonnes,343.4,Tonnes,0.911419824
+2073,Pipi,2008,NA,204,Tonnes,143.4,Tonnes,0.275
+2074,Pipi,2009,NA,204,Tonnes,131.9,Tonnes,1.1
+2075,Pipi,2010,NA,204,Tonnes,136.3,Tonnes,1.06225
+2076,Pipi,2011,NA,204,Tonnes,86.8,Tonnes,0.94425
+2077,Pipi,2012,NA,204,Tonnes,54.8,Tonnes,0.9275
+2078,Pipi,2013,NA,204,Tonnes,0,Tonnes,0.92
+2079,Pipi,2014,NA,204,Tonnes,NA,Tonnes,0.92
+2080,Pipi,2015,NA,204,Tonnes,0,Tonnes,0.92
+2081,Pipi,2016,NA,204,Tonnes,NA,Tonnes,0.92
+2082,Pipi,2017,NA,204,Tonnes,NA,Tonnes,0.92
+2083,Pipi,2018,NA,204,Tonnes,NA,Tonnes,0.92
+2084,Pipi,2019,NA,204,Tonnes,0,Tonnes,0.92
+2085,Prawn Killer,2008,NA,36,Tonnes,7.5,Tonnes,0.0625
+2086,Queen Scallop,2003,NA,380,Tonnes,139,Tonnes,NA
+2087,Queen Scallop,2004,NA,380,Tonnes,114.1,Tonnes,NA
+2088,Queen Scallop,2005,NA,380,Tonnes,35.1,Tonnes,NA
+2089,Queen Scallop,2006,NA,380,Tonnes,18.6,Tonnes,NA
+2090,Queen Scallop,2007,NA,380,Tonnes,6.5,Tonnes,NA
+2091,Queen Scallop,2008,NA,380,Tonnes,9.5,Tonnes,0.425
+2092,Queen Scallop,2009,NA,380,Tonnes,48.7,Tonnes,1.7
+2093,Queen Scallop,2010,NA,380,Tonnes,25.3,Tonnes,1.7875
+2094,Queen Scallop,2011,NA,380,Tonnes,2.8,Tonnes,2.0525
+2095,Queen Scallop,2012,NA,380,Tonnes,1.9,Tonnes,2.055
+2096,Queen Scallop,2013,NA,380,Tonnes,70.5,Tonnes,2.04
+2097,Queen Scallop,2016,NA,380,Tonnes,13.6,Tonnes,2.04
+2098,Queen Scallop,2017,NA,380,Tonnes,23.1,Tonnes,2.04
+2099,Queen Scallop,2018,NA,380,Tonnes,25.7,Tonnes,2.04
+2100,Queen Scallop,2019,NA,380,Tonnes,12.1,Tonnes,2.04
+2101,Rays Bream,2005,NA,980,Tonnes,259.3,Tonnes,NA
+2102,Rays Bream,2006,NA,980,Tonnes,214.7,Tonnes,NA
+2103,Rays Bream,2007,NA,980,Tonnes,148.8,Tonnes,NA
+2104,Rays Bream,2008,NA,980,Tonnes,151.4,Tonnes,NA
+2105,Rays Bream,2009,NA,980,Tonnes,178.2,Tonnes,NA
+2106,Rays Bream,2010,NA,980,Tonnes,119.3,Tonnes,NA
+2107,Rays Bream,2011,NA,980,Tonnes,149.9,Tonnes,NA
+2108,Rays Bream,2012,NA,980,Tonnes,146.4,Tonnes,NA
+2109,Rays Bream,2013,NA,980,Tonnes,822.9,Tonnes,NA
+2110,Rays Bream,2014,NA,980,Tonnes,626.9,Tonnes,NA
+2111,Rays Bream,2015,NA,980,Tonnes,224.2,Tonnes,NA
+2112,Rays Bream,2016,NA,980,Tonnes,125.2,Tonnes,NA
+2113,Rays Bream,2017,NA,980,Tonnes,100.7,Tonnes,NA
+2114,Rays Bream,2018,NA,980,Tonnes,289.6,Tonnes,NA
+2115,Rays Bream,2019,NA,980,Tonnes,140.1,Tonnes,NA
+2116,Red Bait,2010,NA,5050,Tonnes,1065.5,Tonnes,0.0975
+2117,Red Bait,2011,NA,5050,Tonnes,1017.4,Tonnes,0.39
+2118,Red Bait,2012,NA,5050,Tonnes,1599.3,Tonnes,0.39
+2119,Red Bait,2013,NA,5050,Tonnes,2152.4,Tonnes,0.39
+2120,Red Bait,2014,NA,5050,Tonnes,2855.9,Tonnes,0.39
+2121,Red Bait,2015,NA,5050,Tonnes,2155.8,Tonnes,0.371875
+2122,Red Bait,2016,NA,5050,Tonnes,1455.5,Tonnes,0.3175
+2123,Red Bait,2017,NA,5050,Tonnes,2600,Tonnes,0.3175
+2124,Red Bait,2018,NA,5050,Tonnes,1763.8,Tonnes,0.317380618
+2125,Red Bait,2019,NA,5050,Tonnes,2673.6,Tonnes,0.317022473
+2126,Red Cod,1996,NA,16066.4,Tonnes,NA,Tonnes,NA
+2127,Red Cod,1997,NA,16066.4,Tonnes,NA,Tonnes,NA
+2128,Red Cod,1998,NA,16066.4,Tonnes,NA,Tonnes,NA
+2129,Red Cod,1999,NA,16066.4,Tonnes,NA,Tonnes,NA
+2130,Red Cod,2000,NA,16066.4,Tonnes,NA,Tonnes,NA
+2131,Red Crab,2005,NA,48,Tonnes,0,Tonnes,NA
+2132,Red Crab,2006,NA,48,Tonnes,0,Tonnes,NA
+2133,Red Crab,2007,NA,48,Tonnes,0,Tonnes,NA
+2134,Red Crab,2008,NA,48,Tonnes,6,Tonnes,NA
+2135,Red Crab,2009,NA,48,Tonnes,0.1,Tonnes,NA
+2136,Red Crab,2010,NA,48,Tonnes,1.1,Tonnes,NA
+2137,Red Crab,2011,NA,48,Tonnes,6,Tonnes,NA
+2138,Red Crab,2012,NA,48,Tonnes,0.1,Tonnes,NA
+2139,Red Crab,2013,NA,48,Tonnes,0,Tonnes,NA
+2140,Red Crab,2014,NA,48,Tonnes,1.1,Tonnes,NA
+2141,Red Crab,2015,NA,48,Tonnes,0.1,Tonnes,NA
+2142,Red Crab,2016,NA,48,Tonnes,0.1,Tonnes,NA
+2143,Red Crab,2017,NA,48,Tonnes,0.1,Tonnes,NA
+2144,Red Crab,2018,NA,48,Tonnes,0,Tonnes,NA
+2145,Red Crab,2019,NA,48,Tonnes,0,Tonnes,NA
+2146,Ribaldo,1999,NA,1282,Tonnes,NA,Tonnes,NA
+2147,Ribaldo,2000,NA,1282,Tonnes,NA,Tonnes,NA
+2148,Rig,1996,NA,2098.4,Tonnes,NA,Tonnes,NA
+2149,Rig,1997,NA,2098.4,Tonnes,NA,Tonnes,NA
+2150,Rig,1998,NA,1887.9,Tonnes,NA,Tonnes,NA
+2151,Rig,1999,NA,1887.9,Tonnes,NA,Tonnes,NA
+2152,Rig,2000,NA,1887.9,Tonnes,NA,Tonnes,NA
+2153,Ringed Dosinia,2005,NA,112,Tonnes,2,Tonnes,NA
+2154,Ringed Dosinia,2006,NA,112,Tonnes,1.1,Tonnes,NA
+2155,Ringed Dosinia,2007,NA,112,Tonnes,2.6,Tonnes,NA
+2156,Ringed Dosinia,2008,NA,112,Tonnes,1.6,Tonnes,NA
+2157,Ringed Dosinia,2009,NA,112,Tonnes,1.6,Tonnes,NA
+2158,Ringed Dosinia,2010,NA,112,Tonnes,1,Tonnes,NA
+2159,Ringed Dosinia,2011,NA,203,Tonnes,3,Tonnes,NA
+2160,Ringed Dosinia,2012,NA,203,Tonnes,5.3,Tonnes,NA
+2161,Ringed Dosinia,2013,NA,203,Tonnes,4.1,Tonnes,NA
+2162,Ringed Dosinia,2014,NA,384,Tonnes,6.2,Tonnes,NA
+2163,Ringed Dosinia,2015,NA,384,Tonnes,7.4,Tonnes,NA
+2164,Ringed Dosinia,2016,NA,384,Tonnes,16.7,Tonnes,NA
+2165,Ringed Dosinia,2017,NA,489,Tonnes,11.8,Tonnes,NA
+2166,Ringed Dosinia,2018,NA,489,Tonnes,18.9,Tonnes,NA
+2167,Ringed Dosinia,2019,NA,489,Tonnes,26.3,Tonnes,NA
+2168,Rock Lobster,1996,NA,2953.3,Tonnes,NA,Tonnes,NA
+2169,Rock Lobster,1997,NA,2994.3,Tonnes,NA,Tonnes,NA
+2170,Rock Lobster,1998,NA,2905.2,Tonnes,NA,Tonnes,NA
+2171,Rock Lobster,1999,NA,2967.3,Tonnes,NA,Tonnes,NA
+2172,Rock Lobster,2000,NA,2888.9,Tonnes,NA,Tonnes,NA
+2173,Rock Lobster,2001,NA,2888.9,Tonnes,NA,Tonnes,NA
+2174,Rock Lobster,2002,NA,2725.5,Tonnes,2594.5,Tonnes,NA
+2175,Rock Lobster,2003,NA,2725.5,Tonnes,2599.7,Tonnes,NA
+2176,Rock Lobster,2004,NA,2725.5,Tonnes,2467.9,Tonnes,NA
+2177,Rock Lobster,2005,NA,2766.8,Tonnes,2493,Tonnes,NA
+2178,Rock Lobster,2006,NA,2629.8,Tonnes,2500.8,Tonnes,NA
+2179,Rock Lobster,2007,NA,2806.9,Tonnes,2630.1,Tonnes,NA
+2180,Rock Lobster,2008,NA,2806.9,Tonnes,2506.5,Tonnes,NA
+2181,Rock Lobster,2009,NA,3021.4,Tonnes,2675.7,Tonnes,NA
+2182,Rock Lobster,2010,NA,2802.5,Tonnes,2724.5,Tonnes,NA
+2183,Rock Lobster,2011,NA,2847.7,Tonnes,2814.5,Tonnes,NA
+2184,Rock Lobster,2012,NA,2833.1,Tonnes,2784.6,Tonnes,NA
+2185,Rock Lobster,2013,NA,2850.6,Tonnes,2818.2,Tonnes,NA
+2186,Rock Lobster,2014,NA,2895.7,Tonnes,2879.5,Tonnes,NA
+2187,Rock Lobster,2015,NA,2898.2,Tonnes,2865.7,Tonnes,NA
+2188,Rock Lobster,2016,NA,2929.9,Tonnes,2866.4,Tonnes,NA
+2189,Rock Lobster,2017,NA,2859.9,Tonnes,2787,Tonnes,NA
+2190,Rock Lobster,2018,NA,NA,Tonnes,2678.1,Tonnes,NA
+2191,Rock Lobster,2018,NA,2743.6,Tonnes,NA,Tonnes,NA
+2192,Rock Lobster,2019,NA,2746.6,Tonnes,2745.3,Tonnes,NA
+2193,Rubyfish,1999,NA,595,Tonnes,NA,Tonnes,NA
+2194,Rubyfish,2000,NA,595,Tonnes,NA,Tonnes,NA
+2195,Rubyfish,2001,NA,595,Tonnes,NA,Tonnes,NA
+2196,Rubyfish,2002,NA,595,Tonnes,500.2,Tonnes,NA
+2197,Rubyfish,2003,NA,786,Tonnes,302.2,Tonnes,NA
+2198,Rubyfish,2004,NA,786,Tonnes,381.7,Tonnes,NA
+2199,Rubyfish,2005,NA,786,Tonnes,438.9,Tonnes,NA
+2200,Rubyfish,2006,NA,786,Tonnes,506.5,Tonnes,NA
+2201,Rubyfish,2007,NA,849,Tonnes,546.3,Tonnes,NA
+2202,Rubyfish,2008,NA,800,Tonnes,564.1,Tonnes,NA
+2203,Rubyfish,2009,NA,800,Tonnes,694.7,Tonnes,NA
+2204,Rubyfish,2010,NA,800,Tonnes,676.8,Tonnes,NA
+2205,Rubyfish,2011,NA,812,Tonnes,747.4,Tonnes,NA
+2206,Rubyfish,2012,NA,812,Tonnes,373.8,Tonnes,NA
+2207,Rubyfish,2013,NA,812,Tonnes,452.2,Tonnes,NA
+2208,Rubyfish,2014,NA,812,Tonnes,635,Tonnes,NA
+2209,Rubyfish,2015,NA,812,Tonnes,444,Tonnes,NA
+2210,Rubyfish,2016,NA,812,Tonnes,482.4,Tonnes,NA
+2211,Rubyfish,2017,NA,839,Tonnes,415.2,Tonnes,NA
+2212,Rubyfish,2018,NA,839,Tonnes,198.3,Tonnes,NA
+2213,Rubyfish,2019,NA,839,Tonnes,225,Tonnes,NA
+2214,Scallop,1996,NA,720,Tonnes,NA,Tonnes,NA
+2215,Scallop,1997,NA,908.6,Tonnes,NA,Tonnes,NA
+2216,Scallop,1998,NA,908.6,Tonnes,NA,Tonnes,NA
+2217,Scallop,1999,NA,826,Tonnes,NA,Tonnes,NA
+2218,Scallop,2000,NA,826,Tonnes,NA,Tonnes,NA
+2219,Scallop,2001,NA,780,Tonnes,NA,Tonnes,NA
+2220,Scallop,2009,NA,841,Tonnes,200.8,Tonnes,14.42307692
+2221,Scallop,2010,NA,841,Tonnes,164.2,Tonnes,15.21423077
+2222,Scallop,2017,NA,522,Tonnes,34,Tonnes,15.83923077
+2223,Scallop,2018,NA,522,Tonnes,37.9,Tonnes,15.83923077
+2224,Scallop,2019,NA,522,Tonnes,35.4,Tonnes,15.83923077
+2225,Scampi,2008,NA,1291,Tonnes,668.2,Tonnes,4.665
+2226,Scampi,2009,NA,1291,Tonnes,593.6,Tonnes,18.66
+2227,Scampi,2010,NA,1291,Tonnes,685.7,Tonnes,19.6225
+2228,Scampi,2011,NA,1291,Tonnes,742.4,Tonnes,20.31477273
+2229,Scampi,2012,NA,1191,Tonnes,704.9,Tonnes,13.76159091
+2230,Scampi,2013,NA,1191,Tonnes,696,Tonnes,13.85909091
+2231,School Shark,1996,NA,3105.4,Tonnes,NA,Tonnes,NA
+2232,School Shark,1997,NA,3105.4,Tonnes,NA,Tonnes,NA
+2233,School Shark,1998,NA,3105.5,Tonnes,NA,Tonnes,NA
+2234,School Shark,1999,NA,3105.5,Tonnes,NA,Tonnes,NA
+2235,School Shark,2000,NA,3105.5,Tonnes,NA,Tonnes,NA
+2236,Sea Cucumber,2005,NA,35,Tonnes,5.5,Tonnes,NA
+2237,Sea Cucumber,2006,NA,35,Tonnes,10.2,Tonnes,NA
+2238,Sea Cucumber,2007,NA,35,Tonnes,5,Tonnes,NA
+2239,Sea Cucumber,2008,NA,35,Tonnes,14.3,Tonnes,0.25
+2240,Sea Cucumber,2009,NA,35,Tonnes,8.8,Tonnes,1
+2241,Sea Cucumber,2010,NA,35,Tonnes,8.2,Tonnes,1.0525
+2242,Sea Cucumber,2011,NA,35,Tonnes,12.9,Tonnes,1.21
+2243,Sea Cucumber,2012,NA,35,Tonnes,20.2,Tonnes,1.2075
+2244,Sea Cucumber,2013,NA,35,Tonnes,21.1,Tonnes,1.2
+2245,Sea Cucumber,2014,NA,35,Tonnes,21.8,Tonnes,1.2
+2246,Sea Cucumber,2015,NA,35,Tonnes,22.2,Tonnes,1.2
+2247,Sea Cucumber,2016,NA,35,Tonnes,25.9,Tonnes,1.274166667
+2248,Sea Cucumber,2017,NA,35,Tonnes,20.8,Tonnes,1.496666667
+2249,Sea Cucumber,2018,NA,35,Tonnes,19.8,Tonnes,1.496671313
+2250,Sea Cucumber,2019,NA,90,Tonnes,42.9,Tonnes,1.496685252
+2251,Sea Perch,1999,NA,1516,Tonnes,NA,Tonnes,NA
+2252,Sea Perch,2000,NA,1516,Tonnes,NA,Tonnes,NA
+2253,Short-finned Freshwater Eel,2004,NA,10,Tonnes,0.7,Tonnes,NA
+2254,Short-finned Freshwater Eel,2005,NA,467,Tonnes,298.1,Tonnes,NA
+2255,Short-finned Freshwater Eel,2006,NA,467,Tonnes,378.6,Tonnes,NA
+2256,Short-finned Freshwater Eel,2007,NA,467,Tonnes,342.8,Tonnes,NA
+2257,Short-finned Freshwater Eel,2008,NA,347,Tonnes,299.5,Tonnes,NA
+2258,Short-finned Freshwater Eel,2009,NA,347,Tonnes,257.5,Tonnes,NA
+2259,Short-finned Freshwater Eel,2010,NA,347,Tonnes,269.8,Tonnes,NA
+2260,Short-finned Freshwater Eel,2011,NA,347,Tonnes,294.3,Tonnes,NA
+2261,Short-finned Freshwater Eel,2012,NA,347,Tonnes,341,Tonnes,NA
+2262,Short-finned Freshwater Eel,2013,NA,347,Tonnes,300.3,Tonnes,NA
+2263,Short-finned Freshwater Eel,2014,NA,347,Tonnes,306.5,Tonnes,NA
+2264,Short-finned Freshwater Eel,2015,NA,347,Tonnes,273.6,Tonnes,NA
+2265,Short-finned Freshwater Eel,2016,NA,347,Tonnes,232.5,Tonnes,NA
+2266,Short-finned Freshwater Eel,2017,NA,455,Tonnes,297.8,Tonnes,NA
+2267,Short-finned Freshwater Eel,2018,NA,589.1,Tonnes,418.5,Tonnes,NA
+2268,Short-finned Freshwater Eel,2019,NA,589.1,Tonnes,356.3,Tonnes,NA
+2269,Silky Dosinia,2005,NA,8,Tonnes,0.1,Tonnes,NA
+2270,Silky Dosinia,2006,NA,8,Tonnes,0.1,Tonnes,NA
+2271,Silky Dosinia,2007,NA,8,Tonnes,0,Tonnes,NA
+2272,Silky Dosinia,2008,NA,8,Tonnes,0,Tonnes,NA
+2273,Silky Dosinia,2009,NA,8,Tonnes,0,Tonnes,NA
+2274,Silky Dosinia,2010,NA,8,Tonnes,NA,Tonnes,NA
+2275,Silky Dosinia,2011,NA,8,Tonnes,NA,Tonnes,NA
+2276,Silky Dosinia,2012,NA,8,Tonnes,NA,Tonnes,NA
+2277,Silky Dosinia,2013,NA,8,Tonnes,NA,Tonnes,NA
+2278,Silky Dosinia,2014,NA,8,Tonnes,NA,Tonnes,NA
+2279,Silky Dosinia,2015,NA,8,Tonnes,NA,Tonnes,NA
+2280,Silky Dosinia,2016,NA,8,Tonnes,0,Tonnes,NA
+2281,Silky Dosinia,2017,NA,8,Tonnes,NA,Tonnes,NA
+2282,Silky Dosinia,2018,NA,8,Tonnes,0,Tonnes,NA
+2283,Silky Dosinia,2019,NA,8,Tonnes,0,Tonnes,NA
+2284,Silver Warehou,1996,NA,9884.4,Tonnes,NA,Tonnes,NA
+2285,Silver Warehou,1997,NA,9884.4,Tonnes,NA,Tonnes,NA
+2286,Silver Warehou,1998,NA,9512.2,Tonnes,NA,Tonnes,NA
+2287,Silver Warehou,1999,NA,9512.2,Tonnes,NA,Tonnes,NA
+2288,Silver Warehou,2000,NA,9512.2,Tonnes,NA,Tonnes,NA
+2289,Snapper,1996,NA,6893.1,Tonnes,NA,Tonnes,NA
+2290,Snapper,1997,NA,6893.1,Tonnes,NA,Tonnes,NA
+2291,Snapper,1998,NA,6494.6,Tonnes,NA,Tonnes,NA
+2292,Snapper,1999,NA,6494.6,Tonnes,NA,Tonnes,NA
+2293,Snapper,2000,NA,6494.6,Tonnes,NA,Tonnes,NA
+2294,Southern Blue Whiting,2000,NA,58008,Tonnes,NA,Tonnes,NA
+2295,Southern Blue Whiting,2001,NA,35148,Tonnes,NA,Tonnes,NA
+2296,Southern Bluefin Tuna,2008,NA,413,Tonnes,318.2,Tonnes,6.5175
+2297,Southern Bluefin Tuna,2009,NA,413,Tonnes,416.5,Tonnes,26.07
+2298,Southern Bluefin Tuna,2010,NA,413,Tonnes,499.5,Tonnes,27.415
+2299,Southern Bluefin Tuna,2011,NA,413,Tonnes,547.4,Tonnes,31.4775
+2300,Southern Bluefin Tuna,2012,NA,413,Tonnes,775.1,Tonnes,31.4975
+2301,Southern Bluefin Tuna,2013,NA,817,Tonnes,758.9,Tonnes,31.31
+2302,Southern Bluefin Tuna,2014,NA,817,Tonnes,824.6,Tonnes,26.74
+2303,Southern Bluefin Tuna,2015,NA,971,Tonnes,923.1,Tonnes,12.5
+2304,Southern Bluefin Tuna,2016,NA,971,Tonnes,949.4,Tonnes,11.275
+2305,Southern Bluefin Tuna,2017,NA,971,Tonnes,913.5,Tonnes,11.525
+2306,Southern Bluefin Tuna,2018,NA,971,Tonnes,1008.1,Tonnes,8.829377492
+2307,Southern Bluefin Tuna,2019,NA,1046,Tonnes,957,Tonnes,7.780020565
+2308,Sprats,2005,NA,450,Tonnes,0,Tonnes,NA
+2309,Sprats,2006,NA,450,Tonnes,0,Tonnes,NA
+2310,Sprats,2007,NA,450,Tonnes,0.1,Tonnes,NA
+2311,Sprats,2010,NA,450,Tonnes,0,Tonnes,1.0525
+2312,Sprats,2011,NA,450,Tonnes,0,Tonnes,1.21
+2313,Sprats,2012,NA,450,Tonnes,0,Tonnes,1.2075
+2314,Sprats,2013,NA,450,Tonnes,0.1,Tonnes,1.2
+2315,Sprats,2014,NA,450,Tonnes,0,Tonnes,1.2
+2316,Sprats,2018,NA,450,Tonnes,0,Tonnes,1.2
+2317,Sprats,2019,NA,450,Tonnes,0,Tonnes,1.2
+2318,Stargazer,1996,NA,5325.1,Tonnes,NA,Tonnes,NA
+2319,Stargazer,1997,NA,5353.1,Tonnes,NA,Tonnes,NA
+2320,Stargazer,1998,NA,4972.1,Tonnes,NA,Tonnes,NA
+2321,Stargazer,1999,NA,4972.1,Tonnes,NA,Tonnes,NA
+2322,Stargazer,2000,NA,4972.1,Tonnes,NA,Tonnes,NA
+2323,Tarakihi,1996,NA,5991.8,Tonnes,NA,Tonnes,NA
+2324,Tarakihi,1997,NA,5991.8,Tonnes,NA,Tonnes,NA
+2325,Tarakihi,1998,NA,5991.8,Tonnes,NA,Tonnes,NA
+2326,Tarakihi,1999,NA,5991.8,Tonnes,NA,Tonnes,NA
+2327,Tarakihi,2000,NA,5991.8,Tonnes,NA,Tonnes,NA
+2328,Trevally,1996,NA,3932.4,Tonnes,NA,Tonnes,NA
+2329,Trevally,1997,NA,3932.8,Tonnes,NA,Tonnes,NA
+2330,Trevally,1998,NA,3922.4,Tonnes,NA,Tonnes,NA
+2331,Trevally,1999,NA,3932.8,Tonnes,NA,Tonnes,NA
+2332,Trevally,2000,NA,3932.4,Tonnes,NA,Tonnes,NA
+2333,Triangle Shell,2005,NA,406,Tonnes,19.8,Tonnes,NA
+2334,Triangle Shell,2006,NA,406,Tonnes,28.1,Tonnes,NA
+2335,Triangle Shell,2007,NA,406,Tonnes,46.6,Tonnes,NA
+2336,Triangle Shell,2008,NA,406,Tonnes,8.9,Tonnes,NA
+2337,Triangle Shell,2009,NA,406,Tonnes,12.9,Tonnes,NA
+2338,Triangle Shell,2010,NA,406,Tonnes,10.1,Tonnes,NA
+2339,Triangle Shell,2011,NA,725,Tonnes,21,Tonnes,NA
+2340,Triangle Shell,2012,NA,725,Tonnes,82.7,Tonnes,NA
+2341,Triangle Shell,2013,NA,725,Tonnes,171,Tonnes,NA
+2342,Triangle Shell,2014,NA,2437,Tonnes,195.3,Tonnes,NA
+2343,Triangle Shell,2015,NA,2437,Tonnes,247,Tonnes,NA
+2344,Triangle Shell,2016,NA,2437,Tonnes,375.1,Tonnes,NA
+2345,Triangle Shell,2017,NA,2542,Tonnes,346.4,Tonnes,NA
+2346,Triangle Shell,2018,NA,2542,Tonnes,296.5,Tonnes,NA
+2347,Triangle Shell,2019,NA,2542,Tonnes,293.1,Tonnes,NA
+2348,Trough Shell,2005,NA,98,Tonnes,2.4,Tonnes,NA
+2349,Trough Shell,2006,NA,98,Tonnes,3.2,Tonnes,NA
+2350,Trough Shell,2007,NA,98,Tonnes,3.9,Tonnes,NA
+2351,Trough Shell,2008,NA,98,Tonnes,1.1,Tonnes,NA
+2352,Trough Shell,2009,NA,98,Tonnes,0,Tonnes,NA
+2353,Trough Shell,2010,NA,98,Tonnes,0.2,Tonnes,NA
+2354,Trough Shell,2011,NA,160,Tonnes,0,Tonnes,NA
+2355,Trough Shell,2012,NA,160,Tonnes,NA,Tonnes,NA
+2356,Trough Shell,2013,NA,160,Tonnes,0.1,Tonnes,NA
+2357,Trough Shell,2014,NA,160,Tonnes,0,Tonnes,NA
+2358,Trough Shell,2015,NA,160,Tonnes,NA,Tonnes,NA
+2359,Trough Shell,2016,NA,160,Tonnes,NA,Tonnes,NA
+2360,Trough Shell,2019,NA,160,Tonnes,0,Tonnes,NA
+2361,Trumpeter,1999,NA,144,Tonnes,NA,Tonnes,NA
+2362,Trumpeter,2000,NA,144,Tonnes,NA,Tonnes,NA
+2363,Tuatua,2006,NA,43,Tonnes,NA,Tonnes,NA
+2364,Tuatua,2007,NA,43,Tonnes,NA,Tonnes,NA
+2365,Tuatua,2010,NA,43,Tonnes,NA,Tonnes,1.315
+2366,Tuatua,2011,NA,43,Tonnes,NA,Tonnes,1.5125
+2367,Tuatua,2012,NA,43,Tonnes,4.9,Tonnes,1.5175
+2368,Tuatua,2013,NA,43,Tonnes,5.3,Tonnes,1.51
+2369,Tuatua,2014,NA,43,Tonnes,0,Tonnes,1.51
+2370,Tuatua,2015,NA,43,Tonnes,1.8,Tonnes,1.51
+2371,Tuatua,2016,NA,43,Tonnes,5.9,Tonnes,1.51
+2372,Tuatua,2017,NA,43,Tonnes,0.6,Tonnes,1.51
+2373,Tuatua,2018,NA,43,Tonnes,NA,Tonnes,1.51
+2374,Tuatua,2019,NA,43,Tonnes,0,Tonnes,1.51
+2375,White Warehou,1999,NA,3374,Tonnes,NA,Tonnes,NA
+2376,White Warehou,2000,NA,3374,Tonnes,NA,Tonnes,NA
+2377,Yellow-eyed Mullet,1999,NA,68,Tonnes,NA,Tonnes,NA
+2378,Yellow-eyed Mullet,2000,NA,68,Tonnes,NA,Tonnes,NA
+2379,Yellow-eyed Mullet,2001,NA,68,Tonnes,NA,Tonnes,NA
+2380,Yellow-eyed Mullet,2002,NA,68,Tonnes,25.2,Tonnes,NA
+2381,Yellow-eyed Mullet,2003,NA,68,Tonnes,33.6,Tonnes,NA
+2382,Yellow-eyed Mullet,2004,NA,68,Tonnes,21.5,Tonnes,NA
+2383,Yellow-eyed Mullet,2005,NA,68,Tonnes,13.2,Tonnes,NA
+2384,Yellow-eyed Mullet,2006,NA,68,Tonnes,13.8,Tonnes,NA
+2385,Yellow-eyed Mullet,2007,NA,68,Tonnes,23.2,Tonnes,NA
+2386,Yellow-eyed Mullet,2008,NA,68,Tonnes,16.1,Tonnes,NA
+2387,Yellow-eyed Mullet,2009,NA,68,Tonnes,21.1,Tonnes,NA
+2388,Yellow-eyed Mullet,2010,NA,68,Tonnes,30.1,Tonnes,NA
+2389,Yellow-eyed Mullet,2011,NA,68,Tonnes,37.6,Tonnes,NA
+2390,Yellow-eyed Mullet,2012,NA,68,Tonnes,29,Tonnes,NA
+2391,Yellow-eyed Mullet,2013,NA,68,Tonnes,24.5,Tonnes,NA
+2392,Yellow-eyed Mullet,2014,NA,68,Tonnes,30.5,Tonnes,NA
+2393,Yellow-eyed Mullet,2015,NA,68,Tonnes,44.9,Tonnes,NA
+2394,Yellow-eyed Mullet,2016,NA,68,Tonnes,32.3,Tonnes,NA
+2395,Yellow-eyed Mullet,2017,NA,68,Tonnes,23.6,Tonnes,NA
+2396,Yellow-eyed Mullet,2018,NA,68,Tonnes,24.9,Tonnes,NA
+2397,Yellow-eyed Mullet,2019,NA,68,Tonnes,33.2,Tonnes,NA
+2398,Yellowfin Tuna,2011,NA,263,Tonnes,2.8,Tonnes,9.48
+2399,Yellowfin Tuna,2012,NA,263,Tonnes,2.2,Tonnes,6.4975
+2400,Yellowfin Tuna,2013,NA,263,Tonnes,0.5,Tonnes,6.46
+2401,Yellowfin Tuna,2014,NA,263,Tonnes,1.4,Tonnes,6.46
+2402,Yellowfin Tuna,2015,NA,263,Tonnes,14.1,Tonnes,6.46
+2403,Yellowfin Tuna,2016,NA,263,Tonnes,57.6,Tonnes,6.46
+2404,Yellowfin Tuna,2017,NA,263,Tonnes,7.6,Tonnes,6.46
+2405,Yellowfin Tuna,2018,NA,263,Tonnes,23.1,Tonnes,6.46
+2406,Yellowfin Tuna,2019,NA,263,Tonnes,4.9,Tonnes,6.46
+2407,Albacore,2008,NA,NA,NA,NA,NA,0.5275
+2408,Albacore,2009,NA,NA,NA,NA,NA,2.11
+2409,Albacore,2010,NA,NA,NA,NA,NA,2.16
+2410,Albacore,2011,NA,NA,NA,NA,NA,2.325
+2411,Albacore,2012,NA,NA,NA,NA,NA,2.44
+2412,Albacore,2013,NA,NA,NA,NA,NA,2.5625
+2413,Albacore,2014,NA,NA,NA,NA,NA,2.2475
+2414,Albacore,2015,NA,NA,NA,NA,NA,2.09
+2415,Albacore,2016,NA,NA,NA,NA,NA,2.2775
+2416,Albacore,2017,NA,NA,NA,NA,NA,2.8575
+2417,Albacore,2018,NA,NA,NA,NA,NA,2.905
+2418,Albacore,2019,NA,NA,NA,NA,NA,3.027421821
+2419,Albacore,2020,NA,NA,NA,NA,NA,3.504844717
+2420,Albacore,2021,NA,NA,NA,NA,NA,3.763800867
+2421,Albacore,2022,NA,NA,NA,NA,NA,2.965689317
+2422,Anchovy,2022,NA,NA,NA,NA,NA,0.615
+2423,Bigeye Tuna,2020,NA,NA,NA,NA,NA,9.975070825
+2424,Bigeye Tuna,2021,NA,NA,NA,NA,NA,9.975070825
+2425,Bigeye Tuna,2022,NA,NA,NA,NA,NA,7.481303119
+2426,Black Cardinal Fish,2020,NA,NA,NA,NA,NA,0.855126148
+2427,Black Cardinal Fish,2021,NA,NA,NA,NA,NA,0.841122407
+2428,Black Cardinal Fish,2022,NA,NA,NA,NA,NA,0.609525934
+2429,Bladder Kelp,2020,NA,NA,NA,NA,NA,0.15
+2430,Bladder Kelp,2021,NA,NA,NA,NA,NA,0.15
+2431,Bladder Kelp,2022,NA,NA,NA,NA,NA,0.1125
+2432,Broadbill Swordfish,2008,NA,NA,NA,NA,NA,1.6275
+2433,Broadbill Swordfish,2009,NA,NA,NA,NA,NA,6.51
+2434,Broadbill Swordfish,2010,NA,NA,NA,NA,NA,6.315
+2435,Broadbill Swordfish,2011,NA,NA,NA,NA,NA,5.615
+2436,Broadbill Swordfish,2012,NA,NA,NA,NA,NA,5.26
+2437,Broadbill Swordfish,2013,NA,NA,NA,NA,NA,5.305
+2438,Broadbill Swordfish,2014,NA,NA,NA,NA,NA,5.41
+2439,Broadbill Swordfish,2015,NA,NA,NA,NA,NA,4.95
+2440,Broadbill Swordfish,2016,NA,NA,NA,NA,NA,4.5925
+2441,Broadbill Swordfish,2017,NA,NA,NA,NA,NA,4.6525
+2442,Broadbill Swordfish,2018,NA,NA,NA,NA,NA,5.350767879
+2443,Broadbill Swordfish,2019,NA,NA,NA,NA,NA,5.5710376
+2444,Broadbill Swordfish,2020,NA,NA,NA,NA,NA,6.224935855
+2445,Broadbill Swordfish,2021,NA,NA,NA,NA,NA,6.224935855
+2446,Broadbill Swordfish,2022,NA,NA,NA,NA,NA,4.668701891
+2447,Cockles,2008,NA,NA,NA,NA,NA,0.475
+2448,Cockles,2009,NA,NA,NA,NA,NA,1.9
+2449,Cockles,2010,NA,NA,NA,NA,NA,1.76
+2450,Cockles,2011,NA,NA,NA,NA,NA,1.25
+2451,Cockles,2012,NA,NA,NA,NA,NA,0.9775
+2452,Cockles,2013,NA,NA,NA,NA,NA,0.97
+2453,Cockles,2014,NA,NA,NA,NA,NA,0.97
+2454,Cockles,2015,NA,NA,NA,NA,NA,0.97
+2455,Cockles,2016,NA,NA,NA,NA,NA,0.97
+2456,Cockles,2017,NA,NA,NA,NA,NA,0.97
+2457,Cockles,2018,NA,NA,NA,NA,NA,0.97
+2458,Cockles,2019,NA,NA,NA,NA,NA,0.97
+2459,Cockles,2020,NA,NA,NA,NA,NA,0.97
+2460,Cockles,2021,NA,NA,NA,NA,NA,0.950961538
+2461,Cockles,2022,NA,NA,NA,NA,NA,0.670384615
+2462,Crayfish,2008,NA,NA,NA,NA,NA,9.6325
+2463,Crayfish,2009,NA,NA,NA,NA,NA,38.53
+2464,Crayfish,2010,NA,NA,NA,NA,NA,43.05
+2465,Crayfish,2011,NA,NA,NA,NA,NA,58.2075
+2466,Crayfish,2012,NA,NA,NA,NA,NA,63.8675
+2467,Crayfish,2013,NA,NA,NA,NA,NA,66.43
+2468,Crayfish,2014,NA,NA,NA,NA,NA,66.7575
+2469,Crayfish,2015,NA,NA,NA,NA,NA,69.075
+2470,Crayfish,2016,NA,NA,NA,NA,NA,72.65
+2471,Crayfish,2017,NA,NA,NA,NA,NA,76.35425
+2472,Crayfish,2018,NA,NA,NA,NA,NA,81.10775
+2473,Crayfish,2019,NA,NA,NA,NA,NA,81.14474531
+2474,Crayfish,2020,NA,NA,NA,NA,NA,84.36094
+2475,Crayfish,2021,NA,NA,NA,NA,NA,77.00371771
+2476,Crayfish,2022,NA,NA,NA,NA,NA,51.17581662
+2477,Freshwater Eels,2008,NA,NA,NA,NA,NA,0.875
+2478,Freshwater Eels,2009,NA,NA,NA,NA,NA,3.5
+2479,Freshwater Eels,2010,NA,NA,NA,NA,NA,3.625
+2480,Freshwater Eels,2011,NA,NA,NA,NA,NA,4.085
+2481,Freshwater Eels,2012,NA,NA,NA,NA,NA,4.3325
+2482,Freshwater Eels,2013,NA,NA,NA,NA,NA,4.31
+2483,Freshwater Eels,2014,NA,NA,NA,NA,NA,4.31
+2484,Freshwater Eels,2015,NA,NA,NA,NA,NA,4.31
+2485,Freshwater Eels,2016,NA,NA,NA,NA,NA,4.31
+2486,Freshwater Eels,2017,NA,NA,NA,NA,NA,3.2325
+2487,Freshwater Eels,2018,NA,NA,NA,NA,NA,0
+2488,Ghost Shark dark,2008,NA,NA,NA,NA,NA,0.09
+2489,Ghost Shark dark,2009,NA,NA,NA,NA,NA,0.36
+2490,Ghost Shark dark,2010,NA,NA,NA,NA,NA,0.38975
+2491,Ghost Shark dark,2011,NA,NA,NA,NA,NA,0.46925
+2492,Ghost Shark dark,2012,NA,NA,NA,NA,NA,0.44
+2493,Ghost Shark dark,2013,NA,NA,NA,NA,NA,0.44425
+2494,Ghost Shark dark,2014,NA,NA,NA,NA,NA,0.457
+2495,Ghost Shark dark,2015,NA,NA,NA,NA,NA,0.43525
+2496,Ghost Shark dark,2016,NA,NA,NA,NA,NA,0.3735
+2497,Ghost Shark dark,2017,NA,NA,NA,NA,NA,0.38625
+2498,Ghost Shark dark,2018,NA,NA,NA,NA,NA,0.383102348
+2499,Ghost Shark dark,2019,NA,NA,NA,NA,NA,0.349662379
+2500,Ghost Shark dark,2020,NA,NA,NA,NA,NA,0.356598727
+2501,Ghost Shark dark,2021,NA,NA,NA,NA,NA,0.414941404
+2502,Ghost Shark dark,2022,NA,NA,NA,NA,NA,0.319779745
+2503,Ghost Shark pale,2008,NA,NA,NA,NA,NA,0.1
+2504,Ghost Shark pale,2009,NA,NA,NA,NA,NA,0.4
+2505,Ghost Shark pale,2010,NA,NA,NA,NA,NA,0.439166667
+2506,Ghost Shark pale,2011,NA,NA,NA,NA,NA,0.5425
+2507,Ghost Shark pale,2012,NA,NA,NA,NA,NA,0.5
+2508,Ghost Shark pale,2013,NA,NA,NA,NA,NA,0.486666667
+2509,Ghost Shark pale,2014,NA,NA,NA,NA,NA,0.446666667
+2510,Ghost Shark pale,2015,NA,NA,NA,NA,NA,0.439166667
+2511,Ghost Shark pale,2016,NA,NA,NA,NA,NA,0.408333333
+2512,Ghost Shark pale,2017,NA,NA,NA,NA,NA,0.3925
+2513,Ghost Shark pale,2018,NA,NA,NA,NA,NA,0.415495954
+2514,Ghost Shark pale,2019,NA,NA,NA,NA,NA,0.393095194
+2515,Ghost Shark pale,2020,NA,NA,NA,NA,NA,0.378543036
+2516,Ghost Shark pale,2021,NA,NA,NA,NA,NA,0.398243347
+2517,Ghost Shark pale,2022,NA,NA,NA,NA,NA,0.261240669
+2518,Giant spider crab,2008,NA,NA,NA,NA,NA,0.75
+2519,Giant spider crab,2009,NA,NA,NA,NA,NA,3
+2520,Giant spider crab,2010,NA,NA,NA,NA,NA,3.155
+2521,Giant spider crab,2011,NA,NA,NA,NA,NA,3.6225
+2522,Giant spider crab,2012,NA,NA,NA,NA,NA,3.6225
+2523,Giant spider crab,2013,NA,NA,NA,NA,NA,3.6
+2524,Giant spider crab,2014,NA,NA,NA,NA,NA,2.75
+2525,Giant spider crab,2015,NA,NA,NA,NA,NA,0.2
+2526,Giant spider crab,2016,NA,NA,NA,NA,NA,0.2
+2527,Giant spider crab,2017,NA,NA,NA,NA,NA,0.192916667
+2528,Giant spider crab,2018,NA,NA,NA,NA,NA,0.17165808
+2529,Giant spider crab,2019,NA,NA,NA,NA,NA,0.171632321
+2530,Giant spider crab,2020,NA,NA,NA,NA,NA,0.171632321
+2531,Giant spider crab,2021,NA,NA,NA,NA,NA,0.171632321
+2532,Giant spider crab,2022,NA,NA,NA,NA,NA,0.128724241
+2533,Green Lipped Mussell,2008,NA,NA,NA,NA,NA,0.1796875
+2534,Green Lipped Mussell,2009,NA,NA,NA,NA,NA,0.71875
+2535,Green Lipped Mussell,2010,NA,NA,NA,NA,NA,0.755625
+2536,Green Lipped Mussell,2011,NA,NA,NA,NA,NA,0.866875
+2537,Green Lipped Mussell,2012,NA,NA,NA,NA,NA,0.8675
+2538,Green Lipped Mussell,2013,NA,NA,NA,NA,NA,0.86375
+2539,Green Lipped Mussell,2014,NA,NA,NA,NA,NA,0.86375
+2540,Green Lipped Mussell,2015,NA,NA,NA,NA,NA,0.86375
+2541,Green Lipped Mussell,2016,NA,NA,NA,NA,NA,0.86375
+2542,Green Lipped Mussell,2017,NA,NA,NA,NA,NA,0.86375
+2543,Green Lipped Mussell,2018,NA,NA,NA,NA,NA,0.86375
+2544,Green Lipped Mussell,2019,NA,NA,NA,NA,NA,0.86375
+2545,Green Lipped Mussell,2020,NA,NA,NA,NA,NA,0.86375
+2546,Green Lipped Mussell,2021,NA,NA,NA,NA,NA,0.86375
+2547,Green Lipped Mussell,2022,NA,NA,NA,NA,NA,0.6478125
+2548,Hake,2022,NA,NA,NA,NA,NA,0.952954017
+2549,Hapuku and Bass,2008,NA,NA,NA,NA,NA,1.1409375
+2550,Hapuku and Bass,2009,NA,NA,NA,NA,NA,4.56375
+2551,Hapuku and Bass,2010,NA,NA,NA,NA,NA,4.495625
+2552,Hapuku and Bass,2011,NA,NA,NA,NA,NA,4.3453125
+2553,Hapuku and Bass,2012,NA,NA,NA,NA,NA,4.498125
+2554,Hapuku and Bass,2013,NA,NA,NA,NA,NA,4.4053125
+2555,Hapuku and Bass,2014,NA,NA,NA,NA,NA,4.2140625
+2556,Hapuku and Bass,2015,NA,NA,NA,NA,NA,4.381875
+2557,Hapuku and Bass,2016,NA,NA,NA,NA,NA,4.8734375
+2558,Hapuku and Bass,2017,NA,NA,NA,NA,NA,4.8625
+2559,Hapuku and Bass,2018,NA,NA,NA,NA,NA,4.698652371
+2560,Hapuku and Bass,2019,NA,NA,NA,NA,NA,4.715195222
+2561,Hapuku and Bass,2020,NA,NA,NA,NA,NA,5.067554622
+2562,Hapuku and Bass,2021,NA,NA,NA,NA,NA,5.672890038
+2563,Hapuku and Bass,2022,NA,NA,NA,NA,NA,4.186669946
+2564,Horse mussel,2008,NA,NA,NA,NA,NA,0.025
+2565,Horse mussel,2009,NA,NA,NA,NA,NA,0.1
+2566,Horse mussel,2010,NA,NA,NA,NA,NA,0.105
+2567,Horse mussel,2011,NA,NA,NA,NA,NA,0.12
+2568,Horse mussel,2012,NA,NA,NA,NA,NA,0.12
+2569,Horse mussel,2013,NA,NA,NA,NA,NA,0.12
+2570,Horse mussel,2014,NA,NA,NA,NA,NA,0.12
+2571,Horse mussel,2015,NA,NA,NA,NA,NA,0.12
+2572,Horse mussel,2016,NA,NA,NA,NA,NA,0.12
+2573,Horse mussel,2017,NA,NA,NA,NA,NA,0.12
+2574,Horse mussel,2018,NA,NA,NA,NA,NA,0.12
+2575,Horse mussel,2019,NA,NA,NA,NA,NA,0.12
+2576,Horse mussel,2020,NA,NA,NA,NA,NA,0.12
+2577,Horse mussel,2021,NA,NA,NA,NA,NA,0.12
+2578,Horse mussel,2022,NA,NA,NA,NA,NA,0.09
+2579,Jack Mackerel,2020,NA,NA,NA,NA,NA,0.28308501
+2580,Jack Mackerel,2021,NA,NA,NA,NA,NA,0.26882785
+2581,Jack Mackerel,2022,NA,NA,NA,NA,NA,0.190835542
+2582,King Clam,2008,NA,NA,NA,NA,NA,5
+2583,King Clam,2009,NA,NA,NA,NA,NA,20
+2584,King Clam,2010,NA,NA,NA,NA,NA,21.0325
+2585,King Clam,2011,NA,NA,NA,NA,NA,24.15
+2586,King Clam,2012,NA,NA,NA,NA,NA,24.1625
+2587,King Clam,2013,NA,NA,NA,NA,NA,24.02
+2588,King Clam,2014,NA,NA,NA,NA,NA,24.02
+2589,King Clam,2015,NA,NA,NA,NA,NA,24.02
+2590,King Clam,2016,NA,NA,NA,NA,NA,24.02
+2591,King Clam,2017,NA,NA,NA,NA,NA,24.02
+2592,King Clam,2018,NA,NA,NA,NA,NA,24.02
+2593,King Clam,2019,NA,NA,NA,NA,NA,23.86687597
+2594,King Clam,2020,NA,NA,NA,NA,NA,23.40750387
+2595,King Clam,2021,NA,NA,NA,NA,NA,23.40750387
+2596,King Clam,2022,NA,NA,NA,NA,NA,17.5556279
+2597,King crab,2008,NA,NA,NA,NA,NA,0.75
+2598,King crab,2009,NA,NA,NA,NA,NA,3
+2599,King crab,2010,NA,NA,NA,NA,NA,3.155
+2600,King crab,2011,NA,NA,NA,NA,NA,3.6225
+2601,King crab,2012,NA,NA,NA,NA,NA,3.6225
+2602,King crab,2013,NA,NA,NA,NA,NA,3.6
+2603,King crab,2014,NA,NA,NA,NA,NA,2.75
+2604,King crab,2015,NA,NA,NA,NA,NA,0.2
+2605,King crab,2016,NA,NA,NA,NA,NA,0.2
+2606,King crab,2017,NA,NA,NA,NA,NA,0.2
+2607,King crab,2018,NA,NA,NA,NA,NA,0.2
+2608,King crab,2019,NA,NA,NA,NA,NA,0.2
+2609,King crab,2020,NA,NA,NA,NA,NA,0.2
+2610,King crab,2021,NA,NA,NA,NA,NA,0.1965
+2611,King crab,2022,NA,NA,NA,NA,NA,0.1395
+2612,Kingfish,2020,NA,NA,NA,NA,NA,3.919405244
+2613,Kingfish,2021,NA,NA,NA,NA,NA,4.179554097
+2614,Kingfish,2022,NA,NA,NA,NA,NA,3.296275755
+2615,Knobbed Whelk,2020,NA,NA,NA,NA,NA,0.71
+2616,Knobbed Whelk,2021,NA,NA,NA,NA,NA,0.71
+2617,Knobbed Whelk,2022,NA,NA,NA,NA,NA,0.5325
+2618,Leather Jacket,2008,NA,NA,NA,NA,NA,0.13
+2619,Leather Jacket,2009,NA,NA,NA,NA,NA,0.52
+2620,Leather Jacket,2010,NA,NA,NA,NA,NA,0.571
+2621,Leather Jacket,2011,NA,NA,NA,NA,NA,0.7205
+2622,Leather Jacket,2012,NA,NA,NA,NA,NA,0.708
+2623,Leather Jacket,2013,NA,NA,NA,NA,NA,0.702
+2624,Leather Jacket,2014,NA,NA,NA,NA,NA,0.704
+2625,Leather Jacket,2015,NA,NA,NA,NA,NA,0.721
+2626,Leather Jacket,2016,NA,NA,NA,NA,NA,0.744
+2627,Leather Jacket,2017,NA,NA,NA,NA,NA,0.716
+2628,Leather Jacket,2018,NA,NA,NA,NA,NA,0.724488679
+2629,Leather Jacket,2019,NA,NA,NA,NA,NA,0.734289255
+2630,Leather Jacket,2020,NA,NA,NA,NA,NA,0.737680238
+2631,Leather Jacket,2021,NA,NA,NA,NA,NA,0.73196469
+2632,Leather Jacket,2022,NA,NA,NA,NA,NA,0.56049879
+2633,Long finned eel,2008,NA,NA,NA,NA,NA,0.875
+2634,Long finned eel,2009,NA,NA,NA,NA,NA,3.5
+2635,Long finned eel,2010,NA,NA,NA,NA,NA,3.625
+2636,Long finned eel,2011,NA,NA,NA,NA,NA,4.085
+2637,Long finned eel,2012,NA,NA,NA,NA,NA,4.3325
+2638,Long finned eel,2013,NA,NA,NA,NA,NA,4.31
+2639,Long finned eel,2014,NA,NA,NA,NA,NA,4.31
+2640,Long finned eel,2015,NA,NA,NA,NA,NA,4.31
+2641,Long finned eel,2016,NA,NA,NA,NA,NA,4.31
+2642,Long finned eel,2017,NA,NA,NA,NA,NA,4.34875
+2643,Long finned eel,2018,NA,NA,NA,NA,NA,4.437810374
+2644,Long finned eel,2019,NA,NA,NA,NA,NA,4.358553572
+2645,Long finned eel,2020,NA,NA,NA,NA,NA,4.365489796
+2646,Long finned eel,2021,NA,NA,NA,NA,NA,4.365489796
+2647,Long finned eel,2022,NA,NA,NA,NA,NA,3.274117347
+2648,Longfinned eel,2008,NA,NA,NA,NA,NA,0.97
+2649,Longfinned eel,2009,NA,NA,NA,NA,NA,3.88
+2650,Longfinned eel,2010,NA,NA,NA,NA,NA,4.091
+2651,Longfinned eel,2011,NA,NA,NA,NA,NA,4.7495
+2652,Longfinned eel,2012,NA,NA,NA,NA,NA,4.8595
+2653,Longfinned eel,2013,NA,NA,NA,NA,NA,4.96
+2654,Longfinned eel,2014,NA,NA,NA,NA,NA,4.936
+2655,Longfinned eel,2015,NA,NA,NA,NA,NA,4.775
+2656,Longfinned eel,2016,NA,NA,NA,NA,NA,4.508
+2657,Longfinned eel,2017,NA,NA,NA,NA,NA,4.149
+2658,Longfinned eel,2018,NA,NA,NA,NA,NA,3.072200625
+2659,Longfinned eel,2019,NA,NA,NA,NA,NA,3.400224453
+2660,Longfinned eel,2020,NA,NA,NA,NA,NA,4.404317718
+2661,Longfinned eel,2021,NA,NA,NA,NA,NA,4.469799928
+2662,Longfinned eel,2022,NA,NA,NA,NA,NA,3.352349946
+2663,Look Down Dory,2008,NA,NA,NA,NA,NA,0.176666667
+2664,Look Down Dory,2009,NA,NA,NA,NA,NA,0.706666667
+2665,Look Down Dory,2010,NA,NA,NA,NA,NA,0.890833333
+2666,Look Down Dory,2011,NA,NA,NA,NA,NA,1.465
+2667,Look Down Dory,2012,NA,NA,NA,NA,NA,1.5275
+2668,Look Down Dory,2013,NA,NA,NA,NA,NA,1.5625
+2669,Look Down Dory,2014,NA,NA,NA,NA,NA,1.665
+2670,Look Down Dory,2015,NA,NA,NA,NA,NA,1.605833333
+2671,Look Down Dory,2016,NA,NA,NA,NA,NA,1.649166667
+2672,Look Down Dory,2017,NA,NA,NA,NA,NA,1.610833333
+2673,Look Down Dory,2018,NA,NA,NA,NA,NA,1.524674298
+2674,Look Down Dory,2019,NA,NA,NA,NA,NA,1.477576201
+2675,Look Down Dory,2020,NA,NA,NA,NA,NA,1.44647835
+2676,Look Down Dory,2021,NA,NA,NA,NA,NA,1.516376564
+2677,Look Down Dory,2022,NA,NA,NA,NA,NA,1.076763808
+2678,Moonfish,2022,NA,NA,NA,NA,NA,1.526216102
+2679,Octopus,2008,NA,NA,NA,NA,NA,0.3825
+2680,Octopus,2009,NA,NA,NA,NA,NA,1.53
+2681,Octopus,2010,NA,NA,NA,NA,NA,1.6825
+2682,Octopus,2011,NA,NA,NA,NA,NA,2.2275
+2683,Octopus,2012,NA,NA,NA,NA,NA,2.4875
+2684,Octopus,2013,NA,NA,NA,NA,NA,2.48
+2685,Octopus,2014,NA,NA,NA,NA,NA,2.466111111
+2686,Octopus,2015,NA,NA,NA,NA,NA,2.424444444
+2687,Octopus,2016,NA,NA,NA,NA,NA,2.575833333
+2688,Octopus,2017,NA,NA,NA,NA,NA,2.2725
+2689,Octopus,2018,NA,NA,NA,NA,NA,0.7575
+2690,Octopus,2019,NA,NA,NA,NA,NA,3.03
+2691,Octopus,2020,NA,NA,NA,NA,NA,3.03
+2692,Octopus,2021,NA,NA,NA,NA,NA,3.489409282
+2693,Octopus,2022,NA,NA,NA,NA,NA,3.650727846
+2694,Oyster   Foveuax Strait (note: price is $/kg greenweight),2008,NA,NA,NA,NA,NA,1.2175
+2695,Oyster   Foveuax Strait (note: price is $/kg greenweight),2009,NA,NA,NA,NA,NA,4.87
+2696,Oyster   Foveuax Strait (note: price is $/kg greenweight),2010,NA,NA,NA,NA,NA,5.1225
+2697,Oyster   Foveuax Strait (note: price is $/kg greenweight),2011,NA,NA,NA,NA,NA,5.885
+2698,Oyster   Foveuax Strait (note: price is $/kg greenweight),2012,NA,NA,NA,NA,NA,5.8875
+2699,Oyster   Foveuax Strait (note: price is $/kg greenweight),2013,NA,NA,NA,NA,NA,5.85
+2700,Oyster   Foveuax Strait (note: price is $/kg greenweight),2014,NA,NA,NA,NA,NA,5.85
+2701,Oyster   Foveuax Strait (note: price is $/kg greenweight),2015,NA,NA,NA,NA,NA,5.85
+2702,Oyster   Foveuax Strait (note: price is $/kg greenweight),2016,NA,NA,NA,NA,NA,5.85
+2703,Oyster   Foveuax Strait (note: price is $/kg greenweight),2017,NA,NA,NA,NA,NA,5.85
+2704,Oyster   Foveuax Strait (note: price is $/kg greenweight),2018,NA,NA,NA,NA,NA,5.85
+2705,Oyster   Foveuax Strait (note: price is $/kg greenweight),2019,NA,NA,NA,NA,NA,5.85
+2706,Oyster   Foveuax Strait (note: price is $/kg greenweight),2020,NA,NA,NA,NA,NA,5.85
+2707,Oyster   Foveuax Strait (note: price is $/kg greenweight),2021,NA,NA,NA,NA,NA,5.85
+2708,Oyster   Foveuax Strait (note: price is $/kg greenweight),2022,NA,NA,NA,NA,NA,4.3875
+2709,Oyster   Other than Foveaux Strait,2008,NA,NA,NA,NA,NA,0.992727273
+2710,Oyster   Other than Foveaux Strait,2009,NA,NA,NA,NA,NA,3.970909091
+2711,Oyster   Other than Foveaux Strait,2010,NA,NA,NA,NA,NA,4.176818182
+2712,Oyster   Other than Foveaux Strait,2011,NA,NA,NA,NA,NA,4.799318182
+2713,Oyster   Other than Foveaux Strait,2012,NA,NA,NA,NA,NA,4.803636364
+2714,Oyster   Other than Foveaux Strait,2013,NA,NA,NA,NA,NA,4.773636364
+2715,Oyster   Other than Foveaux Strait,2014,NA,NA,NA,NA,NA,4.773636364
+2716,Oyster   Other than Foveaux Strait,2015,NA,NA,NA,NA,NA,4.773636364
+2717,Oyster   Other than Foveaux Strait,2016,NA,NA,NA,NA,NA,4.773636364
+2718,Oyster   Other than Foveaux Strait,2017,NA,NA,NA,NA,NA,4.773636364
+2719,Oyster   Other than Foveaux Strait,2018,NA,NA,NA,NA,NA,4.773636364
+2720,Oyster   Other than Foveaux Strait,2019,NA,NA,NA,NA,NA,4.773636364
+2721,Oyster   Other than Foveaux Strait,2020,NA,NA,NA,NA,NA,4.773636364
+2722,Oyster   Other than Foveaux Strait,2021,NA,NA,NA,NA,NA,4.773636364
+2723,Oyster   Other than Foveaux Strait,2022,NA,NA,NA,NA,NA,3.580227273
+2724,Pacific Bluefin Tuna,2020,NA,NA,NA,NA,NA,31.31
+2725,Pacific Bluefin Tuna,2021,NA,NA,NA,NA,NA,26.87447977
+2726,Pacific Bluefin Tuna,2022,NA,NA,NA,NA,NA,10.17593931
+2727,Packhorse Rock Lobster,2009,NA,NA,NA,NA,NA,27.12
+2728,Packhorse Rock Lobster,2010,NA,NA,NA,NA,NA,32.34
+2729,Packhorse Rock Lobster,2011,NA,NA,NA,NA,NA,49.355
+2730,Packhorse Rock Lobster,2012,NA,NA,NA,NA,NA,54.565
+2731,Packhorse Rock Lobster,2013,NA,NA,NA,NA,NA,58
+2732,Packhorse Rock Lobster,2014,NA,NA,NA,NA,NA,55.5
+2733,Packhorse Rock Lobster,2015,NA,NA,NA,NA,NA,48
+2734,Patagonian Toothfish,2008,NA,NA,NA,NA,NA,0.75
+2735,Patagonian Toothfish,2009,NA,NA,NA,NA,NA,3
+2736,Patagonian Toothfish,2010,NA,NA,NA,NA,NA,3.155
+2737,Patagonian Toothfish,2020,NA,NA,NA,NA,NA,10
+2738,Patagonian Toothfish,2021,NA,NA,NA,NA,NA,10
+2739,Patagonian Toothfish,2022,NA,NA,NA,NA,NA,7.5
+2740,Pilchard,2020,NA,NA,NA,NA,NA,0.911419824
+2741,Pilchard,2021,NA,NA,NA,NA,NA,0.911419824
+2742,Pilchard,2022,NA,NA,NA,NA,NA,0.683564868
+2743,Pipi,2020,NA,NA,NA,NA,NA,0.92
+2744,Pipi,2021,NA,NA,NA,NA,NA,0.92
+2745,Pipi,2022,NA,NA,NA,NA,NA,0.69
+2746,Prawn Killer,2020,NA,NA,NA,NA,NA,3.158176677
+2747,Prawn Killer,2021,NA,NA,NA,NA,NA,3.158176677
+2748,Prawn Killer,2022,NA,NA,NA,NA,NA,2.368632508
+2749,Queen Scallop,2020,NA,NA,NA,NA,NA,2.04
+2750,Queen Scallop,2021,NA,NA,NA,NA,NA,2.405
+2751,Queen Scallop,2022,NA,NA,NA,NA,NA,2.625
+2752,Red Bait,2020,NA,NA,NA,NA,NA,0.323491846
+2753,Red Bait,2021,NA,NA,NA,NA,NA,0.389660209
+2754,Red Bait,2022,NA,NA,NA,NA,NA,0.397455707
+2755,Red crab,2008,NA,NA,NA,NA,NA,0.75
+2756,Red crab,2009,NA,NA,NA,NA,NA,3
+2757,Red crab,2012,NA,NA,NA,NA,NA,3.6225
+2758,Red crab,2019,NA,NA,NA,NA,NA,0.2
+2759,Red crab,2020,NA,NA,NA,NA,NA,0.2
+2760,Scallop,2020,NA,NA,NA,NA,NA,15.83923077
+2761,Scallop,2021,NA,NA,NA,NA,NA,15.83923077
+2762,Scallop,2022,NA,NA,NA,NA,NA,11.87942308
+2763,Sea Cucumber,2020,NA,NA,NA,NA,NA,1.496685252
+2764,Sea Cucumber,2021,NA,NA,NA,NA,NA,1.643351919
+2765,Sea Cucumber,2022,NA,NA,NA,NA,NA,1.562513939
+2766,Seal Shark,2008,NA,NA,NA,NA,NA,0.5125
+2767,Seal Shark,2009,NA,NA,NA,NA,NA,2.05
+2768,Seal Shark,2010,NA,NA,NA,NA,NA,1.7325
+2769,Seal Shark,2011,NA,NA,NA,NA,NA,0.7425
+2770,Seal Shark,2012,NA,NA,NA,NA,NA,1.373214286
+2771,Seal Shark,2013,NA,NA,NA,NA,NA,3.290198413
+2772,Seal Shark,2014,NA,NA,NA,NA,NA,2.309722223
+2773,Seal Shark,2015,NA,NA,NA,NA,NA,2.182222223
+2774,Seal Shark,2016,NA,NA,NA,NA,NA,2.929166667
+2775,Seal Shark,2017,NA,NA,NA,NA,NA,3.8775
+2776,Seal Shark,2018,NA,NA,NA,NA,NA,0.2775
+2777,Seal Shark,2019,NA,NA,NA,NA,NA,1.111000508
+2778,Seal Shark,2020,NA,NA,NA,NA,NA,1.114002032
+2779,Seal Shark,2021,NA,NA,NA,NA,NA,0.850501524
+2780,Seal Shark,2022,NA,NA,NA,NA,NA,0.045
+2781,Short finned eel,2008,NA,NA,NA,NA,NA,0.875
+2782,Short finned eel,2009,NA,NA,NA,NA,NA,3.5
+2783,Short finned eel,2010,NA,NA,NA,NA,NA,3.625
+2784,Short finned eel,2011,NA,NA,NA,NA,NA,4.085
+2785,Short finned eel,2012,NA,NA,NA,NA,NA,4.3325
+2786,Short finned eel,2013,NA,NA,NA,NA,NA,4.31
+2787,Short finned eel,2014,NA,NA,NA,NA,NA,4.31
+2788,Short finned eel,2015,NA,NA,NA,NA,NA,4.31
+2789,Short finned eel,2016,NA,NA,NA,NA,NA,4.31
+2790,Short finned eel,2017,NA,NA,NA,NA,NA,4.576666667
+2791,Short finned eel,2018,NA,NA,NA,NA,NA,5.296626893
+2792,Short finned eel,2019,NA,NA,NA,NA,NA,5.136555337
+2793,Short finned eel,2020,NA,NA,NA,NA,NA,5.376698629
+2794,Short finned eel,2021,NA,NA,NA,NA,NA,5.376698629
+2795,Short finned eel,2022,NA,NA,NA,NA,NA,4.032523972
+2796,Shortfinned eel,2008,NA,NA,NA,NA,NA,0.9675
+2797,Shortfinned eel,2009,NA,NA,NA,NA,NA,3.87
+2798,Shortfinned eel,2010,NA,NA,NA,NA,NA,4.137
+2799,Shortfinned eel,2011,NA,NA,NA,NA,NA,4.98
+2800,Shortfinned eel,2012,NA,NA,NA,NA,NA,5.172
+2801,Shortfinned eel,2013,NA,NA,NA,NA,NA,5.37
+2802,Shortfinned eel,2014,NA,NA,NA,NA,NA,5.5245
+2803,Shortfinned eel,2015,NA,NA,NA,NA,NA,5.879
+2804,Shortfinned eel,2016,NA,NA,NA,NA,NA,5.552
+2805,Shortfinned eel,2017,NA,NA,NA,NA,NA,5.5865
+2806,Shortfinned eel,2018,NA,NA,NA,NA,NA,5.69032932
+2807,Shortfinned eel,2019,NA,NA,NA,NA,NA,5.605274713
+2808,Shortfinned eel,2020,NA,NA,NA,NA,NA,5.351948294
+2809,Shortfinned eel,2021,NA,NA,NA,NA,NA,5.366352133
+2810,Shortfinned eel,2022,NA,NA,NA,NA,NA,4.0247641
+2811,Skipjacktuna,2008,NA,NA,NA,NA,NA,0.17
+2812,Skipjacktuna,2009,NA,NA,NA,NA,NA,0.68
+2813,Skipjacktuna,2010,NA,NA,NA,NA,NA,0.6375
+2814,Skipjacktuna,2011,NA,NA,NA,NA,NA,0.515
+2815,Skipjacktuna,2012,NA,NA,NA,NA,NA,0.5325
+2816,Skipjacktuna,2013,NA,NA,NA,NA,NA,0.815
+2817,Skipjacktuna,2014,NA,NA,NA,NA,NA,1.355
+2818,Skipjacktuna,2015,NA,NA,NA,NA,NA,0.5
+2819,Skipjacktuna,2016,NA,NA,NA,NA,NA,0.5
+2820,Skipjacktuna,2017,NA,NA,NA,NA,NA,0.4925
+2821,Skipjacktuna,2018,NA,NA,NA,NA,NA,0.4675
+2822,Skipjacktuna,2019,NA,NA,NA,NA,NA,0.460788092
+2823,Skipjacktuna,2020,NA,NA,NA,NA,NA,0.463152367
+2824,Skipjacktuna,2021,NA,NA,NA,NA,NA,0.463152367
+2825,Skipjacktuna,2022,NA,NA,NA,NA,NA,0.347364275
+2826,Southern Bluefin Tuna,2020,NA,NA,NA,NA,NA,6.610986431
+2827,Southern Bluefin Tuna,2021,NA,NA,NA,NA,NA,7.688429722
+2828,Southern Bluefin Tuna,2022,NA,NA,NA,NA,NA,4.589889693
+2829,Sprats,2020,NA,NA,NA,NA,NA,1.2
+2830,Sprats,2021,NA,NA,NA,NA,NA,1.2
+2831,Sprats,2022,NA,NA,NA,NA,NA,0.9
+2832,Squid,2008,NA,NA,NA,NA,NA,0.19375
+2833,Squid,2009,NA,NA,NA,NA,NA,0.775
+2834,Squid,2010,NA,NA,NA,NA,NA,0.849375
+2835,Squid,2011,NA,NA,NA,NA,NA,1.091875
+2836,Squid,2012,NA,NA,NA,NA,NA,1.1475
+2837,Squid,2013,NA,NA,NA,NA,NA,1.150625
+2838,Squid,2014,NA,NA,NA,NA,NA,1.1825
+2839,Squid,2015,NA,NA,NA,NA,NA,1.1825
+2840,Squid,2016,NA,NA,NA,NA,NA,1.176875
+2841,Squid,2017,NA,NA,NA,NA,NA,1.16625
+2842,Squid,2018,NA,NA,NA,NA,NA,1.184598842
+2843,Squid,2019,NA,NA,NA,NA,NA,1.184390415
+2844,Squid,2020,NA,NA,NA,NA,NA,1.191571273
+2845,Squid,2021,NA,NA,NA,NA,NA,1.21400833
+2846,Squid,2022,NA,NA,NA,NA,NA,0.932668525
+2847,Surf Clam   Deepwater Tuatua,2008,NA,NA,NA,NA,NA,0.175
+2848,Surf Clam   Deepwater Tuatua,2009,NA,NA,NA,NA,NA,0.7
+2849,Surf Clam   Deepwater Tuatua,2010,NA,NA,NA,NA,NA,0.735
+2850,Surf Clam   Deepwater Tuatua,2011,NA,NA,NA,NA,NA,0.84
+2851,Surf Clam   Deepwater Tuatua,2012,NA,NA,NA,NA,NA,0.8375
+2852,Surf Clam   Deepwater Tuatua,2013,NA,NA,NA,NA,NA,0.83
+2853,Surf Clam   Deepwater Tuatua,2014,NA,NA,NA,NA,NA,0.83
+2854,Surf Clam   Deepwater Tuatua,2015,NA,NA,NA,NA,NA,0.83
+2855,Surf Clam   Deepwater Tuatua,2016,NA,NA,NA,NA,NA,0.83
+2856,Surf Clam   Deepwater Tuatua,2017,NA,NA,NA,NA,NA,0.83
+2857,Surf Clam   Deepwater Tuatua,2018,NA,NA,NA,NA,NA,0.83
+2858,Surf Clam   Deepwater Tuatua,2019,NA,NA,NA,NA,NA,0.83
+2859,Surf Clam   Deepwater Tuatua,2020,NA,NA,NA,NA,NA,0.83
+2860,Surf Clam   Deepwater Tuatua,2021,NA,NA,NA,NA,NA,0.9865625
+2861,Surf Clam   Deepwater Tuatua,2022,NA,NA,NA,NA,NA,1.0921875
+2862,Surf Clam   frilled venus,2008,NA,NA,NA,NA,NA,0.8
+2863,Surf Clam   frilled venus,2009,NA,NA,NA,NA,NA,3.2
+2864,Surf Clam   frilled venus,2010,NA,NA,NA,NA,NA,3.365
+2865,Surf Clam   frilled venus,2011,NA,NA,NA,NA,NA,3.8625
+2866,Surf Clam   frilled venus,2012,NA,NA,NA,NA,NA,3.8625
+2867,Surf Clam   frilled venus,2013,NA,NA,NA,NA,NA,3.84
+2868,Surf Clam   frilled venus,2014,NA,NA,NA,NA,NA,3.84
+2869,Surf Clam   frilled venus,2015,NA,NA,NA,NA,NA,3.84
+2870,Surf Clam   frilled venus,2016,NA,NA,NA,NA,NA,3.84
+2871,Surf Clam   frilled venus,2017,NA,NA,NA,NA,NA,3.84
+2872,Surf Clam   frilled venus,2018,NA,NA,NA,NA,NA,3.84
+2873,Surf Clam   frilled venus,2019,NA,NA,NA,NA,NA,3.84
+2874,Surf Clam   frilled venus,2020,NA,NA,NA,NA,NA,3.84
+2875,Surf Clam   frilled venus,2021,NA,NA,NA,NA,NA,3.84
+2876,Surf Clam   frilled venus,2022,NA,NA,NA,NA,NA,2.88
+2877,Surf Clam   large trough shell,2008,NA,NA,NA,NA,NA,0.175
+2878,Surf Clam   large trough shell,2009,NA,NA,NA,NA,NA,0.7
+2879,Surf Clam   large trough shell,2010,NA,NA,NA,NA,NA,0.735
+2880,Surf Clam   large trough shell,2011,NA,NA,NA,NA,NA,0.84
+2881,Surf Clam   large trough shell,2012,NA,NA,NA,NA,NA,0.8375
+2882,Surf Clam   large trough shell,2013,NA,NA,NA,NA,NA,0.83
+2883,Surf Clam   large trough shell,2014,NA,NA,NA,NA,NA,0.83
+2884,Surf Clam   large trough shell,2015,NA,NA,NA,NA,NA,0.83
+2885,Surf Clam   large trough shell,2016,NA,NA,NA,NA,NA,0.83
+2886,Surf Clam   large trough shell,2017,NA,NA,NA,NA,NA,0.83
+2887,Surf Clam   large trough shell,2018,NA,NA,NA,NA,NA,0.83
+2888,Surf Clam   large trough shell,2019,NA,NA,NA,NA,NA,0.83
+2889,Surf Clam   large trough shell,2020,NA,NA,NA,NA,NA,0.890118641
+2890,Surf Clam   large trough shell,2021,NA,NA,NA,NA,NA,1.198168422
+2891,Surf Clam   large trough shell,2022,NA,NA,NA,NA,NA,1.1859375
+2892,Surf Clam   ringed dosinia,2008,NA,NA,NA,NA,NA,0.65
+2893,Surf Clam   ringed dosinia,2009,NA,NA,NA,NA,NA,2.6
+2894,Surf Clam   ringed dosinia,2010,NA,NA,NA,NA,NA,2.735
+2895,Surf Clam   ringed dosinia,2011,NA,NA,NA,NA,NA,3.1425
+2896,Surf Clam   ringed dosinia,2012,NA,NA,NA,NA,NA,3.145
+2897,Surf Clam   ringed dosinia,2013,NA,NA,NA,NA,NA,3.13
+2898,Surf Clam   ringed dosinia,2014,NA,NA,NA,NA,NA,3.13
+2899,Surf Clam   ringed dosinia,2015,NA,NA,NA,NA,NA,3.13
+2900,Surf Clam   ringed dosinia,2016,NA,NA,NA,NA,NA,3.13
+2901,Surf Clam   ringed dosinia,2017,NA,NA,NA,NA,NA,3.13
+2902,Surf Clam   ringed dosinia,2018,NA,NA,NA,NA,NA,3.13
+2903,Surf Clam   ringed dosinia,2019,NA,NA,NA,NA,NA,3.13
+2904,Surf Clam   ringed dosinia,2020,NA,NA,NA,NA,NA,3.13
+2905,Surf Clam   ringed dosinia,2021,NA,NA,NA,NA,NA,3.0790625
+2906,Surf Clam   ringed dosinia,2022,NA,NA,NA,NA,NA,2.1946875
+2907,Surf Clam   silky dosinia,2008,NA,NA,NA,NA,NA,0.6
+2908,Surf Clam   silky dosinia,2009,NA,NA,NA,NA,NA,2.4
+2909,Surf Clam   silky dosinia,2010,NA,NA,NA,NA,NA,2.525
+2910,Surf Clam   silky dosinia,2011,NA,NA,NA,NA,NA,2.9025
+2911,Surf Clam   silky dosinia,2012,NA,NA,NA,NA,NA,2.905
+2912,Surf Clam   silky dosinia,2013,NA,NA,NA,NA,NA,2.89
+2913,Surf Clam   silky dosinia,2014,NA,NA,NA,NA,NA,2.89
+2914,Surf Clam   silky dosinia,2015,NA,NA,NA,NA,NA,2.89
+2915,Surf Clam   silky dosinia,2016,NA,NA,NA,NA,NA,2.89
+2916,Surf Clam   silky dosinia,2017,NA,NA,NA,NA,NA,2.89
+2917,Surf Clam   silky dosinia,2018,NA,NA,NA,NA,NA,2.89
+2918,Surf Clam   silky dosinia,2019,NA,NA,NA,NA,NA,2.89
+2919,Surf Clam   silky dosinia,2020,NA,NA,NA,NA,NA,2.89
+2920,Surf Clam   silky dosinia,2021,NA,NA,NA,NA,NA,2.89
+2921,Surf Clam   silky dosinia,2022,NA,NA,NA,NA,NA,2.1675
+2922,Surf Clam   triangle shell,2008,NA,NA,NA,NA,NA,0.175
+2923,Surf Clam   triangle shell,2009,NA,NA,NA,NA,NA,0.7
+2924,Surf Clam   triangle shell,2010,NA,NA,NA,NA,NA,0.735
+2925,Surf Clam   triangle shell,2011,NA,NA,NA,NA,NA,0.84
+2926,Surf Clam   triangle shell,2012,NA,NA,NA,NA,NA,0.8375
+2927,Surf Clam   triangle shell,2013,NA,NA,NA,NA,NA,0.83
+2928,Surf Clam   triangle shell,2014,NA,NA,NA,NA,NA,0.83
+2929,Surf Clam   triangle shell,2015,NA,NA,NA,NA,NA,0.83
+2930,Surf Clam   triangle shell,2016,NA,NA,NA,NA,NA,0.83
+2931,Surf Clam   triangle shell,2017,NA,NA,NA,NA,NA,0.83
+2932,Surf Clam   triangle shell,2018,NA,NA,NA,NA,NA,0.83
+2933,Surf Clam   triangle shell,2019,NA,NA,NA,NA,NA,0.83
+2934,Surf Clam   triangle shell,2020,NA,NA,NA,NA,NA,0.83
+2935,Surf Clam   triangle shell,2021,NA,NA,NA,NA,NA,0.9865625
+2936,Surf Clam   triangle shell,2022,NA,NA,NA,NA,NA,1.0921875
+2937,Surf Clam   trough shell,2008,NA,NA,NA,NA,NA,0.425
+2938,Surf Clam   trough shell,2009,NA,NA,NA,NA,NA,1.7
+2939,Surf Clam   trough shell,2010,NA,NA,NA,NA,NA,1.7875
+2940,Surf Clam   trough shell,2011,NA,NA,NA,NA,NA,2.0525
+2941,Surf Clam   trough shell,2012,NA,NA,NA,NA,NA,2.055
+2942,Surf Clam   trough shell,2013,NA,NA,NA,NA,NA,2.04
+2943,Surf Clam   trough shell,2014,NA,NA,NA,NA,NA,2.04
+2944,Surf Clam   trough shell,2015,NA,NA,NA,NA,NA,2.04
+2945,Surf Clam   trough shell,2016,NA,NA,NA,NA,NA,2.04
+2946,Surf Clam   trough shell,2017,NA,NA,NA,NA,NA,2.04
+2947,Surf Clam   trough shell,2018,NA,NA,NA,NA,NA,2.04
+2948,Surf Clam   trough shell,2019,NA,NA,NA,NA,NA,2.04
+2949,Surf Clam   trough shell,2020,NA,NA,NA,NA,NA,2.04
+2950,Surf Clam   trough shell,2021,NA,NA,NA,NA,NA,2.04
+2951,Surf Clam   trough shell,2022,NA,NA,NA,NA,NA,1.53
+2952,Tuatua,2020,NA,NA,NA,NA,NA,1.51
+2953,Tuatua,2021,NA,NA,NA,NA,NA,1.51
+2954,Tuatua,2022,NA,NA,NA,NA,NA,1.1325
+2955,White Warehou,2022,NA,NA,NA,NA,NA,1.273761029
+2956,Yellow eyed Mullet,2008,NA,NA,NA,NA,NA,0.402857143
+2957,Yellow eyed Mullet,2009,NA,NA,NA,NA,NA,1.611428572
+2958,Yellow eyed Mullet,2010,NA,NA,NA,NA,NA,2.053928572
+2959,Yellow eyed Mullet,2011,NA,NA,NA,NA,NA,3.463571429
+2960,Yellow eyed Mullet,2012,NA,NA,NA,NA,NA,3.7025
+2961,Yellow eyed Mullet,2013,NA,NA,NA,NA,NA,3.693928571
+2962,Yellow eyed Mullet,2014,NA,NA,NA,NA,NA,3.735714285
+2963,Yellow eyed Mullet,2015,NA,NA,NA,NA,NA,3.7225
+2964,Yellow eyed Mullet,2016,NA,NA,NA,NA,NA,3.662857143
+2965,Yellow eyed Mullet,2017,NA,NA,NA,NA,NA,3.6275
+2966,Yellow eyed Mullet,2018,NA,NA,NA,NA,NA,3.701216414
+2967,Yellow eyed Mullet,2019,NA,NA,NA,NA,NA,3.705049365
+2968,Yellow eyed Mullet,2020,NA,NA,NA,NA,NA,3.718457635
+2969,Yellow eyed Mullet,2021,NA,NA,NA,NA,NA,3.718457635
+2970,Yellow eyed Mullet,2022,NA,NA,NA,NA,NA,2.788843226
+2971,Yellow Eyed Mullet,2022,NA,NA,NA,NA,NA,2.76
+2972,Yellowfin Tuna,2020,NA,NA,NA,NA,NA,6.46
+2973,Yellowfin Tuna,2021,NA,NA,NA,NA,NA,6.46
+2974,Yellowfin Tuna,2022,NA,NA,NA,NA,NA,4.845
